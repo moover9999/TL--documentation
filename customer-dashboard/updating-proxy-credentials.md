@@ -20,6 +20,6 @@ This function only works for Oxylabs & Smart Proxies.
 
 3\. Do not exit the page till you see "Successfully updated Proxy Credentials"
 
-<figure><img src="../.gitbook/assets/1 (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (16).png" alt=""><figcaption></figcaption></figure>
 
 > _Then you can see the username and password of the proxies are changed accordingly when you generate new set of proxies._

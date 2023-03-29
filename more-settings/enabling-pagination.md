@@ -12,4 +12,4 @@ You can enable the option of _**enable pagination**_ to have maximum of 03 produ
 
 ![](../.gitbook/assets/8.jpg)
 
-![](<../.gitbook/assets/Screen\_Shot\_2022-06-22\_at\_4.19.43\_PM (1).png>)
+![](../.gitbook/assets/Screen\_Shot\_2022-06-22\_at\_4.19.43\_PM.png)

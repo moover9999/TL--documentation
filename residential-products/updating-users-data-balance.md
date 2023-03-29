@@ -6,13 +6,13 @@ This guide will show you how to top up your user's data balance.
 
 ​1. In the _**Users**_ tab, find your desired user.
 
-![](<../.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/image (15).png>)
 
 2.Click on the  user.
 
 3\. Next, you will get a pop up where you can select the data plan by clicking the Dropdown.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (12).png>)
 
 4\. In the Data GB box, you can add the desired amount of data you want to add on top of the users existing balance.
 
@@ -24,5 +24,5 @@ EG: 5 -> this will add the user 5 GB to their existing balance
 EG: -2 -> this will deduct the user 2 GB from their existing balance
 {% endhint %}
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (3).png>)
 

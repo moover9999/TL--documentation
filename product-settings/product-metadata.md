@@ -60,7 +60,7 @@ This is an example of Data center product. First field input _**torchlabs\_produ
 There is some confusion regarding the terminology behind daily,weekly, monthly on the metadata -  These actually mean nothing. It is only used to differentiate between all the data center products. They can be used interchangeably as well. For example, if you are selling Yeezysupply daily proxies, you can use any of the 3 metadata tags&#x20;
 {% endhint %}
 
-![](<../.gitbook/assets/Screen Shot 2022-03-23 at 11.01.57 PM (1).png>)
+![](<../.gitbook/assets/Screen Shot 2022-03-23 at 11.01.57 PM.png>)
 
 The next example is the quantity of the actual price section. In the below example, the customer will see a product on the dashboard for 100 Killer ISPs for $300. We use the _**amount** _ metadata tag to identify the quantity that is required to be delivered. If this tag is incorrect then they will not get any data delivered. In the field next to the _**amount**_ we have the actual quantity in units, in this case, 100 ISPs (only put the value and not the letters ISP - again referring to this example, it will be just 100)
 

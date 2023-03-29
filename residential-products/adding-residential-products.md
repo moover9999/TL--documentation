@@ -12,19 +12,19 @@ This guide will help to set up residential products for your dashboard.
 
 1\. Firstly, Log in to the Stripe Account.
 
-![](<../.gitbook/assets/Untitled design (1) (3).png>)
+![](<../.gitbook/assets/Untitled design (1) (8).png>)
 
 2\. Right Side of the Stripe Dashboard find Products and click that.&#x20;
 
-![](<../.gitbook/assets/Untitled design (2) (10).png>)
+![](<../.gitbook/assets/Untitled design (2).png>)
 
 3\. Next Add Products&#x20;
 
-![](<../.gitbook/assets/Untitled design (3) (10).png>)
+![](<../.gitbook/assets/Untitled design (3) (2).png>)
 
 4\. Then name your product
 
-![](<../.gitbook/assets/Untitled design (4) (1).png>)
+![](<../.gitbook/assets/Untitled design (4) (3).png>)
 
 5\. Also set the price for your product.
 
@@ -32,15 +32,15 @@ This guide will help to set up residential products for your dashboard.
 
 6\. Click "One Time" below Price.&#x20;
 
-![](<../.gitbook/assets/Untitled design (6) (2).png>)
+![](<../.gitbook/assets/Untitled design (6) (7).png>)
 
 7\. To add another product, Repeat the process.
 
-![](<../.gitbook/assets/Untitled design (7) (2).png>)
+![](<../.gitbook/assets/Untitled design (7) (1).png>)
 
 8\. After adding the products, View Additional Options.
 
-![](<../.gitbook/assets/Untitled design (8) (6).png>)
+![](<../.gitbook/assets/Untitled design (8) (4).png>)
 
 9\. Then add Metadata for your desired residential provider using our meta data guide guide below.
 
@@ -48,11 +48,11 @@ This guide will help to set up residential products for your dashboard.
 [product-metadata.md](../product-settings/product-metadata.md)
 {% endcontent-ref %}
 
-![](<../.gitbook/assets/Untitled design (2) (1).png>)
+![](<../.gitbook/assets/Untitled design (2) (6).png>)
 
 10\. Here you can view all the prices created, And click on a price.
 
-![](<../.gitbook/assets/Untitled design (1) (8).png>)
+![](<../.gitbook/assets/Untitled design (1) (11).png>)
 
 
 
@@ -64,15 +64,15 @@ This guide will help to set up residential products for your dashboard.
 In this example, there will be 1 gb being delivered to the customer.
 {% endhint %}
 
-![](<../.gitbook/assets/Untitled design (11) (7).png>)
+![](<../.gitbook/assets/Untitled design (11) (1).png>)
 
 12\. Now go-to products and now we are done with our first product. We do not recommend making more than 6 prices per product.
 
-![](<../.gitbook/assets/Untitled design (12) (2).png>)
+![](<../.gitbook/assets/Untitled design (12) (3).png>)
 
 13\. Then go to dashboard and products section and choose your selected plan and edit it.
 
-![](<../.gitbook/assets/1 (72) (1).png>)
+![](<../.gitbook/assets/1 (72) (6).png>)
 
 14\. Then click Sync with Stripe to sync all the prices.
 

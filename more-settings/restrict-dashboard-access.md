@@ -6,7 +6,7 @@ You can always restrict or provide access to the ones you want to give, To have 
 
 1. Go to the admin dashboard scroll below and click more settings and disable restricted access.
 
-![](<../.gitbook/assets/1 (3).jpg>)
+![](<../.gitbook/assets/1 (4).jpg>)
 
 2\. Go to discord right-click the server and you will find the copy server.
 
@@ -32,4 +32,4 @@ You can always restrict or provide access to the ones you want to give, To have 
 
 7\. You will get this popup.
 
-![](<../.gitbook/assets/1 (66) (5).png>)
+![](<../.gitbook/assets/1 (66) (4).png>)

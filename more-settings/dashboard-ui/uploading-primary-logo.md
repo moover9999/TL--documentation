@@ -6,17 +6,17 @@ This section will guide you on how to upload the primary logo. __ The primary lo
 
 1. Go to Admin Dashboard and click on More Settings
 
-<figure><img src="../../.gitbook/assets/2 (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (7).png" alt=""><figcaption></figcaption></figure>
 
 2\. Click on _Choose file_ under Dashboard UI section __ and upload your primary logo
 
-<figure><img src="../../.gitbook/assets/1 (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (17).png" alt=""><figcaption></figcaption></figure>
 
 
 
 _The logo will be appeared as follows (i.e. Google)_
 
-<figure><img src="../../.gitbook/assets/3 (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (8).png" alt=""><figcaption></figcaption></figure>
 
 
 

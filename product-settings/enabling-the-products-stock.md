@@ -6,16 +6,16 @@ To accept orders from your residential product follow the below steps.
 
 1. Now the purchases are out of stock,To start accepting orders follow the below steps.
 
-![](<../.gitbook/assets/1 (71) (6).png>)
+![](<../.gitbook/assets/1 (71) (1).png>)
 
 2\. Go to dashboard then products and edit by clicking the edit icon.&#x20;
 
-![](<../.gitbook/assets/1 (72) (6).png>)
+![](<../.gitbook/assets/1 (72).png>)
 
 3\. Turn on the red button as shown below so its active.
 
-![](<../.gitbook/assets/1 (73) (3).png>)
+![](<../.gitbook/assets/1 (73) (5).png>)
 
 4\. Now refresh the page and you can accept the orders.&#x20;
 
-![](<../.gitbook/assets/1 (74) (2).png>)
+![](<../.gitbook/assets/1 (74) (1).png>)

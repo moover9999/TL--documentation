@@ -15,11 +15,11 @@ Please be noted that you have to share newly created credentials with new sub-us
 
 1. Go to Admin Dashboard, click on Sub Admin Users tab and then click on Create Role
 
-<figure><img src="../../.gitbook/assets/1 (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (10).png" alt=""><figcaption></figcaption></figure>
 
 2\. Enter a role name and a description, Then select permission field.
 
-<figure><img src="../../.gitbook/assets/2 (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (8).png" alt=""><figcaption></figcaption></figure>
 
 3\. Select the permission to be assigned to the particular role. Multiple permissions could be selected here.
 
@@ -33,11 +33,11 @@ _Please refer the following link with the list of permissions you can assign to 
 
 4\. Click create role and it will be indicated as Successfully created role
 
-<figure><img src="../../.gitbook/assets/5 (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (8).png" alt=""><figcaption></figcaption></figure>
 
 5\. The created role will be appeared under the Role list.
 
-<figure><img src="../../.gitbook/assets/6 (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6 (6).png" alt=""><figcaption></figcaption></figure>
 
 ### Create Sub Admin User
 
@@ -45,8 +45,8 @@ Once the role is created, the sub admin users could be created.
 
 1. Click on Create Sub Admin User
 
-<figure><img src="../../.gitbook/assets/1 (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (18).png" alt=""><figcaption></figcaption></figure>
 
 2\. Enter the email address of the Sub Admin User to be assigned along with the password. Then select the role to assigned to the user which was created previously. Lastly click on create sub admin user.
 
-<figure><img src="../../.gitbook/assets/5 (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (5).png" alt=""><figcaption></figcaption></figure>

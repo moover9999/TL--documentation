@@ -10,19 +10,19 @@ description: >-
 
 These permissions allow users to view, edit, delete, and sync residential, datacenter, and accounts products. Also allows to create a batch for datacenter and accounts
 
-<figure><img src="../../.gitbook/assets/1 (15).png" alt=""><figcaption><p>All Products</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (13).png" alt=""><figcaption><p>All Products</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/1 (15).png" alt=""><figcaption><p>Sync Products</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (13).png" alt=""><figcaption><p>Sync Products</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/3 (8).png" alt=""><figcaption><p>Create Batches</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (10).png" alt=""><figcaption><p>Create Batches</p></figcaption></figure>
 
 * `view_residential` , `view_datacenter`, `view_accounts`
 
 These permissions allow users to view only residential, datacenter, and accounts products.
 
-<figure><img src="../../.gitbook/assets/4 (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (6).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/5 (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (7).png" alt=""><figcaption></figcaption></figure>
 
 * `create_residential` , `create_datacenter`, `create_accounts`
 
@@ -32,7 +32,7 @@ These permissions allow users to sync a residential, datacenter, and accounts pr
 
 These permissions allow users to enable and disable residential, datacenter, and accounts products, create batches for datacenter and accounts and edit the description of all products. Also users need view permission for products to update.
 
-<figure><img src="../../.gitbook/assets/6 (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6 (7).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/7 (4).png" alt=""><figcaption></figcaption></figure>
 

@@ -26,4 +26,4 @@ At this stage it gives the ability to assign one product / batch and deliver the
 
 4\. Now you can add a stock limit and duration for expiration. Then tick confirm and select launch. At this point the combination of the batch has to be equal or more than the stock limit.
 
-<figure><img src="../.gitbook/assets/z.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/z (1).png" alt=""><figcaption></figcaption></figure>

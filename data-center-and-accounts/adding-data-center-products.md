@@ -25,15 +25,15 @@ Any product can have two types of prices:&#x20;
 
 1\. Firstly, Log in to the Stripe Account.
 
-![](<../.gitbook/assets/Untitled design (1) (3).png>)
+![](<../.gitbook/assets/Untitled design (1) (8).png>)
 
 2\. Click on the _**Products**_ tab found on the right navigation pane of the _Stripe Dashboar_d.
 
-![](<../.gitbook/assets/Untitled design (2) (10).png>)
+![](<../.gitbook/assets/Untitled design (2).png>)
 
 3\. Next _**Add Product**_ as data center plan.
 
-![](<../.gitbook/assets/Untitled design (3) (10).png>)
+![](<../.gitbook/assets/Untitled design (3) (2).png>)
 
 4\. Then name your product.
 
@@ -59,11 +59,11 @@ More info regarding recurring pricing can be found below:
 [creating-a-recurring-price-for-a-product.md](../product-settings/creating-a-recurring-price-for-a-product.md)
 {% endcontent-ref %}
 
-![](<../.gitbook/assets/Untitled design (6) (2).png>)
+![](<../.gitbook/assets/Untitled design (6) (7).png>)
 
 7\. Please repeat this process to add another price for the same product.
 
-![](<../.gitbook/assets/Untitled design (7) (2).png>)
+![](<../.gitbook/assets/Untitled design (7) (1).png>)
 
 8\. After adding all your prices, click _**Additional Options**_.
 
@@ -87,7 +87,7 @@ The next field is where we capture if you are making a daily/weekly/monthly prod
 
 & more products can be added by looking at our Meta Data section
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (11).png>)
 
 10\. Here you can view all the prices created, And click on a price.
 
@@ -99,7 +99,7 @@ The next field is where we capture if you are making a daily/weekly/monthly prod
 In this example, there will be 10 proxies being delivered to the customer
 {% endhint %}
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (18).png>)
 
 12\. Now go to products and we are done with our first product.
 
@@ -107,7 +107,7 @@ In this example, there will be 10 proxies being delivered to the customer
 
 13\. Then go back to your dashboard and choose the product type we just set up and edit it.
 
-![](<../.gitbook/assets/1 (75) (1).png>)
+![](<../.gitbook/assets/1 (75).png>)
 
 14\. Next, click Sync with Stripe. Once the sync is completed you should see your plans.
 

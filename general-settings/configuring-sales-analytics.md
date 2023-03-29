@@ -8,19 +8,19 @@ Further this section will allow you to identify the profit , revenue , quantity 
 
 1. Go to dashboard Home page track analytics.
 
-![](<../.gitbook/assets/1 (62) (4).png>)
+![](<../.gitbook/assets/1 (62) (7).png>)
 
 2\. To filter analytics go to more settings and scroll below.
 
-![](<../.gitbook/assets/1 (63) (5).png>)
+![](<../.gitbook/assets/1 (63) (9).png>)
 
 3\. Enter the data required.
 
-![](<../.gitbook/assets/1 (64) (7).png>)
+![](<../.gitbook/assets/1 (64).png>)
 
 4\. Then save the data entered.
 
-![](<../.gitbook/assets/1 (65) (2).png>)
+![](<../.gitbook/assets/1 (65).png>)
 
 5\. The data entered will be converted into analytics and pop in your home page.
 
@@ -30,4 +30,4 @@ Further this section will allow you to identify the profit , revenue , quantity 
 
 <figure><img src="../.gitbook/assets/x (2).png" alt=""><figcaption><p>Residential Products</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/y.png" alt=""><figcaption><p>Datacenter Products</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/y (3).png" alt=""><figcaption><p>Datacenter Products</p></figcaption></figure>

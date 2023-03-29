@@ -8,19 +8,19 @@ Users, individual messages, and entire Discord servers all have a multi-digit ID
 
 1. In order to find the discord tag, Please log in to Discord.
 
-![](<../.gitbook/assets/Untitled design (22).png>)
+![](<../.gitbook/assets/Untitled design (23).png>)
 
 2\. Select Settings from the drop-down menu on the left side of the discord.
 
-![](<../.gitbook/assets/Untitled design (1) (2).png>)
+![](<../.gitbook/assets/Untitled design (1) (4).png>)
 
 3\. Then scroll down and select Advanced from the drop-down menu.
 
-![](<../.gitbook/assets/Untitled design (2) (8).png>)
+![](<../.gitbook/assets/Untitled design (2) (2).png>)
 
 4\. Press above the marked area to on the Developer Mode.
 
-![](<../.gitbook/assets/Untitled design (3) (7).png>)
+![](<../.gitbook/assets/Untitled design (3) (13).png>)
 
 5\. Then click above the Torch Lab Icon.
 
@@ -28,4 +28,4 @@ Users, individual messages, and entire Discord servers all have a multi-digit ID
 
 6\. Below the list of options find Copy ID and Paste wherever is required.
 
-![](<../.gitbook/assets/Untitled design (5) (4).png>)
+![](<../.gitbook/assets/Untitled design (5) (8).png>)

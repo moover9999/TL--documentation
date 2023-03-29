@@ -10,4 +10,4 @@ Please note that Torch Labs does not take any responsibility for handling of use
 
 ​1. Go to admin dashboard and _**Users**_ tab. Then click the download icon on right corner
 
-<figure><img src="../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
