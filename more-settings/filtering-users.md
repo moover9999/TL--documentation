@@ -10,4 +10,4 @@ This section will guide you to filter the users in the admin dashboard by using 
 
 2\. Type discord id or discord tag or email on the search bar and press enter to search a user
 
-<figure><img src="../.gitbook/assets/2 (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (13).png" alt=""><figcaption></figcaption></figure>

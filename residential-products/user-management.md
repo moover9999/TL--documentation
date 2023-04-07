@@ -16,5 +16,5 @@ How to get Discord ID: [https://youtu.be/VTgVsQ0gwKM](https://youtu.be/VTgVsQ0gw
 
 Click the user to top manually.
 
-![](<../.gitbook/assets/Untitled design (5) (1).png>)
+![](<../.gitbook/assets/Untitled design (5) (6).png>)
 

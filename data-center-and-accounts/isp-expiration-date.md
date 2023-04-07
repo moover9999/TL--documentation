@@ -16,7 +16,7 @@ This guide will help you to add an expiring date for the automatically and manua
 
 Once you update the IPs then you can select the expiry date of the IPs as you with along with the time depending on the product.
 
-<figure><img src="../.gitbook/assets/1 (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (4).png" alt=""><figcaption></figcaption></figure>
 
 #### Manual Release
 
@@ -26,4 +26,4 @@ Here you have the option of setting the expiry date along with the time dependin
 
 _Expiry date of the orders are displayed on the User Dashboard as follows_
 
-<figure><img src="../.gitbook/assets/3 (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3 (5).png" alt=""><figcaption></figcaption></figure>

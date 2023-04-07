@@ -6,11 +6,11 @@ This section will guide you on how to set up ISP API. When registering API, the 
 
 1. Go to _Other Settings_ tab on Admin Dashboard
 
-<figure><img src="../.gitbook/assets/1 (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (15).png" alt=""><figcaption></figcaption></figure>
 
 2\. Scroll down the page and click on _Register API_
 
-<figure><img src="../.gitbook/assets/2 (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (10).png" alt=""><figcaption></figcaption></figure>
 
 3\. Fill the details such as Name , API end point , API Key. Then select  API type. Then click on Register
 

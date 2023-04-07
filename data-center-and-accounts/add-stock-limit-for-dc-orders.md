@@ -10,12 +10,12 @@ Sometimes, you might receive overwhelming orders which means more than what you 
 
 **2.** Then edit batch.
 
-![](<../.gitbook/assets/1 (63) (8).png>)
+![](<../.gitbook/assets/1 (63) (9).png>)
 
 **3.** Then enable the stock limit.
 
-![](<../.gitbook/assets/1 (64) (5).png>)
+![](<../.gitbook/assets/1 (64) (4).png>)
 
 **4.** Here you can give the stock limit then click confirm and save.
 
-![](<../.gitbook/assets/1 (65).png>)
+![](<../.gitbook/assets/1 (65) (4).png>)

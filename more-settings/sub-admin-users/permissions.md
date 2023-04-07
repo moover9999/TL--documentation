@@ -10,19 +10,19 @@ description: >-
 
 These permissions allow users to view, edit, delete, and sync residential, datacenter, and accounts products. Also allows to create a batch for datacenter and accounts
 
-<figure><img src="../../.gitbook/assets/1 (11).png" alt=""><figcaption><p>All Products</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption><p>All Products</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/1 (11).png" alt=""><figcaption><p>Sync Products</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption><p>Sync Products</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/3 (8).png" alt=""><figcaption><p>Create Batches</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (2).png" alt=""><figcaption><p>Create Batches</p></figcaption></figure>
 
 * `view_residential` , `view_datacenter`, `view_accounts`
 
 These permissions allow users to view only residential, datacenter, and accounts products.
 
-<figure><img src="../../.gitbook/assets/4 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (5).png" alt=""><figcaption></figcaption></figure>
 
 * `create_residential` , `create_datacenter`, `create_accounts`
 
@@ -32,7 +32,7 @@ These permissions allow users to sync a residential, datacenter, and accounts pr
 
 These permissions allow users to enable and disable residential, datacenter, and accounts products, create batches for datacenter and accounts and edit the description of all products. Also users need view permission for products to update.
 
-<figure><img src="../../.gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
 
@@ -88,7 +88,7 @@ This permission allows users to update Transactions and fulfill orders. also use
 
 This permission allows users to delete Transactions. also users need `view_transactions` permission to delete.
 
-<figure><img src="../../.gitbook/assets/18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/18 (1).png" alt=""><figcaption></figcaption></figure>
 
 * `all_users`
 

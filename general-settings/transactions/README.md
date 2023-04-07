@@ -30,7 +30,7 @@ Please refer to  following tab for more details.
 
 5\. The GB/ DATA purchased can be seen here&#x20;
 
-![](<../../.gitbook/assets/1 (53) (2).png>)
+![](<../../.gitbook/assets/1 (53) (1).png>)
 
 6\. Price per gb/ data purchased will be here.
 
@@ -50,7 +50,7 @@ Please refer to  following tab for more details.
 An order is incomplete if payment is received but the data has not been received by the user. This sometimes happens due to the upstream provider's API failing. In this case, we recommend you to go to the USERS tab and manually add data to their account.&#x20;
 {% endhint %}
 
-![](<../../.gitbook/assets/1 (57) (1).png>)
+![](<../../.gitbook/assets/1 (57).png>)
 
 9\. The data of the transaction placed will be here
 
@@ -62,7 +62,7 @@ An order is incomplete if payment is received but the data has not been received
 We always recommend keeping the status set to ALL
 {% endhint %}
 
-![](<../../.gitbook/assets/1 (61) (1).png>)
+![](<../../.gitbook/assets/1 (61).png>)
 
 
 

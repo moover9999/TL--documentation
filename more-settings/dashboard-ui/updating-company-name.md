@@ -6,7 +6,7 @@ This section will guide you to update your company name to be appeared as title 
 
 1. Go to Admin Dashboard and click on More Settings
 
-<figure><img src="../../.gitbook/assets/1 (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (21).png" alt=""><figcaption></figcaption></figure>
 
 2\. Enter the company name under Dashboard UI section and click Update.
 
@@ -16,8 +16,8 @@ _The name will be updated in 02 places such as Title name and footer name._
 
 **Title Name**
 
-<figure><img src="../../.gitbook/assets/6 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6 (2).png" alt=""><figcaption></figcaption></figure>
 
 **Footer Name**
 
-<figure><img src="../../.gitbook/assets/5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (3).png" alt=""><figcaption></figcaption></figure>

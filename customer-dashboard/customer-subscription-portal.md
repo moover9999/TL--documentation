@@ -12,7 +12,7 @@ Our customer-facing dashboard has a new settings page where customers can now se
 
 This is only visible if the customer has bought a recurring product. In the Stripe billing portal, they can cancel their subscription or update their billing details along with many other settings.
 
-![](<../.gitbook/assets/Screen Shot 2022-06-26 at 1.05.05 PM (1).png>)       ➡️         ![](<../.gitbook/assets/Screen Shot 2022-06-26 at 1.05.10 PM.png>)
+![](<../.gitbook/assets/Screen Shot 2022-06-26 at 1.05.05 PM.png>)       ➡️         ![](<../.gitbook/assets/Screen Shot 2022-06-26 at 1.05.10 PM.png>)
 
 
 
