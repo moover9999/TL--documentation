@@ -6,7 +6,7 @@ You can always restrict or provide access to the ones you want to give, To have 
 
 1. Go to the admin dashboard scroll below and click more settings and disable restricted access.
 
-![](<../.gitbook/assets/1 (4).jpg>)
+![](<../.gitbook/assets/1 (1).jpg>)
 
 2\. Go to discord right-click the server and you will find the copy server.
 
@@ -16,7 +16,7 @@ You can always restrict or provide access to the ones you want to give, To have 
 
 3\. Paste it on enter guild ID and update it.&#x20;
 
-![](<../.gitbook/assets/5 (3).jpg>)
+![](../.gitbook/assets/5.jpg)
 
 4\. You can also restrict the access to the dashboard by a customers role. To do this go to discord server settings, select the roles and then click the 3 dots next to the particular role to copy the ID.
 
@@ -28,8 +28,8 @@ You can always restrict or provide access to the ones you want to give, To have 
 
 6\. Finally you can test it by login to your dashboard
 
-![](<../.gitbook/assets/6 (1).jpg>)
+![](../.gitbook/assets/6.jpg)
 
 7\. You will get this popup.
 
-![](<../.gitbook/assets/1 (66) (4).png>)
+![](<../.gitbook/assets/1 (66) (1).png>)

@@ -10,7 +10,7 @@ Referring to the following guide you can create a theme.
 
 1. Go to Admin Dashboard and click on More Settings
 
-<figure><img src="../../.gitbook/assets/1 (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (18).png" alt=""><figcaption></figcaption></figure>
 
 2\. Enter the Theme under Dashboard UI section and click Update.
 

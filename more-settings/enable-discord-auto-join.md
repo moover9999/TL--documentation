@@ -10,19 +10,19 @@ If someone is already in the server this can't be experimented.
 
 1. Click on the APP you made for the Authentication during the initial onboarding.&#x20;
 
-![](<../.gitbook/assets/1 (63) (8).png>)
+![](<../.gitbook/assets/1 (63) (4).png>)
 
 2\. Go to bot and click Add bot as shows here.
 
-![](<../.gitbook/assets/1 (65) (5).png>)
+![](<../.gitbook/assets/1 (65) (2).png>)
 
 3\. Then click Yes.
 
-![](<../.gitbook/assets/1 (66) (5).png>)
+![](<../.gitbook/assets/1 (66) (3).png>)
 
 4\. Give the Bot Administrator permission.
 
-![](<../.gitbook/assets/1 (67).png>)
+![](<../.gitbook/assets/1 (67) (3).png>)
 
 5\. Click reset token.
 
@@ -34,7 +34,7 @@ If someone is already in the server this can't be experimented.
 
 7\. Next copy the token.&#x20;
 
-![](<../.gitbook/assets/1 (72) (1).png>)
+![](<../.gitbook/assets/1 (72) (5).png>)
 
 8\. Then go to the admin dashboard and more settings, also click enable auto join.
 
@@ -42,4 +42,4 @@ If someone is already in the server this can't be experimented.
 
 9\. Paste the token that was copied and save it.
 
-![](<../.gitbook/assets/1 (74) (1).png>)
+![](<../.gitbook/assets/1 (74) (2).png>)

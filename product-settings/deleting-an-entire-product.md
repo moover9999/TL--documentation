@@ -10,4 +10,4 @@
 
 3\. Once the product is archived in Stripe, you will need to re-sync the desired product in our Admin Dashboard.
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (14).png>)

@@ -6,7 +6,7 @@ There are two types release auto and manual, In order to create auto releases pl
 
 1. Go to dashboard then datacenter and click the drop-down to choose the Automatic.
 
-![](<../.gitbook/assets/1 (73) (4).png>)
+![](<../.gitbook/assets/1 (73).png>)
 
 2\. Next, click on new batch.
 

@@ -44,7 +44,7 @@ NameCheap:[https://www.namecheap.com/support/knowledgebase/article.aspx/767/10/h
 
 2\. Create a C Name Record pointing to the domain.
 
-<figure><img src="../.gitbook/assets/1 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (10).png" alt=""><figcaption></figcaption></figure>
 
 3\. In the Name/host section add "www" what this does is we are adding www in front of your domain. So it will be [www.yourdomain.com](http://www.yourdomain.com)
 
@@ -58,7 +58,7 @@ If you already have a landing page that is occupying your WWW cname, you can put
 
 6\. Next, we need to create an A record in the DNS settings.
 
-<figure><img src="../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (9).png" alt=""><figcaption></figcaption></figure>
 
 7\. In the Name/host section add your domain only. Do not add www or https just the domain.
 
@@ -70,6 +70,6 @@ If you already have a landing page that is occupying your WWW cname, you can put
 
 Create an **ALIAS Record**
 
-<figure><img src="../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3 (9).png" alt=""><figcaption></figcaption></figure>
 
 11\. That's it! Your site should be good to go in a couple of hours after the changes have gone into effect. 🎉

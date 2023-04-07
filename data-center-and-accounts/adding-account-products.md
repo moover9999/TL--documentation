@@ -23,15 +23,15 @@ Any product can have two types of prices:&#x20;
 
 1\. Firstly, Log in to the Stripe Account.
 
-![](<../.gitbook/assets/Untitled design (1) (6).png>)
+![](<../.gitbook/assets/Untitled design (1) (2).png>)
 
 2\. Click on the _**Products**_ tab found on the right navigation pane of the _Stripe Dashboar_d.
 
-![](<../.gitbook/assets/Untitled design (2) (8).png>)
+![](<../.gitbook/assets/Untitled design (2) (9).png>)
 
 3\. Next _**Add Products**_ as data center plan.
 
-![](<../.gitbook/assets/Untitled design (3) (10).png>)
+![](<../.gitbook/assets/Untitled design (3) (12).png>)
 
 4\. Then name your product.
 
@@ -47,17 +47,17 @@ The name you enter here is what the dashboard will call the product.
 This is the price that customers will be paying for your product
 {% endhint %}
 
-![](<../.gitbook/assets/Untitled design (5) (6).png>)
+![](<../.gitbook/assets/Untitled design (5) (4).png>)
 
 6\. Click _**One Time**_ or _**Recurring**_ for the pricing section.
 
 More info regarding recurring pricing can be found below:
 
-![](<../.gitbook/assets/Untitled design (6) (2).png>)
+![](<../.gitbook/assets/Untitled design (6) (5).png>)
 
 7\. Please repeat this process to add another price for the same product.
 
-![](<../.gitbook/assets/Untitled design (7) (1).png>)
+![](<../.gitbook/assets/Untitled design (7) (4).png>)
 
 8\. After adding all your prices, click _**Additional Options**_.
 

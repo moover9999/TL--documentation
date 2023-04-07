@@ -18,8 +18,8 @@ Be cautious about the following error
 
 1. Go to Admin Dashboard and click on More Settings
 
-<figure><img src="../.gitbook/assets/2 (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (13).png" alt=""><figcaption></figcaption></figure>
 
 2\. Enable stripe tax
 
-<figure><img src="../.gitbook/assets/1 (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (17).png" alt=""><figcaption></figcaption></figure>

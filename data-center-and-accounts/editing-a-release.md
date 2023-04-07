@@ -8,11 +8,11 @@ You are totally eligible to add and edit any releases after it's made, In order 
 
 2\. Disable to add proxies
 
-![](<../.gitbook/assets/1 (66) (6).png>)
+![](<../.gitbook/assets/1 (66) (4).png>)
 
 3\. Add proxies here, Confirm and Launch&#x20;
 
-![](<../.gitbook/assets/1 (65) (1).png>)
+![](<../.gitbook/assets/1 (65) (5).png>)
 
 
 

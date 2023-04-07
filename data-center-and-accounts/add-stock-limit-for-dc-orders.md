@@ -6,11 +6,11 @@ Sometimes, you might receive overwhelming orders which means more than what you 
 
 1. Go to Datacenter in the dashboard and switch to manual as shown below.
 
-![](<../.gitbook/assets/1 (62) (4).png>)
+![](<../.gitbook/assets/1 (62) (6).png>)
 
 **2.** Then edit batch.
 
-![](<../.gitbook/assets/1 (63) (4).png>)
+![](<../.gitbook/assets/1 (63) (8).png>)
 
 **3.** Then enable the stock limit.
 
@@ -18,4 +18,4 @@ Sometimes, you might receive overwhelming orders which means more than what you 
 
 **4.** Here you can give the stock limit then click confirm and save.
 
-![](<../.gitbook/assets/1 (65) (3).png>)
+![](<../.gitbook/assets/1 (65).png>)

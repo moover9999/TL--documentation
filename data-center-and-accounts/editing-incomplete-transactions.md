@@ -12,15 +12,15 @@ This guide will help you to edit the incomplete transactions in Datacenter and A
 
 1. Go to Datacenter / Accounts tab on Admin Dashboard.
 
-<figure><img src="../.gitbook/assets/1 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (19).png" alt=""><figcaption></figcaption></figure>
 
 2\. Select the incomplete transaction and click on the pencil icon before the product type with reference to that particular transaction.
 
-<figure><img src="../.gitbook/assets/4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4 (6).png" alt=""><figcaption></figcaption></figure>
 
 3\. Then you can edit the proxies either by editing them or replacing with new ones.
 
-<figure><img src="../.gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/6 (8).png" alt=""><figcaption></figcaption></figure>
 
 4\. Thereafter you can set an expiration date and time.
 
@@ -28,4 +28,4 @@ This guide will help you to edit the incomplete transactions in Datacenter and A
 
 5\. At last tick _Confirm_ and click save.
 
-<figure><img src="../.gitbook/assets/8 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/8 (4).png" alt=""><figcaption></figcaption></figure>

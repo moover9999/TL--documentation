@@ -6,12 +6,12 @@ If you need to update or view a delivered product, for example, if you missed so
 
 1. Go to transactions in your dashboard
 
-![](<../.gitbook/assets/1 (62) (5).png>)
+![](<../.gitbook/assets/1 (62) (7).png>)
 
 2\. Click edit as shown below
 
-![](<../.gitbook/assets/1 (63) (5).png>)
+![](<../.gitbook/assets/1 (63) (7).png>)
 
 3\. Edit the details you want to edit and click confirm save.
 
-![](<../.gitbook/assets/1 (64) (3).png>)
+![](<../.gitbook/assets/1 (64) (7).png>)
