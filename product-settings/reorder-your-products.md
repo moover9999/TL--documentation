@@ -10,8 +10,8 @@ In order to change the position of your plans in the dashboard follow the guide.
 
 2\. Go to Admin Dashboard products section, The plans can be moved up and down. Hover it as you wish and it will get auto saved.
 
-![](<../.gitbook/assets/1 (72) (6).png>)
+![](<../.gitbook/assets/1 (72) (5).png>)
 
 3\. Finally reload the dashbaord the changes will be appeared.
 
-![](<../.gitbook/assets/1 (73) (2).png>)
+![](<../.gitbook/assets/1 (73).png>)

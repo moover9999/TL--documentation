@@ -20,4 +20,4 @@ For an example the tab names could be renamed as Tab 1, Tab 2 and Tab 3 as neede
 
 The above changes would be displayed on the customer dashboard as follows
 
-![](<../.gitbook/assets/5 (3).jpg>)
+![](../.gitbook/assets/5.jpg)

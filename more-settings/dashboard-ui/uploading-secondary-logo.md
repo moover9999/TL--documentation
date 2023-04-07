@@ -6,15 +6,15 @@ This section will guide you on how to upload a secondary logo. The secondary log
 
 1. Go to Admin Dashboard and click on More Settings
 
-<figure><img src="../../.gitbook/assets/1 (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (16).png" alt=""><figcaption></figcaption></figure>
 
 2\. Click on _Choose file_ under Dashboard UI section and upload your secondary logo
 
-<figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (6).png" alt=""><figcaption></figcaption></figure>
 
 _The logo will be appeared as follows (i.e. Google)_
 
-<figure><img src="../../.gitbook/assets/1 (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (20).png" alt=""><figcaption></figcaption></figure>
 
 
 

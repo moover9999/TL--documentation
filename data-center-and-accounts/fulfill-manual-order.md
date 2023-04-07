@@ -6,9 +6,9 @@ If you have given manual settings instead of Auto then each order has to be fulf
 
 1. Go to the data center tab
 
-![](<../.gitbook/assets/Untitled design (9) (4).png>)
+![](<../.gitbook/assets/Untitled design (9) (3).png>)
 
 2\. Here click on **Fulfill Now** and paste your list of proxies.
 
-![](<../.gitbook/assets/Untitled design (11).png>)
+![](<../.gitbook/assets/Untitled design (11) (7).png>)
 

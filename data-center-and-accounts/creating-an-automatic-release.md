@@ -6,11 +6,11 @@ There are two types release auto and manual, In order to create auto releases pl
 
 1. Go to dashboard then datacenter and click the drop-down to choose the Automatic.
 
-![](<../.gitbook/assets/1 (73) (1).png>)
+![](<../.gitbook/assets/1 (73) (4).png>)
 
 2\. Next, click on new batch.
 
-![](<../.gitbook/assets/1 (72) (4).png>)
+![](<../.gitbook/assets/1 (72) (3).png>)
 
 3\. Add your proxies here click confirm and launch
 

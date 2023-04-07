@@ -10,7 +10,7 @@ This section aims to provide comprehensive information regarding the subscriptio
 
 2. You can filter the transactions using the filters such as email , Discord ID ,  Discord tag & Subscription ID.
 
-<figure><img src="../../.gitbook/assets/2 (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Following are the columns you can find in the subscription tab
@@ -25,7 +25,7 @@ Following are the columns you can find in the subscription tab
 * Product - Name of the subscription product.
 * Status - You can select the different status to filter the following subscription transaction statuses.
 
-<figure><img src="../../.gitbook/assets/1 (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (5).png" alt=""><figcaption></figcaption></figure>
 
 | Status     | Description                                                                                                                    |   |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------ | - |

@@ -18,7 +18,7 @@ In order to change or update the descriptions of your products, follow the below
 
 4\. Click Dashboard Description&#x20;
 
-![](<../.gitbook/assets/1 (94) (1).png>)
+![](<../.gitbook/assets/1 (94).png>)
 
 5\. Update your description then you can see a  preview of how it will be on the website and finally save it.&#x20;
 

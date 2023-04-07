@@ -71,7 +71,7 @@ To brand the proxies under your domain follow these steps:
 4. Thus if your domain is [API.com](http://api.com/) and you enter the host premium pointing to the Smart Proxies domain, your proxies will be formatted [premium.yourdomain.com](http://premium.yourdomain.com/):port:user:pass
 5. An example on Godaddy is linked below:
 
-![](<../.gitbook/assets/Screen Shot 2022-03-25 at 7.52.39 PM.png>)
+![](<../.gitbook/assets/Screen Shot 2022-03-25 at 7.52.39 PM (1).png>)
 
 #### IP Royal
 
