@@ -12,10 +12,10 @@ By using our link you get 100$ free credits for hosting which should cover your 
 
 3\. Go to your profile and click create Invite new team members
 
-<figure><img src="../.gitbook/assets/3 (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3 (2).png" alt=""><figcaption></figcaption></figure>
 
 4\. Next add our email as a team member invite: `torchlabsxyz@gmail.com`
 
-<figure><img src="../.gitbook/assets/4 (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4 (1).png" alt=""><figcaption></figcaption></figure>
 
 `5.` That's it! everything should be set up in 24-36 hours!

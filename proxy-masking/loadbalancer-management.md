@@ -30,7 +30,7 @@ In computing, a server is a piece of computer hardware or software that provides
 
 Our special masking script is installed on your servers. This script routes the traffic to the proxy domain via the server acting as a middle man. However, all the initial traffic comes to one main point which is the load balancers. Then the load balancer distributes this traffic to one or more connected servers.
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (5).png>)
 
 A load balancer on DO can handle 10,000 simultaneous connections and 10,000 connections per second. What this means is that each connection is one proxy connection coming from a user. So based on how many users you have and how much demand you anticipate for a drop you need to increase the number of load balancer nodes. Each extra node gives you an additional 10,000 simultaneous connections.&#x20;
 

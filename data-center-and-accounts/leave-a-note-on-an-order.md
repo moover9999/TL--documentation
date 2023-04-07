@@ -6,9 +6,9 @@ If you want to leave a Thank you note or similar note to your delivered order, P
 
 1. Click fulfil now as shown below.
 
-![](<../.gitbook/assets/1 (63) (8).png>)
+![](<../.gitbook/assets/1 (63) (5).png>)
 
 2\. Edit the list or note then click confirm and save.
 
-![](<../.gitbook/assets/1 (62) (2).png>)
+![](<../.gitbook/assets/1 (62) (5).png>)
 

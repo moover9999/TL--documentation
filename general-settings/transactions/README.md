@@ -14,23 +14,23 @@ Please refer to  following tab for more details.
 
 1. Now transactions can be searched using an email.
 
-![](<../../.gitbook/assets/1 (48).png>)
+![](<../../.gitbook/assets/1 (48) (2).png>)
 
 2\. Every transaction has a unique ID which is called a Transaction ID.
 
-![](<../../.gitbook/assets/1 (49) (2).png>)
+![](<../../.gitbook/assets/1 (49).png>)
 
 3\. Transaction account email address can be seen here.
 
-![](<../../.gitbook/assets/1 (50) (1).png>)
+![](<../../.gitbook/assets/1 (50).png>)
 
 4\. Discord ID and Discord tag of a transaction can be found here
 
-![](<../../.gitbook/assets/1 (52).png>)
+![](<../../.gitbook/assets/1 (52) (2).png>)
 
 5\. The GB/ DATA purchased can be seen here&#x20;
 
-![](<../../.gitbook/assets/1 (53) (1).png>)
+![](<../../.gitbook/assets/1 (53) (2).png>)
 
 6\. Price per gb/ data purchased will be here.
 
@@ -54,7 +54,7 @@ An order is incomplete if payment is received but the data has not been received
 
 9\. The data of the transaction placed will be here
 
-![](<../../.gitbook/assets/1 (59).png>)
+![](<../../.gitbook/assets/1 (59) (2).png>)
 
 10\. The transaction can be filtered by the status and the date .&#x20;
 
@@ -62,7 +62,7 @@ An order is incomplete if payment is received but the data has not been received
 We always recommend keeping the status set to ALL
 {% endhint %}
 
-![](<../../.gitbook/assets/1 (61).png>)
+![](<../../.gitbook/assets/1 (61) (1).png>)
 
 
 

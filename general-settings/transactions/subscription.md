@@ -6,7 +6,7 @@ This section will provide you information regarding the subscription tab. The su
 
 1. Go to admin dashboard and click on the transactions, And then click on Subscriptions
 
-<figure><img src="../../.gitbook/assets/1 (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (19).png" alt=""><figcaption></figcaption></figure>
 
 2\. Subscription transactions can be filtered using the statuses and transactions types
 

@@ -16,10 +16,10 @@ This function only works for Oxylabs & Smart Proxies.
 
 2\. Click the refreshing sign next to Update Proxy Credentials.
 
-<figure><img src="../.gitbook/assets/6 (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/6 (2).png" alt=""><figcaption></figcaption></figure>
 
 3\. Do not exit the page till you see "Successfully updated Proxy Credentials"
 
-<figure><img src="../.gitbook/assets/1 (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (9).png" alt=""><figcaption></figcaption></figure>
 
 > _Then you can see the username and password of the proxies are changed accordingly when you generate new set of proxies._

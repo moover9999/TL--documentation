@@ -10,7 +10,7 @@ There are two types release auto and manual, In order to create auto releases pl
 
 2\. Next, click on new batch.
 
-![](<../.gitbook/assets/1 (72) (5).png>)
+![](<../.gitbook/assets/1 (72) (1).png>)
 
 3\. Add your proxies here click confirm and launch
 

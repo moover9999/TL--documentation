@@ -80,6 +80,7 @@
   * [🌀 Updating Twitter Link](more-settings/dashboard-ui/updating-twitter-link.md)
   * [💿 Updating Discord Link](more-settings/dashboard-ui/updating-discord-link.md)
   * [🌐 Updating Theme](more-settings/dashboard-ui/updating-theme.md)
+* [💵 Enabling collecting stripe VAT](more-settings/enabling-collecting-stripe-vat.md)
 
 ## Onboarding Guide
 
@@ -144,4 +145,4 @@
 * [❔ How to create a coupon for subscription product to apply only for the first month ?](errors-and-faq/how-to-create-a-coupon-for-subscription-product-to-apply-only-for-the-first-month.md)
 * [❔ How to fix the subscription portal issue ?](errors-and-faq/how-to-fix-the-subscription-portal-issue.md)
 * [❔ Are the products get deleted when changing and syncing a price ?](errors-and-faq/are-the-products-get-deleted-when-changing-and-syncing-a-price.md)
-* [How to take a screenshot of inspect network section on user dashboard ?](errors-and-faq/how-to-take-a-screenshot-of-inspect-network-section-on-user-dashboard.md)
+* [❔ How to take a screenshot of inspect network section on user dashboard ?](errors-and-faq/how-to-take-a-screenshot-of-inspect-network-section-on-user-dashboard.md)

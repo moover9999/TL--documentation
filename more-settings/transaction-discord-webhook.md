@@ -7,7 +7,7 @@ Enable this feature to get transactions such as purchases, renewals etc. directl
 1. Select _**server settings**_ on discord
 2. Select _**integration**_ & Click _**create webhook**_
 
-![](../.gitbook/assets/5.jpg)
+![](<../.gitbook/assets/5 (1).jpg>)
 
 3\. Then give a name and a channel to record the notification
 

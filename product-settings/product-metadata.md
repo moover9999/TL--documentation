@@ -30,7 +30,7 @@ This is an example of the packet stream product. First field input _**torchlabs\
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-23 at 10.51.23 PM.png>)
 
-The next example is the quantity of the actual price section. In the below example, the customer will see a product on the dashboard for 15 GB of the Killer Basic plan for $140. We use the _**data\_gb** _ metadata tag to identify the quantity that is required to be delivered. If this tag is incorrect then they will not get any data delivered. In the field next to the _**data\_gb**_ we have the actual quantity in gigabytes, in this case 15 GB (only put the value and not the letters GB - again referring to this example, it will be just 15)
+The next example is the quantity of the actual price section. In the below example, the customer will see a product on the dashboard for 15 GB of the Killer Basic plan for $140. We use the _**data\_gb**_ metadata tag to identify the quantity that is required to be delivered. If this tag is incorrect then they will not get any data delivered. In the field next to the _**data\_gb**_ we have the actual quantity in gigabytes, in this case 15 GB (only put the value and not the letters GB - again referring to this example, it will be just 15)
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-23 at 11.01.07 PM.png>)
 
@@ -60,9 +60,9 @@ This is an example of Data center product. First field input _**torchlabs\_produ
 There is some confusion regarding the terminology behind daily,weekly, monthly on the metadata -  These actually mean nothing. It is only used to differentiate between all the data center products. They can be used interchangeably as well. For example, if you are selling Yeezysupply daily proxies, you can use any of the 3 metadata tags&#x20;
 {% endhint %}
 
-![](<../.gitbook/assets/Screen Shot 2022-03-23 at 11.01.57 PM.png>)
+![](<../.gitbook/assets/Screen Shot 2022-03-23 at 11.01.57 PM (1).png>)
 
-The next example is the quantity of the actual price section. In the below example, the customer will see a product on the dashboard for 100 Killer ISPs for $300. We use the _**amount** _ metadata tag to identify the quantity that is required to be delivered. If this tag is incorrect then they will not get any data delivered. In the field next to the _**amount**_ we have the actual quantity in units, in this case, 100 ISPs (only put the value and not the letters ISP - again referring to this example, it will be just 100)
+The next example is the quantity of the actual price section. In the below example, the customer will see a product on the dashboard for 100 Killer ISPs for $300. We use the _**amount**_ metadata tag to identify the quantity that is required to be delivered. If this tag is incorrect then they will not get any data delivered. In the field next to the _**amount**_ we have the actual quantity in units, in this case, 100 ISPs (only put the value and not the letters ISP - again referring to this example, it will be just 100)
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-23 at 11.05.49 PM.png>)
 
@@ -88,6 +88,6 @@ This is an example of an Account product. First field input _**torchlabs\_produc
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-23 at 11.27.43 PM.png>)
 
-The next example is the quantity of the actual price section. In the below example, we are using the accounts tab to sell ISP subnets but you can sell whatever you want such as Gmails and FLX accounts.  In our example, the customer will see a product on the dashboard for 254 Killer ISPs for $400. We use the _**amount** _ metadata tag to identify the quantity that is required to be delivered. If this tag is incorrect then they will not get any data delivered. In the field next to the _**amount**_ we have the actual quantity in units, in this case, 254 ISPs (only put the value and not the letters ISP - again referring to this example, it will be just 254) -  Again you can do this with anything not just ISPs.
+The next example is the quantity of the actual price section. In the below example, we are using the accounts tab to sell ISP subnets but you can sell whatever you want such as Gmails and FLX accounts.  In our example, the customer will see a product on the dashboard for 254 Killer ISPs for $400. We use the _**amount**_ metadata tag to identify the quantity that is required to be delivered. If this tag is incorrect then they will not get any data delivered. In the field next to the _**amount**_ we have the actual quantity in units, in this case, 254 ISPs (only put the value and not the letters ISP - again referring to this example, it will be just 254) -  Again you can do this with anything not just ISPs.
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-23 at 11.27.53 PM.png>)
