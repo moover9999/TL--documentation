@@ -12,7 +12,7 @@ This guide will help to set up residential products for your dashboard.
 
 1. In order to set up the Stripe Product follow the below-mentioned steps. &#x20;
 
-![](<../.gitbook/assets/Untitled design (22).png>)
+![](<../.gitbook/assets/Untitled design (27).png>)
 
 2\. Firstly, Log in to the Stripe Account.
 
@@ -20,11 +20,11 @@ This guide will help to set up residential products for your dashboard.
 
 3\. Right Side of the Stripe Dashboard find Products and click that.&#x20;
 
-![](<../.gitbook/assets/Untitled design (2) (9).png>)
+![](<../.gitbook/assets/Untitled design (2) (8).png>)
 
 4\. Next Add Products&#x20;
 
-![](<../.gitbook/assets/Untitled design (3) (9).png>)
+![](<../.gitbook/assets/Untitled design (3) (10).png>)
 
 5\. Then name your product
 
@@ -32,11 +32,11 @@ This guide will help to set up residential products for your dashboard.
 
 6\. Also set the price for your product.
 
-![](<../.gitbook/assets/Untitled design (5) (7).png>)
+![](<../.gitbook/assets/Untitled design (5) (6).png>)
 
 7\. Click "One Time" below Price.&#x20;
 
-![](<../.gitbook/assets/Untitled design (6) (1).png>)
+![](<../.gitbook/assets/Untitled design (6) (2).png>)
 
 8\. To add another product, Repeat the process.
 
@@ -44,15 +44,15 @@ This guide will help to set up residential products for your dashboard.
 
 9\. After adding the products, View Additional Options.
 
-![](<../.gitbook/assets/Untitled design (8) (5).png>)
+![](<../.gitbook/assets/Untitled design (8) (3).png>)
 
 10\. Then add Metadata Key the exact text for the MetaData section can be found below, Copy and Paste from the below to omit errors. Then save the product.
 
-![](<../.gitbook/assets/Untitled design (2) (3).png>)
+![](<../.gitbook/assets/Untitled design (2) (6).png>)
 
 11\. Here you can view all the prices created, And click on a price.
 
-![](<../.gitbook/assets/Untitled design (1) (10).png>)
+![](<../.gitbook/assets/Untitled design (1) (11).png>)
 
 
 
@@ -66,11 +66,11 @@ This guide will help to set up residential products for your dashboard.
 
 14\. Then go back to the onboarding site and choose the plan we just set up.
 
-![](<../.gitbook/assets/Untitled design (13) (4).png>)
+![](<../.gitbook/assets/Untitled design (13) (3).png>)
 
 15\. And then sync with the stripe.
 
-![](<../.gitbook/assets/Untitled design (14) (2).png>)
+![](<../.gitbook/assets/Untitled design (14) (1).png>)
 
 16\. If everything goes well you should see your GB next to the prices you set.
 
@@ -80,4 +80,4 @@ This guide will help to set up residential products for your dashboard.
 
 17\. Repeat this process if you are using multiple API's.
 
-![](<../.gitbook/assets/Untitled design (3) (1).png>)
+![](<../.gitbook/assets/Untitled design (3) (2).png>)

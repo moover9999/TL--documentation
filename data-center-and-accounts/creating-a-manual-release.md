@@ -14,7 +14,7 @@ If you want to stop release in a manual release follow this link.&#x20;
 
 1. Go to dashboard then data center and click the drop down to choose the Manual.
 
-![](<../.gitbook/assets/1 (71).png>)
+![](<../.gitbook/assets/1 (71) (2).png>)
 
 2\. Click New Batch&#x20;
 
@@ -26,11 +26,11 @@ If you want to stop release in a manual release follow this link.&#x20;
 [add-stock-limit-for-dc-orders.md](add-stock-limit-for-dc-orders.md)
 {% endcontent-ref %}
 
-![](<../.gitbook/assets/1 (62) (1).png>)
+![](<../.gitbook/assets/1 (62) (2).png>)
 
 4\. Click launch to make sure the batches are active.&#x20;
 
-![](<../.gitbook/assets/1 (63) (1).png>)
+![](<../.gitbook/assets/1 (63).png>)
 
 You have the option of adding an expiration date on ISPs and please find the following guide.
 

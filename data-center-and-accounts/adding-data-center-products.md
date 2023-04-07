@@ -29,11 +29,11 @@ Any product can have two types of prices:&#x20;
 
 2\. Click on the _**Products**_ tab found on the right navigation pane of the _Stripe Dashboar_d.
 
-![](<../.gitbook/assets/Untitled design (2) (9).png>)
+![](<../.gitbook/assets/Untitled design (2) (8).png>)
 
 3\. Next _**Add Product**_ as data center plan.
 
-![](<../.gitbook/assets/Untitled design (3) (9).png>)
+![](<../.gitbook/assets/Untitled design (3) (10).png>)
 
 4\. Then name your product.
 
@@ -49,7 +49,7 @@ The name you enter here is what the dashboard will call the product.
 This is the price that customers will be paying for your product
 {% endhint %}
 
-![](<../.gitbook/assets/Untitled design (5) (7).png>)
+![](<../.gitbook/assets/Untitled design (5) (6).png>)
 
 6\. Click _**One Time**_ or _**Recurring**_ for the pricing section.
 
@@ -59,7 +59,7 @@ More info regarding recurring pricing can be found below:
 [creating-a-recurring-price-for-a-product.md](../product-settings/creating-a-recurring-price-for-a-product.md)
 {% endcontent-ref %}
 
-![](<../.gitbook/assets/Untitled design (6) (1).png>)
+![](<../.gitbook/assets/Untitled design (6) (2).png>)
 
 7\. Please repeat this process to add another price for the same product.
 
@@ -87,7 +87,7 @@ The next field is where we capture if you are making a daily/weekly/monthly prod
 
 & more products can be added by looking at our Meta Data section
 
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (8).png>)
 
 10\. Here you can view all the prices created, And click on a price.
 
@@ -99,7 +99,7 @@ The next field is where we capture if you are making a daily/weekly/monthly prod
 In this example, there will be 10 proxies being delivered to the customer
 {% endhint %}
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (16).png>)
 
 12\. Now go to products and we are done with our first product.
 

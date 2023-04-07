@@ -8,31 +8,31 @@ Our dashboard provides customers with a range of options for generating differen
 
 1. Go to User Dashboard
 
-<figure><img src="../.gitbook/assets/1 (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (13).png" alt=""><figcaption></figcaption></figure>
 
 2\. Click on the drop down of Proxy Pool and select the required provider.
 
-<figure><img src="../.gitbook/assets/3 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3 (6).png" alt=""><figcaption></figcaption></figure>
 
 3\. Select the Proxy type (i.e. Sticky or Rotating)
 
-<figure><img src="../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4 (2).png" alt=""><figcaption></figcaption></figure>
 
 4\. Then enter the number of Proxies to be generated.
 
-<figure><img src="../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5 (3).png" alt=""><figcaption></figcaption></figure>
 
 5\. Select the SSL option. (This option is still available for Packetstream / Basic proxies only) Selecting _Yes_ would make you have proxies with a secure session where the proxies includes http / https in the URL domain.
 
-<figure><img src="../.gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/6 (3).png" alt=""><figcaption></figcaption></figure>
 
 6\. Select the country. Now you have the ability to choose multiple countries and generate custom pools.
 
-<figure><img src="../.gitbook/assets/7 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/7 (3).png" alt=""><figcaption></figcaption></figure>
 
 6.1 If you select the country as USA (United States of America) then you get the option of clicking on _Advance Settings_ only for Oxylabs , Smart and IPRoyal.&#x20;
 
-<figure><img src="../.gitbook/assets/8 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/8 (2).png" alt=""><figcaption></figcaption></figure>
 
 6.1.1 If you select IPRoyal as the Proxy pool and select the country as USA, it is able to generate state level proxies by clicking _Advance settings._
 

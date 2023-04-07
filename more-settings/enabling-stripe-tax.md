@@ -22,4 +22,4 @@ Be cautious about the following error
 
 2\. Enable stripe tax
 
-<figure><img src="../.gitbook/assets/1 (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (10).png" alt=""><figcaption></figcaption></figure>

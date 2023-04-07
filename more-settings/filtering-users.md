@@ -6,8 +6,8 @@ This section will guide you to filter the users in the admin dashboard by using 
 
 1. Go to Admin Dashboard and click on _Users_ tab
 
-<figure><img src="../.gitbook/assets/1 (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (14).png" alt=""><figcaption></figcaption></figure>
 
 2\. Type discord id or discord tag or email on the search bar and press enter to search a user
 
-<figure><img src="../.gitbook/assets/2 (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>

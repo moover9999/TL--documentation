@@ -9,9 +9,9 @@ description: >-
 
 1. Click on More Settings
 
-<figure><img src="../.gitbook/assets/1 (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (9).png" alt=""><figcaption></figcaption></figure>
 
 2. Enable collecting stripe VAT
 
-<figure><img src="../.gitbook/assets/2 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (5).png" alt=""><figcaption></figcaption></figure>
 

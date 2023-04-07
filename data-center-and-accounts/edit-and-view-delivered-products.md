@@ -10,8 +10,8 @@ If you need to update or view a delivered product, for example, if you missed so
 
 2\. Click edit as shown below
 
-![](<../.gitbook/assets/1 (63) (4).png>)
+![](<../.gitbook/assets/1 (63) (5).png>)
 
 3\. Edit the details you want to edit and click confirm save.
 
-![](<../.gitbook/assets/1 (64) (2).png>)
+![](<../.gitbook/assets/1 (64) (3).png>)

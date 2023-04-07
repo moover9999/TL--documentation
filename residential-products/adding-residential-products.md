@@ -16,11 +16,11 @@ This guide will help to set up residential products for your dashboard.
 
 2\. Right Side of the Stripe Dashboard find Products and click that.&#x20;
 
-![](<../.gitbook/assets/Untitled design (2) (9).png>)
+![](<../.gitbook/assets/Untitled design (2) (8).png>)
 
 3\. Next Add Products&#x20;
 
-![](<../.gitbook/assets/Untitled design (3) (9).png>)
+![](<../.gitbook/assets/Untitled design (3) (10).png>)
 
 4\. Then name your product
 
@@ -28,11 +28,11 @@ This guide will help to set up residential products for your dashboard.
 
 5\. Also set the price for your product.
 
-![](<../.gitbook/assets/Untitled design (5) (7).png>)
+![](<../.gitbook/assets/Untitled design (5) (6).png>)
 
 6\. Click "One Time" below Price.&#x20;
 
-![](<../.gitbook/assets/Untitled design (6) (1).png>)
+![](<../.gitbook/assets/Untitled design (6) (2).png>)
 
 7\. To add another product, Repeat the process.
 
@@ -40,7 +40,7 @@ This guide will help to set up residential products for your dashboard.
 
 8\. After adding the products, View Additional Options.
 
-![](<../.gitbook/assets/Untitled design (8) (5).png>)
+![](<../.gitbook/assets/Untitled design (8) (3).png>)
 
 9\. Then add Metadata for your desired residential provider using our meta data guide guide below.
 
@@ -48,11 +48,11 @@ This guide will help to set up residential products for your dashboard.
 [product-metadata.md](../product-settings/product-metadata.md)
 {% endcontent-ref %}
 
-![](<../.gitbook/assets/Untitled design (2) (3).png>)
+![](<../.gitbook/assets/Untitled design (2) (6).png>)
 
 10\. Here you can view all the prices created, And click on a price.
 
-![](<../.gitbook/assets/Untitled design (1) (10).png>)
+![](<../.gitbook/assets/Untitled design (1) (11).png>)
 
 
 
@@ -72,7 +72,7 @@ In this example, there will be 1 gb being delivered to the customer.
 
 13\. Then go to dashboard and products section and choose your selected plan and edit it.
 
-![](<../.gitbook/assets/1 (72) (2).png>)
+![](<../.gitbook/assets/1 (72) (4).png>)
 
 14\. Then click Sync with Stripe to sync all the prices.
 
@@ -80,4 +80,4 @@ In this example, there will be 1 gb being delivered to the customer.
 
 15\. Once the sync is completed, you should see the number of GB next to the prices you set. Repeat this process if you are using multiple API's.
 
-![](<../.gitbook/assets/1 (68) (3).png>)
+![](<../.gitbook/assets/1 (68) (2).png>)

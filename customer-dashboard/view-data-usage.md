@@ -6,11 +6,11 @@ This guide will help you to view the total usage of different products on user d
 
 1. Go to User dashboard and select the product you want to check the data usage
 
-<figure><img src="../.gitbook/assets/2 (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (15).png" alt=""><figcaption></figcaption></figure>
 
 2\. Click _**View Data Usage**_
 
-<figure><img src="../.gitbook/assets/1 (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (18).png" alt=""><figcaption></figcaption></figure>
 
 _The data usage will be indicated as follows_
 
@@ -18,7 +18,7 @@ _The data usage will be indicated as follows_
 
 3\. Only on Oxylabs (Elite) you can view the day by day usage for one month by clicking _**View Total Usage**_.
 
-<figure><img src="../.gitbook/assets/3 (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3 (10).png" alt=""><figcaption></figcaption></figure>
 
 _Day by day usage will be displayed as follows_
 

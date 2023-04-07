@@ -10,4 +10,4 @@ The process of being updated with each transaction via email is possible, In ord
 
 2\. Scroll down and you should see a checkbox to enable emails for successful payments.
 
-![](<../.gitbook/assets/Untitled design (2) (5).png>)
+![](<../.gitbook/assets/Untitled design (2) (4).png>)

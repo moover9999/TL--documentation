@@ -10,7 +10,7 @@ This section aims to provide comprehensive information regarding the subscriptio
 
 2. You can filter the transactions using the filters such as email , Discord ID ,  Discord tag & Subscription ID.
 
-<figure><img src="../../.gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (7).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Following are the columns you can find in the subscription tab
@@ -25,15 +25,9 @@ Following are the columns you can find in the subscription tab
 * Product - Name of the subscription product.
 * Status - You can select the different status to filter the following subscription transaction statuses.
 
-<figure><img src="../../.gitbook/assets/1 (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (12).png" alt=""><figcaption></figcaption></figure>
 
-| Status     | Description                                                                                                                    |   |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------ | - |
-| Complete   | The order has been delivered and complete                                                                                      |   |
-| Incomplete | The order has not been delivered and is not complete                                                                           |   |
-| Failed     | We tried to bill the customer for a subscription, however, the charge has failed due to a lack of funds on the customer's card |   |
-| Cancelled  | The customer has canceled their subscription and subscription validity period is over.                                         |   |
-| Cancelling | The customer has clicked cancelled button but subscription validity period is not over.                                        |   |
+<table><thead><tr><th>Status</th><th>Description</th><th data-hidden></th></tr></thead><tbody><tr><td>Complete</td><td>The order has been delivered and complete</td><td></td></tr><tr><td>Incomplete</td><td>The order has not been delivered and is not complete</td><td></td></tr><tr><td>Failed</td><td>We tried to bill the customer for a subscription, however, the charge has failed due to a lack of funds on the customer's card</td><td></td></tr><tr><td>Cancelled</td><td>The customer has canceled their subscription and subscription validity period is over.</td><td></td></tr><tr><td>Cancelling</td><td>The customer has clicked cancelled button but subscription validity period is not over.</td><td></td></tr></tbody></table>
 
 * Created At - The date that the subscription product is created exactly.&#x20;
 

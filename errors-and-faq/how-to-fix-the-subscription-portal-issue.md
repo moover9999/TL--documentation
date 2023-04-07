@@ -8,7 +8,7 @@ When the customers are trying to access the customer portal they may get a white
 
 1. Search `customer portal` and click it.
 
-<figure><img src="../.gitbook/assets/c.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/c (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Click `Save changes` button
 

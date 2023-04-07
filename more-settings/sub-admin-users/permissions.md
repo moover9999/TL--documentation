@@ -10,19 +10,19 @@ description: >-
 
 These permissions allow users to view, edit, delete, and sync residential, datacenter, and accounts products. Also allows to create a batch for datacenter and accounts
 
-<figure><img src="../../.gitbook/assets/1 (19).png" alt=""><figcaption><p>All Products</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (21).png" alt=""><figcaption><p>All Products</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/1 (19).png" alt=""><figcaption><p>Sync Products</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (21).png" alt=""><figcaption><p>Sync Products</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/3 (15).png" alt=""><figcaption><p>Create Batches</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (7).png" alt=""><figcaption><p>Create Batches</p></figcaption></figure>
 
 * `view_residential` , `view_datacenter`, `view_accounts`
 
 These permissions allow users to view only residential, datacenter, and accounts products.
 
-<figure><img src="../../.gitbook/assets/4 (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (7).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/5 (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (6).png" alt=""><figcaption></figcaption></figure>
 
 * `create_residential` , `create_datacenter`, `create_accounts`
 
