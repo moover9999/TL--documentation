@@ -1,8 +1,10 @@
-# ✏ Editing a release
+# ✏ Editing a batch
 
 {% hint style="info" %}
-You are totally eligible to add and edit any releases after it's made, In order to edit or add a release check this guide.
+You can add and remove items to both manual and automatic batches. However, you are not able to edit API mode batches such as: Tanmay API, Porter API, or Torch Labs PAYG ISP API.
 {% endhint %}
+
+
 
 ![](<../.gitbook/assets/1 (64) (4).png>)
 
