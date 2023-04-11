@@ -1,9 +1,5 @@
 # ⚙ Setting up discord authentication
 
-{% hint style="info" %}
-Two-factor authentication, or 2FA, is a smart method to add an extra layer of protection to your Discord account by ensuring that only you can log in.
-{% endhint %}
-
 {% embed url="https://youtu.be/4wXkn4GG20E" %}
 
 1. To set up discord authenticator, Follow the discord developer link mentioned here.  [https://discord.com/developers](https://discord.com/developers)
