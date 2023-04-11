@@ -1,4 +1,4 @@
-# 🛑 Stopping a release
+# 🛑 Stopping a batch
 
 {% hint style="info" %}
 The release can be stopped with simple steps, In order to stop a release follow this guide.

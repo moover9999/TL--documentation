@@ -1,4 +1,4 @@
-# 🤖 Creating an automatic release
+# 🤖 Creating an automatic batch
 
 {% hint style="info" %}
 There are two types release auto and manual, In order to create auto releases please check this guide.

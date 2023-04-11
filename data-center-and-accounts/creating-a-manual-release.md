@@ -8,8 +8,8 @@ There are two types release auto and manual, In order to create manual releases 
 If you want to stop release in a manual release follow this link.&#x20;
 {% endhint %}
 
-{% content-ref url="stopping-a-batch.md" %}
-[stopping-a-batch.md](stopping-a-batch.md)
+{% content-ref url="stopping-a-release.md" %}
+[stopping-a-release.md](stopping-a-release.md)
 {% endcontent-ref %}
 
 1. Go to dashboard then data center and click the drop down to choose the Manual.

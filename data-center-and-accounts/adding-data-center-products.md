@@ -1,13 +1,13 @@
 # ✅ Adding data center products
 
 {% hint style="info" %}
-This guide will walk you through step by step process of adding data center products to your stripe.
+This guide will walk you through step by step process of adding data center products to your dashboard.
 {% endhint %}
 
-{% hint style="info" %}
-If you are going to update / edit products When the proxies are active , editing product may cause to delete the stock in the batches. Therefore please make sure to back up them before editing the products.
+{% hint style="warning" %}
+If you are going to update/edit products When the proxies are active, editing products may cause you to delete the stock in the batches. Therefore please make sure to back them up before editing the products.
 
-This only affects manual and automatic mode whereas it doesn't affect on API mode.
+This only affects manual and automatic modes whereas it doesn't affect on API mode.
 {% endhint %}
 
 {% content-ref url="../product-settings/product-metadata.md" %}
@@ -23,7 +23,7 @@ Any product can have two types of prices:&#x20;
 
 
 
-1\. Firstly, Log in to the Stripe Account.
+1\. First, Log in to the Stripe Account.
 
 ![](<../.gitbook/assets/Untitled design (1) (2).png>)
 
