@@ -14,8 +14,8 @@ The manual batch method is good if you are not sure about the demand for your pr
 
 3\. Once the pop up comes you can add a stock limit or confirm the order.&#x20;
 
-{% content-ref url="../add-stock-limit-for-dc-orders.md" %}
-[add-stock-limit-for-dc-orders.md](../add-stock-limit-for-dc-orders.md)
+{% content-ref url="../add-a-stock-limit-to-a-batch.md" %}
+[add-a-stock-limit-to-a-batch.md](../add-a-stock-limit-to-a-batch.md)
 {% endcontent-ref %}
 
 ![](<../../.gitbook/assets/1 (62).png>)
@@ -26,8 +26,8 @@ The manual batch method is good if you are not sure about the demand for your pr
 
 5. You have the option of adding an expiration date on ISPs and please find the following guide.
 
-{% content-ref url="../isp-expiration-date.md" %}
-[isp-expiration-date.md](../isp-expiration-date.md)
+{% content-ref url="../add-expiration-date.md" %}
+[add-expiration-date.md](../add-expiration-date.md)
 {% endcontent-ref %}
 
 6. Once you receive orders from your customers, you can follow the below guide on how you can fulfill those orders.

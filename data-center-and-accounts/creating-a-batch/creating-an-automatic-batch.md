@@ -18,6 +18,6 @@ There are two types release auto and manual, In order to create auto releases pl
 
 You have the option of adding an expiration date on ISPs and please find the following guide.
 
-{% content-ref url="../isp-expiration-date.md" %}
-[isp-expiration-date.md](../isp-expiration-date.md)
+{% content-ref url="../add-expiration-date.md" %}
+[add-expiration-date.md](../add-expiration-date.md)
 {% endcontent-ref %}

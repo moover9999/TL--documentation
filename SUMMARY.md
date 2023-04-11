@@ -52,10 +52,10 @@
 * [🛑 Stopping a batch](data-center-and-accounts/stopping-a-release.md)
 * [📂 Creating manual orders for ISPs / Accounts](data-center-and-accounts/creating-manual-orders-for-isps-accounts.md)
 * [🔍 Edit and view delivered products](data-center-and-accounts/edit-and-view-delivered-products.md)
-* [🚧 Add stock limit for DC orders](data-center-and-accounts/add-stock-limit-for-dc-orders.md)
+* [🚧 Add a stock limit to a batch](data-center-and-accounts/add-a-stock-limit-to-a-batch.md)
 * [💌 Leave a note on an order](data-center-and-accounts/leave-a-note-on-an-order.md)
-* [🗑 Delete pending a transaction](data-center-and-accounts/delete-pending-a-transaction.md)
-* [🪜 ISP Expiration Date](data-center-and-accounts/isp-expiration-date.md)
+* [🗑 Delete a pending transaction (manual batch)](data-center-and-accounts/delete-a-pending-transaction-manual-batch.md)
+* [🪜 Add expiration date](data-center-and-accounts/add-expiration-date.md)
 * [⚕ Editing incomplete transactions](data-center-and-accounts/editing-incomplete-transactions.md)
 
 ## ⚙ More Settings
