@@ -41,20 +41,22 @@
 
 * [✅ Adding data center products](data-center-and-accounts/adding-data-center-products.md)
 * [✅ Adding account products](data-center-and-accounts/adding-account-products.md)
+* [Creating a batch](data-center-and-accounts/creating-a-batch/README.md)
+  * [🔧 Creating a manual batch](data-center-and-accounts/creating-a-batch/creating-a-manual-batch.md)
+  * [🤖 Creating an automatic batch](data-center-and-accounts/creating-a-batch/creating-an-automatic-batch.md)
+  * [⚓ Creating a Torch Labs PAYG ISP API batch](data-center-and-accounts/creating-a-batch/creating-a-torch-labs-payg-isp-api-batch.md)
+  * [⚓ Creating Tanmay's ISP API Batch](data-center-and-accounts/creating-a-batch/creating-tanmays-isp-api-batch.md)
+  * [🔱 Creating Porter Proxies' ISP API Batch](data-center-and-accounts/creating-a-batch/creating-porter-proxies-isp-api-batch.md)
 * [📤 Fulfill manual order](data-center-and-accounts/fulfill-manual-order.md)
-* [🔧 Creating a manual batch](data-center-and-accounts/creating-a-manual-release.md)
-* [🤖 Creating an automatic batch](data-center-and-accounts/creating-an-automatic-release.md)
 * [✏ Editing a batch](data-center-and-accounts/editing-a-release.md)
 * [🛑 Stopping a batch](data-center-and-accounts/stopping-a-release.md)
+* [📂 Creating manual orders for ISPs / Accounts](data-center-and-accounts/creating-manual-orders-for-isps-accounts.md)
 * [🔍 Edit and view delivered products](data-center-and-accounts/edit-and-view-delivered-products.md)
 * [🚧 Add stock limit for DC orders](data-center-and-accounts/add-stock-limit-for-dc-orders.md)
 * [💌 Leave a note on an order](data-center-and-accounts/leave-a-note-on-an-order.md)
 * [🗑 Delete pending a transaction](data-center-and-accounts/delete-pending-a-transaction.md)
 * [🪜 ISP Expiration Date](data-center-and-accounts/isp-expiration-date.md)
 * [⚕ Editing incomplete transactions](data-center-and-accounts/editing-incomplete-transactions.md)
-* [⚓ Creating Tanmay's ISP API Batch](data-center-and-accounts/creating-tanmays-isp-api-batch.md)
-* [🔱 Creating Porter Proxies' ISP API Batch](data-center-and-accounts/creating-porter-proxies-isp-api-batch.md)
-* [📂 Creating manual orders for ISPs / Accounts](data-center-and-accounts/creating-manual-orders-for-isps-accounts.md)
 
 ## ⚙ More Settings
 
@@ -146,3 +148,4 @@
 * [❔ How to fix the subscription portal issue ?](errors-and-faq/how-to-fix-the-subscription-portal-issue.md)
 * [❔ Are the products get deleted when changing and syncing a price ?](errors-and-faq/are-the-products-get-deleted-when-changing-and-syncing-a-price.md)
 * [❔ How to take a screenshot of inspect network section on user dashboard ?](errors-and-faq/how-to-take-a-screenshot-of-inspect-network-section-on-user-dashboard.md)
+* [What is the Torch labs ISP API](errors-and-faq/what-is-the-torch-labs-isp-api.md)
