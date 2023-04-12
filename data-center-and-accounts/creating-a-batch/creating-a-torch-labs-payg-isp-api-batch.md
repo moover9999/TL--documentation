@@ -1,19 +1,15 @@
 # ⚓ Creating a Torch Labs PAYG ISP API batch
 
-{% content-ref url="../../errors-and-faq/what-is-the-torch-labs-isp-api.md" %}
-[what-is-the-torch-labs-isp-api.md](../../errors-and-faq/what-is-the-torch-labs-isp-api.md)
-{% endcontent-ref %}
-
 1. First, you need to [creating-a-recurring-price-for-a-product.md](../../product-settings/creating-a-recurring-price-for-a-product.md "mention")and set a custom recurring period to 28 days instead of a month
 
 {% hint style="info" %}
 you need to make sure, the price you have created has a custom recurring period set to 28 days. We do this because, if the customers' payment method fails, they now have a grace period of 2 days to complete the payment in order to keep the same set of proxies/items.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-04-12 at 3.57.09 PM (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-12 at 3.57.09 PM.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-You should also note that the quantity can only be the following quantities for the prices: 10, 25, 50, 100.
+You should also note that the quantity can only be the following quantities for the prices: 10, 25, 50, and 100.
 
 Please keep this in mind when adding the `amount` metadata field inside the Stripe price. [product-metadata.md](../../product-settings/product-metadata.md "mention")
 {% endhint %}
