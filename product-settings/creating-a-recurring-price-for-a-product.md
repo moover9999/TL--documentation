@@ -16,7 +16,7 @@ Each product can have both one-time and recurring prices at the same time.&#x20;
 {% hint style="warning" %}
 Recurring products are only available for Datacenter and Accounts products only at the moment. Residential products are coming soon.
 
-Only each successive billing cycle, the customer will be delivered the originally delivered product on their first checkout. They **will not** be delivered a new list each time their subscription updates.
+Only in each successive billing cycle, the customer will be delivered the originally delivered product on their first checkout. They **will not** be delivered a new list each time their subscription updates.
 
 If you want to update their delivered product, you can do so by following the below guide: [https://docs.torchlabs.xyz/data-center-and-accounts/edit-and-view-delivered-a-products](https://docs.torchlabs.xyz/data-center-and-accounts/edit-and-view-delivered-a-products)
 {% endhint %}
@@ -35,11 +35,17 @@ If you want to update their delivered product, you can do so by following the be
 
 ![](<../.gitbook/assets/Screen Shot 2022-06-26 at 12.41.40 PM.png>)
 
-3\. Next, put your desired price and choose "Recurring" and click add price.
+{% hint style="info" %}
+When [creating-a-torch-labs-payg-isp-api-batch.md](../data-center-and-accounts/creating-a-batch/creating-a-torch-labs-payg-isp-api-batch.md "mention")you need to make sure, the price you have created has a custom recurring period set to 28 days. We do this because, if the customers' payment method fails, they now have a grace period of 2 days to complete the payment in order to keep the same set of proxies/items.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/Screenshot 2023-04-12 at 3.57.09 PM.png" alt=""><figcaption></figcaption></figure>
+
+3\. Next, put your desired price and choose "Recurring" and click Add price.
 
 ![](<../.gitbook/assets/Screen Shot 2022-06-26 at 12.41.56 PM.png>)
 
-4\. Next, you need to add the meta data to specify the quantity you wish to deliver at the given price point.
+4\. Next, you need to add the metadata to specify the quantity you wish to deliver at the given price point.
 
 For detailed instructions refer to each product setup page and metadata can be found below
 
