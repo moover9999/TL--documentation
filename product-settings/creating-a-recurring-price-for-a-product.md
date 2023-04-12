@@ -35,12 +35,6 @@ If you want to update their delivered product, you can do so by following the be
 
 ![](<../.gitbook/assets/Screen Shot 2022-06-26 at 12.41.40 PM.png>)
 
-{% hint style="info" %}
-When [creating-a-torch-labs-payg-isp-api-batch.md](../data-center-and-accounts/creating-a-batch/creating-a-torch-labs-payg-isp-api-batch.md "mention")you need to make sure, the price you have created has a custom recurring period set to 28 days. We do this because, if the customers' payment method fails, they now have a grace period of 2 days to complete the payment in order to keep the same set of proxies/items.
-{% endhint %}
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-04-12 at 3.57.09 PM.png" alt=""><figcaption></figcaption></figure>
-
 3\. Next, put your desired price and choose "Recurring" and click Add price.
 
 ![](<../.gitbook/assets/Screen Shot 2022-06-26 at 12.41.56 PM.png>)

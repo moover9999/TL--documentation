@@ -4,30 +4,46 @@
 [what-is-the-torch-labs-isp-api.md](../../errors-and-faq/what-is-the-torch-labs-isp-api.md)
 {% endcontent-ref %}
 
+1. First, you need to [creating-a-recurring-price-for-a-product.md](../../product-settings/creating-a-recurring-price-for-a-product.md "mention")and set a custom recurring period to 28 days instead of a month
+
 {% hint style="info" %}
-This section will guide you on how to create an ISP API batch for a registered APIs in a multiple subnets together and deliver the stock in one batch.
+you need to make sure, the price you have created has a custom recurring period set to 28 days. We do this because, if the customers' payment method fails, they now have a grace period of 2 days to complete the payment in order to keep the same set of proxies/items.
 {% endhint %}
 
-1. Go to _Datacenter_ tab on Admin Dashboard.
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-12 at 3.57.09 PM (1).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+You should also note that the quantity can only be the following quantities for the prices: 10, 25, 50, 100.
+
+Please keep this in mind when adding the `amount` metadata field inside the Stripe price. [product-metadata.md](../../product-settings/product-metadata.md "mention")
+{% endhint %}
+
+2. Next, you need to go to the products section and sync your new prices.
+
+{% content-ref url="../adding-data-center-products.md" %}
+[adding-data-center-products.md](../adding-data-center-products.md)
+{% endcontent-ref %}
+
+3. Go to the _Datacenter_ tab on Admin Dashboard.
 
 <figure><img src="../../.gitbook/assets/5 (9).png" alt=""><figcaption></figcaption></figure>
 
-2\. Click on the dropdown list before new batch.
+2\. Click on the dropdown list before the new batch.
 
-<figure><img src="../../.gitbook/assets/x (1).png" alt=""><figcaption></figcaption></figure>
+{% hint style="info" %}
+you also need to request the TL API to be activated on the ticket before you can see it on the drop-down list.
+{% endhint %}
 
-3\. Select the Registered ISP from the list and click on New Batch.&#x20;
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-12 at 4.23.38 PM.png" alt=""><figcaption></figcaption></figure>
 
-You can select the API only if you have already registered an API using the following guide.&#x20;
+3\. Select **TL API** from the list and you will be presented with a few more options to choose which type of proxies you want to add to the particular batch.
 
-{% content-ref url="../../more-settings/adding-and-removing-isp-api.md" %}
-[adding-and-removing-isp-api.md](../../more-settings/adding-and-removing-isp-api.md)
-{% endcontent-ref %}
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-12 at 4.25.31 PM.png" alt=""><figcaption></figcaption></figure>
 
-If you precisely registered, all the APIs would appear under the dropdown list including _Custom Proxies_. ISP API batch type for all the customers are now shown as Custom Proxies. Accordingly choose the relevant option when creating the new batch.
+4\. Now you can add a stock limit then tick confirm and select launch.&#x20;
 
-At this stage it gives the ability to combine ISP API / multiple subnets together and deliver the stock in one batch. But to create multiple subnets together there has to be minimum of 2 ISP APIs registered.
+{% hint style="info" %}
+Please note that the expiration is hardcoded for 30 days by default and this cannot be changed. This means your customers will be able to use their proxies for 30 days.
+{% endhint %}
 
-4\. Now you can add a stock limit and duration for expiration. Then tick confirm and select launch. At this point the combination of the batch has to be equal or more than the stock limit.
-
-<figure><img src="../../.gitbook/assets/z (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-12 at 4.30.01 PM.png" alt=""><figcaption></figcaption></figure>
