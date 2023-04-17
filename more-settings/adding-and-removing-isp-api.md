@@ -32,7 +32,7 @@ Once the API is registered you should be able to view them in the same location.
 If you want to remove an ISP API batch , click on the delete icon in front of the created ISP API batch in Other settings tab.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/z.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/z (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Customers can see now available proxies in registered API section.

@@ -24,9 +24,9 @@ If you already have a landing page that is occupying your WWW cname, you can put
 
 5\. TTL can be anything you want. We recommend a shorter TTL since it is basically how long it takes for the changes to go into effect.
 
-6\. Next, we need to create an A record in the DNS settings.
+6\. Next, we need to create an A record in the DNS settings as follows
 
-![](<../.gitbook/assets/Untitled (1).png>)
+<figure><img src="../.gitbook/assets/z.png" alt=""><figcaption></figcaption></figure>
 
 7\. In the Name/host section add your domain only. Do not add www or https just the domain.
 
