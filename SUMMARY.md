@@ -25,7 +25,7 @@
 * [💰 Change price of a product](product-settings/change-price-of-a-product.md)
 * [📜 Changing Product Description](product-settings/changing-product-description.md)
 * [♻ Creating a recurring price for a product](product-settings/creating-a-recurring-price-for-a-product.md)
-* [📑 Changing tab names](product-settings/changing-tab-names.md)
+* [📑 Changing / Hiding tab names](product-settings/changing-hiding-tab-names.md)
 
 ## Residential Products
 
