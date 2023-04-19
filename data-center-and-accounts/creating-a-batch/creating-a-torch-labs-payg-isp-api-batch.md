@@ -24,7 +24,7 @@ Please keep this in mind when adding the `amount` metadata field inside the Stri
 
 <figure><img src="../../.gitbook/assets/5 (9).png" alt=""><figcaption></figcaption></figure>
 
-2\. Click on the dropdown list before the new batch.
+4\. Click on the dropdown list before the new batch.
 
 {% hint style="info" %}
 you also need to request the TL API to be activated on the ticket before you can see it on the drop-down list.
@@ -32,11 +32,11 @@ you also need to request the TL API to be activated on the ticket before you can
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-04-12 at 4.23.38 PM.png" alt=""><figcaption></figcaption></figure>
 
-3\. Select **TL API** from the list and you will be presented with a few more options to choose which type of proxies you want to add to the particular batch.
+5\. Select **TL API** from the list and you will be presented with a few more options to choose which type of proxies you want to add to the particular batch.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-04-12 at 4.25.31 PM.png" alt=""><figcaption></figcaption></figure>
 
-4\. Now you can add a stock limit then tick confirm and select launch.&#x20;
+6\. Now you can add a stock limit then tick confirm and select launch.&#x20;
 
 {% hint style="info" %}
 Please note that the expiration is hardcoded for 30 days by default and this cannot be changed. This means your customers will be able to use their proxies for 30 days.
