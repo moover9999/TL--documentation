@@ -4,13 +4,13 @@
 This section will guide you to filter the transactions in the admin dashboard by using the filters such as discord id, discord tag, email , transaction ID, ISP,  transaction type & transaction status.
 {% endhint %}
 
-* Discord id - You can search the transactions by entering the discord ID of particular user.
-* Discord tag - You can search the transactions by entering the discord tag of particular user.
-* Email- You can search the transactions by entering the email ID of particular user.
-* Transaction ID - You can search the transaction by entering the transaction ID of particular transaction. This would help you to identify the exact transaction with the details.
-* ISP - You can search the transactions by entering the ISP and that would enable you to find to which user the ISP has been assigned to.
-* Transaction type - You can filter the transactions by selecting the available transaction types such as Customer order , Data update and Customer subscription.
-* Transaction status - You can filter the transactions by selecting the available transaction status such as Complete , Incomplete & Failed.
+* Discord ID: Input the Discord ID of the particular user to search for their transactions.
+* Discord Tag: Input the Discord Tag of the particular user to search for their transactions.
+* Email: Input the email ID of the particular user to search for their transactions.
+* Transaction ID: Input the transaction ID of the particular transaction to identify its details.
+* ISP: Input the ISP to search for which user it has been assigned to.
+* Transaction Type: Filter transactions by selecting from available transaction types, such as Customer Order, Data Update, and Customer Subscription.
+* Transaction Status: Filter transactions by selecting from available transaction statuses, such as Complete, Incomplete, and Failed.
 
 1. Go to Admin Dashboard and click on _Transactions_ tab
 

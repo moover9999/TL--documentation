@@ -22,6 +22,6 @@ The above changes would be displayed on the customer dashboard as follows
 
 ![](<../.gitbook/assets/5 (2).jpg>)
 
-By disabling the tabs you can hide the tabs be displayed on customer dashboard
+By disabling the tabs you can hide the tabs displayed on customer dashboard
 
 <figure><img src="../.gitbook/assets/e (2).png" alt=""><figcaption></figcaption></figure>

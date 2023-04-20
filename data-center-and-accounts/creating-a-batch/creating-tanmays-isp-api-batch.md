@@ -20,9 +20,9 @@ You can select the API only if you have already registered an API using the foll
 [adding-and-removing-isp-api.md](../../more-settings/adding-and-removing-isp-api.md)
 {% endcontent-ref %}
 
-If you precisely registered, all the APIs would appear under the dropdown list including _Custom Proxies_. ISP API batch type for all the customers are now shown as Custom Proxies. Accordingly choose the relevant option when creating the new batch.
+Upon successful registration, all APIs, including Custom Proxies, will be available for selection from the dropdown list. It is important to note that ISP API batch types for all customers are now categorized as Custom Proxies. When creating a new batch, please select the appropriate option accordingly.
 
-At this stage it gives the ability to combine ISP API / multiple subnets together and deliver the stock in one batch. But to create multiple subnets together there has to be minimum of 2 ISP APIs registered.
+At this stage, it is now possible to combine ISP APIs and multiple subnets, delivering the stock in one batch. However, to create multiple subnets together, a minimum of two ISP APIs must be registered.
 
 4\. Now you can add a stock limit and duration for expiration. Then tick confirm and select launch. At this point the combination of the batch has to be equal or more than the stock limit.
 

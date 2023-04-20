@@ -6,9 +6,6 @@ This section will guide you to create sub admin users by assigning different rol
 
 {% hint style="info" %}
 Please be noted that you have to share newly created credentials with new sub-users as the sub-admin users will not get any email notification regarding the assigned roles / permission.
-
-\
-
 {% endhint %}
 
 ### Create Role
@@ -47,6 +44,6 @@ Once the role is created, the sub admin users could be created.
 
 <figure><img src="../../.gitbook/assets/1 (6).png" alt=""><figcaption></figcaption></figure>
 
-2\. Enter the email address of the Sub Admin User to be assigned along with the password. Then select the role to assigned to the user which was created previously. Lastly click on create sub admin user.
+2. To assign a Sub Admin User, please input their email address and password. Afterwards, select the appropriate role that was previously created for the user. Finally, click on the "Create Sub Admin User" button to complete the process.
 
 <figure><img src="../../.gitbook/assets/5 (5).png" alt=""><figcaption></figcaption></figure>

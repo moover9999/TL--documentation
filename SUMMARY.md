@@ -107,15 +107,14 @@
 * [🛃 Custom Pools](customer-dashboard/custom-pools.md)
 * [♐ View Data Usage](customer-dashboard/view-data-usage.md)
 * [🖱 Access user settings](customer-dashboard/access-user-settings.md)
-* [🎛 Setting up the Default Country](customer-dashboard/setting-up-the-default-country.md)
 * [🏁 Updating Proxy Credentials](customer-dashboard/updating-proxy-credentials.md)
 * [🏧 Customer subscription portal](customer-dashboard/customer-subscription-portal.md)
 * [🎓 Proxy Generation](customer-dashboard/proxy-generation.md)
+* [🎛 Setting up the Default Country](customer-dashboard/setting-up-the-default-country.md)
 
 ## Errors & FAQ
 
 * [Stripe Radar](errors-and-faq/stripe-radar.md)
-* [How to prevent fraud & Chargebacks](errors-and-faq/how-to-prevent-fraud-and-chargebacks.md)
 * [Stripe chargeback protection](errors-and-faq/stripe-chargeback-protection.md)
 * [❔ No stripe products are linked error](errors-and-faq/no-stripe-products-are-linked-error.md)
 * [❔ Error 400](errors-and-faq/error-400.md)

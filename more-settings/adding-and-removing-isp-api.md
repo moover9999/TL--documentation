@@ -15,7 +15,7 @@ This section will guide you on how to set up ISP API. When registering API, the 
 3\. Fill the details such as Name , API end point , API Key. Then select  API type. Then click on Register
 
 {% hint style="success" %}
-we currently only support API access from Tanmay and Porter Proxies. More integrations will be added later
+we currently support API access from TL ISP API ,Tanmay and Porter Proxies. More integrations will be added later
 {% endhint %}
 
 {% hint style="info" %}

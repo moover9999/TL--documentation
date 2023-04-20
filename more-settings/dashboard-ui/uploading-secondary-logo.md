@@ -1,7 +1,7 @@
 # ➰ Uploading Secondary Logo
 
 {% hint style="info" %}
-This section will guide you on how to upload a secondary logo. The secondary logo is the simplified version of the primary logo that would be appearing on the tab when you open the website by using a search engine.
+In this section, we will provide guidance on how to upload a secondary logo. The secondary logo is a simplified version of the primary logo that will appear on the tab when the website is opened using a search engine.
 {% endhint %}
 
 1. Go to Admin Dashboard and click on More Settings
