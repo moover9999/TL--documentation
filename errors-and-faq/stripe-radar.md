@@ -34,7 +34,7 @@ We will also categorize how effective each rule is at preventing fraud such as s
 {% endhint %}
 
 {% hint style="danger" %}
-**We also reccomend you enabling ALL the rules listed below**
+**We also recommend you enabling ALL the rules listed below**
 {% endhint %}
 
 ### 3DS Rules
