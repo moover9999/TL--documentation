@@ -10,15 +10,15 @@ To create coupons for clients for any promotional activities please follow this 
 
 ![](<../../.gitbook/assets/Untitled design (19).png>)
 
-2\. These are Coupon Codes, This can be copied by clicking top of that and pasting on the required place.&#x20;
+2\. These are Coupon Codes, This can be copied by clicking the top of that and pasting on the required place.&#x20;
 
 ![](<../../.gitbook/assets/Untitled design (1) (7).png>)
 
-3\. The coupons can be Limited and non Limited to  usage. That will be the Type of Coupon that appeared here.
+3\. The coupons can be Limited and non Limited to usage. That will be the Type of Coupon that appeared here.
 
 ![](<../../.gitbook/assets/Untitled design (2) (1).png>)
 
-4\. The expiry of the coupon will be here for Non limited type coupons and users for limited type Coupons.
+4\. The expiry of the coupon will be here for Non-limited type coupons and users for limited type Coupons.
 
 ![](<../../.gitbook/assets/Untitled design (3) (11).png>)
 
@@ -26,7 +26,7 @@ To create coupons for clients for any promotional activities please follow this 
 
 ![](<../../.gitbook/assets/Untitled design (4) (4).png>)
 
-6\. The time and date created of this Coupon will appear here.
+6\. The time and date created this Coupon will appear here.
 
 ![](<../../.gitbook/assets/Untitled design (5) (1).png>)
 
@@ -34,11 +34,11 @@ To create coupons for clients for any promotional activities please follow this 
 
 ![](<../../.gitbook/assets/Untitled design (6) (8).png>)
 
-8\. Now to create a <mark style="color:orange;">**Limited Coupon**</mark>, Click the top of **Limited** then type your at **Coupon Name** also enter the Number of Users at **Number of Users** space. Now the discount percentage should be given at **Percent Discount** and choose your Plans from the Dropdown of **Plans**.
+8\. Now to create a <mark style="color:orange;">**Limited Coupon**</mark>, Click the top of **Limited** then type your **Coupon Name** also enter the Number of Users in the **Number of Users** space. Now the discount percentage should be given at **Percent Discount** and choose your Plans from the Dropdown of **Plans**.
 
 ![](<../../.gitbook/assets/Untitled design (7) (3).png>)
 
-9\. Now to create a <mark style="color:orange;">**Non**</mark> <mark style="color:orange;">**Limited Coupon**</mark>, Click the top of **Non** **Limited** then type your at **Coupon Name** also enter the expiry date at **Coupon Expiry** space. Now the discount percentage should be given at **Percent Discount** and choose your Plans from the Dropdown of **Plans**.
+9\. Now to create a <mark style="color:orange;">**Non-Limited Coupon**</mark>, Click the top of **Non-Limited** then type your **Coupon Name** also enter the expiry date in the **Coupon Expiry** space. Now the discount percentage should be given at **Percent Discount** and choose your Plans from the Dropdown of **Plans**.
 
 ![](<../../.gitbook/assets/Untitled design (8).png>)
 

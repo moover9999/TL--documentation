@@ -8,7 +8,7 @@ The residential purchases can be limited or even stopped. Follow the guide&#x20;
 
 ![](<../.gitbook/assets/1 (71) (2).png>)
 
-2\. Go to your admin dashboard then products and select the plan, Click on edit icon as shown below.
+2\. Go to your admin dashboard then products and select the plan, Click on the edit icon as shown below.
 
 ![](<../.gitbook/assets/1 (72) (3).png>)
 

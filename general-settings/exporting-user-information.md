@@ -8,6 +8,6 @@ This guide will help export the information such as discord ID, discord tag, dis
 Please note that Torch Labs does not take any responsibility for handling of user data. Please make sure your customers are aware of your data privacy policies. The responsibility for the user information lies solely in the hands of the user of this feature.
 {% endhint %}
 
-​1. Go to admin dashboard and _**Users**_ tab. Then click the download icon on right corner
+​1. Go to the admin dashboard and _**Users**_ tab. Then click the download icon on the right corner
 
 <figure><img src="../.gitbook/assets/2 (7).png" alt=""><figcaption></figcaption></figure>

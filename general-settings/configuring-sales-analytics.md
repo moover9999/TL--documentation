@@ -3,10 +3,10 @@
 {% hint style="info" %}
 This section will allow you to set the cost of your products in order to calculate the correct analytics data for your dashboard.
 
-Further this section will allow you to identify the profit , revenue , quantity and users related to Residential , datacenter and account sections separately.&#x20;
+Further, this section will allow you to separately identify the profit, revenue, quantity, and users related to the Residential , datacenter, and account sections.&#x20;
 {% endhint %}
 
-1. Go to dashboard Home page track analytics.
+1. Go to the dashboard Home page to track analytics.
 
 ![](<../.gitbook/assets/1 (62) (3).png>)
 
@@ -22,11 +22,11 @@ Further this section will allow you to identify the profit , revenue , quantity 
 
 ![](<../.gitbook/assets/1 (65) (4).png>)
 
-5\. The data entered will be converted into analytics and pop in your home page.
+5\. The data entered will be converted into analytics and pop up on your home page.
 
 ![](<../.gitbook/assets/1 (66) (5).png>)
 
-6\. Finally you can filter the analytics as you want with data and other features. This can be done only for Residential and Datacenter products. Based on the product you can generate the analytics accordingly.
+6\. Finally you can filter the analytics with data and other features. This can be done only for Residential and Datacenter products. Based on the product you can generate the analytics accordingly.
 
 <figure><img src="../.gitbook/assets/x (3).png" alt=""><figcaption><p>Residential Products</p></figcaption></figure>
 

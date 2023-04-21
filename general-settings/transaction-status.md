@@ -1,7 +1,7 @@
 # 🧪 Transaction status
 
 {% hint style="info" %}
-Our transaction section has 4 main types of transactions. This page will discuss what each of the statuses mean
+Our transaction section has 4 main types of transactions. This page will discuss what each of the statuses means.
 {% endhint %}
 
 ### Transaction Types

@@ -5,7 +5,7 @@ Please ensure you copy and paste the metadata tags exactly as shown in our guide
 {% endhint %}
 
 {% hint style="info" %}
-The _**amount**_ metadata/parameter in the data center and accounts tab is what dictates the quantity to be delivered. It is especially useful when using the automatic delivery mode as it will deliver exactly the quantity specified. For example, if you are selling subnets that come in the size of 254 ISPs, you can stack these on top of each other and the automatic mode will auto deliver the correct subnets to the right person.
+The _**amount**_ metadata/parameter in the data center and accounts tab is what dictates the quantity to be delivered. It is especially useful when using the automatic delivery mode as it will deliver exactly the quantity specified. For example, if you are selling subnets that come in the size of 254 ISPs, you can stack these on top of each other and the automatic mode will auto-deliver the correct subnets to the right person.
 {% endhint %}
 
 ## Residential Product&#x20;
@@ -26,11 +26,11 @@ The _**amount**_ metadata/parameter in the data center and accounts tab is what 
 
 **Example:**
 
-This is an example of the packet stream product. First field input _**torchlabs\_product**_ (this tag helps us identify the products that you make for the proxy dashboard vs other products on your Stripe account), and the second field is _**torchlabs\_basic**_ which is used to identify the _Packetstream_ API
+This is an example of the packet stream product. The first field input _**torchlabs\_product**_ (this tag helps us identify the products that you make for the proxy dashboard vs other products on your Stripe account), and the second field is _**torchlabs\_basic**_ which is used to identify the _Packetstream_ API
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-23 at 10.51.23 PM.png>)
 
-The next example is the quantity of the actual price section. In the below example, the customer will see a product on the dashboard for 15 GB of the Killer Basic plan for $140. We use the _**data\_gb**_ metadata tag to identify the quantity that is required to be delivered. If this tag is incorrect then they will not get any data delivered. In the field next to the _**data\_gb**_ we have the actual quantity in gigabytes, in this case 15 GB (only put the value and not the letters GB - again referring to this example, it will be just 15)
+The next example is the quantity of the actual price section. In the below example, the customer will see a product on the dashboard for 15 GB of the Killer Basic plan for $140. We use the _**data\_gb**_ metadata tag to identify the quantity that is required to be delivered. If this tag is incorrect then they will not get any data delivered. In the field next to the _**data\_gb**_ we have the actual quantity in gigabytes, in this case, 15 GB (only put the value and not the letters GB - again referring to this example, it will be just 15)
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-23 at 11.01.07 PM.png>)
 
@@ -54,10 +54,10 @@ The next example is the quantity of the actual price section. In the below examp
 
 **Example**
 
-This is an example of Data center product. First field input _**torchlabs\_product**_ (this tag helps us identify the products that you make for the proxy dashboard vs other products on your Stripe account), and the second field is _**torchlabs\_weekly**_ which is used to identify a unique product.
+This is an example of Datacenter product. The first field inputs _**torchlabs\_product**_ (this tag helps us identify the products that you make for the proxy dashboard vs other products on your Stripe account), and the second field is _**torchlabs\_weekly**_ which is used to identify a unique product.
 
 {% hint style="warning" %}
-There is some confusion regarding the terminology behind daily,weekly, monthly on the metadata -  These actually mean nothing. It is only used to differentiate between all the data center products. They can be used interchangeably as well. For example, if you are selling Yeezysupply daily proxies, you can use any of the 3 metadata tags&#x20;
+There is some confusion regarding the terminology behind daily, weekly, and monthly on the metadata -  These actually mean nothing. It is only used to differentiate between all the data center products. They can be used interchangeably as well. For example, if you are selling Yeezysupply daily proxies, you can use any of the 3 metadata tags&#x20;
 {% endhint %}
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-23 at 11.01.57 PM (1).png>)
@@ -69,7 +69,7 @@ The next example is the quantity of the actual price section. In the below examp
 ## Account Product
 
 {% hint style="info" %}
-With the Accounts Product, you can make up to 9 unique products (if you need more let us know!) and unlike data center, the metadata is all the same for all the products...we use some magic behind the scene to make it all work!
+With the Accounts Product, you can make up to 9 unique products (if you need more let us know!) and unlike datacenter, the metadata is all the same for all the products...we use some magic behind the scene to make it all work!
 {% endhint %}
 
 {% content-ref url="../data-center-and-accounts/adding-account-products.md" %}
@@ -84,7 +84,7 @@ You can repeat the above metadata for up to 9 products.
 
 **Example:**
 
-This is an example of an Account product. First field input _**torchlabs\_product**_ (this tag helps us identify the products that you make for the proxy dashboard vs other products on your Stripe account), and the second field is _**torchlabs\_accounts**_ which is used to identify an accounts product.
+This is an example of an Account product. The first field inputs _**torchlabs\_product**_ (this tag helps us identify the products that you make for the proxy dashboard vs other products on your Stripe account), and the second field is _**torchlabs\_accounts**_ which is used to identify an accounts product.
 
 ![](<../.gitbook/assets/Screen Shot 2022-03-23 at 11.27.43 PM.png>)
 

@@ -5,9 +5,9 @@ The history of transactions can be tracked here.
 {% endhint %}
 
 {% hint style="info" %}
-Now we have divided the transactions into 02 sections such as one time (Payments) and recurring (subscription).
+We have divided the transactions into 02 sections: one-time (Payments) and recurring (subscription).
 
-Please refer to  following tab for more details.
+Please refer to the following tab for more details.
 
 [subscription.md](subscription.md "mention")
 {% endhint %}
@@ -32,7 +32,7 @@ Please refer to  following tab for more details.
 
 ![](<../../.gitbook/assets/1 (53).png>)
 
-6\. Price per gb/ data purchased will be here.
+6\. Price per GB/ data purchased will be here.
 
 ![](<../../.gitbook/assets/1 (54).png>)
 
@@ -47,7 +47,7 @@ Please refer to  following tab for more details.
 {% endcontent-ref %}
 
 {% hint style="warning" %}
-An order is incomplete if payment is received but the data has not been received by the user. This sometimes happens due to the upstream provider's API failing. In this case, we recommend you to go to the USERS tab and manually add data to their account.&#x20;
+An order is incomplete if payment is received but the data has not been received by the user. This sometimes happens due to the upstream provider's API failing. In this case, we recommend you go to the USERS tab and manually add data to their account.&#x20;
 {% endhint %}
 
 ![](<../../.gitbook/assets/1 (57).png>)
@@ -56,7 +56,7 @@ An order is incomplete if payment is received but the data has not been received
 
 ![](<../../.gitbook/assets/1 (59) (2).png>)
 
-10\. The transaction can be filtered by the status and the date .&#x20;
+10\. The transaction can be filtered by status and date.&#x20;
 
 {% hint style="success" %}
 We always recommend keeping the status set to ALL
