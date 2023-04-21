@@ -1,4 +1,4 @@
-# Creating a batch
+# 📶 Creating a batch
 
 Creating a batch is the process of enabling stock so that your customers can purchase your products. This is important for both Accounts and Data Center/ISP-type products. We have a few options for creating a batch as listed below. Please visit each and select the most appropriate for your business needs.
 

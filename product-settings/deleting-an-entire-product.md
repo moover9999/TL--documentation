@@ -1,5 +1,9 @@
 # 🗑 Deleting an entire product
 
+{% hint style="warning" %}
+You should not delete any of the products instead archive the products on Stripe.
+{% endhint %}
+
 1. To remove a product, you must archive all the prices associated with the target product following the below guide.
 
 {% content-ref url="deleting-a-product-price.md" %}

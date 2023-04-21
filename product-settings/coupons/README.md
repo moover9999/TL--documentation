@@ -4,6 +4,12 @@
 > Disclaimer - For subscription products if you create a coupon it applies to every recurring payment and not only for the initial payment. One-time coupons coming soon.
 {% endhint %}
 
+{% hint style="info" %}
+> If you want to create a one-time coupon for a subscription product please follow this guide.
+>
+> [how-to-create-a-coupon-for-subscription-product-to-apply-only-for-the-first-month.md](../../errors-and-faq/how-to-create-a-coupon-for-subscription-product-to-apply-only-for-the-first-month.md "mention")
+{% endhint %}
+
 To create coupons for clients for any promotional activities please follow this guide.
 
 1. This will be the Coupon Session, Where coupons can be created for customers.&#x20;

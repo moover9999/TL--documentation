@@ -4,10 +4,10 @@
 The steps for an Account Product is the same as below. However, you will need to do the steps in the _Accounts_ tab instead of the _Datacenter_ tab.
 {% endhint %}
 
-{% hint style="info" %}
-If you are going to update / edit products When the proxies are active , editing product may cause to delete the stock in the batches. Therefore please make sure to back up them before editing the products.
+{% hint style="warning" %}
+If you are going to update/edit products When the proxies are active, editing products may cause you to delete the stock in the batches. Therefore please make sure to back up them before editing the products.
 
-This only affects manual and automatic mode whereas it doesn't affect on API mode.
+This only affects manual and automatic modes whereas it doesn't affect API mode.
 {% endhint %}
 
 {% content-ref url="../product-settings/product-metadata.md" %}
@@ -21,7 +21,7 @@ Any product can have two types of prices:&#x20;
 2. Recurring - Customer is billed on a recurring basis (eg: Monthly)
 {% endhint %}
 
-1\. Firstly, Log in to the Stripe Account.
+1\. First, Log in to the Stripe Account.
 
 ![](<../.gitbook/assets/Untitled design (1) (2).png>)
 
@@ -29,7 +29,7 @@ Any product can have two types of prices:&#x20;
 
 ![](<../.gitbook/assets/Untitled design (2) (9).png>)
 
-3\. Next _**Add Products**_ as data center plan.
+3\. Next _**Add Products**_ to datacenter plan.
 
 ![](<../.gitbook/assets/Untitled design (3) (12).png>)
 
@@ -63,7 +63,7 @@ More info regarding recurring pricing can be found below:
 
 ![](<../.gitbook/assets/1 (44).png>)
 
-9\. Then add Metadata tags we have provided for the _**MetaData**_ section that can be found below.  Then save the product.&#x20;
+9\. Then add the Metadata tags we have provided for the _**MetaData**_ section that can be found below.  Then save the product.&#x20;
 
 {% hint style="info" %}
 Copy and Paste from the below to omit any errors.
@@ -71,7 +71,7 @@ Copy and Paste from the below to omit any errors.
 
 The first field should have <mark style="color:red;">`torchlabs_product`</mark>
 
-The next field is where we capture if you are making a daily/weekly/monthly product. Therefore, we use the folowing identifiers. (Each product can have only one Identifier, so if you want to make weekly and monthly DC plans, you will need to make two individual products)
+The next field is where we capture if you are making a daily/weekly/monthly product. Therefore, we use the following identifiers. (Each product can have only one Identifier, so if you want to make weekly and monthly DC plans, you will need to make two individual products)
 
 <mark style="color:red;">`torchlabs_accounts`</mark>
 
@@ -101,5 +101,5 @@ In this example, there will be 10 proxies being delivered to the customer.
 
 ![](<../.gitbook/assets/Screenshot (966).png>)
 
-15\. If everything goes well you should see your plans ,You can repeat this process to create the other Data Center and ISP products.&#x20;
+15\. If everything goes well you should see your plans, You can repeat this process to create the other Data Center and ISP products.&#x20;
 

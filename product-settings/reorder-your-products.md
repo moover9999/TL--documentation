@@ -4,7 +4,7 @@
 In order to change the position of your plans in the dashboard follow the guide.
 {% endhint %}
 
-1. The dashboard plans position can be changed.
+1. You can change the position of the products on customer dashboard
 
 ![](<../.gitbook/assets/1 (71) (5).png>)
 
@@ -12,6 +12,6 @@ In order to change the position of your plans in the dashboard follow the guide.
 
 ![](<../.gitbook/assets/1 (72) (6).png>)
 
-3\. Finally reload the dashbaord the changes will be appeared.
+3\. Finally reload the dashboard to have the changes appear.
 
 ![](<../.gitbook/assets/1 (73) (4).png>)

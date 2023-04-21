@@ -42,7 +42,7 @@
 
 * [✅ Adding data center products](data-center-and-accounts/adding-data-center-products.md)
 * [✅ Adding account products](data-center-and-accounts/adding-account-products.md)
-* [Creating a batch](data-center-and-accounts/creating-a-batch/README.md)
+* [📶 Creating a batch](data-center-and-accounts/creating-a-batch/README.md)
   * [🔧 Creating a manual batch](data-center-and-accounts/creating-a-batch/creating-a-manual-batch.md)
   * [🤖 Creating an automatic batch](data-center-and-accounts/creating-a-batch/creating-an-automatic-batch.md)
   * [⚓ Creating a Torch Labs PAYG ISP API batch](data-center-and-accounts/creating-a-batch/creating-a-torch-labs-payg-isp-api-batch.md)

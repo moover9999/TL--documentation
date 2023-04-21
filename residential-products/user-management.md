@@ -8,13 +8,17 @@ This guide will help you to keep track of your dashboard logged ins.&#x20;
 
 ![](<../.gitbook/assets/Untitled design (4) (10).png>)
 
-2\. You can also search for a user by their Discord ID.
+2\. You can also search for a user by their email ID, Discord ID or Discord Tag.
+
+{% content-ref url="../more-settings/filtering-users.md" %}
+[filtering-users.md](../more-settings/filtering-users.md)
+{% endcontent-ref %}
 
 {% hint style="info" %}
 How to get Discord ID: [https://youtu.be/VTgVsQ0gwKM](https://youtu.be/VTgVsQ0gwKM)
 {% endhint %}
 
-Click the user to top manually.
+Click on the user to view user data.
 
 ![](<../.gitbook/assets/Untitled design (5).png>)
 

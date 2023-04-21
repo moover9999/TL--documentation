@@ -4,6 +4,10 @@
 This guide will be useful if any of the products' prices are to be eliminated.
 {% endhint %}
 
+{% hint style="warning" %}
+You should not delete any of the products instead archive the products on Stripe.
+{% endhint %}
+
 1. To remove the price of a product, this guide will be helpful. As mentioned below To remove the price of the Plan Killer Basic data follow the guide.&#x20;
 
 ![](<../.gitbook/assets/Untitled design (24).png>)
@@ -24,14 +28,10 @@ This guide will be useful if any of the products' prices are to be eliminated.
 
 ![](<../.gitbook/assets/Untitled design (4) (12).png>)
 
-6\. Copy the metadata, And if you know the metadata then you don't have to copy it.&#x20;
-
-![](<../.gitbook/assets/Untitled design (5) (5).png>)
-
-7\. The existing price needs to be archived before adding new, In order to do that click the three dots marked and you will get some options from that choose archive price.&#x20;
+6\. The existing price needs to be archived before adding a new one, In order to do that click the three dots marked and you will get some options from that choose archive price.&#x20;
 
 ![](<../.gitbook/assets/Untitled design (7) (5).png>)
 
-8\. Again back to Dashboard, Now Sync with stripe. Finally, refresh the page again.&#x20;
+7\. Again back to Dashboard, Now Sync with Stripe. Finally, refresh the page again.&#x20;
 
 ![](<../.gitbook/assets/1 (2) (1).png>)

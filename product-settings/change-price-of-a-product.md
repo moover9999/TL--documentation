@@ -2,8 +2,10 @@
 
 {% hint style="info" %}
 This guide will be useful if the prices of any of the products are adjusted or eliminated.
+{% endhint %}
 
-
+{% hint style="info" %}
+Sometimes stripe will not allow you to edit a price if the price has already been purchased by a customer. In this case, you first need to delete the price [deleting-a-product-price.md](deleting-a-product-price.md "mention") and you should need to create a new price.
 {% endhint %}
 
 1. To change or remove the price of a product, this guide will be helpful. As mentioned below To change the price of the Plan Killer Basic data follow the guide.&#x20;
@@ -42,11 +44,15 @@ This guide will be useful if the prices of any of the products are adjusted or e
 
 ![](<../.gitbook/assets/Untitled design (8) (6).png>)
 
-10\. Then click above the change made price.
+10\. Then click on the desired price.
 
 ![](<../.gitbook/assets/Untitled design (9) (6).png>)
 
 11\. Then edit Metadata and insert the value finally save metadata.&#x20;
+
+{% content-ref url="product-metadata.md" %}
+[product-metadata.md](product-metadata.md)
+{% endcontent-ref %}
 
 ![](<../.gitbook/assets/1 (21).png>)
 

@@ -12,7 +12,15 @@ Please refer to the following tab for more details.
 [subscription.md](subscription.md "mention")
 {% endhint %}
 
-1. Now transactions can be searched using an email.
+1. Transactions can be filtered using different filters as follows.
+
+{% content-ref url="../../more-settings/searching-transactions.md" %}
+[searching-transactions.md](../../more-settings/searching-transactions.md)
+{% endcontent-ref %}
+
+{% content-ref url="../transaction-status.md" %}
+[transaction-status.md](../transaction-status.md)
+{% endcontent-ref %}
 
 ![](<../../.gitbook/assets/1 (48) (2).png>)
 
@@ -28,11 +36,11 @@ Please refer to the following tab for more details.
 
 ![](<../../.gitbook/assets/1 (52) (2).png>)
 
-5\. The GB/ DATA purchased can be seen here&#x20;
+5\. The GB/ DATA/Quantity purchased can be seen here&#x20;
 
 ![](<../../.gitbook/assets/1 (53).png>)
 
-6\. Price per GB/ data purchased will be here.
+6\. Purchased Price per GB/Data/Quantity will be shown here.
 
 ![](<../../.gitbook/assets/1 (54).png>)
 
@@ -40,7 +48,7 @@ Please refer to the following tab for more details.
 
 ![](<../../.gitbook/assets/1 (56).png>)
 
-8\. The transaction type and status of the transaction can be seen here. Orders can have two main es: Completed and Incomplete.
+8\. The transaction type and status of transaction can be seen here. Orders can have two main es: Completed and Incomplete.
 
 {% content-ref url="../transaction-status.md" %}
 [transaction-status.md](../transaction-status.md)

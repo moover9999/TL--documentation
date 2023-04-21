@@ -31,7 +31,7 @@ Any product can have two types of prices:&#x20;
 
 ![](<../.gitbook/assets/Untitled design (2) (9).png>)
 
-3\. Next _**Add Product**_ as data center plan.
+3\. Next _**Add Product**_ as datacenter plan.
 
 ![](<../.gitbook/assets/Untitled design (3) (12).png>)
 
@@ -69,7 +69,7 @@ More info regarding recurring pricing can be found below:
 
 ![](<../.gitbook/assets/1 (44).png>)
 
-9\. Then add Metadata tags we have provided for the _**MetaData**_ section that can be found below.  Then save the product.&#x20;
+9\. Then add the Metadata tags we have provided for the _**MetaData**_ section that can be found below.  Then save the product.&#x20;
 
 {% hint style="info" %}
 Copy and Paste from the below to omit any errors.

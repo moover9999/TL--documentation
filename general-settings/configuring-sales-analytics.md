@@ -10,11 +10,11 @@ Further, this section will allow you to separately identify the profit, revenue,
 
 ![](<../.gitbook/assets/1 (62) (3).png>)
 
-2\. To filter analytics go to more settings and scroll below.
+2\. To configure analytics go to more settings and scroll below.
 
 ![](<../.gitbook/assets/1 (63) (3).png>)
 
-3\. Enter the data required.
+3\. Enter the cost of your products
 
 ![](<../.gitbook/assets/1 (64) (6).png>)
 
@@ -22,12 +22,10 @@ Further, this section will allow you to separately identify the profit, revenue,
 
 ![](<../.gitbook/assets/1 (65) (4).png>)
 
-5\. The data entered will be converted into analytics and pop up on your home page.
+5\. If you go to the home section you should be able to see your analytics page has the correct profit breakdown and revenue numbers based on the costs that you entered in analytics under the Other Settings tab.
 
 ![](<../.gitbook/assets/1 (66) (5).png>)
 
-6\. Finally you can filter the analytics with data and other features. This can be done only for Residential and Datacenter products. Based on the product you can generate the analytics accordingly.
+6\. Finally you can filter the analytics with data and other features. Based on thefilters you can generate the appropriate view you desire.
 
 <figure><img src="../.gitbook/assets/x (3).png" alt=""><figcaption><p>Residential Products</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/y (3).png" alt=""><figcaption><p>Datacenter Products</p></figcaption></figure>

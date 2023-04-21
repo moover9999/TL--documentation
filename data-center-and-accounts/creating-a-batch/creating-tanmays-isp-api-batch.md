@@ -24,6 +24,6 @@ Upon successful registration, all APIs, including Custom Proxies, will be availa
 
 At this stage, it is now possible to combine ISP APIs and multiple subnets, delivering the stock in one batch. However, to create multiple subnets together, a minimum of two ISP APIs must be registered.
 
-4\. Now you can add a stock limit and duration for expiration. Then tick confirm and select launch. At this point the combination of the batch has to be equal or more than the stock limit.
+4\. Now you can add a stock limit and duration for expiration. Then tick confirm and select launch. At this point, the combination of the batch has to be equal to or more than the stock limit.
 
 <figure><img src="../../.gitbook/assets/z (1) (1).png" alt=""><figcaption></figcaption></figure>

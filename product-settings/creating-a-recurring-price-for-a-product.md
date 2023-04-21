@@ -53,4 +53,4 @@ For detailed instructions refer to each product setup page and metadata can be f
 
 ![](<../.gitbook/assets/Screen Shot 2022-06-26 at 12.42.35 PM.png>)
 
-6\. Finally, head over the admin dashboard and sync your products following the usualy process.
+6\. Finally, head over to the admin dashboard and sync your products following the usual process.

@@ -8,7 +8,7 @@ This section will guide you on how to create an ISP API batch for a registered A
 
 <figure><img src="../../.gitbook/assets/5 (9).png" alt=""><figcaption></figcaption></figure>
 
-2\. Click on the dropdown list before new batch.
+2\. Click on the dropdown list before the new batch.
 
 <figure><img src="../../.gitbook/assets/x (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -20,10 +20,10 @@ You can select the API only if you have already registered an API using the foll
 [adding-and-removing-isp-api.md](../../more-settings/adding-and-removing-isp-api.md)
 {% endcontent-ref %}
 
-If you precisely registered, all the APIs would appear under the dropdown list including _Porter Proxies_. ISP API batch type for all the customers are now shown as Porter Proxies. Accordingly choose the relevant option when creating the new batch.
+If you precisely registered, all the APIs would appear under the dropdown list including _Porter Proxies_. ISP API batch types for all the customers are now shown as Porter Proxies. Accordingly, choose the relevant option when creating the new batch.
 
-At this stage it gives the ability to assign one product / batch and deliver the stock in one batch.
+At this stage, it gives the ability to assign one product/batch and deliver the stock in one batch.
 
-4\. Now you can add a stock limit and duration for expiration. Then tick confirm and select launch. At this point the combination of the batch has to be equal or more than the stock limit.
+4\. Now you can add a stock limit and duration for expiration. Then tick confirm and select launch. At this point, the combination of the batch has to be equal to or more than the stock limit.
 
 <figure><img src="../../.gitbook/assets/z (1) (1).png" alt=""><figcaption></figcaption></figure>
