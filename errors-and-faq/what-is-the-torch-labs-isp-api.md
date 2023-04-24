@@ -1,6 +1,6 @@
 # ❔ What is the Torch Labs ISP API
 
-Pay As You Go ISP Proxies You no longer need to commit to multiple subnets over months and months! With our pay as you go ISP proxies, you get the same price as other major providers without the hassle of having long term commitments! You can start with as little as 10 proxies! You are billed at the end of each month!
+Pay As You Go ISP Proxies You no longer need to commit to multiple subnets over months and months! With our pay-as-you-go ISP proxies, you get the same price as other major providers without the hassle of having long-term commitments! You can start with as little as 10 proxies! You are billed at the end of each month!
 
 You can also provide multiple countries within seconds! We have plenty of stock across the globe and can deploy proxies instantly for you.
 

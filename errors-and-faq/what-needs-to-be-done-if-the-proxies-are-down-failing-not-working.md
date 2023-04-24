@@ -1,6 +1,6 @@
 # ❔ What needs to be done if the proxies are down / failing / not working ?
 
-There are few things you can do such as checking your data balance and connection. If it is still not working please send us following details.
+There are a few things you can do such as checking your data balance and connection. If it is still not working please send us the following details.
 
 01\. Send us some proxies
 

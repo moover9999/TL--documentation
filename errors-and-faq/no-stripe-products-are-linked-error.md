@@ -8,13 +8,13 @@ description: >-
 
 Please follow the following steps to address the error.
 
-1. First of all check whether the details are added under the correct stripe account which is Torch Labs. If not select the correct account.
+1. First of all, check whether the details are added under the correct stripe account which is Torch Labs. If not select the correct account.
 
 <figure><img src="../.gitbook/assets/3 (8).png" alt=""><figcaption></figcaption></figure>
 
-2\. Then check whether  the stripe set up is completed. If not please complete the stripe set up.
+2\. Then check whether the stripe setup is completed. If not please complete the stripe setup.
 
-3\. Check whether you have added products if not add products on stripe by clicking "Add Product"
+3\. Check whether you have added products if not add products on the stripe by clicking "Add Product"
 
 <figure><img src="../.gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>
 

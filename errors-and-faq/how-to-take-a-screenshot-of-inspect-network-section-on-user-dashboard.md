@@ -12,4 +12,5 @@ Make sure you are on Google Chrome or else if you are using Safari make sure to 
 
 <figure><img src="../.gitbook/assets/y (1).png" alt=""><figcaption></figcaption></figure>
 
-3. While you are on the network tab refresh the page and send a screenshot.
+3. Please refresh the page
+4. While you are on the network tab refresh the page and send a screenshot.

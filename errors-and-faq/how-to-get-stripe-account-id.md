@@ -1,7 +1,7 @@
 # ❔ How to get stripe account ID ?
 
 1. Go to the relevant stripe account
-2. You can refer to the following link to find Stripe account ID
+2. You can refer to the following link to find your Stripe account ID
 
 {% embed url="https://dashboard.stripe.com/settings/account" %}
 

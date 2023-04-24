@@ -6,9 +6,9 @@ description: >-
 
 # ❔ Error 400
 
-Please follow the following steps to address the error as following reasons are the cause of this error.
+Please follow the following steps to address the error as the following reasons are the cause of this error.
 
-1. First of all check whether the details are added under the correct stripe account which is Torch Labs. If not select the correct account.
+1. First of all, check whether the details are added under the correct stripe account which is Torch Labs. If not select the correct account.
 
 <figure><img src="../.gitbook/assets/3 (8).png" alt=""><figcaption></figcaption></figure>
 

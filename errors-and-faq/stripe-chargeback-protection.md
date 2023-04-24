@@ -7,7 +7,7 @@ As soon as you suspect fraudulent activity, it is HIGHLY recommended that you en
 {% hint style="warning" %}
 Chargeback protection costs 0.4% extra on top of normal stripe fees on all transactions. More info here: [https://stripe.com/radar/chargeback-protection](https://stripe.com/radar/chargeback-protection)
 
-Also note that not all accounts are eligible to have this feature, so if you are lucky, do turn it on.
+Also, note that not all accounts are eligible to have this feature, so if you are lucky, do turn it on.
 {% endhint %}
 
 1. Go here: [https://dashboard.stripe.com/settings/checkout](https://dashboard.stripe.com/settings/checkout)
