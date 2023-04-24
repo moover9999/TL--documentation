@@ -7,7 +7,7 @@ description: >-
 
 # 💵 Enabling collecting stripe VAT
 
-1. Click on More Settings
+1. Click on _More Settings_
 
 <figure><img src="../.gitbook/assets/1 (14).png" alt=""><figcaption></figcaption></figure>
 

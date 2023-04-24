@@ -1,7 +1,7 @@
 # 🎞 Transaction discord webhook
 
 {% hint style="info" %}
-Enable this feature to get transactions such as purchases, renewals etc. directly recorded into your discord server.
+Enable this feature to get transactions such as purchases, renewals, etc. directly recorded into your discord server.
 {% endhint %}
 
 1. Select _**server settings**_ on discord
@@ -15,6 +15,6 @@ Enable this feature to get transactions such as purchases, renewals etc. directl
 
 4\. Click _**Save Changes**_
 
-5\. Click _**copy webhook URL**_ and paste on dashboard, enable _**disable webhook**_ and click _**Save.**_
+5\. Click _**copy webhook URL**_ and paste on the dashboard, enable _**disable webhook**_ and click _**Save.**_
 
 ![](<../.gitbook/assets/7 (1).jpg>)

@@ -1,14 +1,14 @@
-# 🗑 Delete pending a transaction
+# 🗑 Delete a pending transaction (manual batch)
 
 {% hint style="info" %}
-To keep the Dashboard clean without pending and unsuccessful orders, It can be deleted as following.
+To keep the Dashboard clean without pending and unsuccessful orders, It can be deleted as follows.
 {% endhint %}
 
 1. Go to your dashboard and click Datacenter.
 
 ![](<../.gitbook/assets/1 (62) (4).png>)
 
-2\. The transactions that are incomplete you can see delete icon click that.
+2\. For The transactions that are incomplete you can see the delete icon and click that.
 
 ![](<../.gitbook/assets/1 (63).png>)
 

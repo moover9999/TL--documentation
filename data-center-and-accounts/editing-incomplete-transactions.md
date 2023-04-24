@@ -18,7 +18,7 @@ This guide will help you to edit the incomplete transactions in Datacenter and A
 
 <figure><img src="../.gitbook/assets/4 (6).png" alt=""><figcaption></figcaption></figure>
 
-3\. Then you can edit the proxies either by editing them or replacing with new ones.
+3\. Then you can edit the proxies either by editing them or replacing them with new ones.
 
 <figure><img src="../.gitbook/assets/6 (8).png" alt=""><figcaption></figcaption></figure>
 

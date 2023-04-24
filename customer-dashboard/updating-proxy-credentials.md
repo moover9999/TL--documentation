@@ -8,7 +8,7 @@ This guide will help you to update the credentials of proxies.
 This function only works for Oxylabs & Smart Proxies.
 {% endhint %}
 
-1. First you need to access the user settings
+1. First, you need to access the user settings
 
 {% content-ref url="access-user-settings.md" %}
 [access-user-settings.md](access-user-settings.md)

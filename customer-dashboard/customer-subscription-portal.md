@@ -1,7 +1,7 @@
 # 🏧 Customer subscription portal
 
 {% hint style="info" %}
-This guide will help you set up subscription management within stripe and will help you customize the functionality of the customer portal.
+This guide will help you set up subscription management within Stripe and will help you customize the functionality of the customer portal.
 {% endhint %}
 
 Our customer-facing dashboard has a new settings page where customers can now see their Stripe billing portal.&#x20;

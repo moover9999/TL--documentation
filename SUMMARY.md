@@ -56,7 +56,8 @@
 * [🚧 Add a stock limit to a batch](data-center-and-accounts/add-a-stock-limit-to-a-batch.md)
 * [💌 Leave a note on an order](data-center-and-accounts/leave-a-note-on-an-order.md)
 * [🗑 Delete a pending transaction (manual batch)](data-center-and-accounts/delete-a-pending-transaction-manual-batch.md)
-* [🪜 Add expiration date](data-center-and-accounts/add-expiration-date.md)
+* [🪜 Add an expiration date to a batch](data-center-and-accounts/add-an-expiration-date-to-a-batch.md)
+* [👽 Edit expiration date](data-center-and-accounts/edit-expiration-date.md)
 * [⚕ Editing incomplete transactions](data-center-and-accounts/editing-incomplete-transactions.md)
 
 ## ⚙ More Settings
@@ -65,7 +66,7 @@
   * [👥 Limited password release](more-settings/password-page/limited-password-release.md)
   * [⏰ Non-limited password release](more-settings/password-page/non-limited-password-release.md)
 * [🎞 Transaction discord webhook](more-settings/transaction-discord-webhook.md)
-* [📣 Notifications for transactions](more-settings/notifications-for-transactions.md)
+* [📣 Email notifications for transactions](more-settings/email-notifications-for-transactions.md)
 * [🎰 Enabling TOS pop-up](more-settings/enabling-tos-pop-up.md)
 * [🎟 Enable discord auto join](more-settings/enable-discord-auto-join.md)
 * [🛡 Restrict dashboard access](more-settings/restrict-dashboard-access.md)
@@ -76,6 +77,7 @@
 * [🚡 Searching Transactions](more-settings/searching-transactions.md)
 * [✂ Adding and Removing ISP API](more-settings/adding-and-removing-isp-api.md)
 * [💰 Enabling Stripe Tax](more-settings/enabling-stripe-tax.md)
+* [💵 Enabling collecting stripe VAT](more-settings/enabling-collecting-stripe-vat.md)
 * [🎭 Dashboard UI](more-settings/dashboard-ui/README.md)
   * [🔏 Uploading Primary Logo](more-settings/dashboard-ui/uploading-primary-logo.md)
   * [➰ Uploading Secondary Logo](more-settings/dashboard-ui/uploading-secondary-logo.md)
@@ -83,7 +85,6 @@
   * [🌀 Updating Twitter Link](more-settings/dashboard-ui/updating-twitter-link.md)
   * [💿 Updating Discord Link](more-settings/dashboard-ui/updating-discord-link.md)
   * [🌐 Updating Theme](more-settings/dashboard-ui/updating-theme.md)
-* [💵 Enabling collecting stripe VAT](more-settings/enabling-collecting-stripe-vat.md)
 
 ## Onboarding Guide
 
@@ -114,8 +115,8 @@
 
 ## Errors & FAQ
 
-* [Stripe Radar](errors-and-faq/stripe-radar.md)
-* [Stripe chargeback protection](errors-and-faq/stripe-chargeback-protection.md)
+* [❔ Stripe Radar](errors-and-faq/stripe-radar.md)
+* [❔ Stripe chargeback protection](errors-and-faq/stripe-chargeback-protection.md)
 * [❔ No stripe products are linked error](errors-and-faq/no-stripe-products-are-linked-error.md)
 * [❔ Error 400](errors-and-faq/error-400.md)
 * [❔ Error 504](errors-and-faq/error-504.md)

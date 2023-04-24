@@ -4,6 +4,10 @@
 This section will guide you on how to upload the primary logo. The primary logo is the logo which would appear on your user dashboard - left side corner.
 {% endhint %}
 
+{% hint style="info" %}
+Once you upload the logo it might take a few hours for the logo to appear on the dashboard.
+{% endhint %}
+
 1. Go to Admin Dashboard and click on More Settings
 
 <figure><img src="../../.gitbook/assets/2 (8).png" alt=""><figcaption></figcaption></figure>

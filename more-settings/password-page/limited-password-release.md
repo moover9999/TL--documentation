@@ -8,7 +8,7 @@ Limited passwords are restricted by the number of unique users. For example, you
 We recommend this for group buys!
 {% endhint %}
 
-1. In the pop up, you need to enter the password and the number of valid Users.
+1. In the pop-up, you need to enter the password and the number of valid Users.
 
 ![](<../../.gitbook/assets/Screen Shot 2022-01-23 at 8.09.54 PM.png>)
 

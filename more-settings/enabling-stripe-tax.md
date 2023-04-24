@@ -8,13 +8,11 @@ This section will guide you on how to enable stripe tax. When this option is ena
 First you need to enable stripe tax on your stripe dashboard using the following instructions : [https://stripe.com/docs/tax/set-up](https://stripe.com/docs/tax/set-up)
 {% endhint %}
 
-{% hint style="info" %}
-Be cautious about the following error
-{% endhint %}
+{% hint style="warning" %}
+Be cautious about the following error&#x20;
 
-{% content-ref url="../errors-and-faq/why-is-the-customer-isp-plan-says-can-not-checkout.md" %}
-[why-is-the-customer-isp-plan-says-can-not-checkout.md](../errors-and-faq/why-is-the-customer-isp-plan-says-can-not-checkout.md)
-{% endcontent-ref %}
+[why-is-the-customer-isp-plan-says-can-not-checkout.md](../errors-and-faq/why-is-the-customer-isp-plan-says-can-not-checkout.md "mention")
+{% endhint %}
 
 1. Go to Admin Dashboard and click on More Settings
 

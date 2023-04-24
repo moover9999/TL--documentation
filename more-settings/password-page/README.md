@@ -24,4 +24,4 @@ If you need a more secure way to restrict the dashboard, please check :
 
 ![](<../../.gitbook/assets/Screen Shot 2022-01-23 at 8.09.46 PM (1).png>)
 
-4\. Next you will be greeted with a pop up that has two options: Limited & Non-Limited
+4\. Next you will be greeted with a pop-up that has two options: Limited & Non-Limited

@@ -1,5 +1,9 @@
 # 🪡 Setting Up A Domain
 
+{% hint style="info" %}
+We recommend you buy a domain from GoDaddy, Name Cheap, or Google domain.
+{% endhint %}
+
 Buying Domain From GoDaddy
 
 {% embed url="https://www.youtube.com/watch?t=8s&v=z-AsgoQrnTk" %}

@@ -1,14 +1,14 @@
 # 🛡 Restrict dashboard access
 
 {% hint style="info" %}
-You can always restrict or provide access to the ones you want to give, To have more control over the dashboard follow the below steps. According to the restricted access it is a must to match the condition of been in the server and having a role both to be authorized the access.
+You can always restrict or provide access to the ones you want to give, To have more control over the dashboard follow the below steps. According to the restricted access, it is a must to match the condition of being in the server and having a role both to be authorized the access.
 {% endhint %}
 
 1. Go to the admin dashboard scroll below and click more settings and disable restricted access.
 
 ![](<../.gitbook/assets/1 (1).jpg>)
 
-2\. Go to discord right-click the server and you will find the copy server.
+2\. Go to Discord right-click the server and you will find the copy server.
 
 ![](<../.gitbook/assets/2 (1).jpg>)
 
@@ -18,7 +18,7 @@ You can always restrict or provide access to the ones you want to give, To have 
 
 ![](../.gitbook/assets/5.jpg)
 
-4\. You can also restrict the access to the dashboard by a customers role. To do this go to discord server settings, select the roles and then click the 3 dots next to the particular role to copy the ID.
+4\. You can also restrict access to the dashboard by a customer's role. To do this go to discord server settings, select the roles and then click the 3 dots next to the particular role to copy the ID.
 
 ![](../.gitbook/assets/5.1.jpg)
 

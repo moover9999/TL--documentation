@@ -1,4 +1,4 @@
-# Stripe chargeback protection
+# ❔ Stripe chargeback protection
 
 {% hint style="danger" %}
 As soon as you suspect fraudulent activity, it is HIGHLY recommended that you enable this feature. It is more than worth the cost.

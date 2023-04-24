@@ -22,13 +22,13 @@ The **DROPTLETS** is where all your servers exist
 
 _Load balancing_ refers to efficiently distributing incoming network traffic across a group of backend servers, also known as a server farm or server pool.
 
-### What is a server (DO refers to servers as droplet)?
+### What is a server (DO refers to servers as droplets)?
 
 In computing, a server is a piece of computer hardware or software that provides functionality for other programs or devices, called "clients".
 
 ### Managing your load balancer
 
-Our special masking script is installed on your servers. This script routes the traffic to the proxy domain via the server acting as a middle man. However, all the initial traffic comes to one main point which is the load balancers. Then the load balancer distributes this traffic to one or more connected servers.
+Our special masking script is installed on your servers. This script routes the traffic to the proxy domain via the server acting as a middleman. However, all the initial traffic comes to one main point which is the load balancers. Then the load balancer distributes this traffic to one or more connected servers.
 
 ![](<../.gitbook/assets/image (10).png>)
 

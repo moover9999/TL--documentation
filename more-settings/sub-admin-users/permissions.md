@@ -1,14 +1,12 @@
----
-description: >-
-  This guide includes all the permission roles could be assigned to a sub admin
-  user.
----
-
 # ⛳ Permissions
+
+{% hint style="info" %}
+This guide includes all the permission roles that could be assigned to a sub-admin user.
+{% endhint %}
 
 * `all_residential` , `all_datacenter`, `all_accounts`
 
-These permissions allow users to view, edit, delete, and sync residential, datacenter, and accounts products. Also allows to create a batch for datacenter and accounts
+These permissions allow users to view, edit, delete, and sync residential, datacenter, and accounts products. Also allows creating a batch for datacenter and accounts
 
 <figure><img src="../../.gitbook/assets/1 (9).png" alt=""><figcaption><p>All Products</p></figcaption></figure>
 
@@ -26,11 +24,11 @@ These permissions allow users to view only residential, datacenter, and accounts
 
 * `create_residential` , `create_datacenter`, `create_accounts`
 
-These permissions allow users to sync a residential, datacenter, and accounts products. and also user needs view permission for products to create.
+These permissions allow users to sync residential, datacenter, and accounts products. and also user needs view permission for products to create.
 
 * `update_residential` , `update_datacenter`, `update_accounts`
 
-These permissions allow users to enable and disable residential, datacenter, and accounts products, create batches for datacenter and accounts and edit the description of all products. Also users need view permission for products to update.
+These permissions allow users to enable and disable residential, datacenter, and accounts products, create batches for datacenter and accounts and edit the description of all products. Also, users need view permission for products to update.
 
 <figure><img src="../../.gitbook/assets/6 (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -56,7 +54,7 @@ This permission allows users to create coupons. also users need `view_coupons` p
 
 * `delete_coupons`
 
-This permission allows users to delete coupons. also users need `view_coupons` permission to delete.
+This permission allows users to delete coupons. Also, users need `view_coupons` permission to delete.
 
 <figure><img src="../../.gitbook/assets/11.png" alt=""><figcaption></figcaption></figure>
 
@@ -78,7 +76,7 @@ This permission allows users to only view Transactions.
 
 * `update_transactions`
 
-This permission allows users to update Transactions and fulfill orders. also users need `view_transactions` permission to update.
+This permission allows users to update Transactions and fulfill orders. Also users need `view_transactions` permission to update.
 
 <figure><img src="../../.gitbook/assets/16.png" alt=""><figcaption></figcaption></figure>
 

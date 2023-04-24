@@ -1,12 +1,12 @@
 # 🗃 Find Discord ID
 
 {% hint style="info" %}
-Users, individual messages, and entire Discord servers all have a multi-digit ID number that can be used in various cases. While you can use Discord entirely without knowing any of these ID numbers, some circumstances may arise where you need to get one, just in case. Here are the steps to find any of those!
+Users, individual messages, and entire Discord servers all have multi-digit ID numbers that can be used in various cases. While you can use Discord entirely without knowing any of these ID numbers, some circumstances may arise where you need to get one, just in case. Here are the steps to find any of those!
 {% endhint %}
 
 {% embed url="https://youtu.be/gviB5ke2ZeQ" %}
 
-1. In order to find the discord tag, Please log in to Discord.
+1. In order to find the Discord tag, Please log in to Discord.
 
 ![](<../.gitbook/assets/Untitled design (26).png>)
 
@@ -26,6 +26,6 @@ Users, individual messages, and entire Discord servers all have a multi-digit ID
 
 ![](<../.gitbook/assets/Untitled design (4) (8).png>)
 
-6\. Below the list of options find Copy ID and Paste wherever is required.
+6\. Below the list of options find Copy ID and Paste it wherever is required.
 
 ![](<../.gitbook/assets/Untitled design (5) (7).png>)

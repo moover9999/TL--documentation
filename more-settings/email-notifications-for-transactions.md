@@ -1,7 +1,7 @@
-# 📣 Notifications for transactions
+# 📣 Email notifications for transactions
 
 {% hint style="info" %}
-The process of being updated with each transaction via email is possible, In order get that settings activated followthe below stes.&#x20;
+The process of being updated with each transaction via email is possible, In order to get those settings activated follow the below steps.&#x20;
 {% endhint %}
 
 1. From your Stripe dashboard, you can configure payment notifications to be emailed to you directly from Stripe. Just click on your avatar in the top right, then select **Profile > Email Preference**

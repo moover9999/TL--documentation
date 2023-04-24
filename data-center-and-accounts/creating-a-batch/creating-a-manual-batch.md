@@ -26,8 +26,8 @@ The manual batch method is good if you are not sure about the demand for your pr
 
 5. You have the option of adding an expiration date on ISPs and please find the following guide.
 
-{% content-ref url="../add-expiration-date.md" %}
-[add-expiration-date.md](../add-expiration-date.md)
+{% content-ref url="../add-an-expiration-date-to-a-batch.md" %}
+[add-an-expiration-date-to-a-batch.md](../add-an-expiration-date-to-a-batch.md)
 {% endcontent-ref %}
 
 6. Once you receive orders from your customers, you can follow the below guide on how you can fulfill those orders.

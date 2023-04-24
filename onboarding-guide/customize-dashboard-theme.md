@@ -6,7 +6,9 @@ The dashboard theme is 100% customizable, Follow the below steps to customer you
 
 {% embed url="https://youtu.be/PbzB9H1UcVA" %}
 
-1. To edit the Dashboard Theme, Click the icon in the top right.
+1. To edit the Dashboard Theme, click on the following link and Click the icon in the top right.
+
+[https://proxydashbuilder.netlify.app/residential](https://proxydashbuilder.netlify.app/residential)
 
 ![](<../.gitbook/assets/Untitled design (17).png>)
 
@@ -26,7 +28,7 @@ The dashboard theme is 100% customizable, Follow the below steps to customer you
 
 ![](<../.gitbook/assets/Untitled design (4) (6).png>)
 
-6\. Finally, Click below marked area to Copy the Theme colour of the Dashboard.
+6\. Finally, Click below the marked area to Copy the Theme colour of the Dashboard.
 
 ![](<../.gitbook/assets/Untitled design (5) (3).png>)
 

@@ -4,7 +4,7 @@
 This guide will help you to set up the default country of the User Dashboard.
 {% endhint %}
 
-1. First you need to access the user settings
+1. First, you need to access the user settings
 
 {% content-ref url="access-user-settings.md" %}
 [access-user-settings.md](access-user-settings.md)

@@ -6,7 +6,7 @@ We have added a new TOS pop up option so customers are forced to accept your TOS
 
 ![Example of the TOS pop up](<../.gitbook/assets/Screen Shot 2022-01-23 at 8.26.07 PM.png>)
 
-1. To access this, go to the _**More Settings**_ on the admin dashboard.
+1. To access this, go to _**More Settings**_ on the admin dashboard.
 
 ![](<../.gitbook/assets/Screen Shot 2022-01-23 at 8.24.24 PM.png>)
 

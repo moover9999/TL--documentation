@@ -23,7 +23,7 @@ To brand the proxies under your domain follow these steps:
 
 1. Open the DNS configuration for your domain.
 2. Create a C Name Record pointing to the domain.
-3. Whatever you enter in name/host will decide the domain which points to our API IP.
+3. Whatever you enter in the name/host will decide the domain which points to our API IP.
 4. Thus if your domain is [API.com](http://api.com/) and you enter the host premium or whatever you want to call it pointing to the PacketStream domain, your proxies will be formatted [premium.yourdomain.com](http://premium.yourdomain.com/):port:user:pass
 5. An example on Godaddy is linked below:
 
@@ -36,8 +36,8 @@ Use this method to brand your proxies with your own domain/company name
 To brand the proxies under your domain follow these steps:
 
 1. Open the DNS configuration for your domain.
-2. Create a A Name Record pointing to the domain {**159.89.245.182}**.
-3. Whatever you enter in name/host will decide the domain which points to our API IP.
+2. Create a Name Record pointing to the domain {**159.89.245.182}**.
+3. Whatever you enter in the name/host will decide the domain which points to our API IP.
 4. Thus if your domain is [API.com](http://api.com/) and you enter the host premium pointing to the oxylabs domain, your proxies will be formatted [premium.yourdomain.com](http://premium.yourdomain.com/):port:user:pass
 5. An example on Godaddy is linked below:
 
@@ -51,7 +51,7 @@ To brand the proxies under your domain follow these steps:
 
 1. Open the DNS configuration for your domain.
 2. Create a C Name Record pointing to the domain.
-3. Whatever you enter in name/host will decide the domain which points to our API IP.
+3. Whatever you enter in the name/host will decide the domain which points to our API IP.
 4. Thus if your domain is [API.com](http://api.com/) and you enter the host premium pointing to the oxylabs domain, your proxies will be formatted [premium.yourdomain.com](http://premium.yourdomain.com/):port:user:pass
 5.  An example on Godaddy is linked below:
 
@@ -67,7 +67,7 @@ To brand the proxies under your domain follow these steps:
 
 1. Open the DNS configuration for your domain.
 2. Create a C Name Record pointing to the domain.
-3. Whatever you enter in name/host will decide the domain which points to our API IP.
+3. Whatever you enter in the name/host will decide the domain which points to our API IP.
 4. Thus if your domain is [API.com](http://api.com/) and you enter the host premium pointing to the Smart Proxies domain, your proxies will be formatted [premium.yourdomain.com](http://premium.yourdomain.com/):port:user:pass
 5. An example on Godaddy is linked below:
 
@@ -81,7 +81,7 @@ To brand the proxies under your domain follow these steps:
 
 1. Open the DNS configuration for your domain.
 2. Create a C Name Record pointing to the domain.
-3. Whatever you enter in name/host will decide the domain which points to our API IP.
+3. Whatever you enter in the name/host will decide the domain which points to our API IP.
 4. Thus if your domain is [API.com](http://api.com/) and you enter the host premium or whatever you want to call it pointing to the PacketStream domain, your proxies will be formatted [premium.yourdomain.com](http://premium.yourdomain.com/):port:user:pass
 5. An example on Godaddy is linked below:
 
@@ -95,7 +95,7 @@ To brand the proxies under your domain follow these steps:
 
 1. Open the DNS configuration for your domain.
 2. Create a C Name Record pointing to the domain.
-3. Whatever you enter in name/host will decide the domain which points to our API IP.
+3. Whatever you enter in the name/host will decide the domain which points to our API IP.
 4. Thus if your domain is [API.com](http://api.com/) and you enter the host premium or whatever you want to call it pointing to the PacketStream domain, your proxies will be formatted [premium.yourdomain.com](http://premium.yourdomain.com/):port:user:pass
 5. An example on Godaddy is linked below:
 

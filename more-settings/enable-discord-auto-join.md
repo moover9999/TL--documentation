@@ -1,9 +1,9 @@
 # 🎟 Enable discord auto join
 
 {% hint style="info" %}
-This section would provide you a guide on how to enable discord auto join. If you enable this anyone visits to the website would be auto joined to the discord server as well.
+This section would provide you with a guide on how to enable Discord auto-join. If you enable this anyone who visits the website would be auto-joined to the discord server as well.
 
-If someone is already in the server this can't be experimented.
+If someone is already in the server this can't have experimented.
 {% endhint %}
 
 {% embed url="https://youtu.be/xkba8GrDp6M" %}
@@ -12,7 +12,7 @@ If someone is already in the server this can't be experimented.
 
 ![](<../.gitbook/assets/1 (63) (4).png>)
 
-2\. Go to bot and click Add bot as shows here.
+2\. Go to bot and click Add bot as shown here.
 
 ![](<../.gitbook/assets/1 (65) (2).png>)
 
@@ -36,7 +36,7 @@ If someone is already in the server this can't be experimented.
 
 ![](<../.gitbook/assets/1 (72) (5).png>)
 
-8\. Then go to the admin dashboard and more settings, also click enable auto join.
+8\. Then go to the admin dashboard and more settings, also click enable auto-join.
 
 ![](<../.gitbook/assets/1 (73) (1).png>)
 

@@ -1,4 +1,4 @@
-# Stripe Radar
+# ❔ Stripe Radar
 
 {% hint style="danger" %}
 Simply turning on stripe radar is NOT sufficient. You need to configure stripe radar rules.

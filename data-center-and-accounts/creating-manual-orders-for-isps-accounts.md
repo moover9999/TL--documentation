@@ -1,14 +1,16 @@
 # 📂 Creating manual orders for ISPs / Accounts
 
 {% hint style="info" %}
-This section will guide you on how to create a manual order for ISPs/ Accounts. This is similar to add/ remove data to people using the admin dashboard for residential providers.
+This section will guide you on creating a manual order for ISPs/ Accounts. This is similar to adding/removing data to people using the admin dashboard for residential providers.
+
+We can not create manual orders for ISP API, Porter Proxies & Tanmay.
 {% endhint %}
 
 {% hint style="info" %}
-Internal notes are only visible by admins and not the users
+Internal notes are only visible to admins and not the users
 {% endhint %}
 
-1. Go to Datacenter / Account tab on admin dashboard
+1. Go to Datacenter / Account tab on the admin dashboard
 
 <figure><img src="../.gitbook/assets/1 (12).png" alt=""><figcaption></figcaption></figure>
 
