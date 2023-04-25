@@ -27,6 +27,12 @@ Any product can have two types of prices:&#x20;
 
 ![](<../.gitbook/assets/Untitled design (1) (2).png>)
 
+{% hint style="info" %}
+Before you create a product in Stripe, make sure you select the correct account. If you connect it through the onboarding, it should look as follows.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/r.png" alt=""><figcaption></figcaption></figure>
+
 2\. Click on the _**Products**_ tab found on the right navigation pane of the _Stripe Dashboar_d.
 
 ![](<../.gitbook/assets/Untitled design (2) (9).png>)
