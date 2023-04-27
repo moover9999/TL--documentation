@@ -26,10 +26,14 @@ You can always restrict or provide access to the ones you want to give, To have 
 
 ![](../.gitbook/assets/5.2.jpg)
 
-6\. Finally you can test it by login to your dashboard
+6\. Then you can update the message that you want to appear on the screen if someone makes unauthorized access. (i.e. You can include the server invite link for anyone interested in joining the server)
+
+<figure><img src="../.gitbook/assets/2023-04-27 12_09_14-TorchLabs - Dashboard.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;7\. Finally, you can test it by login to your dashboard
 
 ![](../.gitbook/assets/6.jpg)
 
-7\. You will get this popup.
+8\. You will get this popup. If you have included any message as mentioned in step 6 that will also appear here.
 
 ![](<../.gitbook/assets/1 (66) (1).png>)
