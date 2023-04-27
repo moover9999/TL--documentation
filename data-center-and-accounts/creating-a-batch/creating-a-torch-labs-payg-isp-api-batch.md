@@ -9,8 +9,22 @@ you need to make sure, the price you have created has a custom recurring period 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-04-12 at 3.57.09 PM.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-You should also note that the quantity can only be the following quantities for the prices: 10, 25, 50, and 100.
+Depending on the product you can add the quantities under the metadata as follows.
 
+**Quantity - 10,25,50,100**
+
+VEVE, TICK, RETL, JUIC, DAILY, DTAG, VIRM, COLT, VOCU
+
+**Quantity - 254**
+
+RETL\_24, JUIC\_24, DTAG\_24, VOCU\_24
+
+
+{% endhint %}
+
+
+
+{% hint style="warning" %}
 Please keep this in mind when adding the `amount` metadata field inside the Stripe price. [product-metadata.md](../../product-settings/product-metadata.md "mention")
 {% endhint %}
 
