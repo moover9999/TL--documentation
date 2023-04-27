@@ -17,18 +17,24 @@ VEVE, TICK, RETL, JUIC, DAILY, DTAG, VIRM, COLT, VOCU
 
 **Quantity - 254**
 
+(Subnets)
+
 RETL\_24, JUIC\_24, DTAG\_24, VOCU\_24
-
-
 {% endhint %}
 
 
 
 {% hint style="warning" %}
-Please keep this in mind when adding the `amount` metadata field inside the Stripe price. [product-metadata.md](../../product-settings/product-metadata.md "mention")
+Daily products only last for 24 hours, so they're meant to be one-time products. This means you can't set up recurring prices for them. Further, these are not extendable or renewable.
 {% endhint %}
 
-2. Next, you need to go to the products section and sync your new prices.
+
+
+{% hint style="warning" %}
+Please remember this when adding the `amount` metadata field inside the Stripe price. [product-metadata.md](../../product-settings/product-metadata.md "mention")
+{% endhint %}
+
+2. Next, you must go to the products section and sync your new prices.
 
 {% content-ref url="../adding-data-center-products.md" %}
 [adding-data-center-products.md](../adding-data-center-products.md)
@@ -50,7 +56,7 @@ you also need to request the TL API to be activated on the ticket before you can
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-04-12 at 4.25.31 PM.png" alt=""><figcaption></figcaption></figure>
 
-6\. Now you can add a stock limit then tick confirm and select launch.&#x20;
+6\. Now you can add a stock limit, tick confirm, and select launch.&#x20;
 
 {% hint style="info" %}
 Please note that the expiration is hardcoded for 30 days by default and this cannot be changed. This means your customers will be able to use their proxies for 30 days.
