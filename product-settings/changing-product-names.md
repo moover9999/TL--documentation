@@ -14,4 +14,4 @@ To modify the product names, kindly refer to the following guide and proceed wit
 
 2. Go to the Products tab on the admin dashboard > Sync the products on the admin dashboard to see the updated product names on the customer dashboard
 
-<figure><img src="../.gitbook/assets/a (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/a (1) (2).png" alt=""><figcaption></figcaption></figure>
