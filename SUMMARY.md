@@ -152,3 +152,4 @@
 * [❔ How does Torch Labs prevent overselling on the dashboard ?](errors-and-faq/how-does-torch-labs-prevent-overselling-on-the-dashboard.md)
 * [❔ How to create a giveaway for TL ISP API?](errors-and-faq/how-to-create-a-giveaway-for-tl-isp-api.md)
 * [❔ How to check geolocation?](errors-and-faq/how-to-check-geolocation.md)
+* [❔ Why TL ISP API has 28 days billing period whereas 30 days period for proxies?](errors-and-faq/why-tl-isp-api-has-28-days-billing-period-whereas-30-days-period-for-proxies.md)
