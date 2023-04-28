@@ -151,3 +151,4 @@
 * [❔ What is the Torch Labs ISP API](errors-and-faq/what-is-the-torch-labs-isp-api.md)
 * [❔ How does Torch Labs prevent overselling on the dashboard ?](errors-and-faq/how-does-torch-labs-prevent-overselling-on-the-dashboard.md)
 * [❔ How to create a giveaway for TL ISP API?](errors-and-faq/how-to-create-a-giveaway-for-tl-isp-api.md)
+* [❔ How to check geolocation?](errors-and-faq/how-to-check-geolocation.md)
