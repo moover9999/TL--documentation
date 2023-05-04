@@ -9,7 +9,7 @@ This process allows you to brand the proxies with your company name. For example
 | API          | Record Type | Domain                                             |
 | ------------ | ----------- | -------------------------------------------------- |
 | Smartproxies | CNAME       | gate.smartproxy.com                                |
-| Oxylabs      | CNAME       | pr.oxylabs.io                                      |
+| Oxylabs      | CNAME       | 116.202.238.248                                    |
 | Packetstream | CNAME       | proxy.packetstream.io                              |
 | Private      | A           | 159.89.245.182                                     |
 | IPRoyal      | CNAME       | proxy.iproyal.com                                  |
@@ -50,14 +50,12 @@ Use this method to brand your proxies with your own domain/company name
 To brand the proxies under your domain follow these steps:
 
 1. Open the DNS configuration for your domain.
-2. Create a C Name Record pointing to the domain.
+2. Create an A Name Record pointing to the domain.
 3. Whatever you enter in the name/host will decide the domain which points to our API IP.
 4. Thus if your domain is [API.com](http://api.com/) and you enter the host premium pointing to the oxylabs domain, your proxies will be formatted [premium.yourdomain.com](http://premium.yourdomain.com/):port:user:pass
-5.  An example on Godaddy is linked below:
+5. An example on Godaddy is linked below:
 
-
-
-![](../.gitbook/assets/Screen\_Shot\_2021-08-11\_at\_8.39.44\_PM.png)
+<figure><img src="../.gitbook/assets/Screenshot 2023-05-04 at 10.25.51 AM.png" alt=""><figcaption></figcaption></figure>
 
 #### Smart Proxies
 
