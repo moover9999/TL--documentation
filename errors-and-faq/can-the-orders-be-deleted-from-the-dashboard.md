@@ -11,7 +11,7 @@ Please find the following options you have for editing/deleting.
 
 Refer to the following guide if you want to edit a transaction and add/remove proxies.
 
-{% content-ref url="../data-center-and-accounts/editing-incomplete-transactions.md" %}
-[editing-incomplete-transactions.md](../data-center-and-accounts/editing-incomplete-transactions.md)
+{% content-ref url="../data-center-and-accounts/editing-transactions.md" %}
+[editing-transactions.md](../data-center-and-accounts/editing-transactions.md)
 {% endcontent-ref %}
 

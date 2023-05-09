@@ -58,7 +58,7 @@
 * [🗑 Delete a pending transaction (manual batch)](data-center-and-accounts/delete-a-pending-transaction-manual-batch.md)
 * [🪜 Add an expiration date to a batch](data-center-and-accounts/add-an-expiration-date-to-a-batch.md)
 * [👽 Edit expiration date](data-center-and-accounts/edit-expiration-date.md)
-* [⚕ Editing incomplete transactions](data-center-and-accounts/editing-incomplete-transactions.md)
+* [⚕ Editing transactions](data-center-and-accounts/editing-transactions.md)
 
 ## ⚙ More Settings
 
