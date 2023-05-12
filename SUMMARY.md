@@ -154,3 +154,4 @@
 * [❔ How to check geolocation?](errors-and-faq/how-to-check-geolocation.md)
 * [❔ Why TL ISP API has 28 days billing period whereas 30 days period for proxies?](errors-and-faq/why-tl-isp-api-has-28-days-billing-period-whereas-30-days-period-for-proxies.md)
 * [❔ Can the orders be deleted from the dashboard?](errors-and-faq/can-the-orders-be-deleted-from-the-dashboard.md)
+* [What are the steps for changing the Discord server that is linked to the dashboard?](errors-and-faq/what-are-the-steps-for-changing-the-discord-server-that-is-linked-to-the-dashboard.md)
