@@ -28,4 +28,8 @@ At this stage, it gives the ability to assign one product/batch and deliver the 
 
 4\. Now you can add a stock limit and duration for expiration. Then tick confirm and select launch. At this point, the combination of the batch has to be equal to or more than the stock limit.
 
-<figure><img src="../../.gitbook/assets/z (1) (1).png" alt=""><figcaption></figcaption></figure>
+{% hint style="info" %}
+Here the subscription is set for 30 days, the proxies will expire in 30 days + 1 day grace period.
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-05-15 at 14.18.28.png" alt=""><figcaption></figcaption></figure>
