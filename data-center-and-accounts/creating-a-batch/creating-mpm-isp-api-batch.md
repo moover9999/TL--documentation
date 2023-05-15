@@ -8,7 +8,7 @@ This section will guide you on creating an ISP API batch for a registered API. O
 
 <figure><img src="../../.gitbook/assets/5 (9).png" alt=""><figcaption></figcaption></figure>
 
-2\. Click on the dropdown list before the new batch and select MPM ISP from the list.
+2\. Click on the dropdown list before the new batch and select MPM ISPs from the list.
 
 <figure><img src="../../.gitbook/assets/a.png" alt=""><figcaption></figcaption></figure>
 
