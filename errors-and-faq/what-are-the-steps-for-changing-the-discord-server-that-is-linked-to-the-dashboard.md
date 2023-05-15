@@ -1,4 +1,4 @@
-# What are the steps for changing the Discord server that is linked to the dashboard?
+# ❔ What are the steps for changing the Discord server that is linked to the dashboard?
 
 1. Inform Torch Labs admins of the requirement to change the discord server linked to the dashboard.
 2. Refer to the following guide and follow the instructions

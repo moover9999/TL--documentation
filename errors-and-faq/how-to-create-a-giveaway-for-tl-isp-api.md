@@ -25,7 +25,7 @@ You will be charged even if this is given for free. Hence regardless of the pric
 
 5. Select the duration as _Once_ & keep the redemption list unticked.
 
-<figure><img src="../.gitbook/assets/a.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/a (4).png" alt=""><figcaption></figcaption></figure>
 
 6. Enter the relevant code and you can tick the options as appropriate. Then click _Create Coupon_.
 
