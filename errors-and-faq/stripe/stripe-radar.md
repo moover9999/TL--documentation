@@ -39,7 +39,7 @@ We will also categorize how effective each rule is at preventing fraud such as s
 
 ### 3DS Rules
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-01-02 at 10.42.09 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-01-02 at 10.42.09 AM.png" alt=""><figcaption></figcaption></figure>
 
 The first 3 rules are already created in your stripe account, you simply need to click **enable** to activate them.
 
@@ -52,7 +52,7 @@ The first 3 rules are already created in your stripe account, you simply need to
 
 ### Block Rules
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-01-02 at 10.48.40 AM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-01-02 at 10.48.40 AM.png" alt=""><figcaption></figcaption></figure>
 
 1. Block if Stripe thinks the customer is a high-risk customer.
 2. Block if the customer is in your block list.

@@ -21,12 +21,12 @@ To prevent customers from abusing the coupons, the coupons should be deleted aft
 You will be charged even if this is given for free. Hence regardless of the price paid, you will be billed for the amount you have created for the giveaway.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/r (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/r (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Select the duration as _Once_ & keep the redemption list unticked.
 
-<figure><img src="../.gitbook/assets/a (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/a (4).png" alt=""><figcaption></figcaption></figure>
 
 6. Enter the relevant code and you can tick the options as appropriate. Then click _Create Coupon_.
 
-<figure><img src="../.gitbook/assets/c (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/c (1).png" alt=""><figcaption></figcaption></figure>

@@ -12,7 +12,7 @@ In this, all the proxies are showing the correct location and correct ISP.
 
 Following is the database that Nike and all bot protection companies use to identify IP location
 
-<figure><img src="../.gitbook/assets/Screenshot_2023-04-17_at_2.32.15_PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_2023-04-17_at_2.32.15_PM.png" alt=""><figcaption></figcaption></figure>
 
 
 

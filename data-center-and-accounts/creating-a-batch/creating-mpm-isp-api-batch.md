@@ -4,7 +4,11 @@
 This section will guide you on creating an ISP API batch for a registered API. Only one ISP API can be assigned to multiple products / batches.&#x20;
 {% endhint %}
 
-Before doing the steps make sure the API is registered and refer to the following guide for registering the API.&#x20;
+{% hint style="info" %}
+Initially, it is a must to inform Torch Labs admins in the ticket that you want to create MPM ISP API batch so that admins can initiate the registering process in the backend.
+{% endhint %}
+
+After informing Torch Labs admins you can start registering the API and refer to the following guide for registering the API.&#x20;
 
 {% content-ref url="../../more-settings/adding-and-removing-isp-api.md" %}
 [adding-and-removing-isp-api.md](../../more-settings/adding-and-removing-isp-api.md)

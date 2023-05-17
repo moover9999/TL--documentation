@@ -8,24 +8,24 @@ Please find the following options you have for editing/deleting.
 
 1. Customers cannot delete residential product orders. However, they can edit a user's data balance by going to this guide.
 
-{% content-ref url="../residential-products/updating-users-data-balance.md" %}
-[updating-users-data-balance.md](../residential-products/updating-users-data-balance.md)
+{% content-ref url="../../residential-products/updating-users-data-balance.md" %}
+[updating-users-data-balance.md](../../residential-products/updating-users-data-balance.md)
 {% endcontent-ref %}
 
 2. Customers can edit datacenter orders if that order is not ISP API(Custom proxies, Porter proxies and TL ISP API) Customers can only edit the automatic and manual mode orders.
 
-{% content-ref url="../data-center-and-accounts/editing-transactions.md" %}
-[editing-transactions.md](../data-center-and-accounts/editing-transactions.md)
+{% content-ref url="../../data-center-and-accounts/editing-transactions.md" %}
+[editing-transactions.md](../../data-center-and-accounts/editing-transactions.md)
 {% endcontent-ref %}
 
 3. Customers can edit accounts orders&#x20;
 
-{% content-ref url="../data-center-and-accounts/editing-transactions.md" %}
-[editing-transactions.md](../data-center-and-accounts/editing-transactions.md)
+{% content-ref url="../../data-center-and-accounts/editing-transactions.md" %}
+[editing-transactions.md](../../data-center-and-accounts/editing-transactions.md)
 {% endcontent-ref %}
 
 4. Customers can delete manual orders that are not fulfilled in datacenter and account section
 
-{% content-ref url="../data-center-and-accounts/delete-a-pending-transaction-manual-batch.md" %}
-[delete-a-pending-transaction-manual-batch.md](../data-center-and-accounts/delete-a-pending-transaction-manual-batch.md)
+{% content-ref url="../../data-center-and-accounts/delete-a-pending-transaction-manual-batch.md" %}
+[delete-a-pending-transaction-manual-batch.md](../../data-center-and-accounts/delete-a-pending-transaction-manual-batch.md)
 {% endcontent-ref %}

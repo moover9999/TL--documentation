@@ -9,26 +9,26 @@ you need to make sure, the price you have created has a custom recurring period 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-04-12 at 3.57.09 PM.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
-Depending on the product you can add the quantities under the metadata as follows.
+Depending on the product you can add any **Quantity between 1 to 200.**
 
-**Quantity - 10,25,50,100**
+* US product: VEVE , TICK , RETL , JUIC , DAILY
+* EU product: DTAG , VIRM , COLT , DAILY
+* AU product: VOCU , DAILY
+{% endhint %}
 
-VEVE, TICK, RETL, JUIC, DAILY, DTAG, VIRM, COLT, VOCU
-
+{% hint style="warning" %}
 **Quantity - 254**
 
 (Subnets)
 
-RETL\_24, JUIC\_24, DTAG\_24, VOCU\_24
+* US product: RETL\_24 , JUIC\_24 , DC\_24
+* EU product: DTAG\_24
+* AU product: VOCU\_24
 {% endhint %}
-
-
 
 {% hint style="warning" %}
 Daily products only last for 24 hours, so they're meant to be one-time products. This means you can't set up recurring prices for them. Further, these are not extendable or renewable.
 {% endhint %}
-
-
 
 {% hint style="warning" %}
 Please remember this when adding the `amount` metadata field inside the Stripe price. [product-metadata.md](../../product-settings/product-metadata.md "mention")

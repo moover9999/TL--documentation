@@ -7,7 +7,7 @@
 {% hint style="info" %}
 > If you want to create a one-time coupon for a subscription product please follow this guide.
 >
-> [how-to-create-a-coupon-for-subscription-product-to-apply-only-for-the-first-month.md](../../errors-and-faq/how-to-create-a-coupon-for-subscription-product-to-apply-only-for-the-first-month.md "mention")
+> [how-to-create-a-coupon-for-subscription-product-to-apply-only-for-the-first-month.md](../../errors-and-faq/stripe/how-to-create-a-coupon-for-subscription-product-to-apply-only-for-the-first-month.md "mention")
 {% endhint %}
 
 To create coupons for clients for any promotional activities please follow this guide.

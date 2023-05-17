@@ -8,6 +8,6 @@ Anyone can clear their cache using the following guide:
 
 _Updating Primary Logo_
 
-{% content-ref url="../more-settings/dashboard-ui/uploading-primary-logo.md" %}
-[uploading-primary-logo.md](../more-settings/dashboard-ui/uploading-primary-logo.md)
+{% content-ref url="../../more-settings/dashboard-ui/uploading-primary-logo.md" %}
+[uploading-primary-logo.md](../../more-settings/dashboard-ui/uploading-primary-logo.md)
 {% endcontent-ref %}

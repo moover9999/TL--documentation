@@ -7,5 +7,5 @@
 
 3\. Click on _copy ID_ to get the stripe ID and then you can paste it anywhere as required.
 
-<figure><img src="../.gitbook/assets/2022-12-09 13_23_52-Activity – prcord.xyz – Stripe.png" alt=""><figcaption><p>The ID should be on top right</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2022-12-09 13_23_52-Activity – prcord.xyz – Stripe.png" alt=""><figcaption><p>The ID should be on top right</p></figcaption></figure>
 

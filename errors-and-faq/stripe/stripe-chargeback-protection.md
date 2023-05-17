@@ -13,6 +13,6 @@ Also, note that not all accounts are eligible to have this feature, so if you ar
 1. Go here: [https://dashboard.stripe.com/settings/checkout](https://dashboard.stripe.com/settings/checkout)
 2. Scroll to the bottom, and click turn on (in the screenshot it is already enabled
 
-<figure><img src="../.gitbook/assets/Screenshot 2022-12-27 at 6.15.09 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2022-12-27 at 6.15.09 PM.png" alt=""><figcaption></figcaption></figure>
 
 3\. Now you are protected against any chargebacks that are marked as "fraudulent"

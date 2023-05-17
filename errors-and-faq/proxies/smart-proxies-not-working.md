@@ -9,6 +9,6 @@ There are a few reasons that smart proxies might not work
 
 To look at all the supported sites please check the following link.
 
-{% content-ref url="../residential-products/residential-provider-information.md" %}
-[residential-provider-information.md](../residential-products/residential-provider-information.md)
+{% content-ref url="../../residential-products/residential-provider-information.md" %}
+[residential-provider-information.md](../../residential-products/residential-provider-information.md)
 {% endcontent-ref %}

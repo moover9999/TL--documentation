@@ -6,10 +6,10 @@ Additionally, the next time when the customers purchase, their balance will be 0
 
 <div>
 
-<figure><img src="../.gitbook/assets/4.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4.jpeg" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/5.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5.jpeg" alt=""><figcaption></figcaption></figure>
 
 </div>

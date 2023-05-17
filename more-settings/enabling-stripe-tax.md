@@ -11,7 +11,7 @@ First you need to enable stripe tax on your stripe dashboard using the following
 {% hint style="warning" %}
 Be cautious about the following error&#x20;
 
-[why-is-the-customer-isp-plan-says-can-not-checkout.md](../errors-and-faq/why-is-the-customer-isp-plan-says-can-not-checkout.md "mention")
+[why-is-the-customer-isp-plan-says-can-not-checkout.md](../errors-and-faq/isps/why-is-the-customer-isp-plan-says-can-not-checkout.md "mention")
 {% endhint %}
 
 1. Go to Admin Dashboard and click on More Settings
