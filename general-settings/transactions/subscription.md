@@ -27,7 +27,7 @@ Following are the columns you can find in the subscription tab
 
 <figure><img src="../../.gitbook/assets/1 (15).png" alt=""><figcaption></figcaption></figure>
 
-<table><thead><tr><th>Status</th><th>Description</th><th data-hidden></th></tr></thead><tbody><tr><td>Complete</td><td>The order has been delivered and complete</td><td></td></tr><tr><td>Incomplete</td><td>The order has not been delivered and is not complete</td><td></td></tr><tr><td>Failed</td><td>We tried to bill the customer for a subscription, however, the charge has failed due to a lack of funds on the customer's card</td><td></td></tr><tr><td>Cancelled</td><td>The customer has canceled their subscription and subscription validity period is over.</td><td></td></tr><tr><td>Cancelling</td><td>The customer has clicked cancelled button but subscription validity period is not over.</td><td></td></tr></tbody></table>
+<table><thead><tr><th width="132">Status</th><th>Description</th><th data-hidden></th></tr></thead><tbody><tr><td>Complete</td><td>The order has been delivered and complete</td><td></td></tr><tr><td>Incomplete</td><td>The order has not been delivered and is not complete</td><td></td></tr><tr><td>Failed</td><td>We tried to bill the customer for a subscription, however, the charge has failed due to a lack of funds on the customer's card</td><td></td></tr><tr><td>Cancelled</td><td>The customer has canceled their subscription and subscription validity period is over.</td><td></td></tr><tr><td>Cancelling</td><td>The customer has clicked cancelled button but subscription validity period is not over.</td><td></td></tr></tbody></table>
 
 * Created At - The date that the subscription product is first created.&#x20;
 

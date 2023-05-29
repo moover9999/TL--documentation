@@ -20,7 +20,7 @@ Internal notes are only visible to admins and not the users
 
 3\. Select the user that the accounts / ISPs to be added for
 
-<figure><img src="../.gitbook/assets/a (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/a (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 4\. Select the product that needs to be added
 
