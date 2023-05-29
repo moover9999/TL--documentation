@@ -8,7 +8,7 @@ This guide will help you to add an expiring date for the automatically and manua
 
 <figure><img src="../.gitbook/assets/0.1.png" alt=""><figcaption></figcaption></figure>
 
-2\. Select the mode of release from the dropdown list. (i.e. Automatic , Manual , TL API)
+2\. Select the mode of release from the dropdown list. (i.e. Automatic , Manual)
 
 <figure><img src="../.gitbook/assets/0.2.png" alt=""><figcaption></figcaption></figure>
 
@@ -23,10 +23,6 @@ Once you update the IPs then you can select the expiry date of the IPs along wit
 Here you have the option of setting the expiry date along with the time depending on the product.
 
 <figure><img src="../.gitbook/assets/2 (3).png" alt=""><figcaption></figcaption></figure>
-
-#### TL ISP API
-
-Here also you have the ability to set up the expiration date.
 
 _The expiry date of the orders is displayed on the User Dashboard as follows_
 
