@@ -28,7 +28,7 @@ _The expiry date of the orders is displayed on the User Dashboard as follows_
 
 <figure><img src="../.gitbook/assets/3 (6).png" alt=""><figcaption></figcaption></figure>
 
-Once the expiration date has passed, a warning message will be displayed beneath the specific order on the admin dashboard as follows.
+If the user chooses to use a specific date instead of the number of days once the expiration date has passed, a warning message will be displayed beneath the specific order on the admin dashboard as follows.
 
 <figure><img src="../.gitbook/assets/a (2) (2).png" alt=""><figcaption></figcaption></figure>
 
