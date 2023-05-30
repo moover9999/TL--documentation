@@ -4,7 +4,7 @@ description: >-
   cancel the subscription of users through stripe.
 ---
 
-# How to cancel a user subscription?
+# ❔ How to cancel a subscription on Stripe?
 
 1. Go to the customer’s subscription page on Stripe and click the close subscription button
 
