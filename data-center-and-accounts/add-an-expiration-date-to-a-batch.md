@@ -30,11 +30,11 @@ _The expiry date of the orders is displayed on the User Dashboard as follows_
 
 Once the expiration date has passed, a warning message will be displayed beneath the specific order on the admin dashboard as follows.
 
-<figure><img src="../.gitbook/assets/a (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/a (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 When a user attempts to purchase an expired product, a message will be displayed on the customer dashboard as follows.
 
-<figure><img src="../.gitbook/assets/b (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/b (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 If you want to edit the expiration date please follow the following guide.
 

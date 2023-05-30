@@ -126,6 +126,7 @@
   * [❔ How to enable Stripe chargeback protection ?](errors-and-faq/stripe/how-to-enable-stripe-chargeback-protection.md)
   * [❔ How to create a coupon for subscription product to apply only for the first month ?](errors-and-faq/stripe/how-to-create-a-coupon-for-subscription-product-to-apply-only-for-the-first-month.md)
   * [❔ How to prevent fraud ?](errors-and-faq/stripe/how-to-prevent-fraud.md)
+  * [How to cancel a user subscription?](errors-and-faq/stripe/how-to-cancel-a-user-subscription.md)
 * [Residential Proxies](errors-and-faq/proxies/README.md)
   * [❔ How to check geolocation?](errors-and-faq/proxies/how-to-check-geolocation.md)
   * [❔ How to change URL ?](errors-and-faq/proxies/how-to-change-url.md)
