@@ -40,17 +40,20 @@ The next example is the quantity of the actual price section. In the below examp
 [adding-data-center-products.md](../data-center-and-accounts/adding-data-center-products.md)
 {% endcontent-ref %}
 
-| Product   | First metadata field | Second metadata field          | Quantity metada |
-| --------- | -------------------- | ------------------------------ | --------------- |
-| Product 1 | torchlabs\_product   | torchlabs\_datacenter\_daily   | amount          |
-| Product 2 | torchlabs\_product   | torchlabs\_datacenter\_weekly  | amount          |
-| Product 3 | torchlabs\_product   | torchlabs\_datacenter\_monthly | amount          |
-| Product 4 | torchlabs\_product   | torchlabs\_datacenter\_extra1  | amount          |
-| Product 5 | torchlabs\_product   | torchlabs\_datacenter\_extra2  | amount          |
-| Product 6 | torchlabs\_product   | torchlabs\_datacenter\_extra3  | amount          |
-| Product 7 | torchlabs\_product   | torchlabs\_datacenter\_extra4  | amount          |
-| Product 8 | torchlabs\_product   | torchlabs\_datacenter\_extra5  | amount          |
-| Product 9 | torchlabs\_product   | torchlabs\_datacenter\_extra6  | amount          |
+| Product    | First metadata field | Second metadata field          | Quantity metada |
+| ---------- | -------------------- | ------------------------------ | --------------- |
+| Product 1  | torchlabs\_product   | torchlabs\_datacenter\_daily   | amount          |
+| Product 2  | torchlabs\_product   | torchlabs\_datacenter\_weekly  | amount          |
+| Product 3  | torchlabs\_product   | torchlabs\_datacenter\_monthly | amount          |
+| Product 4  | torchlabs\_product   | torchlabs\_datacenter\_extra1  | amount          |
+| Product 5  | torchlabs\_product   | torchlabs\_datacenter\_extra2  | amount          |
+| Product 6  | torchlabs\_product   | torchlabs\_datacenter\_extra3  | amount          |
+| Product 7  | torchlabs\_product   | torchlabs\_datacenter\_extra4  | amount          |
+| Product 8  | torchlabs\_product   | torchlabs\_datacenter\_extra5  | amount          |
+| Product 9  | torchlabs\_product   | torchlabs\_datacenter\_extra6  | amount          |
+| Product 10 | torchlabs\_product   | torchlabs\_datacenter\_extra7  |                 |
+| Product 11 | torchlabs\_product   | torchlabs\_datacenter\_extra8  |                 |
+| Product 12 | torchlabs\_product   | torchlabs\_datacenter\_extra9  |                 |
 
 **Example**
 
