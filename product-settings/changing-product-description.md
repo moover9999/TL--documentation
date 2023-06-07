@@ -26,4 +26,8 @@ In order to change or update the descriptions of your products, follow the below
 Our dashboard description supports markdown syntax! read the quick [cheat sheet](https://www.markdownguide.org/cheat-sheet/) to take advantage of its powerful features.
 {% endhint %}
 
+{% hint style="info" %}
+We are saving the description in stripe hence there is a character limit of 1000 when entering the description.
+{% endhint %}
+
 ![](<../.gitbook/assets/1 (95).png>)
