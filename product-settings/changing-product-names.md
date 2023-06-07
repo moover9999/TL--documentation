@@ -10,6 +10,10 @@ To modify the product names, kindly refer to the following guide and proceed wit
 
 2. Update the product names as required.
 
+{% hint style="info" %}
+The character limit for the stripe product name is 225. Any product name can be displayed on the dashboard within this character limit. &#x20;
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/2 (7).png" alt=""><figcaption></figcaption></figure>
 
 2. Go to the Products tab on the admin dashboard > Sync the products on the admin dashboard to see the updated product names on the customer dashboard
