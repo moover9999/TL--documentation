@@ -1,7 +1,7 @@
 # 📛 Updating Company Name
 
 {% hint style="info" %}
-This section will guide you to update your company name to appear as the title and footer name.
+This section will guide you to update your company name to appear as the title and footer name on the customer dashboard.
 {% endhint %}
 
 1. Go to Admin Dashboard and click on _More Settings_
