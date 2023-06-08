@@ -16,6 +16,6 @@ The residential purchases can be limited or even stopped. Follow the guide&#x20;
 
 ![](<../.gitbook/assets/1 (73) (5).png>)
 
-4\. Now refresh the dashboard page and it will be out of stock.
+4\. Then refresh the dashboard page and it will be out of stock.
 
 ![](<../.gitbook/assets/1 (74).png>)
