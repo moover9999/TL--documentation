@@ -2,6 +2,8 @@
 
 {% hint style="info" %}
 This guide will help to set up residential products for your dashboard.
+
+Typically it would take 24 hours to complete the onboarding process.
 {% endhint %}
 
 {% content-ref url="../product-settings/product-metadata.md" %}
