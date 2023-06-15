@@ -47,3 +47,9 @@ Customers can now see available proxies in the registered API section.
 {% hint style="info" %}
 Customers can see the available amount of proxies for MPM ISP API under each server as shown above.
 {% endhint %}
+
+You can create the required batch option by refering to the following guide.
+
+{% content-ref url="../data-center-and-accounts/creating-a-batch/" %}
+[creating-a-batch](../data-center-and-accounts/creating-a-batch/)
+{% endcontent-ref %}
