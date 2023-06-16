@@ -68,7 +68,11 @@ If you already have a landing page that is occupying your WWW cname, you can put
 
 10\. Make the below record exactly as shown:
 
-Create an **ALIAS Record**
+Create an **ALIAS Record**&#x20;
+
+{% hint style="info" %}
+Please ignore this step of adding ALIAS record if you are on google domain
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/3 (9).png" alt=""><figcaption></figcaption></figure>
 
