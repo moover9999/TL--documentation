@@ -6,7 +6,7 @@ This guide will show you how to top up your user's data balance.
 
 ​1. In the _**Users**_ tab, find your desired user.
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 2.Click on the  user.
 
