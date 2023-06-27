@@ -8,6 +8,6 @@ After referring to the steps on discord developer in the above guide, please sen
 
 * Client ID
 * Client Secret
-* Redirect URL
+* Redirect URL (Please update the Redirect URL on discord developer portal)
 * Server ID
 
