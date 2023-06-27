@@ -11,3 +11,10 @@ The process of being updated with each transaction via email is possible, In ord
 2\. Scroll down and you should see a checkbox to enable emails for successful payments.
 
 ![](<../.gitbook/assets/Untitled design (2) (4).png>)
+
+{% hint style="info" %}
+If you want the users to have the option of getting email notifications for the transactions please follow the below guide.
+
+[https://stripe.com/docs/invoicing/send-email](https://stripe.com/docs/invoicing/send-email)
+{% endhint %}
+
