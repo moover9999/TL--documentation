@@ -13,6 +13,22 @@ Currently, the status only reflects the status on Footlocker USA. We will add mo
 /subscribe
 ```
 
+add multiple subscriptions using the following command
+
+```
+/subscribe {url} {nickname}
+```
+
+Also, you can use the following command to see all the subscriptions.
+
+```
+/show_subscriptions
+```
+
+{% hint style="info" %}
+You can go up to 5 URLs here
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/2023-06-07 17_04_29-• Discord _ #ticket-sameera _ TL Dashboard.png" alt=""><figcaption></figcaption></figure>
 
 3. Press Enter
