@@ -145,7 +145,7 @@
   * [❔ Will the ISP product be removed from the dashboard after 30 days ?](errors-and-faq/isps/will-the-isp-product-be-removed-from-the-dashboard-after-30-days.md)
   * [❔ Why is the customer ISP plan says can not checkout ?](errors-and-faq/isps/why-is-the-customer-isp-plan-says-can-not-checkout.md)
   * [❔ How does ISP expiration date work if ISPs are ordered directly?](errors-and-faq/isps/how-does-isp-expiration-date-work-if-isps-are-ordered-directly.md)
-  * [➗ ISP status channel](errors-and-faq/isps/isp-status-channel.md)
+  * [❔ ISP status channel](errors-and-faq/isps/isp-status-channel.md)
 * [Dashboard](errors-and-faq/dashboard/README.md)
   * [❔ Can the orders be deleted from the dashboard?](errors-and-faq/dashboard/can-the-orders-be-deleted-from-the-dashboard.md)
   * [❔ How does Torch Labs prevent overselling on the dashboard ?](errors-and-faq/dashboard/how-does-torch-labs-prevent-overselling-on-the-dashboard.md)

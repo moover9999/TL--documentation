@@ -1,4 +1,4 @@
-# ➗ ISP status channel
+# ❔ ISP status channel
 
 {% hint style="info" %}
 We have added a discord bot that will mirror the status of the ISP lock and unlock channel to a specified channel.
@@ -7,13 +7,9 @@ Currently, the status only reflects the status on Footlocker USA. We will add mo
 {% endhint %}
 
 1. First, create a webhook for your desired channel that you would like to receive the message - [https://www.youtube.com/watch?v=fKksxz2Gdnc](https://www.youtube.com/watch?v=fKksxz2Gdnc)
-2. Use the following command on the chat and Paste the webhook you created in step 01&#x20;
+2. Use the following command on the chat and Paste the webhook you created in Step 01&#x20;
 
-```
-/subscribe
-```
-
-add multiple subscriptions using the following command
+Can add multiple subscriptions using the following command
 
 ```
 /subscribe {url} {nickname}
