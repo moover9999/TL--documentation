@@ -39,7 +39,7 @@ Location: USA&#x20;
 
 4️⃣ JUIC - ISPs that support all sites
 
-***
+
 
 Location: Germany&#x20;
 
@@ -49,7 +49,7 @@ Location: Germany&#x20;
 
 1️⃣ DTAG - ISPs that support all sites
 
-***
+
 
 Location: United Kingdom&#x20;
 
@@ -61,7 +61,7 @@ Location: United Kingdom&#x20;
 
 2️⃣ COLT - ISPs that support all sites
 
-***
+
 
 Location: Australia&#x20;
 
