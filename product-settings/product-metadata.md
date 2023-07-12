@@ -40,6 +40,8 @@ The next example is the quantity of the actual price section. In the below examp
 [adding-data-center-products.md](../data-center-and-accounts/adding-data-center-products.md)
 {% endcontent-ref %}
 
+The following metadata is used as a unique identification so that you can allocate products under the different metadata titles. The metadata names with daily/weekly / monthly are just going to be a unique identification whereas you do not need to consider their literal meaning when allocating the metadata. You can use any of the metadata names for any product.
+
 | Product    | First metadata field | Second metadata field          | Quantity metada |
 | ---------- | -------------------- | ------------------------------ | --------------- |
 | Product 1  | torchlabs\_product   | torchlabs\_datacenter\_daily   | amount          |
