@@ -6,15 +6,16 @@ This process allows you to brand the proxies with your company name. For example
 
 #### Quick Domain Links
 
-| API          | Record Type | Domain                                             |
-| ------------ | ----------- | -------------------------------------------------- |
-| Smartproxies | CNAME       | smrt.x.proxiess.com                                |
-| Oxylabs      | A           | 116.202.238.248                                    |
-| Packetstream | CNAME       | proxy.packetstream.io                              |
-| Private      | A           | 159.89.245.182                                     |
-| IPRoyal      | CNAME       | proxy.iproyal.com                                  |
-| Brightdata   | CNAME       | pmgr-customer-c\_e65c4ff1.zproxy.lum-superproxy.io |
-| SmartEU      | CNAME       | smrteu.x.proxiess.com                              |
+| API                    | Record Type | Domain                                             |
+| ---------------------- | ----------- | -------------------------------------------------- |
+| Smartproxies (Default) | CNAME       | smrt.x.proxiess.com                                |
+| Oxylabs (Default)      | A           | 116.202.238.248                                    |
+| Packetstream           | CNAME       | proxy.packetstream.io                              |
+| Private                | A           | 159.89.245.182                                     |
+| IPRoyal                | CNAME       | proxy.iproyal.com                                  |
+| Brightdata             | CNAME       | pmgr-customer-c\_e65c4ff1.zproxy.lum-superproxy.io |
+| SmartEU                | CNAME       | smrteu.x.proxiess.com                              |
+| OxylabEU               | CNAME       | oxyeu.x.proxiess.com                               |
 
 #### PacketStream
 
