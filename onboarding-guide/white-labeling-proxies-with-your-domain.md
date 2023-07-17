@@ -1,5 +1,7 @@
 # 〽 White labeling proxies with your domain
 
+
+
 {% hint style="info" %}
 This process allows you to brand the proxies with your company name. For example, if you are using packet stream the default proxies will have [packetstream.io](http://packetstream.io) in the name. However, using the following guide you can use your domain instead to brand the proxies.
 {% endhint %}
@@ -9,7 +11,7 @@ This process allows you to brand the proxies with your company name. For example
 {% hint style="info" %}
 Please make sure to have two different names for the default and EU products (i.e. Oxylabs , Smart) when entering to DNS settings. Having the same name for the different products may lead to generating non-functioning proxies.&#x20;
 
-Furthermore, if you provide enter a name for default Smart / Oxylab in DNS settings the EU DNS record should contain "Default name + eu".
+Furthermore, if you enter a name for default Smart / Oxylab in DNS settings the EU DNS record should contain "Default name + eu".
 {% endhint %}
 
 | API                    | Record Type | Domain                                             |
