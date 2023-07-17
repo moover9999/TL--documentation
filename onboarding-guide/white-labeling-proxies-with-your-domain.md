@@ -9,7 +9,7 @@ This process allows you to brand the proxies with your company name. For example
 | API                    | Record Type | Domain                                             |
 | ---------------------- | ----------- | -------------------------------------------------- |
 | Smartproxies (Default) | CNAME       | smrt.x.proxiess.com                                |
-| Oxylabs (Default)      | A           | 116.202.238.248                                    |
+| Oxylabs (Default)      | CNAME       | oxy.x.proxiess.com                                 |
 | Packetstream           | CNAME       | proxy.packetstream.io                              |
 | Private                | A           | 159.89.245.182                                     |
 | IPRoyal                | CNAME       | proxy.iproyal.com                                  |
