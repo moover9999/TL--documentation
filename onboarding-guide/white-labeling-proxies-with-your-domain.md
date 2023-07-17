@@ -59,13 +59,27 @@ Use this method to brand your proxies with your own domain/company name
 
 To brand the proxies under your domain follow these steps:
 
-1. Open the DNS configuration for your domain.
-2. Create an A Name Record pointing to the domain.
-3. Whatever you enter in the name/host will decide the domain which points to our API IP.
-4. Thus if your domain is [API.com](http://api.com/) and you enter the host premium pointing to the oxylabs domain, your proxies will be formatted [premium.yourdomain.com](http://premium.yourdomain.com/):port:user:pass
-5. An example on Godaddy is linked below:
+1. Log in to your domain hosting provider account and navigate to the DNS management section.
+2. Locate the option to add a new CNAME record for your domain.
+3. Enter the desired subdomain as the CNAME record value. For example, if you want your subdomain to be "example," enter "example" as the value.
+4. In the "Hostname" field, enter "`oxy.x.proxiess.com`."
+5. Save the changes and allow some time for DNS propagation.
+6. Your custom oxylabs domain will now be accessible via the URL: `example.mydomain.com`
+7. An example on Godaddy is linked below:
 
-<figure><img src="../.gitbook/assets/Screenshot 2023-05-04 at 10.25.51 AM.png" alt=""><figcaption></figcaption></figure>
+#### OxylabsEU
+
+Use this method to brand your proxies with your own domain/company name
+
+To brand the proxies under your domain follow these steps:
+
+1. Log in to your domain hosting provider account and navigate to the DNS management section.
+2. Locate the option to add a new CNAME record for your domain.
+3. Enter the desired subdomain as the CNAME record value. For example, if you want your subdomain to be "example," enter "exampleeu" as the value, appending "eu" at the end. Please note this must be the same value entered for `oxy.x.proxiess.com` with eu at the end.
+4. In the "Hostname" field, enter "`oxyeu.x.proxiess.com`."
+5. Save the changes and allow some time for DNS propagation.
+6. Your custom domain will now be accessible via the URL: `exampleeu.mydomain.com`
+7. An example on Godaddy is linked below:
 
 #### Smart Proxies
 
@@ -73,13 +87,25 @@ Use this method to brand your proxies with your own domain/company name
 
 To brand the proxies under your domain follow these steps:
 
-1. Open the DNS configuration for your domain.
-2. Create a C Name Record pointing to the domain.
-3. Whatever you enter in the name/host will decide the domain which points to our API IP.
-4. Thus if your domain is [API.com](http://api.com/) and you enter the host premium pointing to the Smart Proxies domain, your proxies will be formatted [premium.yourdomain.com](http://premium.yourdomain.com/):port:user:pass
-5. An example on Godaddy is linked below:
+1. Log in to your domain hosting provider account and navigate to the DNS management section.
+2. Locate the option to add a new CNAME record for your domain.
+3. Enter the desired subdomain as the CNAME record value. For example, if you want your subdomain to be "example," enter "example" as the value.
+4. In the "Hostname" field, enter "[smrt.x.proxiees.com](http://smrt.x.proxiees.com/)."
+5. Save the changes and allow some time for DNS propagation.
+6. Your custom domain will now be accessible via the URL: `example.mydomain.com`
+7. An example on Godaddy is linked below:
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+#### SmartEU
+
+1. Log in to your domain hosting provider account and navigate to the DNS management section.
+2. Locate the option to add a new CNAME record for your domain.
+3. Enter the desired subdomain as the CNAME record value. For example, if you want your subdomain to be "example," enter "exampleeu" as the value, appending "eu" at the end. Please note this must be the same value entered for [smrt.x.proxiees.com](http://smrt.x.proxiees.com/) with eu at the end.
+4. In the "Hostname" field, enter "[smrteu.x.proxiees.com](http://smrteu.x.proxiees.com/)."
+5. Save the changes and allow some time for DNS propagation.
+6. Your custom domain will now be accessible via the URL: `exampleeu.mydomain.com`
+7. An example on Godaddy is linked below:
 
 #### IP Royal
 
