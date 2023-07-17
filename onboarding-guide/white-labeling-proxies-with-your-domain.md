@@ -6,6 +6,10 @@ This process allows you to brand the proxies with your company name. For example
 
 #### Quick Domain Links
 
+{% hint style="info" %}
+Please make sure to have two different names for the default and EU products (i.e. Oxylabs , Smart) when entering to DNS settings. Having the same name for the different products may lead to generating non-functioning proxies.
+{% endhint %}
+
 | API                    | Record Type | Domain                                             |
 | ---------------------- | ----------- | -------------------------------------------------- |
 | Smartproxies (Default) | CNAME       | smrt.x.proxiess.com                                |
