@@ -7,7 +7,9 @@ This process allows you to brand the proxies with your company name. For example
 #### Quick Domain Links
 
 {% hint style="info" %}
-Please make sure to have two different names for the default and EU products (i.e. Oxylabs , Smart) when entering to DNS settings. Having the same name for the different products may lead to generating non-functioning proxies.
+Please make sure to have two different names for the default and EU products (i.e. Oxylabs , Smart) when entering to DNS settings. Having the same name for the different products may lead to generating non-functioning proxies.&#x20;
+
+Furthermore, if you provide enter a name for default Smart / Oxylab in DNS settings the EU DNS record should contain "Default name + eu".
 {% endhint %}
 
 | API                    | Record Type | Domain                                             |
@@ -19,7 +21,7 @@ Please make sure to have two different names for the default and EU products (i.
 | IPRoyal                | CNAME       | proxy.iproyal.com                                  |
 | Brightdata             | CNAME       | pmgr-customer-c\_e65c4ff1.zproxy.lum-superproxy.io |
 | SmartEU                | CNAME       | smrteu.x.proxiess.com                              |
-| OxylabEU               | CNAME       | oxyeu.x.proxiess.com                               |
+| OxylabsEU              | CNAME       | oxyeu.x.proxiess.com                               |
 
 #### PacketStream
 
