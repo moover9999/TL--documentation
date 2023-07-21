@@ -137,7 +137,7 @@
   * [❔ Bright data, country not displaying correctly when testing](errors-and-faq/proxies/bright-data-country-not-displaying-correctly-when-testing.md)
   * [❔ Why is the data usage inequal for the same amount of tasks from different providers?](errors-and-faq/proxies/why-is-the-data-usage-inequal-for-the-same-amount-of-tasks-from-different-providers.md)
   * [❔ How is residential data billed?](errors-and-faq/proxies/how-is-residential-data-billed.md)
-  * [What's the way to change passwords for all ISPs ?](errors-and-faq/residential-proxies/whats-the-way-to-change-passwords-for-all-isps.md)
+  * [❔ What's the way to change passwords for all ISPs ?](errors-and-faq/residential-proxies/whats-the-way-to-change-passwords-for-all-isps.md)
   * [❔ What is the difference between Oxylabs / Smart (Default) and PxylabsEU / SmartEU ?](errors-and-faq/residential-proxies/what-is-the-difference-between-oxylabs-smart-default-and-pxylabseu-smarteu.md)
 * [ISPs](errors-and-faq/isps/README.md)
   * [❔ What is the Torch Labs ISP API](errors-and-faq/isps/what-is-the-torch-labs-isp-api.md)
