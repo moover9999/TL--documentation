@@ -127,6 +127,7 @@
   * [❔ How to create a coupon for subscription product to apply only for the first month ?](errors-and-faq/stripe/how-to-create-a-coupon-for-subscription-product-to-apply-only-for-the-first-month.md)
   * [❔ How to prevent fraud ?](errors-and-faq/stripe/how-to-prevent-fraud.md)
   * [❔ How to cancel a subscription on Stripe?](errors-and-faq/stripe/how-to-cancel-a-subscription-on-stripe.md)
+  * [❔ How to change the stripe account?](errors-and-faq/stripe/how-to-change-the-stripe-account.md)
 * [Residential Proxies](errors-and-faq/proxies/README.md)
   * [❔ How to check geolocation?](errors-and-faq/proxies/how-to-check-geolocation.md)
   * [❔ How to change URL ?](errors-and-faq/proxies/how-to-change-url.md)
