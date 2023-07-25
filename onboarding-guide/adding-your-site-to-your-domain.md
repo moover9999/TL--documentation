@@ -1,7 +1,7 @@
 # ✈ Adding Your Site To Your Domain
 
 {% hint style="info" %}
-If you’re looking to connect your GoDaddy domain to your website you will need two things: a domain, and a hosting account. The hosting account (or server) is where your website will live. GoDaddy is where you might buy your domain and in orde to connect your domain with site follow the below steps.
+If you’re looking to connect your GoDaddy domain to your website you will need two things: a domain, and a hosting account. The hosting account (or server) is where your website will live. GoDaddy is where you might buy your domain and in order to connect your domain with site follow the below steps.
 {% endhint %}
 
 ## Godaddy Setup
