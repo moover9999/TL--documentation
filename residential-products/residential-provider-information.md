@@ -15,7 +15,7 @@ description: >-
 * Continuous proxy rotation for avg. 99.2% success rates.
 * Country, city, and state-level targeting with no extra cost.
 * 100M+ Residential Proxy pool.
-* Supports all major sites.
+* Supports all major sites. (Except Google)
 
 ## **Smart Residential Proxies**
 
