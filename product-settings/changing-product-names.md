@@ -4,6 +4,12 @@
 To modify the product names, kindly refer to the following guide and proceed with updating them accordingly.
 {% endhint %}
 
+{% hint style="warning" %}
+Please be noted that you CANNOT change the product name if you have any active subscriptions. In changing the product name you will have to back up all the active subscriptions, create a new batch and launch it again.&#x20;
+
+Otherwise the transactions will not be reflected on the admin dashboard accurately.
+{% endhint %}
+
 1. Go to Stripe and click on the Products tab. Then click on the product and edit the product.
 
 <figure><img src="../.gitbook/assets/a (3).png" alt=""><figcaption></figcaption></figure>
