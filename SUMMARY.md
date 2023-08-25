@@ -128,6 +128,7 @@
   * [❔ How to prevent fraud ?](errors-and-faq/stripe/how-to-prevent-fraud.md)
   * [❔ How to cancel a subscription on Stripe?](errors-and-faq/stripe/how-to-cancel-a-subscription-on-stripe.md)
   * [❔ How to change the stripe account?](errors-and-faq/stripe/how-to-change-the-stripe-account.md)
+  * [❔ How to change the bank information to receive payments from stripe ?](errors-and-faq/stripe/how-to-change-the-bank-information-to-receive-payments-from-stripe.md)
 * [Residential Proxies](errors-and-faq/proxies/README.md)
   * [❔ How to check geolocation?](errors-and-faq/proxies/how-to-check-geolocation.md)
   * [❔ How to change URL ?](errors-and-faq/proxies/how-to-change-url.md)
