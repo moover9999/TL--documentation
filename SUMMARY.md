@@ -113,6 +113,7 @@
 * [🏧 Customer subscription portal](customer-dashboard/customer-subscription-portal.md)
 * [🎓 Proxy Generation](customer-dashboard/proxy-generation.md)
 * [🎛 Setting up the Default Country](customer-dashboard/setting-up-the-default-country.md)
+* [🫐 Referral System](customer-dashboard/referral-system.md)
 
 ## Errors & FAQ
 
