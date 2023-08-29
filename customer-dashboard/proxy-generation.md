@@ -26,6 +26,10 @@ Our dashboard provides customers with a range of options for generating differen
 
 <figure><img src="../.gitbook/assets/6 (6).png" alt=""><figcaption></figcaption></figure>
 
+5.1 Select Streaming / Special Pool (This option is still available for IP Royal only)
+
+<figure><img src="../.gitbook/assets/a (7).png" alt=""><figcaption></figcaption></figure>
+
 6\. Select the country. Now you have the ability to choose multiple countries and generate custom pools.
 
 <figure><img src="../.gitbook/assets/7 (3).png" alt=""><figcaption></figcaption></figure>
