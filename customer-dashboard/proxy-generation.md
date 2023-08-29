@@ -28,6 +28,10 @@ Our dashboard provides customers with a range of options for generating differen
 
 5.1 Select Streaming / Special Pool (This option is still available for IP Royal only)
 
+{% hint style="info" %}
+It is a special pool of proxies generated that are of higher quality than the regular pool of proxies.
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/a (7).png" alt=""><figcaption></figcaption></figure>
 
 6\. Select the country. Now you have the ability to choose multiple countries and generate custom pools.
