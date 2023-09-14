@@ -30,7 +30,7 @@ Customers can create a referral link in the customer dashboard to share with oth
 
 ### Initial Purchase
 
-1. Purchasing a premium 1GB should add 3 credits to the referral
+1. Initial purchases can be made by using the generated referral link sent by another user. Once the received link is clicked, it will automatically be directed to the particular user dashboard. The initial purchase that the user is going to make, would add a certain amount of credits depending on the product rates entered under the _Other Settings_.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-21 at 16.10.23.png" alt=""><figcaption></figcaption></figure>
 
@@ -46,7 +46,9 @@ Customers can create a referral link in the customer dashboard to share with oth
 
 <figure><img src="../.gitbook/assets/7 (5).png" alt=""><figcaption></figcaption></figure>
 
-5. Buying 0.1Gb of the elite, require 1 credit
+5.  Depending on the product rates you have entered in the _Other Settings_ tab. the amount of credits required to buy 1GB will be decided.
+
+    (i.e. : Buying 0.1GB of the elite, require 1 credit)
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-21 at 16.18.50.png" alt=""><figcaption></figcaption></figure>
 
