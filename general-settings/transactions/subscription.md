@@ -16,7 +16,7 @@ This section aims to provide comprehensive information regarding the subscriptio
 Following are the columns you can find in the subscription tab
 {% endhint %}
 
-* Subscription ID - This is the subscription ID generated for a particular subscription transaction.
+* Subscription ID - This is the subscription ID generated for a particular subscription transaction. (Just click on the particular ID to get to copied to the clipboard)
 * Email - The email address attached to the transaction.
 * Discord ID - Discord ID of the sub-user&#x20;
 * Discord Tag - Discord tag of the sub-user
