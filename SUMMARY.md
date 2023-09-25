@@ -119,7 +119,7 @@
 ## Errors & FAQ
 
 * [Stripe](errors-and-faq/stripe/README.md)
-  * [Cancel subscription after payment retries](errors-and-faq/stripe/cancel-subscription-after-payment-retries.md)
+  * [❔ Cancel subscription after payment retries](errors-and-faq/stripe/cancel-subscription-after-payment-retries.md)
   * [❔ How to set up Stripe Radar ?](errors-and-faq/stripe/how-to-set-up-stripe-radar.md)
   * [❔ How to fix the subscription portal issue ?](errors-and-faq/stripe/how-to-fix-the-subscription-portal-issue.md)
   * [❔ What information does Stripe need to create an account ?](errors-and-faq/stripe/what-information-does-stripe-need-to-create-an-account.md)
