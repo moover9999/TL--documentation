@@ -12,16 +12,16 @@ This process allows you to brand the proxies with your company name. For example
 Please make sure to have two different names for the default and EU products (i.e. Oxylabs , Smart) when entering to DNS settings. Having the same name for the different products may lead to generating non-functioning proxies.&#x20;
 {% endhint %}
 
-| API                    | Record Type | Domain                                             |
-| ---------------------- | ----------- | -------------------------------------------------- |
-| Smartproxies (Default) | CNAME       | smrt.x.proxiess.com                                |
-| Oxylabs (Default)      | CNAME       | oxy.x.proxiess.com                                 |
-| Packetstream           | CNAME       | proxy.packetstream.io                              |
-| Private                | A           | 159.89.245.182                                     |
-| IPRoyal                | CNAME       | proxy.iproyal.com                                  |
-| Brightdata             | CNAME       | pmgr-customer-c\_e65c4ff1.zproxy.lum-superproxy.io |
-| SmartEU                | CNAME       | smrteu.x.proxiess.com                              |
-| OxylabsEU              | CNAME       | oxyeu.x.proxiess.com                               |
+| API                    | Record Type | Domain                                                                                               |
+| ---------------------- | ----------- | ---------------------------------------------------------------------------------------------------- |
+| Smartproxies (Default) | CNAME       | smrt.x.proxiess.com                                                                                  |
+| Oxylabs (Default)      | CNAME       | oxy.x.proxiess.com                                                                                   |
+| Packetstream           | CNAME       | proxy.packetstream.io                                                                                |
+| Private                | A           | 159.89.245.182                                                                                       |
+| IPRoyal                | CNAME       | proxy.iproyal.com                                                                                    |
+| Brightdata             | CNAME       | [pmgr-customer-hl\_e65c4ff1.brd.superproxy.io](http://pmgr-customer-hl\_e65c4ff1.brd.superproxy.io/) |
+| SmartEU                | CNAME       | smrteu.x.proxiess.com                                                                                |
+| OxylabsEU              | CNAME       | oxyeu.x.proxiess.com                                                                                 |
 
 #### PacketStream
 
