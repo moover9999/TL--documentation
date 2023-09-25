@@ -4,6 +4,8 @@
 This section will guide you on how to create an ISP API batch for a registered APIs in a multiple subnets together and deliver the stock in one batch.
 {% endhint %}
 
+<mark style="color:red;">Before getting started, make sure you have configured automatic subscription cancellation on stripe following this guide:</mark> [cancel-subscription-after-payment-retries.md](../../errors-and-faq/stripe/cancel-subscription-after-payment-retries.md "mention")
+
 1. Go to _Datacenter_ tab on Admin Dashboard.
 
 <figure><img src="../../.gitbook/assets/5 (9).png" alt=""><figcaption></figcaption></figure>

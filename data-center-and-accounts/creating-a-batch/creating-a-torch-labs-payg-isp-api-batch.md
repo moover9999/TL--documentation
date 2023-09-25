@@ -6,6 +6,8 @@
 you need to make sure, the price you have created has a custom recurring period set to 28 days. We do this because, if the customers' payment method fails, they now have a grace period of 2 days to complete the payment in order to keep the same set of proxies/items.
 {% endhint %}
 
+<mark style="color:red;">Before getting started, make sure you have configured automatic subscription cancellation on stripe following this guide:</mark> [cancel-subscription-after-payment-retries.md](../../errors-and-faq/stripe/cancel-subscription-after-payment-retries.md "mention")
+
 <figure><img src="../../.gitbook/assets/Screenshot 2023-04-12 at 3.57.09 PM.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}

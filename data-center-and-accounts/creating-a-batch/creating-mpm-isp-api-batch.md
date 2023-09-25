@@ -8,6 +8,8 @@ This section will guide you on creating an ISP API batch for a registered API. O
 Initially, it is a must to inform Torch Labs admins in the ticket that you want to create MPM ISP API batch so that admins can initiate the registering process in the backend.
 {% endhint %}
 
+<mark style="color:red;">Before getting started, make sure you have configured automatic subscription cancellation on stripe following this guide:</mark> [cancel-subscription-after-payment-retries.md](../../errors-and-faq/stripe/cancel-subscription-after-payment-retries.md "mention")
+
 After informing Torch Labs admins you can start registering the API and refer to the following guide for registering the API.&#x20;
 
 {% content-ref url="../../more-settings/adding-and-removing-isp-api.md" %}
