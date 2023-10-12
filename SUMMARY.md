@@ -169,6 +169,7 @@
   * [❔ Error 504](errors-and-faq/error-504.md)
   * [❔ How to cancel a subscription on the dashboard ?](errors-and-faq/dashboard/how-to-cancel-a-subscription-on-the-dashboard.md)
   * [❔ How to change the domain ?](errors-and-faq/dashboard/how-to-change-the-domain.md)
+  * [How to find the Transaction ID / Subscription ID?](errors-and-faq/dashboard/how-to-find-the-transaction-id-subscription-id.md)
 * [Discord](errors-and-faq/discord/README.md)
   * [❔ What are the steps for changing the Discord server that is linked to the dashboard?](errors-and-faq/dashboard/what-are-the-steps-for-changing-the-discord-server-that-is-linked-to-the-dashboard.md)
   * [❔ Getting an auth error coming when accessing to user dashboard ?](errors-and-faq/dashboard/getting-an-auth-error-coming-when-accessing-to-user-dashboard.md)
