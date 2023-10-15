@@ -21,3 +21,7 @@ Creating a batch is the process of enabling stock so that your customers can pur
 {% content-ref url="creating-porter-proxies-isp-api-batch.md" %}
 [creating-porter-proxies-isp-api-batch.md](creating-porter-proxies-isp-api-batch.md)
 {% endcontent-ref %}
+
+{% content-ref url="creating-mpm-isp-api-batch.md" %}
+[creating-mpm-isp-api-batch.md](creating-mpm-isp-api-batch.md)
+{% endcontent-ref %}
