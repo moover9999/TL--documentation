@@ -8,6 +8,8 @@ There are a few things you can do such as checking your data balance and connect
 
 03\. Screen Shot of the data balance
 
-04\. Discord tag and ID of the failed user
+04\. Discord ID of the failed user
 
-05\. Send a screenshot of full list of DNS settings
+05\. Subscription / Transaction ID
+
+05\. Send a screenshot of the full list of DNS settings
