@@ -11,7 +11,7 @@ To resolve the above issue, the customer can create a new batch by referring to 
 [creating-a-batch](../../data-center-and-accounts/creating-a-batch/)
 {% endcontent-ref %}
 
-
+Even after creating the batch, if you encounter an "out of stock" status, please contact the administrative support along with the product name.
 
 
 
