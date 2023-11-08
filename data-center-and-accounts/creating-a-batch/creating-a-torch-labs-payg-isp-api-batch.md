@@ -24,7 +24,7 @@ Depending on the product you can add any **Quantity between 1 to 200.**
 (Subnets)
 
 * US product: RETL\_24 , JUIC\_24 , DC\_24 , TICK\_24
-* EU product: DTAG\_24 , VIRM\_24
+* EU product: DTAG\_24 , DTAG\_NL , VIRM\_24
 * AU product: VOCU\_24
 {% endhint %}
 
