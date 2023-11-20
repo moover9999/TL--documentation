@@ -32,7 +32,7 @@ Internal notes are only visible to admins and not the users
 
 6\. Set the expiration date or the number of days from creation date to expiration date for the pasted list.
 
-<figure><img src="../.gitbook/assets/d (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/d (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 7\. Admin can add an internal note here as required
 

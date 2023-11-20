@@ -115,6 +115,7 @@
 * [🎛 Setting up the Default Country](customer-dashboard/setting-up-the-default-country.md)
 * [🫐 Referral System](customer-dashboard/referral-system.md)
 * [‼ Dashboard Animation](customer-dashboard/dashboard-animation.md)
+* [❔ How to renew a subscription after cancellation ?](customer-dashboard/how-to-renew-a-subscription-after-cancellation.md)
 
 ## Errors & FAQ
 
