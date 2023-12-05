@@ -24,7 +24,7 @@ Customers can create a referral link in the customer dashboard to share with oth
 
 ### Setting Product Rates
 
-1. Go to other settings and Enter the product rates
+1. Go to other settings and Enter the product rates. The rates you enter here will be the number of credits per GB you allocate when someone uses the referral link and refers to another person.
 
 <figure><img src="../.gitbook/assets/6 (10).png" alt=""><figcaption></figcaption></figure>
 
