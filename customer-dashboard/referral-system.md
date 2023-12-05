@@ -24,7 +24,7 @@ Customers can create a referral link in the customer dashboard to share with oth
 
 ### Setting Product Rates
 
-1. Go to other settings and Enter the product rates. The rates you enter here will be the number of credits per GB you allocate when someone uses the referral link and refers to another person.
+1. Go to other settings and Enter the product rates. The rates you enter here will be the number of credits per GB you allocate when someone uses the referral link and refers to another person.&#x20;
 
 <figure><img src="../.gitbook/assets/6 (10).png" alt=""><figcaption></figcaption></figure>
 
@@ -41,6 +41,22 @@ Customers can create a referral link in the customer dashboard to share with oth
 3. Total Credits would be reflected as follows under the _Referrals_ section in the Customer Dashboard
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-21 at 16.13.12.png" alt=""><figcaption></figcaption></figure>
+
+
+
+> Refer to the following scenario for further understanding.
+>
+>
+>
+> A - Referral link generator&#x20;
+>
+> B - The individual making the initial purchase using the shared referral link&#x20;
+>
+> Product rate for Packetstream - 10 credits per GB
+>
+> If "A" generates the link and shares it with "B", and then "B" purchases 1GB of Packetstream using the referral link, this purchase adds 10 credits under "A". "A" can use these credits to buy any residential product if they meet the required credit threshold for purchasing residential products. This policy is applicable only for the initial purchase.
+>
+> In this scenario, if "B" generates another referral link for themselves and shares it with a person named "C," then the initial purchase made by "C" will bring credits for "B"
 
 4. Click on _Use Credit_ to use the credits earned.
 
