@@ -174,6 +174,7 @@
   * [❔ How can the dashboard be accessed/logged in?](errors-and-faq/dashboard/how-can-the-dashboard-be-accessed-logged-in.md)
   * [❔ Why is it indicating Out of Stock ?](errors-and-faq/dashboard/why-is-it-indicating-out-of-stock.md)
   * [❔ How to renew a subscription after cancellation ?](errors-and-faq/dashboard/how-to-renew-a-subscription-after-cancellation.md)
+  * [❔ How to get a notification for upcoming renewals ?](errors-and-faq/dashboard/how-to-get-a-notification-for-upcoming-renewals.md)
 * [Discord](errors-and-faq/discord/README.md)
   * [❔ What are the steps for changing the Discord server that is linked to the dashboard?](errors-and-faq/dashboard/what-are-the-steps-for-changing-the-discord-server-that-is-linked-to-the-dashboard.md)
   * [❔ Getting an auth error coming when accessing to user dashboard ?](errors-and-faq/dashboard/getting-an-auth-error-coming-when-accessing-to-user-dashboard.md)
