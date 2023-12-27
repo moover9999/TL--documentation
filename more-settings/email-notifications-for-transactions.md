@@ -18,3 +18,10 @@ If you want the users to have the option of getting email notifications for the 
 [https://stripe.com/docs/invoicing/send-email](https://stripe.com/docs/invoicing/send-email)
 {% endhint %}
 
+Please refer to the following guide to activate the notifications regarding the upcoming renewals.
+
+
+
+{% content-ref url="../errors-and-faq/dashboard/how-to-get-a-notification-for-upcoming-renewals.md" %}
+[how-to-get-a-notification-for-upcoming-renewals.md](../errors-and-faq/dashboard/how-to-get-a-notification-for-upcoming-renewals.md)
+{% endcontent-ref %}
