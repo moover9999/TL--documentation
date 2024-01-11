@@ -27,7 +27,7 @@ Customers can create a referral link in the customer dashboard to share with oth
 1. Go to other settings and Enter the product rates. The rates you enter here will be the number of credits per GB you allocate when someone uses the referral link and refers to another person.&#x20;
 2. Next, you need to enter the redemption rates and that will be the number of credits per GB to be redeemed in purchasing data.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-01-11 at 11.26.07.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-01-11 at 11.59.46.png" alt=""><figcaption></figcaption></figure>
 
 ### Initial Purchase
 
