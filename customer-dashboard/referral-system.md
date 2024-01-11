@@ -22,11 +22,12 @@ Customers can create a referral link in the customer dashboard to share with oth
 
 <figure><img src="../.gitbook/assets/5 (10).png" alt=""><figcaption></figcaption></figure>
 
-### Setting Product Rates
+### Setting Product Rates & Redemption Rates
 
 1. Go to other settings and Enter the product rates. The rates you enter here will be the number of credits per GB you allocate when someone uses the referral link and refers to another person.&#x20;
+2. Next, you need to enter the redemption rates and that will be the number of credits per GB to be redeemed in purchasing data.
 
-<figure><img src="../.gitbook/assets/6 (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-01-11 at 11.26.07.png" alt=""><figcaption></figcaption></figure>
 
 ### Initial Purchase
 
@@ -54,7 +55,7 @@ Customers can create a referral link in the customer dashboard to share with oth
 >
 > Product rate for Packetstream - 10 credits per GB
 >
-> If "A" generates the link and shares it with "B", and then "B" purchases 1GB of Packetstream using the referral link, this purchase adds 10 credits under "A". "A" can use these credits to buy any residential product if they meet the required credit threshold for purchasing residential products. This policy is applicable only for the initial purchase.
+> If "A" generates the link and shares it with "B", and then "B" purchases 1GB of Packetstream using the referral link, this purchase adds 10 credits under "A". According to the number of credits per GB entered under redemption rates would decide how many credits need to be earned so that "A" can use these credits to buy any residential product if they meet the required credit threshold for purchasing residential products. This policy is applicable only for the initial purchase.
 >
 > In this scenario, if "B" generates another referral link for themselves and shares it with a person named "C," then the initial purchase made by "C" will bring credits for "B"
 
@@ -62,7 +63,7 @@ Customers can create a referral link in the customer dashboard to share with oth
 
 <figure><img src="../.gitbook/assets/7 (5).png" alt=""><figcaption></figcaption></figure>
 
-5.  Depending on the product rates you have entered in the _Other Settings_ tab. the amount of credits required to buy 1GB will be decided.
+5.  Depending on the product rates and redemption rates you have entered in the _Other Settings_ tab. the amount of credits required to buy 1GB will be decided.
 
     (i.e. : Buying 0.1GB of the elite, require 1 credit)
 
