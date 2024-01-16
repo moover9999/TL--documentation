@@ -8,9 +8,9 @@ This section aims to provide comprehensive information regarding the subscriptio
 
 <figure><img src="../../.gitbook/assets/2023-04-07 15_44_22-TorchLabs - Dashboard.png" alt=""><figcaption></figcaption></figure>
 
-2. You can filter the transactions using the filters such as email, Discord ID,  Discord tag & Subscription ID.
+2. You can filter the transactions using the filters such as email, Discord ID,  Discord tag & Subscription ID & ISPs.
 
-<figure><img src="../../.gitbook/assets/2 (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2024-01-16 14_28_30-TorchLabs - Dashboard.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Following are the columns you can find in the subscription tab
