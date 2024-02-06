@@ -22,6 +22,7 @@ The _**amount**_ metadata/parameter in the data center and accounts tab is what 
 | Smart Proxies | torchlabs\_product   | torchlabs\_smart      | data\_gb          |
 | IP Royal      | torchlabs\_product   | torchlabs\_iproyal    | data\_gb          |
 | Brightdata    | torchlabs\_product   | torchlabs\_brightdata | data\_gb          |
+| Geonode       | torchlabs\_product   | torchlabs\_geonode    | data\_gb          |
 | More soon..   |                      |                       |                   |
 
 **Example:**

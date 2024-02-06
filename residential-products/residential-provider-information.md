@@ -57,3 +57,13 @@ description: >-
 * 99% uptime with a mix of ISP, mobile proxies and real residential proxies.
 * 180+ countries.
 * Supports all major sites.
+
+## Geonode **Residential Proxies**
+
+* 160+ Country Targeting&#x20;
+* Basic reporting + analytics&#x20;
+* 99.9% success rate&#x20;
+* Unlimited data&#x20;
+* SOCKS5/HTTPS Support&#x20;
+* Fast and easy authentication&#x20;
+* Custom Rotation Time

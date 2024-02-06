@@ -22,6 +22,7 @@ Please make sure to have two different names for the default and EU products (i.
 | Brightdata             | CNAME       | pmgr-customer-hl\_e65c4ff1.brd.superproxy.io |
 | SmartEU                | CNAME       | smrteu.x.proxiess.com                        |
 | OxylabsEU              | CNAME       | oxyeu.x.proxiess.com                         |
+| Geonode                | CNAME       | premium-residential.geonode.com              |
 
 #### PacketStream
 
@@ -133,3 +134,16 @@ To brand the proxies under your domain follow these steps:
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-09-09 at 2.26.02 PM.png" alt=""><figcaption></figcaption></figure>
 
+#### Geonode
+
+Use this method to brand your proxies with your own domain/company name
+
+To brand the proxies under your domain follow these steps:
+
+1. Log in to your domain hosting provider account and navigate to the DNS management section.
+2. Locate the option to add a new CNAME record for your domain.
+3. Enter the desired subdomain as the CNAME record value. For example, if you want your subdomain to be "example," enter "example" as the value.
+4. In the "Hostname" field, enter `"premium-residential.geonode.com"`
+5. Save the changes and allow some time for DNS propagation.
+6. Your custom oxylabs domain will now be accessible via the URL: `example.mydomain.com`
+7. An example on Godaddy is linked below:
