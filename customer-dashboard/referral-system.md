@@ -20,7 +20,9 @@ Customers can create a referral link in the customer dashboard to share with oth
 
 3.1 This is what the link looks like after following step 3.
 
-<figure><img src="../.gitbook/assets/5 (10).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/2024-02-07 16_07_00-Killer Proxies Dev.png" alt=""><figcaption></figcaption></figure>
 
 ### Setting Product Rates & Redemption Rates
 
