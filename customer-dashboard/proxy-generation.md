@@ -50,6 +50,12 @@ It is a special pool of proxies generated that are of higher quality than the re
 
 <figure><img src="../.gitbook/assets/10 (1).png" alt=""><figcaption></figcaption></figure>
 
-7\. Once all the selections are done, click _Generate._
+7\. Proxy format can be changed by clicking the available options here
+
+
+
+<figure><img src="../.gitbook/assets/2024-02-07 13_28_28-Batz.png" alt=""><figcaption></figcaption></figure>
+
+8.Once all the selections are done, click _Generate._
 
 <figure><img src="../.gitbook/assets/11 (1).png" alt=""><figcaption></figcaption></figure>
