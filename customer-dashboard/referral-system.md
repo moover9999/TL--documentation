@@ -12,7 +12,7 @@ Customers can create a referral link in the customer dashboard to share with oth
 
 2. Go to Customer Dashboard and click on _Referrals_
 
-<figure><img src="../.gitbook/assets/2 (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2024-02-07 15_13_13-Killer Proxies Dev.png" alt=""><figcaption></figcaption></figure>
 
 3. Click on the _Generate Referral link_
 
