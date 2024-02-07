@@ -16,7 +16,7 @@ Customers can create a referral link in the customer dashboard to share with oth
 
 3. Click on the _Generate Referral link_
 
-<figure><img src="../.gitbook/assets/4 (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-02-07 at 15.22.07.png" alt=""><figcaption></figcaption></figure>
 
 3.1 This is what the link looks like after following step 3.
 
@@ -61,11 +61,15 @@ You can adjust the rates according to your specific purpose and goals.
 
 <figure><img src="../.gitbook/assets/Screenshot 2023-08-21 at 16.11.49.png" alt=""><figcaption></figcaption></figure>
 
-3. Total Credits would be reflected as follows under the _Referrals_ section in the Customer Dashboard
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-08-21 at 16.13.12.png" alt=""><figcaption></figcaption></figure>
+3. Total Credits would be reflected as follows under the _Reward store_ section in the Customer Dashboard.
 
 
+
+{% hint style="info" %}
+In the Reward Store, you can see how many points you've earned. Additionally, under each provider, the redemption rates you entered in the admin dashboard are displayed. Consequently, you can claim data based on the available points. Please note that only 1GB can be claimed at once.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/2024-02-07 15_34_12-Killer Proxies Dev.png" alt=""><figcaption></figcaption></figure>
 
 > Refer to the following scenario for further understanding.
 >
@@ -81,13 +85,8 @@ You can adjust the rates according to your specific purpose and goals.
 >
 > In this scenario, if "B" generates another referral link for themselves and shares it with a person named "C," then the initial purchase made by "C" will bring credits for "B"
 
-4. Click on _Use Credit_ to use the credits earned.
+4. Click on the _Claim_ button to claim the data.
 
-<figure><img src="../.gitbook/assets/7 (5).png" alt=""><figcaption></figcaption></figure>
+> _Claim_ button is displayed active only if you have enough available point to claim the data.
 
-5.  Depending on the product rates and redemption rates you have entered in the _Other Settings_ tab. the amount of credits required to buy 1GB will be decided.
-
-    (i.e. : Buying 0.1GB of the elite, require 1 credit)
-
-<figure><img src="../.gitbook/assets/Screenshot 2023-08-21 at 16.18.50.png" alt=""><figcaption></figcaption></figure>
-
+<figure><img src="../.gitbook/assets/zzzz.png" alt=""><figcaption></figcaption></figure>
