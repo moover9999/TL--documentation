@@ -90,3 +90,7 @@ In the Reward Store, you can see how many points you've earned. Additionally, un
 > _Claim_ button is displayed active only if you have enough available point to claim the data.
 
 <figure><img src="../.gitbook/assets/zzzz.png" alt=""><figcaption></figcaption></figure>
+
+5. You can check the referred friends and reward history in this section
+
+<figure><img src="../.gitbook/assets/2024-02-07 15_59_16-Killer Proxies Dev.png" alt=""><figcaption></figcaption></figure>
