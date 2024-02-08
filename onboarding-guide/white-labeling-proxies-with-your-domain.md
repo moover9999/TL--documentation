@@ -60,8 +60,8 @@ To brand the proxies under your domain follow these steps:
 
 1. Log in to your domain hosting provider account and navigate to the DNS management section.
 2. Locate the option to add a new CNAME record for your domain.
-3. Enter the desired subdomain as the CNAME record value. For example, if you want your subdomain to be "example," enter "example" as the value.
-4. In the "Hostname" field, enter "`oxy.x.proxiess.com`."
+3. Enter the desired subdomain as the CNAME record value. For example, if you want your subdomain to be "example," enter "example" as the host.
+4. In the "value" field, enter "`oxy.x.proxiess.com`."
 5. Save the changes and allow some time for DNS propagation.
 6. Your custom oxylabs domain will now be accessible via the URL: `example.mydomain.com`
 7. An example on Godaddy is linked below:
@@ -74,8 +74,8 @@ To brand the proxies under your domain follow these steps:
 
 1. Log in to your domain hosting provider account and navigate to the DNS management section.
 2. Locate the option to add a new CNAME record for your domain.
-3. Enter the desired subdomain as the CNAME record value. For example, if you want your subdomain to be "example," enter "exampleeu" as the value, appending "eu" at the end. Please note this must be the same value entered for `oxy.x.proxiess.com` with eu at the end.
-4. In the "Hostname" field, enter "`oxyeu.x.proxiess.com`."
+3. Enter the desired subdomain as the CNAME record value. For example, if you want your subdomain to be "example," enter "exampleeu" as the host, appending "eu" at the end. Please note this must be the same value entered for `oxy.x.proxiess.com` with eu at the end.
+4. In the "value" field, enter "`oxyeu.x.proxiess.com`."
 5. Save the changes and allow some time for DNS propagation.
 6. Your custom domain will now be accessible via the URL: `exampleeu.mydomain.com`
 7. An example on Godaddy is linked below:
@@ -88,8 +88,8 @@ To brand the proxies under your domain follow these steps:
 
 1. Log in to your domain hosting provider account and navigate to the DNS management section.
 2. Locate the option to add a new CNAME record for your domain.
-3. Enter the desired subdomain as the CNAME record value. For example, if you want your subdomain to be "example," enter "example" as the value.
-4. In the "Hostname" field, enter "[smrt.x.proxiees.com](http://smrt.x.proxiees.com/)."
+3. Enter the desired subdomain as the CNAME record value. For example, if you want your subdomain to be "example," enter "example" as the host.
+4. In the "value" field, enter "[smrt.x.proxiees.com](http://smrt.x.proxiees.com/)."
 5. Save the changes and allow some time for DNS propagation.
 6. Your custom domain will now be accessible via the URL: `example.mydomain.com`
 7. An example on Godaddy is linked below:
@@ -100,8 +100,8 @@ To brand the proxies under your domain follow these steps:
 
 1. Log in to your domain hosting provider account and navigate to the DNS management section.
 2. Locate the option to add a new CNAME record for your domain.
-3. Enter the desired subdomain as the CNAME record value. For example, if you want your subdomain to be "example," enter "exampleeu" as the value, appending "eu" at the end. Please note this must be the same value entered for [smrt.x.proxiees.com](http://smrt.x.proxiees.com/) with eu at the end.
-4. In the "Hostname" field, enter "[smrteu.x.proxiees.com](http://smrteu.x.proxiees.com/)."
+3. Enter the desired subdomain as the CNAME record value. For example, if you want your subdomain to be "example," enter "exampleeu" as the host, appending "eu" at the end. Please note this must be the same value entered for [smrt.x.proxiees.com](http://smrt.x.proxiees.com/) with eu at the end.
+4. In the "value" field, enter "[smrteu.x.proxiees.com](http://smrteu.x.proxiees.com/)."
 5. Save the changes and allow some time for DNS propagation.
 6. Your custom domain will now be accessible via the URL: `exampleeu.mydomain.com`
 7. An example on Godaddy is linked below:
@@ -142,8 +142,8 @@ To brand the proxies under your domain follow these steps:
 
 1. Log in to your domain hosting provider account and navigate to the DNS management section.
 2. Locate the option to add a new CNAME record for your domain.
-3. Enter the desired subdomain as the CNAME record value. For example, if you want your subdomain to be "example," enter "example" as the value.
-4. In the "Hostname" field, enter `"premium-residential.geonode.com"`
+3. Enter the desired subdomain as the CNAME record value. For example, if you want your subdomain to be "example," enter "example" as the host.
+4. In the "value" field, enter `"premium-residential.geonode.com"`
 5. Save the changes and allow some time for DNS propagation.
 6. Your custom oxylabs domain will now be accessible via the URL: `example.mydomain.com`
 7. An example on Godaddy is linked below:
