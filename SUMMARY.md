@@ -132,6 +132,7 @@
   * [❔ How to cancel a subscription on Stripe?](errors-and-faq/stripe/how-to-cancel-a-subscription-on-stripe.md)
   * [❔ How to change the stripe account?](errors-and-faq/stripe/how-to-change-the-stripe-account.md)
   * [❔ How to change the bank information to receive payments from stripe ?](errors-and-faq/stripe/how-to-change-the-bank-information-to-receive-payments-from-stripe.md)
+  * [❔ Can we edit the price instead of archiving and creating a new price ?](errors-and-faq/stripe/can-we-edit-the-price-instead-of-archiving-and-creating-a-new-price.md)
 * [Residential Proxies](errors-and-faq/proxies/README.md)
   * [❔ How to check geolocation?](errors-and-faq/proxies/how-to-check-geolocation.md)
   * [❔ How to change URL ?](errors-and-faq/proxies/how-to-change-url.md)
