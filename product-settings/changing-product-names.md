@@ -9,7 +9,7 @@ Please be noted that you CANNOT change the product name if you have any active s
 
 Otherwise, the transactions will not be reflected on the admin dashboard accurately.
 
-Furthermore, you can only have one product under one metadata. Hence make sure to delete the metadata of the old product before creating the new product.
+Furthermore, for datacenter and residential can only have one product under one metadata whereas Metadata is same for all account products. Hence make sure to delete the metadata of the old product before creating the new products for datacenter and residential items..&#x20;
 {% endhint %}
 
 1. Go to Stripe and click on the Products tab. Then click on the product and edit the product.
