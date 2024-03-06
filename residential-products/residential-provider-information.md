@@ -4,9 +4,9 @@ description: >-
   Packetstream , Brightdata, IProyal & Smart proxies.
 ---
 
-# ℹ Residential Provider Information
+# ℹ️ Residential Provider Information
 
-<figure><img src="../.gitbook/assets/Group_171 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## **Oxylabs Residential Proxies**
 

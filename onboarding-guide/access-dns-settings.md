@@ -30,7 +30,7 @@ There are many reasons you might want to use a third-party DNS server, from pare
 
 2\. Find your domain and click _**Manage.**_
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 3\. Next, go to the _**Advanced DNS**_ tab.
 

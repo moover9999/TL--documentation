@@ -6,7 +6,7 @@
 
 * [📊 Configuring sales analytics](general-settings/configuring-sales-analytics.md)
 * [💸 Transactions](general-settings/transactions/README.md)
-  * [⏸ Subscription](general-settings/transactions/subscription.md)
+  * [⏸️ Subscription](general-settings/transactions/subscription.md)
 * [🧪 Transaction status](general-settings/transaction-status.md)
 * [⏳ Exporting user information](general-settings/exporting-user-information.md)
 * [⏬ Exporting user transactions](general-settings/exporting-user-transactions.md)
@@ -21,22 +21,22 @@
   * [👥 Limited Coupon](product-settings/coupons/limited-coupon.md)
 * [🪜 Reorder your products](product-settings/reorder-your-products.md)
 * [❌ Deleting a product price](product-settings/deleting-a-product-price.md)
-* [🗑 Deleting an entire product](product-settings/deleting-an-entire-product.md)
+* [🗑️ Deleting an entire product](product-settings/deleting-an-entire-product.md)
 * [💰 Change price of a product](product-settings/change-price-of-a-product.md)
 * [📜 Changing Product Description](product-settings/changing-product-description.md)
-* [♻ Creating a recurring price for a product](product-settings/creating-a-recurring-price-for-a-product.md)
+* [♻️ Creating a recurring price for a product](product-settings/creating-a-recurring-price-for-a-product.md)
 * [📑 Changing / Hiding tab names](product-settings/changing-hiding-tab-names.md)
 * [💱 Changing product names](product-settings/changing-product-names.md)
 
 ## Residential Products
 
 * [✅ Adding residential products](residential-products/adding-residential-products.md)
-* [👮♀ User management](residential-products/user-management.md)
+* [👮‍♀️ User management](residential-products/user-management.md)
 * [⏳ View users current balance](residential-products/view-users-current-balance.md)
 * [💻 Updating user's data balance](residential-products/updating-users-data-balance.md)
 * [👆 Top up data manually](residential-products/top-up-data-manually.md)
-* [🏊♂ Residential pools](residential-products/residential-pools.md)
-* [ℹ Residential Provider Information](residential-products/residential-provider-information.md)
+* [🏊‍♂️ Residential pools](residential-products/residential-pools.md)
+* [ℹ️ Residential Provider Information](residential-products/residential-provider-information.md)
 
 ## Data Center & Accounts
 
@@ -50,33 +50,33 @@
   * [⚓ Creating Porter Proxies' ISP API Batch](data-center-and-accounts/creating-a-batch/creating-porter-proxies-isp-api-batch.md)
   * [⚓ Creating MPM ISP API Batch](data-center-and-accounts/creating-a-batch/creating-mpm-isp-api-batch.md)
 * [📤 Fulfill manual order](data-center-and-accounts/fulfill-manual-order.md)
-* [✏ Editing a batch](data-center-and-accounts/editing-a-release.md)
+* [✏️ Editing a batch](data-center-and-accounts/editing-a-release.md)
 * [🛑 Stopping a batch](data-center-and-accounts/stopping-a-release.md)
 * [📂 Creating manual orders for ISPs / Accounts](data-center-and-accounts/creating-manual-orders-for-isps-accounts.md)
 * [🔍 Edit and view delivered products](data-center-and-accounts/edit-and-view-delivered-products.md)
 * [🚧 Add a stock limit to a batch](data-center-and-accounts/add-a-stock-limit-to-a-batch.md)
 * [💌 Leave a note on an order](data-center-and-accounts/leave-a-note-on-an-order.md)
-* [🗑 Delete a pending transaction (manual batch)](data-center-and-accounts/delete-a-pending-transaction-manual-batch.md)
+* [🗑️ Delete a pending transaction (manual batch)](data-center-and-accounts/delete-a-pending-transaction-manual-batch.md)
 * [🪜 Add an expiration date to a batch](data-center-and-accounts/add-an-expiration-date-to-a-batch.md)
 * [👽 Edit expiration date](data-center-and-accounts/edit-expiration-date.md)
-* [⚕ Editing transactions](data-center-and-accounts/editing-transactions.md)
+* [⚕️ Editing transactions](data-center-and-accounts/editing-transactions.md)
 
-## ⚙ More Settings
+## ⚙️ More Settings
 
 * [🔓 Password page](more-settings/password-page/README.md)
   * [👥 Limited password release](more-settings/password-page/limited-password-release.md)
   * [⏰ Non-limited password release](more-settings/password-page/non-limited-password-release.md)
-* [🎞 Transaction discord webhook](more-settings/transaction-discord-webhook.md)
+* [🎞️ Transaction discord webhook](more-settings/transaction-discord-webhook.md)
 * [📣 Email notifications for transactions](more-settings/email-notifications-for-transactions.md)
 * [🎰 Enabling TOS pop-up](more-settings/enabling-tos-pop-up.md)
-* [🎟 Enable discord auto join](more-settings/enable-discord-auto-join.md)
-* [🛡 Restrict dashboard access](more-settings/restrict-dashboard-access.md)
-* [🖇 Enabling pagination](more-settings/enabling-pagination.md)
-* [♣ Sub Admin Users](more-settings/sub-admin-users/README.md)
+* [🎟️ Enable discord auto join](more-settings/enable-discord-auto-join.md)
+* [🛡️ Restrict dashboard access](more-settings/restrict-dashboard-access.md)
+* [🖇️ Enabling pagination](more-settings/enabling-pagination.md)
+* [♣️ Sub Admin Users](more-settings/sub-admin-users/README.md)
   * [⛳ Permissions](more-settings/sub-admin-users/permissions.md)
-* [🏘 Filtering Users](more-settings/filtering-users.md)
+* [🏘️ Filtering Users](more-settings/filtering-users.md)
 * [🚡 Searching Transactions](more-settings/searching-transactions.md)
-* [✂ Adding and Removing ISP API](more-settings/adding-and-removing-isp-api.md)
+* [✂️ Adding and Removing ISP API](more-settings/adding-and-removing-isp-api.md)
 * [💰 Enabling Stripe Tax](more-settings/enabling-stripe-tax.md)
 * [💵 Enabling collecting stripe VAT](more-settings/enabling-collecting-stripe-vat.md)
 * [🎭 Dashboard UI](more-settings/dashboard-ui/README.md)
@@ -89,32 +89,32 @@
 
 ## Onboarding Guide
 
-* [⚙ Setting up discord authentication](onboarding-guide/setting-up-discord-authentication.md)
+* [⚙️ Setting up discord authentication](onboarding-guide/setting-up-discord-authentication.md)
 * [✅ Onboarding a residential product](onboarding-guide/onboarding-a-residential-product.md)
 * [🌐 Access DNS settings](onboarding-guide/access-dns-settings.md)
-* [✈ Adding Your Site To Your Domain](onboarding-guide/adding-your-site-to-your-domain.md)
-* [〽 White labeling proxies with your domain](onboarding-guide/white-labeling-proxies-with-your-domain.md)
-* [🗃 Find Discord ID](onboarding-guide/find-discord-id.md)
+* [✈️ Adding Your Site To Your Domain](onboarding-guide/adding-your-site-to-your-domain.md)
+* [〽️ White labeling proxies with your domain](onboarding-guide/white-labeling-proxies-with-your-domain.md)
+* [🗃️ Find Discord ID](onboarding-guide/find-discord-id.md)
 * [💊 Customize dashboard theme](onboarding-guide/customize-dashboard-theme.md)
 * [🪡 Setting Up A Domain](onboarding-guide/setting-up-a-domain.md)
 * [🔄 Setting Up A Stripe Account](onboarding-guide/setting-up-a-stripe-account.md)
 
 ## Proxy Masking
 
-* [⚖ Loadbalancer management](proxy-masking/loadbalancer-management.md)
+* [⚖️ Loadbalancer management](proxy-masking/loadbalancer-management.md)
 * [😷 Proxy Masking Guide](proxy-masking/proxy-masking-guide.md)
 
 ## Customer Dashboard
 
 * [🛃 Custom Pools](customer-dashboard/custom-pools.md)
 * [♐ View Data Usage](customer-dashboard/view-data-usage.md)
-* [🖱 Access user settings](customer-dashboard/access-user-settings.md)
+* [🖱️ Access user settings](customer-dashboard/access-user-settings.md)
 * [🏁 Updating Proxy Credentials](customer-dashboard/updating-proxy-credentials.md)
 * [🏧 Customer subscription portal](customer-dashboard/customer-subscription-portal.md)
 * [🎓 Proxy Generation](customer-dashboard/proxy-generation.md)
-* [🎛 Setting up the Default Country](customer-dashboard/setting-up-the-default-country.md)
+* [🎛️ Setting up the Default Country](customer-dashboard/setting-up-the-default-country.md)
 * [🫐 Referral System](customer-dashboard/referral-system.md)
-* [‼ Dashboard Animation](customer-dashboard/dashboard-animation.md)
+* [‼️ Dashboard Animation](customer-dashboard/dashboard-animation.md)
 
 ## Errors & FAQ
 
