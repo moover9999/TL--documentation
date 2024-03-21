@@ -38,7 +38,7 @@ It is a special pool of proxies generated that are of higher quality than the re
 
 <figure><img src="../.gitbook/assets/7 (3).png" alt=""><figcaption></figcaption></figure>
 
-6.1 If you select the country as USA (United States of America) then you get the option of clicking on _Advance Settings_ only for Oxylabs , Smart and IPRoyal.&#x20;
+6.1 If you select the country as USA (United States of America) then you get the option of clicking on _Advance Settings_ only for Oxylabs , Smart , Geonode and IPRoyal.&#x20;
 
 <figure><img src="../.gitbook/assets/8 (2).png" alt=""><figcaption></figcaption></figure>
 
