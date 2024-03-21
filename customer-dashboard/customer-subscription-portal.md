@@ -18,9 +18,13 @@ This is only visible if the customer has bought a recurring product. In the Stri
 
 In Stripe, you can customize the billing portal so you can enable or disable the ability for a customer to cancel their recurring product by themself. You can also add an option to pause and unpause the billing as well. Below you can see all the available settings you can customize to your liking.
 
+You can click on the relevant plan and cancel as required using the subscription portal.
+
+
+
+<figure><img src="../.gitbook/assets/2024-03-21 11_22_06-Untitled design - Facebook Post.png" alt=""><figcaption></figcaption></figure>
+
 To manage the billing settings you can do it through the following link: [https://dashboard.stripe.com/settings/billing/portal](https://dashboard.stripe.com/settings/billing/portal)
-
-
 
 Available Billing Options:
 
