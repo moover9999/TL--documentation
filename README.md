@@ -20,4 +20,3 @@ This guide will have answers to 99% of your questions!
 7. Proxy Masking
 8. Customer Dashboard
 9. Errors & FAQs
-10. Other
