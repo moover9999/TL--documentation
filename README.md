@@ -20,6 +20,3 @@ This guide will have answers to 99% of your questions!
 7. [Broken link](broken-reference "mention")
 8. [Broken link](broken-reference "mention")
 9. [Broken link](broken-reference "mention")
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td></td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
-
