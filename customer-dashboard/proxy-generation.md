@@ -59,3 +59,8 @@ It is a special pool of proxies generated that are of higher quality than the re
 8.Once all the selections are done, click _Generate._
 
 <figure><img src="../.gitbook/assets/11 (1).png" alt=""><figcaption></figcaption></figure>
+
+9. You can copy the proxies to paste them onto another clipboard, or you can choose to download them all at once.
+
+<figure><img src="../.gitbook/assets/2024-03-26 13_51_13-Untitled design - Facebook Post.png" alt=""><figcaption></figcaption></figure>
+
