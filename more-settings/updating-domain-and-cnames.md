@@ -32,7 +32,7 @@ Once you complete updating DNS settings then you can go to the admin dashboard t
 6. If you have changed the cnames of the products, then enter the new names and click _update cnames_
 
 {% hint style="info" %}
-This step is necessary only if you have updated the product names in your DNS settings; otherwise, no changes are required. Additionally, please note that the products listed in this section for updating CNAME are only the residential products that you have synced to the admin dashboard.
+This step is necessary only if you have updated the product Cnames in your DNS settings; otherwise, no changes are required. Additionally, please note that the products listed in this section for updating CNAME are only the residential products that you have synced to the admin dashboard.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/c (5).png" alt=""><figcaption></figcaption></figure>
