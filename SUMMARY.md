@@ -86,6 +86,7 @@
   * [🌀 Updating Twitter Link](more-settings/dashboard-ui/updating-twitter-link.md)
   * [💿 Updating Discord Link](more-settings/dashboard-ui/updating-discord-link.md)
   * [🌐 Updating Theme](more-settings/dashboard-ui/updating-theme.md)
+* [🔧 Updating domain & Cnames](more-settings/updating-domain-and-cnames.md)
 
 ## Onboarding Guide
 
@@ -170,7 +171,6 @@
   * [❔ Is it necessary to add wildcard domain when onboarding ?](errors-and-faq/dashboard/is-it-necessary-to-add-wildcard-domain-when-onboarding.md)
   * [❔ Error 504](errors-and-faq/dashboard/error-504.md)
   * [❔ How to cancel a subscription on the dashboard ?](errors-and-faq/dashboard/how-to-cancel-a-subscription-on-the-dashboard.md)
-  * [❔ How to change the domain ?](errors-and-faq/dashboard/how-to-change-the-domain.md)
   * [❔ How to find the Transaction ID / Subscription ID?](errors-and-faq/dashboard/how-to-find-the-transaction-id-subscription-id.md)
   * [❔ How can the dashboard be accessed/logged in?](errors-and-faq/dashboard/how-can-the-dashboard-be-accessed-logged-in.md)
   * [❔ Why is it indicating Out of Stock ?](errors-and-faq/dashboard/why-is-it-indicating-out-of-stock.md)
