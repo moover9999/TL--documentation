@@ -21,7 +21,7 @@ This guide will assist you in changing both the domain and your product CNAMEs. 
 Once you complete updating DNS settings then you can go to the admin dashboard to update the details on Torch Labs' database)
 {% endhint %}
 
-4. Go to _Other Settings_
+4. Go to _More Settings_
 
 <figure><img src="../.gitbook/assets/a (8).png" alt=""><figcaption></figcaption></figure>
 
