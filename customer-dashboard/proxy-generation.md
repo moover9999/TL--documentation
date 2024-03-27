@@ -1,4 +1,4 @@
-# 🎓 Proxy Generation
+# 🎓 Residential Proxy Generation
 
 {% hint style="info" %}
 This section will guide you regarding the options and functions available on the user dashboard when generating proxies.&#x20;

@@ -112,11 +112,11 @@
 * [🖱️ Access user settings](customer-dashboard/access-user-settings.md)
 * [🏁 Updating Proxy Credentials](customer-dashboard/updating-proxy-credentials.md)
 * [🏧 Customer subscription portal](customer-dashboard/customer-subscription-portal.md)
-* [🎓 Residential Proxy Generation](customer-dashboard/residential-proxy-generation.md)
+* [🎓 Residential Proxy Generation](customer-dashboard/proxy-generation.md)
 * [🎛️ Setting up the Default Country](customer-dashboard/setting-up-the-default-country.md)
 * [🫐 Referral System](customer-dashboard/referral-system.md)
 * [‼️ Dashboard Animation](customer-dashboard/dashboard-animation.md)
-* [ISP Proxy Generation](customer-dashboard/isp-proxy-generation.md)
+* [⚱️ ISP Proxy Generation](customer-dashboard/isp-proxy-generation.md)
 
 ## Errors & FAQ
 

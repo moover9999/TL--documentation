@@ -1,4 +1,4 @@
-# ISP Proxy Generation
+# ⚱️ ISP Proxy Generation
 
 {% hint style="info" %}
 This section will guide you on how to purchase and download ISPs using the user dashboard.
