@@ -5,6 +5,10 @@
 {% endhint %}
 
 {% hint style="info" %}
+Please ensure that the name assigned to the coupon code does not exceed 200 characters, including the combined character count of the product names associated with it.
+{% endhint %}
+
+{% hint style="info" %}
 > If you want to create a one-time coupon for a subscription product please follow this guide.
 >
 > [how-to-create-a-coupon-for-subscription-product-to-apply-only-for-the-first-month.md](../../errors-and-faq/stripe/how-to-create-a-coupon-for-subscription-product-to-apply-only-for-the-first-month.md "mention")
