@@ -1,0 +1,54 @@
+# 💱 Crypto Payments
+
+{% hint style="info" %}
+This guide will lead you through the process of establishing cryptocurrency payments.&#x20;
+
+_Cryptocurrency is a digital or virtual form of currency that utilizes cryptography for secure financial transactions and operates independently of a central bank._
+{% endhint %}
+
+#### Enabling Crypto Currency
+
+1. Go to the admin dashboard and select the _More Settings_ tab (then scroll down to the bottom of the page)
+
+<figure><img src="../.gitbook/assets/a (10).png" alt=""><figcaption></figcaption></figure>
+
+2. Click the _Enable Crypto Payments_ button
+
+_When this option is enabled, users can see a popup when they checkout. In that popup, they will see payment options with crypto. By clicking that, users can checkout with crypto._
+
+<figure><img src="../.gitbook/assets/b (8).png" alt=""><figcaption></figcaption></figure>
+
+3. Then enter the _Receiving Wallet Address_ and click on the _Save_ button
+
+_A receiving wallet address is required to enable this feature. Please ensure that you enter the correct wallet address. Adding an incorrect wallet address may result in the loss of funds, as they cannot be recovered._
+
+<figure><img src="../.gitbook/assets/c (7).png" alt=""><figcaption></figcaption></figure>
+
+#### Purchasing with Crypto Currency
+
+1. the Go to customer dashboard and click on the _Purchase_ button&#x20;
+
+<figure><img src="../.gitbook/assets/d (4).png" alt=""><figcaption></figcaption></figure>
+
+2. Select the payment method
+
+<figure><img src="../.gitbook/assets/e (3).png" alt=""><figcaption></figcaption></figure>
+
+3. Click on the _Connect Wallet_ button
+
+<figure><img src="../.gitbook/assets/2024-04-17 12_18_42-Boto.io _ Automation for Everyone.png" alt=""><figcaption></figcaption></figure>
+
+4. Select the relevant wallet and connect it
+
+<figure><img src="../.gitbook/assets/g (3).png" alt=""><figcaption></figcaption></figure>
+
+5. Click on _Pay_ button afterwards
+
+<figure><img src="../.gitbook/assets/h.png" alt=""><figcaption></figcaption></figure>
+
+6. Finally, click on the _Confirm_ button to complete the transaction
+
+
+
+<figure><img src="../.gitbook/assets/i.png" alt=""><figcaption></figcaption></figure>
+

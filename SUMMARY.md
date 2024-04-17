@@ -87,6 +87,7 @@
   * [💿 Updating Discord Link](more-settings/dashboard-ui/updating-discord-link.md)
   * [🌐 Updating Theme](more-settings/dashboard-ui/updating-theme.md)
 * [🔧 Updating domain & Cnames](more-settings/updating-domain-and-cnames.md)
+* [💱 Crypto Payments](more-settings/crypto-payments.md)
 
 ## Onboarding Guide
 
