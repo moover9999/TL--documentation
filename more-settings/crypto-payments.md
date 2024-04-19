@@ -6,6 +6,40 @@ This guide will lead you through the process of establishing cryptocurrency paym
 _Cryptocurrency is a digital or virtual form of currency that utilizes cryptography for secure financial transactions and operates independently of a central bank._
 {% endhint %}
 
+{% hint style="info" %}
+we support Ethereum (ETH) , Polygon (POL) and BNB Smart Chain, along with a variety of tokens to cater to your preferences.&#x20;
+
+You can now utilize the following tokens for seamless transactions:
+
+Wrapped Ethereum (WETH)&#x20;
+
+USD Coin (USDC)&#x20;
+
+Dai (DAI)&#x20;
+
+Tether (USDT)&#x20;
+
+Polygon (MATIC)&#x20;
+
+Wrapped Bitcoin (WBTC)&#x20;
+
+But that's not all! We're dedicated to expanding our support even further.
+{% endhint %}
+
+#### Supported networks and currency types
+
+1. Ethereum Mainnet
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-04-19 at 08.30.17.png" alt=""><figcaption></figcaption></figure>
+
+2. Polygon
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-04-19 at 08.32.19.png" alt=""><figcaption></figcaption></figure>
+
+3. BNB Smart Chain
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-04-19 at 08.43.10.png" alt=""><figcaption></figcaption></figure>
+
 #### Enabling Crypto Currency
 
 1. Go to the admin dashboard and select the _More Settings_ tab (then scroll down to the bottom of the page)
