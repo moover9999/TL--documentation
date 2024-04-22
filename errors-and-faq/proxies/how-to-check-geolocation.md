@@ -6,7 +6,9 @@ IP address geolocation refers to the process of identifying the physical locatio
 
 To check the IP address geolocation, go to the following database site.
 
-{% embed url="https://www.maxmind.com/en/home" %}
+
+
+{% embed url="https://www.ip2location.com" %}
 
 In this, all the proxies are showing the correct location and correct ISP.
 
