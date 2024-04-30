@@ -7,6 +7,12 @@ _Cryptocurrency is a digital or virtual form of currency that utilizes cryptogra
 {% endhint %}
 
 {% hint style="info" %}
+We do not endorse platforms like Binance, Coinbase, OKX, or Bybit for exchanges. Our support is solely directed towards crypto wallets like MetaMask. If you lack a crypto wallet, you may obtain one by downloading a wallet extension from Google Chrome. Following this, you can transfer crypto from Binance to your wallet. Numerous options are at your disposal.
+
+To receive payments, individuals must include their EVM wallet address, which remains consistent across Ethereum, Binance Smart Chain, and Polygon networks.
+{% endhint %}
+
+{% hint style="info" %}
 we support Ethereum (ETH) , Polygon (POL) and BNB Smart Chain, along with a variety of tokens to cater to your preferences.&#x20;
 
 You can now utilize the following tokens for seamless transactions:
