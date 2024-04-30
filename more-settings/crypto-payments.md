@@ -76,6 +76,14 @@ _A receiving wallet address is required to enable this feature. Please ensure th
 
 <figure><img src="../.gitbook/assets/g (3).png" alt=""><figcaption></figcaption></figure>
 
+
+
+{% hint style="info" %}
+Please refer to the following video guide to identify the supported wallets.
+{% endhint %}
+
+{% file src="../.gitbook/assets/Supported Wallets.mov" %}
+
 5. Click on _Pay_ button afterwards
 
 <figure><img src="../.gitbook/assets/h.png" alt=""><figcaption></figcaption></figure>
