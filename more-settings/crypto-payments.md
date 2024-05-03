@@ -88,9 +88,11 @@ _A receiving wallet address is required to enable this feature. Please ensure th
 Please refer to the following video guide to identify the supported wallets.
 {% endhint %}
 
-{% file src="../.gitbook/assets/Supported Wallets.mov" %}
 
-5. Click on _Pay_ button afterwards
+
+{% embed url="https://drive.google.com/file/d/1GbX-d4rMfBLX5aE6Y8hJ59nwCo22QVmd/view?usp=sharing" %}
+
+5. Click on _the Pay_ button afterwards
 
 <figure><img src="../.gitbook/assets/h.png" alt=""><figcaption></figcaption></figure>
 
