@@ -6,13 +6,13 @@ This guide is designed to assist you in resolving situations where a payment is 
 It's important to note that this process is applicable only for ISPs (Internet Service Providers), and the option is accessible solely for transactions within the current month.
 {% endhint %}
 
-1. Go to Admin Dashboard & Click on Subscriptions
+1. Go to Admin Dashboard & Click on Payments
 
-<figure><img src="../../.gitbook/assets/2024-05-06 15_47_41-TorchLabs • Login.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/x.png" alt=""><figcaption></figcaption></figure>
 
-2. Search the transaction by Subscription ID with a Failed or Incomplete status.
+2. Search the transaction by Transaction ID with a Failed or Incomplete status.
 
-<figure><img src="../../.gitbook/assets/2024-05-06 15_48_53-TorchLabs • Login.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/y.png" alt=""><figcaption></figcaption></figure>
 
 3. Click on the _Retry_ button&#x20;
 

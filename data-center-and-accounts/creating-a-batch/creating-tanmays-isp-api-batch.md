@@ -12,7 +12,7 @@ This section will guide you on how to create an ISP API batch for a registered A
 
 2\. Click on the dropdown list before new batch.
 
-<figure><img src="../../.gitbook/assets/x (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/x (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\. Select the Registered ISP from the list and click on New Batch.&#x20;
 
