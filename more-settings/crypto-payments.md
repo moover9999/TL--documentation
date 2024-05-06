@@ -58,6 +58,10 @@ _When this option is enabled, users can see a popup when they checkout. In that 
 
 <figure><img src="../.gitbook/assets/b (8).png" alt=""><figcaption></figcaption></figure>
 
+3. If you want you can disable the card payment option and keep only the crypto payment option available for the customers to pay (When this option is enabled, "Pay with Card" payment option will be hidden from the user dashboard)
+
+<figure><img src="../.gitbook/assets/2024-05-06 15_14_59-TorchLabs • Login.png" alt=""><figcaption></figcaption></figure>
+
 3. Then enter the _Receiving Wallet Address_ and click on the _Save_ button
 
 _A receiving wallet address is required to enable this feature. Please ensure that you enter the correct wallet address. Adding an incorrect wallet address may result in the loss of funds, as they cannot be recovered._
