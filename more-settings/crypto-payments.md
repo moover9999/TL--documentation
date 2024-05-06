@@ -62,7 +62,7 @@ _When this option is enabled, users can see a popup when they checkout. In that 
 
 <figure><img src="../.gitbook/assets/2024-05-06 15_14_59-TorchLabs • Login.png" alt=""><figcaption></figcaption></figure>
 
-3. Then enter the _Receiving Wallet Address_ and click on the _Save_ button
+4. Then enter the _Receiving Wallet Address_ and click on the _Save_ button
 
 _A receiving wallet address is required to enable this feature. Please ensure that you enter the correct wallet address. Adding an incorrect wallet address may result in the loss of funds, as they cannot be recovered._
 
