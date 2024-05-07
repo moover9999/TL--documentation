@@ -60,6 +60,10 @@ _When this option is enabled, users can see a popup when they checkout. In that 
 
 3. If you want you can disable the card payment option and keep only the crypto payment option available for the customers to pay (When this option is enabled, "Pay with Card" payment option will be hidden from the user dashboard)
 
+{% hint style="info" %}
+Please note that this feature is optional, and we encourage customers to keep both card and cryptocurrency payment options available on the dashboard.
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/2024-05-06 15_14_59-TorchLabs • Login.png" alt=""><figcaption></figcaption></figure>
 
 4. Then enter the _Receiving Wallet Address_ and click on the _Save_ button
