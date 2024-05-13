@@ -46,19 +46,31 @@ Please remember this when adding the `amount` metadata field inside the Stripe p
 
 <figure><img src="../../.gitbook/assets/5 (9).png" alt=""><figcaption></figcaption></figure>
 
-4\. Click on the dropdown list before the new batch.
+4\. Click on the dropdown list before the new batch and select TL API
 
 {% hint style="info" %}
 you also need to request the TL API to be activated on the ticket before you can see it on the drop-down list.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-04-12 at 4.23.38 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2024-05-13 15_49_14-TorchLabs • Login.png" alt=""><figcaption></figcaption></figure>
 
-5\. Select **TL API** from the list and you will be presented with a few more options to choose which type of proxies you want to add to the particular batch.
+5\. Select the country/region
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-04-12 at 4.25.31 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2024-05-13 15_54_29-TorchLabs • Login.png" alt=""><figcaption></figcaption></figure>
 
-6\. Now you can add a stock limit, tick confirm, and select launch.&#x20;
+6. Select the product
+
+<figure><img src="../../.gitbook/assets/2024-05-13 15_57_16-TorchLabs • Login.png" alt=""><figcaption></figcaption></figure>
+
+7. Select the Auth type
+
+{% hint style="info" %}
+"User" is the default auth type for all the products or else you can select "Socks"
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/2024-05-13 15_46_14-TorchLabs • Login.png" alt=""><figcaption></figcaption></figure>
+
+8. &#x20;Now you can add a stock limit, tick confirm, and select launch.&#x20;
 
 {% hint style="info" %}
 Please note that the expiration is hardcoded for 30 days by default and this cannot be changed. This means your customers will be able to use their proxies for 30 days.

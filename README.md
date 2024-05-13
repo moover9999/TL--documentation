@@ -1,13 +1,22 @@
-# Account Overview
+---
+cover: .gitbook/assets/Screen-Shot-2021-12-28-at-10-45-33-PM.png
+coverY: 0
+---
 
-{% hint style="info" %}
-This section on the Enterprise Dashboard presents the Residential Account Overview, providing customers with a graphical representation of their usage. By selecting their desired plan, customers can easily visualize their bandwidth consumption for review.
-{% endhint %}
+# 👋 Welcome!
 
-1. You can select the overview based on the provider
+## Welcome aboard!
 
-<figure><img src=".gitbook/assets/fgd.png" alt=""><figcaption></figcaption></figure>
+Welcome to the Torch Labs Dashboard help center!
 
-2. Bandwidth consumption can be generated weekly, monthly and yearly. The data will be depicted on a graph under bandwidth consumption section.
+This guide will have answers to 99% of your questions!
 
-<figure><img src=".gitbook/assets/2024-02-28 14_21_41-Enterprise Dashboard.png" alt=""><figcaption></figcaption></figure>
+1. General Settings
+2. Product Settings
+3. Residential Products
+4. Datacenter and Account
+5. More Settings
+6. Onboarding Guide
+7. Proxy Masking
+8. Customer Dashboard
+9. Errors & FAQs
