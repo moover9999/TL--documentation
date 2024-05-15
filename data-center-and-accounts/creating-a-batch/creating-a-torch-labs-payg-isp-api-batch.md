@@ -65,7 +65,13 @@ you also need to request the TL API to be activated on the ticket before you can
 7. Select the Auth type
 
 {% hint style="info" %}
-"User" is the default auth type for all the products or else you can select "Socks"
+You can specify the authentication type for the proxies. By default, it is set to “user”. You can also set it to “socks” for SOCKS proxies.
+
+user: HTTP proxies
+
+socks: socks5 proxies
+
+Further reference: [https://incogniton.com/socks-vs-http-proxy/](https://incogniton.com/socks-vs-http-proxy/)
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/2024-05-13 15_46_14-TorchLabs • Login.png" alt=""><figcaption></figcaption></figure>
