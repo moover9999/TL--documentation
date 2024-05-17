@@ -159,6 +159,7 @@
   * [❔ Is there any possible way to update a user's proxy list while it has a current subscription?](errors-and-faq/isps/is-there-any-possible-way-to-update-a-users-proxy-list-while-it-has-a-current-subscription.md)
   * [❔ What are the dedicated servers for the ISP products ?](errors-and-faq/isps/what-are-the-dedicated-servers-for-the-isp-products.md)
   * [❔ What should you do if the status remains Failed/Incomplete even after successful payment?](errors-and-faq/isps/what-should-you-do-if-the-status-remains-failed-incomplete-even-after-successful-payment.md)
+  * [❔ How to Request a Replacement, Refund, or Swap for ISPs ?](errors-and-faq/isps/how-to-request-a-replacement-refund-or-swap-for-isps.md)
 * [Dashboard](errors-and-faq/dashboard/README.md)
   * [❔ Can the orders be deleted from the dashboard?](errors-and-faq/dashboard/can-the-orders-be-deleted-from-the-dashboard.md)
   * [❔ How does Torch Labs prevent overselling on the dashboard ?](errors-and-faq/dashboard/how-does-torch-labs-prevent-overselling-on-the-dashboard.md)
