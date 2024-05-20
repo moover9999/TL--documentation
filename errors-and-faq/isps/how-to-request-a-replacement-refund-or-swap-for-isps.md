@@ -1,9 +1,8 @@
 # ❔ How to Request a Replacement, Refund, or Swap for ISPs ?
 
 1. **Submit a Screenshot of the Error:**
-   * Make sure the screenshot includes:
-     * The token number or proxies.
-     * A timestamp, to help us analyze the issue in more detail.
+   * Make sure the screenshot includes - A timestamp, to help us analyze the issue in more detail.
+   * Send the token number or proxies along with the screenshot
 2. **Eligibility for Replacement:**
    * **Timeframe:** If the issue is reported within 36 hours, the customer is entitled to a replacement for non-working proxies. This applies equally if a customer wants to swap the proxies.
    * **Definition of Non-Working Proxies:** These are proxies that are dead or not functioning upon delivery.
