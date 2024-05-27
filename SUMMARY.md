@@ -83,7 +83,7 @@
   * [🔏 Uploading Primary Logo](more-settings/dashboard-ui/uploading-primary-logo.md)
   * [➰ Uploading Secondary Logo](more-settings/dashboard-ui/uploading-secondary-logo.md)
   * [📛 Updating Company Name](more-settings/dashboard-ui/updating-company-name.md)
-  * [🌀 Updating & Hiding Twitter](more-settings/dashboard-ui/updating-and-hiding-twitter.md)
+  * [🌀 Updating & Hiding Twitter](more-settings/dashboard-ui/updating-twitter-link.md)
   * [💿 Updating Discord Link](more-settings/dashboard-ui/updating-discord-link.md)
   * [🌐 Updating Theme](more-settings/dashboard-ui/updating-theme.md)
   * [🛂 Updating Support Description](more-settings/dashboard-ui/updating-support-description.md)

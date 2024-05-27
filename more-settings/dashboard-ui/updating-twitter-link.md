@@ -1,7 +1,7 @@
 # 🌀 Updating & Hiding Twitter
 
 {% hint style="info" %}
-the This section will guide you on how to update your Twitter link to appear on the user dashboard. Additionally, the guide provides an option to remove the Twitter icon from the user dashboard.
+This section will guide you on how to update your Twitter link to appear on the user dashboard. Additionally, the guide provides an option to remove the Twitter icon from the user dashboard.
 {% endhint %}
 
 #### Updating Twitter Link

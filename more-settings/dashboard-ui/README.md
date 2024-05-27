@@ -12,8 +12,8 @@
 [updating-company-name.md](updating-company-name.md)
 {% endcontent-ref %}
 
-{% content-ref url="updating-and-hiding-twitter.md" %}
-[updating-and-hiding-twitter.md](updating-and-hiding-twitter.md)
+{% content-ref url="updating-twitter-link.md" %}
+[updating-twitter-link.md](updating-twitter-link.md)
 {% endcontent-ref %}
 
 {% content-ref url="updating-discord-link.md" %}
