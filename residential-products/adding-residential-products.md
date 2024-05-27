@@ -18,7 +18,7 @@ This guide will help to set up residential products for your dashboard.
 Before you create a product in Stripe, make sure you select the correct account. If you connect it through the onboarding, it should look as follows.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/r.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/r (2).png" alt=""><figcaption></figcaption></figure>
 
 2\. Right Side of the Stripe Dashboard find Products and click that.&#x20;
 

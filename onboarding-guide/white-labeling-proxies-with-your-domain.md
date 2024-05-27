@@ -1,4 +1,4 @@
-# 〽 White labeling proxies with your domain
+# 〽️ White labeling proxies with your domain
 
 
 
@@ -94,7 +94,7 @@ To brand the proxies under your domain follow these steps:
 6. Your custom domain will now be accessible via the URL: `example.mydomain.com`
 7. An example on Godaddy is linked below:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### SmartEU
 
