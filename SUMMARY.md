@@ -119,6 +119,7 @@
 * [🫐 Referral System](customer-dashboard/referral-system.md)
 * [‼️ Dashboard Animation](customer-dashboard/dashboard-animation.md)
 * [⚱️ ISP Proxy Generation](customer-dashboard/isp-proxy-generation.md)
+* [Adding images to the product description](customer-dashboard/adding-images-to-the-product-description.md)
 
 ## Errors & FAQ
 
