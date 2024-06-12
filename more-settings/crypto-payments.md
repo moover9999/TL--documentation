@@ -14,22 +14,6 @@ To receive payments, individuals must include their EVM wallet address, which re
 
 {% hint style="info" %}
 we support Ethereum (ETH) , Polygon (POL) and BNB Smart Chain, along with a variety of tokens to cater to your preferences.&#x20;
-
-You can now utilize the following tokens for seamless transactions:
-
-Wrapped Ethereum (WETH)&#x20;
-
-USD Coin (USDC)&#x20;
-
-Dai (DAI)&#x20;
-
-Tether (USDT)&#x20;
-
-Polygon (MATIC)&#x20;
-
-Wrapped Bitcoin (WBTC)&#x20;
-
-But that's not all! We're dedicated to expanding our support even further.
 {% endhint %}
 
 #### Supported networks and currency types
@@ -44,19 +28,21 @@ But that's not all! We're dedicated to expanding our support even further.
 
 3. BNB Smart Chain
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-19 at 08.43.10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-06-12 at 09.16.03.png" alt=""><figcaption></figcaption></figure>
 
 #### Enabling Crypto Currency
 
 1. Go to the admin dashboard and select the _More Settings_ tab (then scroll down to the bottom of the page)
 
-<figure><img src="../.gitbook/assets/a (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/l.png" alt=""><figcaption></figcaption></figure>
 
 2. Click the _Enable Crypto Payments_ button
 
 _When this option is enabled, users can see a popup when they checkout. In that popup, they will see payment options with crypto. By clicking that, users can checkout with crypto._
 
-<figure><img src="../.gitbook/assets/b (8).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/m.png" alt=""><figcaption></figcaption></figure>
 
 3. If you want you can disable the card payment option and keep only the crypto payment option available for the customers to pay (When this option is enabled, "Pay with Card" payment option will be hidden from the user dashboard)
 
@@ -64,13 +50,15 @@ _When this option is enabled, users can see a popup when they checkout. In that 
 Please note that this feature is optional, and we encourage customers to keep both card and cryptocurrency payment options available on the dashboard.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/2024-05-06 15_14_59-TorchLabs • Login.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/2024-06-12 10_41_55-Home - Canva.png" alt=""><figcaption></figcaption></figure>
 
 4. Then enter the _Receiving Wallet Address_ and click on the _Save_ button
 
 _A receiving wallet address is required to enable this feature. Please ensure that you enter the correct wallet address. Adding an incorrect wallet address may result in the loss of funds, as they cannot be recovered._
 
-<figure><img src="../.gitbook/assets/c (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2024-06-12 10_43_57-Home - Canva.png" alt=""><figcaption></figcaption></figure>
 
 #### Purchasing with Crypto Currency
 

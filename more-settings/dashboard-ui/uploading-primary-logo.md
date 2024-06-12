@@ -16,7 +16,7 @@ Once you upload the logo it might take a few hours for the logo to appear on the
 
 2\. Click on _Choose file_ under the Dashboard UI section and upload your primary logo
 
-<figure><img src="../../.gitbook/assets/l.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/l (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Enter the primary logo URL&#x20;
 
@@ -26,7 +26,7 @@ This step is required only for those who want to white-label the primary logo UR
 Or else you can keep this space empty to have your current logo with the default URL.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/m.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/m (1).png" alt=""><figcaption></figcaption></figure>
 
 _The logo will appear as follows (i.e. Google)_
 

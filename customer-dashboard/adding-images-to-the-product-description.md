@@ -1,4 +1,4 @@
-# Adding images to the product description
+# 🖼️ Adding images to the product description
 
 {% hint style="info" %}
 This guide will help you add an image to a product on the customer dashboard.
