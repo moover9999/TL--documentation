@@ -22,9 +22,17 @@
 
 5. Further, to change the proxy credentials, click on the gear icon in the Recent Orders section.
 
+{% hint style="info" %}
+If proxies have expired, the user cannot reset the password.
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/q (1).png" alt=""><figcaption></figcaption></figure>
 
 6. You can also click on the same gear icon in the Recent Orders section to change the authentication type between SOCKS and HTTPS.
+
+{% hint style="info" %}
+If proxies have expired, the user cannot update the authentication type.
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/r (3).png" alt=""><figcaption></figcaption></figure>
 

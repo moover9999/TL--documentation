@@ -89,6 +89,7 @@
   * [🛂 Updating Support Description](more-settings/dashboard-ui/updating-support-description.md)
 * [🔧 Updating domain & Cnames](more-settings/updating-domain-and-cnames.md)
 * [💱 Crypto Payments](more-settings/crypto-payments.md)
+* [🔱 Setting a prefix for TL ISP API](more-settings/setting-a-prefix-for-tl-isp-api.md)
 
 ## Onboarding Guide
 
