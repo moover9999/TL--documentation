@@ -8,7 +8,7 @@ description: >-
 
 1. Go to the customer’s subscription page on Stripe and click the close subscription button
 
-<figure><img src="../../.gitbook/assets/a (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/a (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 2. Next, you can cancel the subscription. Here you have a few options to select such as when to cancel the subscription (i.e. : immediately, end of the current period, or on a custom date). Make sure to choose No refund here.
 

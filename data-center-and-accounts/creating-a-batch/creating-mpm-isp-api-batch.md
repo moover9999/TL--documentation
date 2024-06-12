@@ -98,7 +98,7 @@ After informing Torch Labs admins you can start registering the API and refer to
 
 2\. Click on the dropdown list before the new batch and select MPM ISPs from the list.
 
-<figure><img src="../../.gitbook/assets/a.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/a (2).png" alt=""><figcaption></figcaption></figure>
 
 3\. Then select the relevant server from the dropdown list.
 
