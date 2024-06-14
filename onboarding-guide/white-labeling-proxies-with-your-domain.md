@@ -15,13 +15,14 @@ Please make sure to have two different names for the default and EU products (i.
 | API                    | Record Type | Domain                                       |
 | ---------------------- | ----------- | -------------------------------------------- |
 | Smartproxies (Default) | CNAME       | smrt.x.proxiess.com                          |
+| SmartEU                | CNAME       | smrteu.x.proxiess.com                        |
 | Oxylabs (Default)      | CNAME       | oxy.x.proxiess.com                           |
+| OxylabsEU              | CNAME       | oxyeu.x.proxiess.com                         |
+| IPRoyal (Default)      | CNAME       | iproyal.x.proxiess.com                       |
+| IPRoyalEU              | CNAME       | iproyaleu.x.proxiess.com                     |
 | Packetstream           | CNAME       | proxy.packetstream.io                        |
 | Private                | A           | 159.89.245.182                               |
-| IPRoyal                | CNAME       | proxy.iproyal.com                            |
 | Brightdata             | CNAME       | pmgr-customer-hl\_e65c4ff1.brd.superproxy.io |
-| SmartEU                | CNAME       | smrteu.x.proxiess.com                        |
-| OxylabsEU              | CNAME       | oxyeu.x.proxiess.com                         |
 | Geonode                | CNAME       | premium-residential.geonode.com              |
 
 #### PacketStream
