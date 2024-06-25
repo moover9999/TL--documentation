@@ -26,7 +26,7 @@ Our dashboard provides customers with a range of options for generating differen
 
 <figure><img src="../.gitbook/assets/6 (6).png" alt=""><figcaption></figcaption></figure>
 
-5.1 Select Special Pool (This option is still available for IP Royal only)
+5.1 Select Special Pool&#x20;
 
 {% hint style="info" %}
 It is a special pool of proxies generated that are of higher quality than the regular pool of proxies.
@@ -42,21 +42,19 @@ It is a special pool of proxies generated that are of higher quality than the re
 
 <figure><img src="../.gitbook/assets/8 (2).png" alt=""><figcaption></figcaption></figure>
 
-6.1.1 If you select IPRoyal as the Proxy pool and select the country as the USA, it is able to generate state-level proxies by clicking _Advance settings._
-
-<figure><img src="../.gitbook/assets/9 (1).png" alt=""><figcaption></figcaption></figure>
-
-6.1.2 If you select Oxylabs or Smart as the Proxy pool and select the country as the USA, it is able to generate either state-level or city-level proxies by clicking _Advance settings._ But it is not possible to select both state and city. Once you select the State, automatically the city selection gets disabled and vice versa.
+6.1.2 If you select Oxylabs / Smart / Geonode / IPRoyal as the Proxy pool and select the country as the USA, it can generate either state-level or city-level proxies by clicking _Advance settings._ But it is not possible to select both state and city. Once you select the State, automatically the city selection gets disabled and vice versa.
 
 <figure><img src="../.gitbook/assets/10 (1).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+If you select a country other than the USA (United States of America), you can only target specific cities within that country.
+{% endhint %}
+
 7\. Proxy format can be changed by clicking the available options here
-
-
 
 <figure><img src="../.gitbook/assets/2024-02-07 13_28_28-Batz.png" alt=""><figcaption></figcaption></figure>
 
-8.Once all the selections are done, click _Generate._
+8\. Once all the selections are done, click _Generate._
 
 <figure><img src="../.gitbook/assets/11 (1).png" alt=""><figcaption></figcaption></figure>
 
