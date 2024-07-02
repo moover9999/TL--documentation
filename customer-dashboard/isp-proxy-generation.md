@@ -31,7 +31,7 @@ If proxies have expired, the user cannot reset the password.
 6. You can also click on the same gear icon in the Recent Orders section to change the authentication type between SOCKS and HTTPS.
 
 {% hint style="info" %}
-If proxies have expired, the user cannot update the authentication type.
+If proxies have expired, the user cannot update the authentication type. But if the proxies are not expired , still the authentication can be updated for the cancelling orders.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/r (3).png" alt=""><figcaption></figcaption></figure>
