@@ -10,8 +10,8 @@ Creating a batch is the process of enabling stock so that your customers can pur
 [creating-an-automatic-batch.md](creating-an-automatic-batch.md)
 {% endcontent-ref %}
 
-{% content-ref url="creating-a-torch-labs-payg-isp-api-batch.md" %}
-[creating-a-torch-labs-payg-isp-api-batch.md](creating-a-torch-labs-payg-isp-api-batch.md)
+{% content-ref url="creating-a-torch-labs-isp-api-batch.md" %}
+[creating-a-torch-labs-isp-api-batch.md](creating-a-torch-labs-isp-api-batch.md)
 {% endcontent-ref %}
 
 {% content-ref url="creating-tanmays-isp-api-batch.md" %}

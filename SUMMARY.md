@@ -46,7 +46,7 @@
 * [📶 Creating a batch](data-center-and-accounts/creating-a-batch/README.md)
   * [🔧 Creating a manual batch](data-center-and-accounts/creating-a-batch/creating-a-manual-batch.md)
   * [🤖 Creating an automatic batch](data-center-and-accounts/creating-a-batch/creating-an-automatic-batch.md)
-  * [⚓ Creating a Torch Labs PAYG ISP API batch](data-center-and-accounts/creating-a-batch/creating-a-torch-labs-payg-isp-api-batch.md)
+  * [⚓ Creating a Torch Labs ISP API batch](data-center-and-accounts/creating-a-batch/creating-a-torch-labs-isp-api-batch.md)
   * [⚓ Creating Tanmay's ISP API Batch](data-center-and-accounts/creating-a-batch/creating-tanmays-isp-api-batch.md)
   * [⚓ Creating Porter Proxies' ISP API Batch](data-center-and-accounts/creating-a-batch/creating-porter-proxies-isp-api-batch.md)
   * [⚓ Creating MPM ISP API Batch](data-center-and-accounts/creating-a-batch/creating-mpm-isp-api-batch.md)

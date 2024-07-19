@@ -10,6 +10,8 @@ We can not create manual orders for ISP API, Porter Proxies & Tanmay.
 Internal notes are only visible to admins and not the users
 {% endhint %}
 
+
+
 1. Go to Datacenter / Account tab on the admin dashboard
 
 <figure><img src="../.gitbook/assets/1 (12).png" alt=""><figcaption></figcaption></figure>
@@ -25,6 +27,20 @@ Internal notes are only visible to admins and not the users
 4\. Select the product that needs to be added
 
 <figure><img src="../.gitbook/assets/b (4).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+If you are using TL ISP API ([what-is-the-torch-labs-isp-api.md](../errors-and-faq/isps/what-is-the-torch-labs-isp-api.md "mention")), the proxy list will automatically populate.
+{% endhint %}
+
+5. If the product you select has an active batch (/
+
+<div data-full-width="false">
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-07-19 at 10.55.20 AM.png" alt="" width="563"><figcaption></figcaption></figure>
+
+</div>
+
+
 
 5\. Paste the ISPs / Account list here
 
