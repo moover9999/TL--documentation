@@ -2,6 +2,19 @@
 
 {% hint style="info" %}
 Customers can create a referral link in the customer dashboard to share with others. This is applicable only for the initial purchase by newly joined users. When individuals use this link to register and purchase a residential plan for the first time, the customer will receive credits corresponding to the rate of the chosen plan. These credits can be redeemed for data and are applicable only for the initial purchase by newly joined users. This is a feature flag and admin dash customers can enable or disable it in more settings section, it only works for residential plans for now.
+
+Introduction to the Referral System
+
+Welcome to our Referral System, a program designed to reward your users for sharing your services with others! By participating, your users can earn credits that can be redeemed for valuable data, simply by referring new customers to our platform.This is applicable only for the initial purchase by newly joined users. When individuals use this link to register and purchase a residential plan for the first time, the customer will receive credits corresponding to the rate of the chosen plan. These credits can be redeemed for data and are applicable only for the initial purchase by newly joined users.
+
+How It Works:
+
+* Generate Your Referral Link: Easily create a referral link from your customer dashboard.
+* Share the Link: Share your unique link with friends, family, or anyone interested in our services.
+* Earn Credits: When a new user signs up and makes their first purchase using your link, you earn credits based on our product rates.
+* Redeem Credits: Use the credits you've earned to get data, according to our redemption rates.
+
+Our referral system is a win-win, helping your users save on data needs while supporting your community growth.
 {% endhint %}
 
 ### Generating the Referral Link
@@ -25,6 +38,16 @@ Customers can create a referral link in the customer dashboard to share with oth
 <figure><img src="../.gitbook/assets/2024-02-07 16_07_00-Killer Proxies Dev.png" alt=""><figcaption></figcaption></figure>
 
 ### Setting Product Rates & Redemption Rates
+
+{% hint style="info" %}
+**Redemption Rates:**
+
+Redemption rates determine how many credits you need to redeem (use) to get a certain amount of data. Think of credits like points you earn from referrals. When you have enough points, you can exchange them for data. The redemption rate tells you how many points are needed to get 1GB of data. For example, if the redemption rate is set to 10 credits per GB, you need 10 points to get 1GB of data.
+
+**Product Rates:**
+
+&#x20;Product rates determine how many credits you earn when someone uses your referral link to make a purchase. When you share a referral link and a new customer uses it to buy a data plan, you earn points. The product rate specifies how many points you get for each gigabyte (GB) of data they buy. For instance, if the product rate is set to 5 credits per GB and the new customer buys a 2GB data plan, you earn 10 credits (5 credits per GB x 2GB).
+{% endhint %}
 
 1. Go to other settings and Enter the product rates. The rates you enter here will be the number of credits per GB you allocate when someone uses the referral link and refers to another person.&#x20;
 2. Next, you need to enter the redemption rates and that will be the number of credits per GB to be redeemed in purchasing data.
