@@ -22,11 +22,19 @@ Our dashboard provides customers with a range of options for generating differen
 
 <figure><img src="../.gitbook/assets/5 (8).png" alt=""><figcaption></figcaption></figure>
 
-5\. Select the SSL option. (This option is still available for Packetstream / Basic proxies only) Selecting _Yes_ would make you have proxies with a secure session where the proxies include http / https in the URL domain.
+5\. Select the SSL option. (This option is still available for Packetstream / Basic proxies only) Selecting _Yes_ would give you proxies with a secure session.
 
-<figure><img src="../.gitbook/assets/6 (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/sdffgsfgs.png" alt=""><figcaption></figcaption></figure>
 
-5.1 Select Special Pool&#x20;
+5.1 Please note that you can change the authentication type of PacketStream proxies. The port number will vary depending on the authentication type selected:
+
+* HTTP: 31112
+* HTTPS: 31111
+* SOCKS5: 31113
+
+<figure><img src="../.gitbook/assets/2024-07-25 15_08_20-Killer Proxies.png" alt=""><figcaption></figcaption></figure>
+
+5.2 Select Special Pool&#x20;
 
 {% hint style="info" %}
 It is a special pool of proxies generated that are of higher quality than the regular pool of proxies.
