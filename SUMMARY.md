@@ -165,6 +165,7 @@
   * [❔ What should you do if the status remains Failed/Incomplete even after successful payment?](errors-and-faq/isps/what-should-you-do-if-the-status-remains-failed-incomplete-even-after-successful-payment.md)
   * [❔ How to Request a Replacement, Refund, or Swap for ISPs ?](errors-and-faq/isps/how-to-request-a-replacement-refund-or-swap-for-isps.md)
   * [❔ What is the Difference Between TL ISP API and Automatic/Manual Orders?](errors-and-faq/isps/what-is-the-difference-between-tl-isp-api-and-automatic-manual-orders.md)
+  * [ISP Proxy Grace Period](errors-and-faq/isps/isp-proxy-grace-period.md)
 * [Dashboard](errors-and-faq/dashboard/README.md)
   * [❔ Can the orders be deleted from the dashboard?](errors-and-faq/dashboard/can-the-orders-be-deleted-from-the-dashboard.md)
   * [❔ How does Torch Labs prevent overselling on the dashboard ?](errors-and-faq/dashboard/how-does-torch-labs-prevent-overselling-on-the-dashboard.md)
