@@ -91,6 +91,7 @@
 * [🔧 Updating domain & Cnames](more-settings/updating-domain-and-cnames.md)
 * [💱 Crypto Payments](more-settings/crypto-payments.md)
 * [🔱 Setting a prefix for TL ISPs](more-settings/setting-a-prefix-for-tl-isps.md)
+* [How to Update User's Wallet](more-settings/how-to-update-users-wallet.md)
 
 ## Onboarding Guide
 
