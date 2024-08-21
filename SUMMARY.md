@@ -123,6 +123,8 @@
 * [‼️ Dashboard Animation](customer-dashboard/dashboard-animation.md)
 * [⚱️ ISP Proxy Generation](customer-dashboard/isp-proxy-generation.md)
 * [🖼️ Adding images to the product description](customer-dashboard/adding-images-to-the-product-description.md)
+* [How to use Wallet Credit to purchase](customer-dashboard/how-to-use-wallet-credit-to-purchase.md)
+* [How to check Wallet Transactions](customer-dashboard/how-to-check-wallet-transactions.md)
 
 ## Errors & FAQ
 
