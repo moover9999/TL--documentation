@@ -1,4 +1,4 @@
-# ⚙ Setting up discord authentication
+# ⚙️ Setting up discord authentication
 
 {% embed url="https://youtu.be/4wXkn4GG20E" %}
 
@@ -48,28 +48,40 @@
 
 
 
-11\. Click Add Redirect, Paste the URL here and Click save.&#x20;
+11\. Click Add Redirect, Paste the URL here.&#x20;
 
 [https://auth-service-w34nvoxnwq-uc.a.run.app/api/v1/auth/discord/callback](https://auth-service-w34nvoxnwq-uc.a.run.app/api/v1/auth/discord/callback)
 
 ![](<../.gitbook/assets/Untitled design (3) (5).png>)
 
-12\. Choose this option, If you want members to automatically join your server.&#x20;
+12. Once added, it will look like this. Then click on the **Add Another** button.
+
+<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+
+13. Then paste the below URL and click on the **Save Changes** button. Once you add both URLs, it should be like this.
+
+[https://core-proxy-service-w34nvoxnwq-uc.a.run.app/auth/discord/callback](https://core-proxy-service-w34nvoxnwq-uc.a.run.app/auth/discord/callback)
+
+<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+
+14. Choose this option, If you want members to automatically join your server.&#x20;
 
 ![](<../.gitbook/assets/Untitled design (2) (7).png>)
 
-13\. Copy your Server ID from Discord.
+15. Copy your Server ID from Discord.
 
 ![](<../.gitbook/assets/Untitled design (1) (11).png>)
 
-14\. Click the Torch Lab Icon.
+16. Click the Torch Lab Icon.
 
 ![](<../.gitbook/assets/Untitled design (12) (6).png>)
 
-15\. Copy your Server ID.
+17. Copy your Server ID.
 
 ![](<../.gitbook/assets/Untitled design (13) (4).png>)
 
-16\. Paste the Server ID and save details.
+18. Paste the Server ID and save details.
 
 ![](<../.gitbook/assets/Untitled design (16).png>)
