@@ -1,6 +1,8 @@
 # 📎 Product metadata
 
 {% hint style="warning" %}
+
+
 Please ensure you copy and paste the metadata tags exactly as shown in our guides to avoid any mistakes.
 {% endhint %}
 
@@ -54,9 +56,20 @@ The following metadata is used as a unique identification so that you can alloca
 | Product 7  | torchlabs\_product   | torchlabs\_datacenter\_extra4  | amount          |
 | Product 8  | torchlabs\_product   | torchlabs\_datacenter\_extra5  | amount          |
 | Product 9  | torchlabs\_product   | torchlabs\_datacenter\_extra6  | amount          |
-| Product 10 | torchlabs\_product   | torchlabs\_datacenter\_extra7  |                 |
-| Product 11 | torchlabs\_product   | torchlabs\_datacenter\_extra8  |                 |
-| Product 12 | torchlabs\_product   | torchlabs\_datacenter\_extra9  |                 |
+| Product 10 | torchlabs\_product   | torchlabs\_datacenter\_extra7  | amount          |
+| Product 11 | torchlabs\_product   | torchlabs\_datacenter\_extra8  | amount          |
+| Product 12 | torchlabs\_product   | torchlabs\_datacenter\_extra9  | amount          |
+| Product 13 | torchlabs\_product   | torchlabs\_datacenter\_extra10 | amount          |
+| Product 14 | torchlabs\_product   | torchlabs\_datacenter\_extra11 | amount          |
+| Product 15 | torchlabs\_product   | torchlabs\_datacenter\_extra12 | amount          |
+| Product 16 | torchlabs\_product   | torchlabs\_datacenter\_extra13 | amount          |
+| Product 17 | torchlabs\_product   | torchlabs\_datacenter\_extra14 | amount          |
+| Product 18 | torchlabs\_product   | torchlabs\_datacenter\_extra15 | amount          |
+| Product 19 | torchlabs\_product   | torchlabs\_datacenter\_extra16 | amount          |
+| Product 20 | torchlabs\_product   | torchlabs\_datacenter\_extra17 | amount          |
+| Product 21 | torchlabs\_product   | torchlabs\_datacenter\_extra18 | amount          |
+| Product 22 | torchlabs\_product   | torchlabs\_datacenter\_extra19 | amount          |
+| Product 23 | torchlabs\_product   | torchlabs\_datacenter\_extra20 | amount          |
 
 **Example**
 
