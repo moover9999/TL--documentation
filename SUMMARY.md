@@ -93,6 +93,7 @@
 * [💱 Crypto Payments](more-settings/crypto-payments.md)
 * [🔱 Setting a prefix for TL ISPs](more-settings/setting-a-prefix-for-tl-isps.md)
 * [How to Update User's Wallet](more-settings/how-to-update-users-wallet.md)
+* [How to Display Promotional Messages in the User Dashboard](more-settings/how-to-display-promotional-messages-in-the-user-dashboard.md)
 
 ## Onboarding Guide
 

@@ -93,7 +93,7 @@ The next field is where we capture if you are making a daily/weekly/monthly prod
 
 & more products can be added by looking at our Meta Data section
 
-![](<../.gitbook/assets/image (4) (1).png>)
+![](<../.gitbook/assets/image (4) (1) (1).png>)
 
 10\. Here you can view all the prices created, And click on a price.
 
