@@ -33,6 +33,7 @@
 
 * [✅ Adding residential products](residential-products/adding-residential-products.md)
 * [♻️ Creating a recurring price for Residential Proxies](residential-products/creating-a-recurring-price-for-residential-proxies.md)
+* [👑 Best Practices in Selling Residential Subscriptions](residential-products/best-practices-in-selling-residential-subscriptions.md)
 * [👮‍♀️ User management](residential-products/user-management.md)
 * [⏳ View users current balance](residential-products/view-users-current-balance.md)
 * [💻 Updating user's data balance](residential-products/updating-users-data-balance.md)
