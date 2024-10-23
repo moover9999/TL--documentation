@@ -128,7 +128,7 @@
 * [🖼️ Adding images to the product description](customer-dashboard/adding-images-to-the-product-description.md)
 * [How to use Wallet Credit to purchase](customer-dashboard/how-to-use-wallet-credit-to-purchase.md)
 * [How to check Wallet Transactions](customer-dashboard/how-to-check-wallet-transactions.md)
-* [How Wallet Payment Subscription Renewal Processed](customer-dashboard/how-wallet-payment-subscription-renewal-processed.md)
+* [♻️ How Wallet Payment Subscription Renewal Processed](customer-dashboard/how-wallet-payment-subscription-renewal-processed.md)
 * [🆔 How to check the Order ID of a Transaction](customer-dashboard/how-to-check-the-order-id-of-a-transaction.md)
 
 ## Errors & FAQ
