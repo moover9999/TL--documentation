@@ -14,7 +14,7 @@ This section will guide you to update your Support description to appear on the 
 
 _The Support description will appear on the user dashboard as follows_
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

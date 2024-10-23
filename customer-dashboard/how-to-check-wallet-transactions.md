@@ -12,8 +12,8 @@ With our new top-up system, you can effortlessly view your transaction history d
 
 1. Log in to the User Dashboard and at the top-right of the tabs section, you can see a new icon for **Wallet**. In there, your current **Wallet Balance** will be shown. Just click on it to check the transaction history.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. You can filter transactions by month by selecting the calendar icon. Also, all the transactions are shown below for the particular month
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>

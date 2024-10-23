@@ -8,7 +8,7 @@ There are many reasons you might want to use a third-party DNS server, from pare
 
 1. Click on Domains and then click on _**All Domains**_
 
-![](<../.gitbook/assets/image (6) (1).png>)
+![](<../.gitbook/assets/image (6) (1) (1).png>)
 
 2\. From the list of your current domains, click on the domain you own.
 
@@ -20,7 +20,7 @@ There are many reasons you might want to use a third-party DNS server, from pare
 
 4\. Here you can add your new DNS records
 
-![](<../.gitbook/assets/image (3) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1) (1) (1).png>)
 
 ## Namecheap DNS settings
 
@@ -30,7 +30,7 @@ There are many reasons you might want to use a third-party DNS server, from pare
 
 2\. Find your domain and click _**Manage.**_
 
-![](<../.gitbook/assets/image (5) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png>)
 
 3\. Next, go to the _**Advanced DNS**_ tab.
 

@@ -1,4 +1,4 @@
-# ⚖ Loadbalancer management
+# ⚖️ Loadbalancer management
 
 {% hint style="info" %}
 This guide will go over on how to properly scale and manage your load balancer to ensure you have the optimal performance on your proxies. Managing the load balancer is very important as this determines how much traffic you can accept. If your load balancer is not set up for the right amount of traffic (too small) then all the proxies will fail. Therefore, it is essential to follow the below recommendations.&#x20;
@@ -30,7 +30,7 @@ In computing, a server is a piece of computer hardware or software that provides
 
 Our special masking script is installed on your servers. This script routes the traffic to the proxy domain via the server acting as a middleman. However, all the initial traffic comes to one main point which is the load balancers. Then the load balancer distributes this traffic to one or more connected servers.
 
-![](<../.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10) (1).png>)
 
 A load balancer on DO can handle 10,000 simultaneous connections and 10,000 connections per second. What this means is that each connection is one proxy connection coming from a user. So based on how many users you have and how much demand you anticipate for a drop you need to increase the number of load balancer nodes. Each extra node gives you an additional 10,000 simultaneous connections.&#x20;
 
