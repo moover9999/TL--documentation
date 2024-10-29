@@ -21,7 +21,9 @@ Please make sure to have two different names for the default and EU products (i.
 | IPRoyal (Default)      | CNAME       | iproyal.x.proxiess.com                       |
 | IPRoyalEU              | CNAME       | iproyaleu.x.proxiess.com                     |
 | IPRoyalasia            | CNAME       | iproyalasia.x.proxiess.com                   |
-| Packetstream           | CNAME       | proxy.packetstream.io                        |
+| Packetstream (Default) | CNAME       | pkt.x.proxiess.com                           |
+| PacketstreamEu         | CNAME       | pkteu.x.proxiess.com                         |
+| PacketstreamAsia       | CNAME       | pktasia.x.proxiess.com                       |
 | Private                | A           | 159.89.245.182                               |
 | Brightdata             | CNAME       | pmgr-customer-hl\_e65c4ff1.brd.superproxy.io |
 | Geonode                | CNAME       | premium-residential.geonode.com              |
@@ -33,7 +35,7 @@ Use this method to brand your proxies with your own domain/company name
 To brand the proxies under your domain follow these steps:
 
 1. Open the DNS configuration for your domain.
-2. Create a C Name Record pointing to the domain.
+2. Create a CNAME Record pointing to the domain.
 3. Whatever you enter in the name/host will decide the domain which points to our API IP.
 4. Thus if your domain is [API.com](http://api.com/) and you enter the host premium or whatever you want to call it pointing to the PacketStream domain, your proxies will be formatted [premium.yourdomain.com](http://premium.yourdomain.com/):port:user:pass
 5. An example on Godaddy is linked below:
