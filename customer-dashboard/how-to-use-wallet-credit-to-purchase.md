@@ -18,7 +18,7 @@ With our new top-up system, you can easily add credits to your account and use y
 
 2. Select the required product and click **Purchase**.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Then, click the **Pay with Wallet** option.
 
