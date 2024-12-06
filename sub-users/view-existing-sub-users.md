@@ -1,17 +1,17 @@
 # View existing sub-users
 
-1. Click on the "Sub-users" tab&#x20;
+1. First, navigate to **Residential Proxies -> Users.**&#x20;
 
 {% hint style="info" %}
 All the sub-users are displayed in this section along with their user ID, plan name, and created date.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/2024-02-28 14_05_57-Sub users.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2024-12-06 at 10 .39.31.jpg" alt=""><figcaption></figcaption></figure>
 
-2. Click on the View button within each sub-user row to check the details of each sub-user
+2. Click on the **View** button within each sub-user row to check the details of each sub-user.
 
-<figure><img src="../.gitbook/assets/d (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2024-12-06 at 10 .50.49.jpg" alt=""><figcaption></figcaption></figure>
 
-2.1 The you can see the sub-user details as follows
+* The you can see the **sub-user details** as follows. it contains all the transactions and the data usage and balance data.
 
-<figure><img src="../.gitbook/assets/2024-02-28 14_07_32-Subuser - ct62tc0wn7n3hfoemn0bb4ptb5pots.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2024-12-06 at 10 .52.18.jpg" alt=""><figcaption></figcaption></figure>
