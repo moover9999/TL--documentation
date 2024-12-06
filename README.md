@@ -1,22 +1,13 @@
----
-cover: .gitbook/assets/Screen-Shot-2021-12-28-at-10-45-33-PM.png
-coverY: 0
----
+# Account Overview
 
-# 👋 Welcome!
+{% hint style="info" %}
+The Overview page of the TorchLabs Dashboard is your starting point for managing proxy services and monitoring account activity. It provides a comprehensive snapshot of available products, including Residential and ISP proxy plans, with detailed pricing and feature descriptions for each service.
+{% endhint %}
 
-## Welcome aboard!
+1. Overview Tab provides you the overall summary of your products.
 
-Welcome to the Torch Labs Dashboard help center!
+<figure><img src=".gitbook/assets/CleanShot 2024-12-06 at 4 .28.24.jpg" alt=""><figcaption></figcaption></figure>
 
-This guide will have answers to 99% of your questions!
+2. You can explore a step-by-step **Dashboard Tour Guide** on every page by clicking the **"Dashboard Tour"** button in the sidebar. This interactive guide highlights and explains all the key sections of the dashboard, ensuring you understand the functionality and purpose of each feature. It's an excellent way to familiarize yourself with the tools and maximize your productivity.
 
-1. General Settings
-2. Product Settings
-3. Residential Products
-4. Datacenter and Account
-5. More Settings
-6. Onboarding Guide
-7. Proxy Masking
-8. Customer Dashboard
-9. Errors & FAQs
+<figure><img src=".gitbook/assets/CleanShot 2024-12-06 at 4 .32.54.jpg" alt=""><figcaption></figcaption></figure>
