@@ -1,39 +1,19 @@
 # Data Allocation
 
+1. Navigate to **Purchase -> Residential Proxies -> Billing and History**
 
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-1. Click on the "Billing" tab
+You can allocate the credits to each product using this.
 
-<figure><img src="../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
+2. Click on **Allocate** Button.
 
-{% hint style="info" %}
-The data allocation section reflects the number of GBs allocated for each provider.
-{% endhint %}
+<figure><img src="../.gitbook/assets/CleanShot 2024-12-07 at 8 .46.22.jpg" alt=""><figcaption></figcaption></figure>
 
-2. Click on the "Allocate" button
+3. You can see the **Available Credits** there. Also, then you have to allocate the existing credits as per your requirement. Then click **Allocate** to complete the data allocation.
 
-<figure><img src="../.gitbook/assets/2024-02-28 14_11_29-Billing.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2024-12-07 at 8 .46.58.jpg" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-Here you can use the credits purchased to allocate the data for each provider&#x20;
-{% endhint %}
+4. You can see the Credit Allocation History in the same page and it can be filter with multiple periods.
 
-3. Then you can allocate the data to the relevant provider.&#x20;
-
-{% hint style="info" %}
-If you already have purchased credit, you can view the available credits here)
-{% endhint %}
-
-<figure><img src="../.gitbook/assets/2024-02-27 14_59_03-Billing.png" alt=""><figcaption></figcaption></figure>
-
-4. Finally, click the save button.
-
-<figure><img src="../.gitbook/assets/Screenshot 2024-01-23 at 08.36.42.png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-Furthermore, you can access the list of all the residential purchase orders
-{% endhint %}
-
-
-
-<figure><img src="../.gitbook/assets/bxc.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

@@ -14,5 +14,5 @@
   * [Billing Analytics](billing/billing-analytics.md)
   * [Data Allocation](billing/data-allocation.md)
   * [Manage Subscription](billing/manage-subscription.md)
-* [Support Channel](support-channel.md)
+* [Support Channels](support-channels.md)
 * [FAQs](faqs.md)
