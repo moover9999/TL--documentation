@@ -23,3 +23,7 @@ This guide explains how to purchase credits for allocating data among providers 
 4. Then click on the **Purchase** button.
 
 <figure><img src="../.gitbook/assets/CleanShot 2024-12-06 at 7 .47.27.jpg" alt=""><figcaption></figcaption></figure>
+
+5. You can check the previous credit purchases in the bottom of the page.
+
+<figure><img src="../.gitbook/assets/CleanShot 2024-12-10 at 10 .17.01.png" alt=""><figcaption></figcaption></figure>

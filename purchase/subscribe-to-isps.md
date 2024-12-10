@@ -27,3 +27,5 @@ These ISP products are renewing monthly by default hence it is mentioned as 1 mo
 5. To check the order history, click on **Billing and History** ta&#x62;**.** You can see your subscription purchase history under "**Subscription History**"
 
 <figure><img src="../.gitbook/assets/CleanShot 2024-12-06 at 10 .29.44.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>

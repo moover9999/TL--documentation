@@ -17,3 +17,5 @@ You can allocate the credits to each product using this.
 4. You can see the Credit Allocation History in the same page and it can be filter with multiple periods.
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
