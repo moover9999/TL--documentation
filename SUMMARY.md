@@ -15,4 +15,5 @@
   * [Data Allocation](billing/data-allocation.md)
   * [Manage Subscription](billing/manage-subscription.md)
 * [Support Channels](support-channels.md)
-* [FAQs](faqs.md)
+* [FAQs](faqs/README.md)
+  * [How Usage Overview Graph looks like?](faqs/how-usage-overview-graph-looks-like.md)
