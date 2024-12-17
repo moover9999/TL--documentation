@@ -102,12 +102,12 @@
 * [✅ Onboarding a residential product](onboarding-guide/onboarding-a-residential-product.md)
 * [🌐 Access DNS settings](onboarding-guide/access-dns-settings.md)
 * [✈️ Adding Your Site To Your Domain](onboarding-guide/adding-your-site-to-your-domain.md)
-* [〽️ White labeling proxies with your domain](onboarding-guide/white-labeling-proxies-with-your-domain/README.md)
-  * [White Labeling the X Residential](onboarding-guide/white-labeling-proxies-with-your-domain/white-labeling-the-x-residential.md)
 * [🗃️ Find Discord ID](onboarding-guide/find-discord-id.md)
 * [💊 Customize dashboard theme](onboarding-guide/customize-dashboard-theme.md)
 * [🪡 Setting Up A Domain](onboarding-guide/setting-up-a-domain.md)
 * [🔄 Setting Up A Stripe Account](onboarding-guide/setting-up-a-stripe-account.md)
+* [〽️ White labeling proxies with your domain](onboarding-guide/white-labeling-proxies-with-your-domain.md)
+* [White Labeling the X Residential](onboarding-guide/white-labeling-the-x-residential.md)
 
 ## Proxy Masking
 
