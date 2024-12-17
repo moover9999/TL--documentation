@@ -27,6 +27,17 @@ Please make sure to have two different names for the default and EU products (i.
 | Private                | A           | 159.89.245.182                               |
 | Brightdata             | CNAME       | pmgr-customer-hl\_e65c4ff1.brd.superproxy.io |
 | Geonode                | CNAME       | premium-residential.geonode.com              |
+| X Residential          | CNAME       | Refer "White Labeling the X Residential"     |
+
+
+
+**X Residential**
+
+This guide outlines the white labeling process for **X Residential**.
+
+{% content-ref url="white-labeling-the-x-residential.md" %}
+[white-labeling-the-x-residential.md](white-labeling-the-x-residential.md)
+{% endcontent-ref %}
 
 #### PacketStream
 
@@ -40,7 +51,7 @@ To brand the proxies under your domain follow these steps:
 4. Thus if your domain is [API.com](http://api.com/) and you enter the host premium or whatever you want to call it pointing to the PacketStream domain, your proxies will be formatted [premium.yourdomain.com](http://premium.yourdomain.com/):port:user:pass
 5. An example on Godaddy is linked below:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 #### Private Resis
 
@@ -54,7 +65,7 @@ To brand the proxies under your domain follow these steps:
 4. Thus if your domain is [API.com](http://api.com/) and you enter the host premium pointing to the oxylabs domain, your proxies will be formatted [premium.yourdomain.com](http://premium.yourdomain.com/):port:user:pass
 5. An example on Godaddy is linked below:
 
-![](../.gitbook/assets/Screen\_Shot\_2021-08-14\_at\_10.06.51\_PM.png)
+![](../../.gitbook/assets/Screen_Shot_2021-08-14_at_10.06.51_PM.png)
 
 #### Oxylabs
 
@@ -96,7 +107,7 @@ To brand the proxies under your domain follow these steps:
 6. Your custom domain will now be accessible via the URL: `example.mydomain.com`
 7. An example on Godaddy is linked below:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### SmartEU
 
@@ -119,7 +130,7 @@ To brand the proxies under your domain follow these steps:
 4. Thus if your domain is [API.com](http://api.com/) and you enter the host premium or whatever you want to call it pointing to the PacketStream domain, your proxies will be formatted [premium.yourdomain.com](http://premium.yourdomain.com/):port:user:pass
 5. An example on Godaddy is linked below:
 
-<figure><img src="../.gitbook/assets/IP Royal.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IP Royal.png" alt=""><figcaption></figcaption></figure>
 
 #### IPRoyalEU
 
@@ -159,7 +170,7 @@ To brand the proxies under your domain follow these steps:
 4. Thus if your domain is [API.com](http://api.com/) and you enter the host premium or whatever you want to call it pointing to the PacketStream domain, your proxies will be formatted [premium.yourdomain.com](http://premium.yourdomain.com/):port:user:pass
 5. An example on Godaddy is linked below:
 
-<figure><img src="../.gitbook/assets/Screen Shot 2022-09-09 at 2.26.02 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-09 at 2.26.02 PM.png" alt=""><figcaption></figcaption></figure>
 
 #### Geonode
 

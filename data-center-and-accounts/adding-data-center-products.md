@@ -33,7 +33,7 @@ Before you create a product in Stripe, make sure you select the correct account.
 
 <figure><img src="../.gitbook/assets/r (2).png" alt=""><figcaption></figcaption></figure>
 
-2\. Click on the _**Products**_ tab found on the right navigation pane of the _Stripe Dashboar_d.
+2\. Click on the _**Products**_ tab found on the right navigation pane of the _Stripe Dashboa&#x72;_&#x64;.
 
 ![](<../.gitbook/assets/Untitled design (2) (9).png>)
 

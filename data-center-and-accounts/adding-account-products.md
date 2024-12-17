@@ -25,7 +25,7 @@ Any product can have two types of prices:&#x20;
 
 ![](<../.gitbook/assets/Untitled design (1) (2).png>)
 
-2\. Click on the _**Products**_ tab found on the right navigation pane of the _Stripe Dashboar_d.
+2\. Click on the _**Products**_ tab found on the right navigation pane of the _Stripe Dashboa&#x72;_&#x64;.
 
 ![](<../.gitbook/assets/Untitled design (2) (9).png>)
 
