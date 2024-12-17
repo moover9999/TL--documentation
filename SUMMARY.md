@@ -106,8 +106,8 @@
 * [💊 Customize dashboard theme](onboarding-guide/customize-dashboard-theme.md)
 * [🪡 Setting Up A Domain](onboarding-guide/setting-up-a-domain.md)
 * [🔄 Setting Up A Stripe Account](onboarding-guide/setting-up-a-stripe-account.md)
-* [〽️ White labeling proxies with your domain](onboarding-guide/white-labeling-proxies-with-your-domain.md)
-* [White Labeling the X Residential](onboarding-guide/white-labeling-the-x-residential.md)
+* [〽️ White labeling proxies with your domain](onboarding-guide/white-labeling-proxies-with-your-domain/README.md)
+  * [White Labeling the X Residential](onboarding-guide/white-labeling-proxies-with-your-domain/white-labeling-the-x-residential.md)
 
 ## Proxy Masking
 

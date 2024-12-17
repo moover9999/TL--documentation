@@ -13,8 +13,8 @@ This guide will assist you in changing both the domain and your product CNAMEs. 
 
 3. Follow the guide and Whitelabel the proxies.
 
-{% content-ref url="../onboarding-guide/white-labeling-proxies-with-your-domain.md" %}
-[white-labeling-proxies-with-your-domain.md](../onboarding-guide/white-labeling-proxies-with-your-domain.md)
+{% content-ref url="../onboarding-guide/white-labeling-proxies-with-your-domain/" %}
+[white-labeling-proxies-with-your-domain](../onboarding-guide/white-labeling-proxies-with-your-domain/)
 {% endcontent-ref %}
 
 {% hint style="info" %}
