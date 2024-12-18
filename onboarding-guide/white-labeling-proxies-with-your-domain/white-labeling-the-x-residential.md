@@ -12,7 +12,12 @@ To brand the proxies under your domain follow these steps:
 Here, There are 14 different pools are available and you have to create DNS records for each.
 {% endhint %}
 
-1. Identify a common White Labeling name for all the 14 plans.
+1. Identify a common White Labeling name for all the 14 plans. For example, if you planned to use "private" as common name, your proxies will appear like this.
+
+* usax pool ⇒ **private**usax.youdomain.com:port:user:pass
+* usatx pool ⇒ **private**usatx.youdomain.com:port:user:pass
+* dex pool ⇒ **private**dex.youdomain.com:port:user:pass
+
 2. Generate a list of DSN record names. You can use below file to generate those easily.
 
 [White Labeling X Residential](https://docs.google.com/spreadsheets/d/1_BZHP51hSfuzeRtQB5uDJaB2g50J-fxALYgEIPQKb5w/copy)&#x20;
