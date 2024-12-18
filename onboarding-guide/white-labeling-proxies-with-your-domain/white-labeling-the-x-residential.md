@@ -15,9 +15,9 @@ Here, There are 14 different pools are available and you have to create DNS reco
 1. Identify a common White Labeling name for all the 14 plans.
 2. Generate a list of DSN record names. You can use below file to generate those easily.
 
-{% file src="../../.gitbook/assets/White Labeling X Residential.xlsx" %}
+[White Labeling X Residential](https://docs.google.com/spreadsheets/d/1_BZHP51hSfuzeRtQB5uDJaB2g50J-fxALYgEIPQKb5w/copy)&#x20;
 
-3. You can download the same file and insert the common White Labeling name to Cell C2 (#1).  Then, based on the name, API (#2) will be updated and Domain (#3) and Port (#4) keeps fixed.
+3. We have provided a automated file for your ease. You can create a copy using the above link and insert the common White Labeling name to Cell C2 (#1).  Then, based on the name, API (#2) will be updated and Domain (#3) and Port (#4) keeps fixed.
 
 <figure><img src="../../.gitbook/assets/CleanShot 2024-12-17 at 2 .00.56@2x.jpg" alt=""><figcaption></figcaption></figure>
 
