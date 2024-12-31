@@ -12,22 +12,24 @@ This process allows you to brand the proxies with your company name. For example
 Please make sure to have two different names for the default and EU products (i.e. Oxylabs , Smart) when entering to DNS settings. Having the same name for the different products may lead to generating non-functioning proxies.&#x20;
 {% endhint %}
 
-| API                    | Record Type | Domain                                       |
-| ---------------------- | ----------- | -------------------------------------------- |
-| Smartproxies (Default) | CNAME       | smrt.x.proxiess.com                          |
-| SmartEU                | CNAME       | smrteu.x.proxiess.com                        |
-| Oxylabs (Default)      | CNAME       | oxy.x.proxiess.com                           |
-| OxylabsEU              | CNAME       | oxyeu.x.proxiess.com                         |
-| IPRoyal (Default)      | CNAME       | iproyal.x.proxiess.com                       |
-| IPRoyalEU              | CNAME       | iproyaleu.x.proxiess.com                     |
-| IPRoyalasia            | CNAME       | iproyalasia.x.proxiess.com                   |
-| Packetstream (Default) | CNAME       | pkt.x.proxiess.com                           |
-| PacketstreamEu         | CNAME       | pkteu.x.proxiess.com                         |
-| PacketstreamAsia       | CNAME       | pktasia.x.proxiess.com                       |
-| Private                | A           | 159.89.245.182                               |
-| Brightdata             | CNAME       | pmgr-customer-hl\_e65c4ff1.brd.superproxy.io |
-| Geonode                | CNAME       | premium-residential.geonode.com              |
-| X Residential          | CNAME       | Refer "White Labeling the X Residential"     |
+| API                    | Record Type | Domain                                   |
+| ---------------------- | ----------- | ---------------------------------------- |
+| Smartproxies (Default) | CNAME       | smrt.x.proxiess.com                      |
+| SmartEU                | CNAME       | smrteu.x.proxiess.com                    |
+| Oxylabs (Default)      | CNAME       | oxy.x.proxiess.com                       |
+| OxylabsEU              | CNAME       | oxyeu.x.proxiess.com                     |
+| IPRoyal (Default)      | CNAME       | iproyal.x.proxiess.com                   |
+| IPRoyalEU              | CNAME       | iproyaleu.x.proxiess.com                 |
+| IPRoyalasia            | CNAME       | iproyalasia.x.proxiess.com               |
+| Packetstream (Default) | CNAME       | pkt.x.proxiess.com                       |
+| PacketstreamEu         | CNAME       | pkteu.x.proxiess.com                     |
+| PacketstreamAsia       | CNAME       | pktasia.x.proxiess.com                   |
+| Private                | A           | 159.89.245.182                           |
+| Brightdata (Default)   | CNAME       | brd.x.proxiess.com                       |
+| Brightdata EU          | CNAME       | brdeu.x.proxiess.com                     |
+| Brightdata Asia        | CNAME       | brdasia.x.proxiess.com                   |
+| Geonode                | CNAME       | premium-residential.geonode.com          |
+| X Residential          | CNAME       | Refer "White Labeling the X Residential" |
 
 
 
@@ -170,7 +172,7 @@ To brand the proxies under your domain follow these steps:
 4. Thus if your domain is [API.com](http://api.com/) and you enter the host premium or whatever you want to call it pointing to the PacketStream domain, your proxies will be formatted [premium.yourdomain.com](http://premium.yourdomain.com/):port:user:pass
 5. An example on Godaddy is linked below:
 
-<figure><img src="../../.gitbook/assets/Screen Shot 2022-09-09 at 2.26.02 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 #### Geonode
 
