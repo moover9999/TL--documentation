@@ -22,6 +22,7 @@
 * [🪜 Reorder your products](product-settings/reorder-your-products.md)
 * [❌ Deleting a product price](product-settings/deleting-a-product-price.md)
 * [🗑️ Deleting an entire product](product-settings/deleting-an-entire-product.md)
+* [Deleting an entire Product with Active Subscriptions](product-settings/deleting-an-entire-product-with-active-subscriptions.md)
 * [💰 Change price of a product](product-settings/change-price-of-a-product.md)
 * [📜 Changing Product Description](product-settings/changing-product-description.md)
 * [♻️ Creating a recurring price for a product](product-settings/creating-a-recurring-price-for-a-product.md)
