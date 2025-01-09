@@ -1,4 +1,4 @@
-# Deleting an entire Product with Active Subscriptions
+# 🧺 Deleting an entire Product with Active Subscriptions
 
 {% hint style="danger" %}
 This guide is specifically for products with active subscriptions.
