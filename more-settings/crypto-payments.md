@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 💱 Crypto Payments
 
 {% hint style="info" %}
@@ -7,44 +11,47 @@ _Cryptocurrency is a digital or virtual form of currency that utilizes cryptogra
 {% endhint %}
 
 {% hint style="info" %}
-We do not endorse platforms like Binance, Coinbase, OKX, or Bybit for exchanges. Our support is solely directed towards crypto wallets like MetaMask. If you lack a crypto wallet, you may obtain one by downloading a wallet extension from Google Chrome. Following this, you can transfer crypto from Binance to your wallet. Numerous options are at your disposal.
-
-To receive payments, individuals must include their EVM wallet address, which remains consistent across Ethereum, Binance Smart Chain, and Polygon networks.
+We exclusively support **Stripe Crypto Payments**, which are currently available only for the US region.
 {% endhint %}
 
-{% hint style="info" %}
-we support Ethereum (ETH) , Polygon (POL) and BNB Smart Chain, along with a variety of tokens to cater to your preferences.&#x20;
-{% endhint %}
+### Supported Networks and Currency Types
 
-#### Supported networks and currency types
+Here are the available Cryptocurrency types and supported networks.&#x20;
 
-1. Ethereum Mainnet
+<figure><img src="../.gitbook/assets/CleanShot 2025-01-28 at 3 .10.15@2x.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-19 at 08.30.17.png" alt=""><figcaption></figcaption></figure>
+### Enabling Crypto Currency
 
-2. Polygon
+1. Go to the [Admin Dashboard](https://admindash.torchlabs.xyz/) and select the **More Settings** tab and then scroll down to the bottom of the page.&#x20;
+2. Navigate to the **Enable Crypto Payments** section.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-04-19 at 08.32.19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2025-01-28 at 4 .34.03.jpg" alt=""><figcaption></figcaption></figure>
 
-3. BNB Smart Chain
+3. Click on the provided link highlighted in orange or visit to the below link.
 
-<figure><img src="../.gitbook/assets/Screenshot 2024-06-12 at 09.16.03.png" alt=""><figcaption></figcaption></figure>
+**Crypto Onramp Setup**: [https://dashboard.stripe.com/crypto-onramp/get-started](https://dashboard.stripe.com/crypto-onramp/get-started)
 
-#### Enabling Crypto Currency
+4. Complete the first 3 sections.
 
-1. Go to the admin dashboard and select the _More Settings_ tab (then scroll down to the bottom of the page)
+<figure><img src="../.gitbook/assets/CleanShot 2025-01-28 at 4 .49.21 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/l.png" alt=""><figcaption></figcaption></figure>
+Once completed, it will looks like below.
 
-2. Click the _Enable Crypto Payments_ button
+<figure><img src="../.gitbook/assets/CleanShot 2025-01-28 at 4 .51.44.jpg" alt=""><figcaption></figcaption></figure>
 
-_When this option is enabled, users can see a popup when they checkout. In that popup, they will see payment options with crypto. By clicking that, users can checkout with crypto._
+5. Then, visit the **Payment Methods** page using the below link.
+
+**Payment Methods page**: [https://dashboard.stripe.com/settings/payment\_methods/](https://dashboard.stripe.com/settings/payment_methods/)
 
 
 
-<figure><img src="../.gitbook/assets/m.png" alt=""><figcaption></figcaption></figure>
 
-3. If you want you can disable the card payment option and keep only the crypto payment option available for the customers to pay (When this option is enabled, "Pay with Card" payment option will be hidden from the user dashboard)
+
+
+
+* To disable card payments and offer only cryptocurrency as a payment option for customers, simply enable the **Disable Card Payments** option in the settings. Once this option is activated, the **Pay with Card** payment method will no longer be visible on the user dashboard, ensuring that customers can exclusively pay using cryptocurrency. This provides a streamlined payment process tailored to cryptocurrency users.
+
+<figure><img src="../.gitbook/assets/CleanShot 2025-01-28 at 4 .39.25.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Please note that this feature is optional, and we encourage customers to keep both card and cryptocurrency payment options available on the dashboard.
@@ -52,15 +59,9 @@ Please note that this feature is optional, and we encourage customers to keep bo
 
 
 
-<figure><img src="../.gitbook/assets/2024-06-12 10_41_55-Home - Canva.png" alt=""><figcaption></figcaption></figure>
 
-4. Then enter the _Receiving Wallet Address_ and click on the _Save_ button
 
-_A receiving wallet address is required to enable this feature. Please ensure that you enter the correct wallet address. Adding an incorrect wallet address may result in the loss of funds, as they cannot be recovered._
-
-<figure><img src="../.gitbook/assets/2024-06-12 10_43_57-Home - Canva.png" alt=""><figcaption></figcaption></figure>
-
-#### Purchasing with Crypto Currency
+### Purchasing with Crypto Currency
 
 1. the Go to customer dashboard and click on the _Purchase_ button&#x20;
 
@@ -69,32 +70,3 @@ _A receiving wallet address is required to enable this feature. Please ensure th
 2. Select the payment method
 
 <figure><img src="../.gitbook/assets/e (3).png" alt=""><figcaption></figcaption></figure>
-
-3. Click on the _Connect Wallet_ button
-
-<figure><img src="../.gitbook/assets/2024-04-17 12_18_42-Boto.io _ Automation for Everyone.png" alt=""><figcaption></figcaption></figure>
-
-4. Select the relevant wallet and connect it
-
-<figure><img src="../.gitbook/assets/g (3).png" alt=""><figcaption></figcaption></figure>
-
-
-
-{% hint style="info" %}
-Please refer to the following video guide to identify the supported wallets.
-{% endhint %}
-
-
-
-{% embed url="https://drive.google.com/file/d/1GbX-d4rMfBLX5aE6Y8hJ59nwCo22QVmd/view?usp=sharing" %}
-
-5. Click on _the Pay_ button afterwards
-
-<figure><img src="../.gitbook/assets/h.png" alt=""><figcaption></figcaption></figure>
-
-6. Finally, click on the _Confirm_ button to complete the transaction
-
-
-
-<figure><img src="../.gitbook/assets/i.png" alt=""><figcaption></figcaption></figure>
-
