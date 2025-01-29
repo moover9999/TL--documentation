@@ -61,12 +61,19 @@ Please note that this feature is optional, and we encourage customers to keep bo
 
 
 
-### Purchasing with Crypto Currency
+### Purchasing with Cryptocurrency
 
-1. the Go to customer dashboard and click on the _Purchase_ button&#x20;
+1. the Go to User Dashboard and click on the **Purchase** button .
 
-<figure><img src="../.gitbook/assets/d (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2025-01-29 at 1 .03.26.jpg" alt=""><figcaption></figcaption></figure>
 
-2. Select the payment method
+2. Select **Pay with Crypto** as the payment method. If you have a **Promo Code**, you can enter it in the designated field; this step is optional and not required for purchase. Once done, click **Continue** to proceed with the payment.
 
-<figure><img src="../.gitbook/assets/e (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2025-01-29 at 1 .05.01.jpg" alt=""><figcaption></figcaption></figure>
+
+3. Then, you will guide to the **Stripe Checkout** page and then click on **Pay** button. Then, proceed with the payment by completing the requested data in the Stripe Checkout Page.
+
+<figure><img src="../.gitbook/assets/CleanShot 2025-01-29 at 1 .11.18.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
