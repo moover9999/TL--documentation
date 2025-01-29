@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 💱 Crypto Payments
 
 {% hint style="info" %}
@@ -29,25 +25,33 @@ Here are the available Cryptocurrency types and supported networks.&#x20;
 
 3. Click on the provided link highlighted in orange or visit to the below link.
 
-**Crypto Onramp Setup**: [https://dashboard.stripe.com/crypto-onramp/get-started](https://dashboard.stripe.com/crypto-onramp/get-started)
+* **Crypto Onramp Setup**: [https://dashboard.stripe.com/crypto-onramp/get-started](https://dashboard.stripe.com/crypto-onramp/get-started)
 
 4. Complete the first 3 sections.
 
 <figure><img src="../.gitbook/assets/CleanShot 2025-01-28 at 4 .49.21 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-Once completed, it will looks like below.
+* Once completed, it will looks like below.
 
 <figure><img src="../.gitbook/assets/CleanShot 2025-01-28 at 4 .51.44.jpg" alt=""><figcaption></figcaption></figure>
 
 5. Then, visit the **Payment Methods** page using the below link.
 
-**Payment Methods page**: [https://dashboard.stripe.com/settings/payment\_methods/](https://dashboard.stripe.com/settings/payment_methods/)
+* **Payment Methods page**: [https://dashboard.stripe.com/settings/payment\_methods/](https://dashboard.stripe.com/settings/payment_methods/)
 
+6. Then, click on the **Default** payment method.&#x20;
 
+<figure><img src="../.gitbook/assets/CleanShot 2025-01-29 at 3 .09.25.jpg" alt=""><figcaption></figcaption></figure>
 
+7. Navigate to the **Wallet** section and click on the **Turn On** button under **Crypto**.
 
+<figure><img src="../.gitbook/assets/CleanShot 2025-01-29 at 3 .13.33.jpg" alt=""><figcaption></figcaption></figure>
 
+* Once activated, it will show like this.
 
+<figure><img src="../.gitbook/assets/CleanShot 2025-01-29 at 3 .15.03.jpg" alt=""><figcaption></figcaption></figure>
+
+8. Once all the setup is completed in Stripe, go to the **Enable Crypto Payments** section in the Admin Dashboard. Enable the **Enable Crypto Payments** option, and cryptocurrency payments will be activated on the **User Dashboard**.
 
 * To disable card payments and offer only cryptocurrency as a payment option for customers, simply enable the **Disable Card Payments** option in the settings. Once this option is activated, the **Pay with Card** payment method will no longer be visible on the user dashboard, ensuring that customers can exclusively pay using cryptocurrency. This provides a streamlined payment process tailored to cryptocurrency users.
 
@@ -56,8 +60,6 @@ Once completed, it will looks like below.
 {% hint style="info" %}
 Please note that this feature is optional, and we encourage customers to keep both card and cryptocurrency payment options available on the dashboard.
 {% endhint %}
-
-
 
 
 
