@@ -12,24 +12,29 @@ This process allows you to brand the proxies with your company name. For example
 Please make sure to have two different names for the default and EU products (i.e. Oxylabs , Smart) when entering to DNS settings. Having the same name for the different products may lead to generating non-functioning proxies.&#x20;
 {% endhint %}
 
-| API                    | Record Type | Domain                                   |
-| ---------------------- | ----------- | ---------------------------------------- |
-| Smartproxies (Default) | CNAME       | smrt.x.proxiess.com                      |
-| SmartEU                | CNAME       | smrteu.x.proxiess.com                    |
-| Oxylabs (Default)      | CNAME       | oxy.x.proxiess.com                       |
-| OxylabsEU              | CNAME       | oxyeu.x.proxiess.com                     |
-| IPRoyal (Default)      | CNAME       | iproyal.x.proxiess.com                   |
-| IPRoyalEU              | CNAME       | iproyaleu.x.proxiess.com                 |
-| IPRoyalasia            | CNAME       | iproyalasia.x.proxiess.com               |
-| Packetstream (Default) | CNAME       | pkt.x.proxiess.com                       |
-| PacketstreamEu         | CNAME       | pkteu.x.proxiess.com                     |
-| PacketstreamAsia       | CNAME       | pktasia.x.proxiess.com                   |
-| Private                | A           | 159.89.245.182                           |
-| Brightdata (Default)   | CNAME       | brd.x.proxiess.com                       |
-| Brightdata EU          | CNAME       | brdeu.x.proxiess.com                     |
-| Brightdata Asia        | CNAME       | brdasia.x.proxiess.com                   |
-| Geonode                | CNAME       | premium-residential.geonode.com          |
-| X Residential          | CNAME       | Refer "White Labeling the X Residential" |
+| API                             | Record Type | Domain                                   |
+| ------------------------------- | ----------- | ---------------------------------------- |
+| Smartproxies (Default)          | CNAME       | smrt.x.proxiess.com                      |
+| SmartEU                         | CNAME       | smrteu.x.proxiess.com                    |
+| Oxylabs (Default)               | CNAME       | oxy.x.proxiess.com                       |
+| OxylabsEU                       | CNAME       | oxyeu.x.proxiess.com                     |
+| IPRoyal (Default)               | CNAME       | iproyaliproyal.x.proxiess.com            |
+| IPRoyalEU                       | CNAME       | iproyaleu.x.proxiess.com                 |
+| IPRoyalAsia                     | CNAME       | iproyalasia.x.proxiess.com               |
+| IPRoyal (Default) - SOCKS5      | CNAME       | socksiproyal.x.proxiess.com              |
+| IPRoyalEU - SOCKS5              | CNAME       | socksiproyaleu.x.proxiess.com            |
+| IPRoyalAsia - SOCKS5            | CNAME       | socksiproyalasia.x.proxiess.com          |
+| Packetstream (Default)          | CNAME       | pkt.x.proxiess.com                       |
+| PacketstreamEU                  | CNAME       | pkteu.x.proxiess.com                     |
+| PacketstreamAsia                | CNAME       | pktasia.x.proxiess.com                   |
+| Packetstream (Default) - SOCKS5 | CNAME       | sockspkt.x.proxiess.com                  |
+| PacketstreamEU - SOCKS5         | CNAME       | sockspkteu.x.proxiess.com                |
+| PacketstreamAsia - SOCKS5       | CNAME       | sockspktasia.x.proxiess.com              |
+| Brightdata (Default)            | CNAME       | brd.x.proxiess.com                       |
+| Brightdata EU                   | CNAME       | brdeu.x.proxiess.com                     |
+| Brightdata Asia                 | CNAME       | brdasia.x.proxiess.com                   |
+| Geonode                         | CNAME       | premium-residential.geonode.com          |
+| X Residential                   | CNAME       | Refer "White Labeling the X Residential" |
 
 
 
@@ -51,23 +56,11 @@ To brand the proxies under your domain follow these steps:
 2. Create a CNAME Record pointing to the domain.
 3. Whatever you enter in the name/host will decide the domain which points to our API IP.
 4. Thus if your domain is [API.com](http://api.com/) and you enter the host premium or whatever you want to call it pointing to the PacketStream domain, your proxies will be formatted [premium.yourdomain.com](http://premium.yourdomain.com/):port:user:pass
-5. An example on Godaddy is linked below:
+5. Here are the white labeling data summary for HTTP/HTTPS and SOCKS5:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<table><thead><tr><th width="187">API</th><th width="145">Authentication</th><th width="249">Host</th><th>Port</th></tr></thead><tbody><tr><td>Packetstream</td><td>HTTP/HTTPS</td><td>pkt.x.proxiess.com</td><td>31112</td></tr><tr><td>Packetstream EU</td><td>HTTP/HTTPS</td><td>pkteu.x.proxiess.com</td><td>31113</td></tr><tr><td>Packetstream Asia</td><td>HTTP/HTTPS</td><td>pktasia.x.proxiess.com</td><td>31114</td></tr><tr><td>Packetstream</td><td>SOCKS5</td><td>sockspkt.x.proxiess.com</td><td>31115</td></tr><tr><td>Packetstream EU</td><td>SOCKS5</td><td>sockspkteu.x.proxiess.com</td><td>31116</td></tr><tr><td>Packetstream Asia</td><td>SOCKS5</td><td>sockspktasia.x.proxiess.com</td><td>31117</td></tr></tbody></table>
 
-#### Private Resis
 
-Use this method to brand your proxies with your own domain/company name
-
-To brand the proxies under your domain follow these steps:
-
-1. Open the DNS configuration for your domain.
-2. Create a Name Record pointing to the domain {**159.89.245.182}**.
-3. Whatever you enter in the name/host will decide the domain which points to our API IP.
-4. Thus if your domain is [API.com](http://api.com/) and you enter the host premium pointing to the oxylabs domain, your proxies will be formatted [premium.yourdomain.com](http://premium.yourdomain.com/):port:user:pass
-5. An example on Godaddy is linked below:
-
-![](../../.gitbook/assets/Screen_Shot_2021-08-14_at_10.06.51_PM.png)
 
 #### Oxylabs
 
@@ -130,37 +123,13 @@ To brand the proxies under your domain follow these steps:
 2. Create a C Name Record pointing to the domain.
 3. Whatever you enter in the name/host will decide the domain which points to our API IP.
 4. Thus if your domain is [API.com](http://api.com/) and you enter the host premium or whatever you want to call it pointing to the PacketStream domain, your proxies will be formatted [premium.yourdomain.com](http://premium.yourdomain.com/):port:user:pass
-5. An example on Godaddy is linked below:
+5. Here are the white labeling data summary for HTTP/HTTPS and SOCKS5:
 
-<figure><img src="../../.gitbook/assets/CleanShot 2025-01-29 at 3 .57.50.jpg" alt=""><figcaption></figcaption></figure>
+<table><thead><tr><th width="155">API</th><th width="168">Authentication</th><th width="323">Host</th><th>Port</th></tr></thead><tbody><tr><td>IPRoyal</td><td>HTTP/HTTPS</td><td>iproyal.x.proxiess.com</td><td>12321</td></tr><tr><td>IPRoyal EU</td><td>HTTP/HTTPS</td><td>iproyaleu.x.proxiess.com</td><td>12323</td></tr><tr><td>IPRoyal Asia</td><td>HTTP/HTTPS</td><td>iproyalasia.x.proxiess.com</td><td>12322</td></tr><tr><td>IPRoyal</td><td>SOCKS5</td><td>socksiproyal.x.proxiess.com</td><td>12324</td></tr><tr><td>IPRoyal EU</td><td>SOCKS5</td><td>socksiproyaleu.x.proxiess.com</td><td>12326</td></tr><tr><td>IPRoyal Asia</td><td>SOCKS5</td><td>socksiproyal.x.proxiess.com</td><td>12325</td></tr></tbody></table>
 
-#### IPRoyalEU
 
-Use this method to brand your proxies with your own domain/company name
 
-To brand the proxies under your domain follow these steps:
-
-1. Log in to your domain hosting provider account and navigate to the DNS management section.
-2. Locate the option to add a new CNAME record for your domain.
-3. Enter the desired subdomain as the CNAME record value. For example, if you want your subdomain to be "example," enter "exampleeu" as the host, appending "eu" at the end. Please note this must be the same value entered for `iproyaleu.x.proxiess.com` with eu at the end.
-4. In the "value" field, enter "`iproyaleu.x.proxiess.com`"
-5. Save the changes and allow some time for DNS propagation.
-6. Your custom domain will now be accessible via the URL: `exampleeu.mydomain.com`
-
-#### IPRoyalasia
-
-Use this method to brand your proxies with your own domain/company name
-
-To brand the proxies under your domain follow these steps:
-
-1. Log in to your domain hosting provider account and navigate to the DNS management section.
-2. Locate the option to add a new CNAME record for your domain.
-3. Enter the desired subdomain as the CNAME record value. For example, if you want your subdomain to be "example," enter "exampleasia" as the host, appending "asia" at the end. Please note this must be the same value entered for `iproyalasia.x.proxiess.com` with asia at the end.
-4. In the "value" field, enter "`iproyalasia.x.proxiess.com`"
-5. Save the changes and allow some time for DNS propagation.
-6. Your custom domain will now be accessible via the URL: `exampleasia.mydomain.com`
-
-#### Brightdata
+Brightdata
 
 Use this method to brand your proxies with your own domain/company name
 
