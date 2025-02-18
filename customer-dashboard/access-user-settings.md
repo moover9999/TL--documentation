@@ -1,4 +1,4 @@
-# 🖱 Access user settings
+# 🖱️ Access user settings
 
 {% hint style="info" %}
 This guide will help you to find access to Other Settings on User Dashboard.
@@ -27,3 +27,10 @@ Following are the other settings and click on the link to be directed to the rel
 {% content-ref url="customer-subscription-portal.md" %}
 [customer-subscription-portal.md](customer-subscription-portal.md)
 {% endcontent-ref %}
+
+* Whitelist the User's IPs
+
+{% content-ref url="whitelist-your-ips.md" %}
+[whitelist-your-ips.md](whitelist-your-ips.md)
+{% endcontent-ref %}
+
