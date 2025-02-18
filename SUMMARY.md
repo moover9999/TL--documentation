@@ -124,6 +124,7 @@
 * [🏧 Customer subscription portal](customer-dashboard/customer-subscription-portal.md)
 * [🎓 Residential Proxy Generation](customer-dashboard/proxy-generation.md)
 * [🎛️ Setting up the Default Country](customer-dashboard/setting-up-the-default-country.md)
+* [Whitelist your IPs](customer-dashboard/whitelist-your-ips.md)
 * [🫐 Referral System](customer-dashboard/referral-system.md)
 * [‼️ Dashboard Animation](customer-dashboard/dashboard-animation.md)
 * [⚱️ ISP Proxy Generation](customer-dashboard/isp-proxy-generation.md)
