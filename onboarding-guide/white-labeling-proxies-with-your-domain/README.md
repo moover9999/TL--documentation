@@ -74,7 +74,7 @@ To brand the proxies under your domain follow these steps:
 
 8. Here are the white labeling data summary for HTTP/HTTPS and SOCKS5:
 
-<table data-header-hidden><thead><tr><th width="168.90234375">API</th><th width="150.40234375">Authentication</th><th width="264.2734375">Domain</th><th>Port</th></tr></thead><tbody><tr><td>Smartproxy</td><td>HTTP/HTTPS</td><td>smrt.x.proxiess.com</td><td>7000</td></tr><tr><td>Smartproxy EU</td><td>HTTP/HTTPS</td><td>smrteu.x.proxiess.com</td><td>7002</td></tr><tr><td>Smartproxy Asia</td><td>HTTP/HTTPS</td><td>smrtasia.x.proxiess.com</td><td>7003</td></tr><tr><td>Smartproxy</td><td>SOCKS5</td><td>sockssmrt.x.proxiess.com</td><td>7004</td></tr><tr><td>Smartproxy EU</td><td>SOCKS5</td><td>sockssmrteu.x.proxiess.com</td><td>7005</td></tr><tr><td>Smartproxy Asia</td><td>SOCKS5</td><td>sockssmrtasia.x.proxiess.com</td><td>7006</td></tr></tbody></table>
+<table><thead><tr><th width="161.125">API</th><th width="143.4296875">Authentication</th><th width="272.52734375">Domain</th><th>Port</th></tr></thead><tbody><tr><td>Smartproxy</td><td>HTTP/HTTPS</td><td>smrt.x.proxiess.com</td><td>7000</td></tr><tr><td>Smartproxy EU</td><td>HTTP/HTTPS</td><td>smrteu.x.proxiess.com</td><td>7002</td></tr><tr><td>Smartproxy Asia</td><td>HTTP/HTTPS</td><td>smrtasia.x.proxiess.com</td><td>7003</td></tr><tr><td>Smartproxy</td><td>SOCKS5</td><td>sockssmrt.x.proxiess.com</td><td>7004</td></tr><tr><td>Smartproxy EU</td><td>SOCKS5</td><td>sockssmrteu.x.proxiess.com</td><td>7005</td></tr><tr><td>Smartproxy Asia</td><td>SOCKS5</td><td>sockssmrtasia.x.proxiess.com</td><td>7006</td></tr></tbody></table>
 
 #### IP Royal
 
