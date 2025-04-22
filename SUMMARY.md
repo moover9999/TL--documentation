@@ -18,3 +18,4 @@
 * [Support Channels](support-channels.md)
 * [FAQs](faqs/README.md)
   * [How Usage Overview Graph looks like?](faqs/how-usage-overview-graph-looks-like.md)
+  * [How to Test Proxies using BPProxy](faqs/how-to-test-proxies-using-bpproxy.md)
