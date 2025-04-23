@@ -19,3 +19,4 @@
 * [FAQs](faqs/README.md)
   * [How Usage Overview Graph looks like?](faqs/how-usage-overview-graph-looks-like.md)
   * [How to Test Proxies using BPProxy](faqs/how-to-test-proxies-using-bpproxy.md)
+  * [How to Unblock the Account](faqs/how-to-unblock-the-account.md)
