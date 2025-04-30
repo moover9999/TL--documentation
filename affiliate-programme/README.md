@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Affiliate Programme
 
 Welcome to the **Torch Labs Affiliate Program** – your chance to earn by partnering with one of the fastest-growing proxy and data infrastructure providers in the game.
