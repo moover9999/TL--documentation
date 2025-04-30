@@ -20,4 +20,6 @@
   * [How Usage Overview Graph looks like?](faqs/how-usage-overview-graph-looks-like.md)
   * [How to Test Proxies using BPProxy](faqs/how-to-test-proxies-using-bpproxy.md)
   * [How to Unblock the Account](faqs/how-to-unblock-the-account.md)
-* [Affiliate Programme](affiliate-programme.md)
+* [Affiliate Programme](affiliate-programme/README.md)
+  * [How to Join with Torch Labs Affiliate Programme?](affiliate-programme/how-to-join-with-torch-labs-affiliate-programme.md)
+  * [Affiliate Dashboard](affiliate-programme/affiliate-dashboard.md)
