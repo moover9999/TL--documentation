@@ -39,7 +39,7 @@
 * [⏳ View users current balance](residential-products/view-users-current-balance.md)
 * [💻 Updating user's data balance](residential-products/updating-users-data-balance.md)
 * [👆 Top up data manually](residential-products/top-up-data-manually.md)
-* [🏊‍♂️ Residential pools](residential-products/residential-pools.md)
+* [🏊‍♂️ Residential Pools](residential-products/residential-pools.md)
 * [ℹ️ Residential Provider Information](residential-products/residential-provider-information.md)
 
 ## Data Center & Accounts
