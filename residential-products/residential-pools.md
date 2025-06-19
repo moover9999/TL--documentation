@@ -32,6 +32,8 @@ Popmart SG - \[Singapore, China]
 
 Popmart MY - \[Malaysia, China]
 
+Popmart JP - \[Japan]
+
 Asia - \[Japan, China]
 
 Yeezysupply - \[US]
