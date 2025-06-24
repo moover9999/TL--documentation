@@ -17,9 +17,3 @@ description: >-
 | 500 Internal Server Error         | Server-side issue                       | May occur when site fails to handle requests properly                               |
 | 301/302 Redirects                 | Permanent or temporary redirect         | Can lead to access loops or misroutes if not handled properly with site             |
 
-\
-
-
-
-
-\
