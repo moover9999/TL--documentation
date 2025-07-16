@@ -203,3 +203,4 @@
   * [❔ Getting an auth error coming when accessing to user dashboard ?](errors-and-faq/dashboard/getting-an-auth-error-coming-when-accessing-to-user-dashboard.md)
 * [Other](errors-and-faq/other/README.md)
   * [What Is The Common Proxy Error List?](errors-and-faq/other/what-is-the-common-proxy-error-list.md)
+  * [How to Check Your Proxies Using IPinfo](errors-and-faq/other/how-to-check-your-proxies-using-ipinfo.md)
