@@ -33,6 +33,38 @@ Key - `amount`
 Value - `254` (Because this is a subnet)
 {% endhint %}
 
+### Step 2: Sync to Admin Dashboard
+
+1. Next, you must go to the products section and sync your new prices.
+
+<details>
+
+<summary><a href="https://docs.torchlabs.xyz/data-center-and-accounts/adding-data-center-products">✅Adding data center products</a></summary>
+
+
+
+</details>
+
+2. Go to the _Datacenter_ tab on the Admin Dashboard.
+
+<figure><img src="../../.gitbook/assets/1 (25).png" alt=""><figcaption></figcaption></figure>
+
+3. Click on the dropdown list before the new batch and select TL API
+
+{% hint style="info" %}
+You also need to request the TL API to be activated on the ticket before you can see it on the drop-down list.
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/2 (19).png" alt=""><figcaption></figcaption></figure>
+
+4. Select the country/region
+
+<figure><img src="../../.gitbook/assets/3 (17).png" alt=""><figcaption></figcaption></figure>
+
+5. Select the product
+
+<figure><img src="../../.gitbook/assets/4 (11).png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 **Quantity - 254**
 
@@ -43,3 +75,24 @@ Value - `254` (Because this is a subnet)
 * AU product: VOCU\_24
 {% endhint %}
 
+6. Select the Auth type
+
+{% hint style="info" %}
+You can specify the authentication type for the proxies. By default, it is set to “**user**”. You can also set it to “**socks**” for SOCKS proxies.
+
+user: HTTP proxies
+
+socks: Socks5 proxies
+
+Further reference: [https://incogniton.com/socks-vs-http-proxy/](https://incogniton.com/socks-vs-http-proxy/)&#x20;
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/5 (11).png" alt=""><figcaption></figcaption></figure>
+
+7. Now you can add a stock limit, tick confirm, and select launch.
+
+{% hint style="info" %}
+Please note that the expiration is hardcoded for 30 days by default and this cannot be changed. This means your customers will be able to use their proxies for 30 days.
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/6 (11).png" alt=""><figcaption></figcaption></figure>
