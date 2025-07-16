@@ -30,7 +30,7 @@ Plase remember the below when adding the **metadata** field inside Stripe.
 
 Key - `amount`
 
-Value - `254` (Because this is a subnet)
+Value - `254`&#x20;
 {% endhint %}
 
 ### Step 2: Sync to Admin Dashboard
@@ -63,8 +63,6 @@ You also need to request the TL API to be activated on the ticket before you can
 
 5. Select the product
 
-<figure><img src="../../.gitbook/assets/4 (11).png" alt=""><figcaption></figcaption></figure>
-
 {% hint style="info" %}
 **Quantity - 254**
 
@@ -74,6 +72,8 @@ You also need to request the TL API to be activated on the ticket before you can
 * EU product: DTAG\_24 , VIRM\_24
 * AU product: VOCU\_24
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-07-16 165538.png" alt=""><figcaption></figcaption></figure>
 
 6. Select the Auth type
 
