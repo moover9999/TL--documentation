@@ -53,6 +53,7 @@
   * [⚓ Creating Tanmay's ISP API Batch](data-center-and-accounts/creating-a-batch/creating-tanmays-isp-api-batch.md)
   * [⚓ Creating Porter Proxies' ISP API Batch](data-center-and-accounts/creating-a-batch/creating-porter-proxies-isp-api-batch.md)
   * [⚓ Creating MPM ISP API Batch](data-center-and-accounts/creating-a-batch/creating-mpm-isp-api-batch.md)
+  * [⚓ Creating a Torch Labs ISP API Subnet Batch](data-center-and-accounts/creating-a-batch/creating-a-torch-labs-isp-api-subnet-batch.md)
 * [📤 Fulfill manual order](data-center-and-accounts/fulfill-manual-order.md)
 * [✏️ Editing a batch](data-center-and-accounts/editing-a-release.md)
 * [🛑 Stopping a batch](data-center-and-accounts/stopping-a-release.md)
