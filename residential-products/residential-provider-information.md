@@ -1,23 +1,38 @@
 ---
 description: >-
-  We currently support all major APIs in the market such as Oxylab, Private ,
-  Packetstream , Brightdata, IProyal & Smart proxies.
+  We currently support all major APIs in the market such as Oxylab, Plan X,
+  Packetstream, Smart Proxy, IPRoyal, Bright Data, Geonode & Netnut.
 ---
 
 # ℹ️ Residential Provider Information
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/For Discord.png" alt=""><figcaption></figcaption></figure>
 
-## **Oxylabs Residential Proxies**
+## **Oxylabs**&#x20;
 
 * Unlimited concurrent sessions.
 * Avg. 0.6s proxy speed.
-* Continuous proxy rotation for avg. 99.2% success rates.
+* Continuous proxy rotation for avg. 99.2% success rate.
 * Country, city, and state-level targeting with no extra cost.
 * 100M+ Residential Proxy pool.
 * Supports all major sites.&#x20;
 
-## **Smart Residential Proxies**
+## **Plan X**
+
+* A pool of 120M+ IPs to help you crawl freely.
+* 99% uptime with a mix of ISP, mobile proxies and real residential proxies.
+* 180+ countries.
+* Supports all major sites.
+
+## **Packetstream**&#x20;
+
+* 7+ Million Residential IPs.
+* 180+ countries.
+* 99% Uptime.
+* No Restrictions.
+* Supports all major sites.
+
+## **Smart Proxy**
 
 * 40M+ real device IPs.
 * 195+ locations.
@@ -27,43 +42,36 @@ description: >-
 * Advanced rotation.
 * Supports all major sites except for the following [blacklisted sites](https://smartproxy.com/questions/do-you-have-any-blocked-sites).
 
-## **Brightdata Residential Proxies**
+## **IPRoyal**
+
+* Auto-rotate every 1, 5, 10, 20, 30, or 60 minutes.
+* 32M+ ethically sourced unique IP addresses in 195 countries.
+* Target country, state, and city-level.
+* Rotating and sticky sessions.
+* \~99.7% success rate.
+* Unlimited concurrent sessions.
+* Supports all major sites.
+
+## **Bright Data**
 
 * Target any country, city, carrier & ASN.
 * 99.99% uptime - extremely stable.
-* 72+ million ethically-sourced IPs.
-* Supports all major sneaker sites. Here is a full [site list](https://supreme-conga-5d4.notion.site/Bright-data-Site-list-bc755d0dcd21468e95750c87de7c5b8a).
+* 72+ million ethically sourced IPs.
+* Supports all major sneaker sites.&#x20;
 
-## **IProyal Residential Proxies**
+## Geonode&#x20;
 
-* Auto-Rotate - every 1, 10, or 30 minutes.
-* 3 Million IPs.
-* Sticky proxy session.
-* Unlimited concurrent sessions.
-* 180+ countries.
-* Supports all major sites.
+* 160+ Country Targeting.&#x20;
+* Basic reporting + analytics.&#x20;
+* 99.9% success rate.&#x20;
+* Unlimited data.&#x20;
+* SOCKS5/HTTPS Support.&#x20;
+* Fast and easy authentication.&#x20;
+* Custom Rotation Time.
 
-## **Packetstream Residential Proxies**
+## Netnut&#x20;
 
-* 7+ Million Residential IPs.
-* 180+ countries.
-* 99% Uptime.
-* 0 Restrictions
-* Supports all major sites.
-
-## **Private Residential Proxies**
-
-* A pool of 8M+ IPs to help you crawl freely
-* 99% uptime with a mix of ISP, mobile proxies and real residential proxies.
-* 180+ countries.
-* Supports all major sites.
-
-## Geonode **Residential Proxies**
-
-* 160+ Country Targeting&#x20;
-* Basic reporting + analytics&#x20;
-* 99.9% success rate&#x20;
-* Unlimited data&#x20;
-* SOCKS5/HTTPS Support&#x20;
-* Fast and easy authentication&#x20;
-* Custom Rotation Time
+* Over 85M Residential IPs across 195 countries.
+* City/State Targeting.
+* Unlimited concurrency for infinite scalability.
+* Supports HTTP, HTTPS, SOCKS5 Protocols.
