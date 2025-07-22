@@ -34,6 +34,20 @@ Popmart MY - \[Malaysia, China]
 
 Popmart JP - \[Japan]
 
+Pokemon Center US - \[United States]
+
+Pokemon Center CA - \[Canada]
+
+Pokemon Center EU - \[UK, Germany, France - Keep in mind that the countries are different in each of our providers, so country codes change between them]
+
+Pokemon Center AU - \[Australia]
+
+Pokemon Center SG - \[Singapore, China]
+
+Pokemon Center MY - \[Malaysia, China]
+
+Pokemon Center JP - \[Japan]
+
 Asia - \[Japan, China]
 
 Yeezysupply - \[US]
