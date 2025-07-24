@@ -14,6 +14,10 @@ Creating a batch is the process of enabling stock so that your customers can pur
 [creating-a-torch-labs-isp-api-batch.md](creating-a-torch-labs-isp-api-batch.md)
 {% endcontent-ref %}
 
+{% content-ref url="creating-a-torch-labs-isp-api-subnet-batch.md" %}
+[creating-a-torch-labs-isp-api-subnet-batch.md](creating-a-torch-labs-isp-api-subnet-batch.md)
+{% endcontent-ref %}
+
 {% content-ref url="creating-tanmays-isp-api-batch.md" %}
 [creating-tanmays-isp-api-batch.md](creating-tanmays-isp-api-batch.md)
 {% endcontent-ref %}
@@ -25,3 +29,4 @@ Creating a batch is the process of enabling stock so that your customers can pur
 {% content-ref url="creating-mpm-isp-api-batch.md" %}
 [creating-mpm-isp-api-batch.md](creating-mpm-isp-api-batch.md)
 {% endcontent-ref %}
+
