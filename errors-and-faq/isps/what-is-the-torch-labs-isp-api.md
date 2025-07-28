@@ -25,37 +25,39 @@ Additionally, we also provide the API for this as well!&#x20;
 
 **Pay As You Go ISPs!**&#x20;
 
-Location: USA&#x20;
+***
 
-📡 ISP Provider: Mix of Sprint, Windstream, Comcast, ATT, Century Link and Verizon (Randomly allocated based on availability)
+:flag\_us: **Location**: USA&#x20;
 
-🪬 Available Products:
+📡 **ISP Provider**: Mix of Sprint, Windstream, Comcast, ATT, Century Link and Verizon (Randomly allocated based on availability)
+
+🪬 **Available Products**:
 
 1️⃣ VEVE - ISPs that work on VEVE&#x20;
 
-2️⃣ TICK - ISPs that work on T1cketmaster
+2️⃣ TICK - ISPs that work on Ticketmaster
 
-3️⃣ RETL - ISPs that work on N1ke and Retail Sites (Amazon, Target, Walmart, etc)&#x20;
+3️⃣ RETL - ISPs that work on Nike and Retail Sites (Amazon, Target, Walmart, etc.)&#x20;
 
 4️⃣ JUIC - ISPs that support all sites
 
 ***
 
-Location: Germany&#x20;
+:flag\_de: **Location**: Germany&#x20;
 
-📡 ISP Provider: DTAG (Deutsche Telekom)&#x20;
+📡 **ISP Provider**: DTAG (Deutsche Telekom)&#x20;
 
-🪬 Available Products:
+🪬 **Available Products**:
 
 1️⃣ DTAG - ISPs that support all sites
 
 ***
 
-Location: United Kingdom&#x20;
+:flag\_gb: **Location**: United Kingdom&#x20;
 
-📡 ISP Provider: Virgin Media or Colt&#x20;
+📡 **ISP Provider**: Virgin Media or Colt&#x20;
 
-🪬 Available Products:
+🪬 **Available Products**:
 
 1️⃣ VIRM - ISPs that support all sites
 
@@ -63,10 +65,10 @@ Location: United Kingdom&#x20;
 
 ***
 
-Location: Australia&#x20;
+:flag\_au: **Location**: Australia&#x20;
 
-📡 ISP Provider: Vocus&#x20;
+📡 **ISP Provider**: Vocus&#x20;
 
-🪬 Available Products:
+🪬 **Available Products**:
 
 1️⃣ VOCU - ISPs that support all sites
