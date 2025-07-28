@@ -29,7 +29,7 @@ Each ISP pool is assigned to a specific geographic region, ISP carrier and targe
 
 #### **Speed Benchmarks** <a href="#speed-benchmarks" id="speed-benchmarks"></a>
 
-* Average latency: 1**0–60 ms,** measured from the server’s respective location.
+* Average latency: **10–60 ms,** measured from the server’s respective location.
 
 #### **Protocols Supported**  <a href="#protocols-supported" id="protocols-supported"></a>
 
@@ -45,3 +45,4 @@ Each ISP pool is assigned to a specific geographic region, ISP carrier and targe
 #### **IP Allocation** <a href="#ip-allocation" id="ip-allocation"></a>
 
 * You receive access to **all available IPs in stock** at the time of order.
+
