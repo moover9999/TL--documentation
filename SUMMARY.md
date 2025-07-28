@@ -180,6 +180,7 @@
   * [❔ What is the Difference Between TL ISP API and Automatic/Manual Orders?](errors-and-faq/isps/what-is-the-difference-between-tl-isp-api-and-automatic-manual-orders.md)
   * [ISP Proxy Grace Period](errors-and-faq/isps/isp-proxy-grace-period.md)
   * [What is the Torch Labs ISP API V2](errors-and-faq/isps/what-is-the-torch-labs-isp-api-v2.md)
+  * [Why does TL ISP API V2 have a 28-day billing cycle, while the proxies have a 30-day validity period](errors-and-faq/isps/why-does-tl-isp-api-v2-have-a-28-day-billing-cycle-while-the-proxies-have-a-30-day-validity-period.md)
 * [Dashboard](errors-and-faq/dashboard/README.md)
   * [❔ Can the orders be deleted from the dashboard?](errors-and-faq/dashboard/can-the-orders-be-deleted-from-the-dashboard.md)
   * [❔ How does Torch Labs prevent overselling on the dashboard ?](errors-and-faq/dashboard/how-does-torch-labs-prevent-overselling-on-the-dashboard.md)
