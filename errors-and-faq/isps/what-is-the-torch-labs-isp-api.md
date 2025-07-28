@@ -72,3 +72,45 @@ Additionally, we also provide the API for this as well!&#x20;
 🪬 **Available Products**:
 
 1️⃣ VOCU - ISPs that support all sites
+
+***
+
+:flag\_nl: **Location:** Netherlands&#x20;
+
+📡 **ISP Provider:** Vodafone or DTAG&#x20;
+
+🪬 **Available Products:**
+
+1️⃣ VODA\_NL - ISPs that support all sites&#x20;
+
+2️⃣ DTAG\_NL - ISPs that support all sites
+
+***
+
+:flag\_hk: **Location**: Hong Kong
+
+📡 **ISP Provider**: TEL
+
+🪬 **Available Products**:
+
+1️⃣ TEL - ISPs that support all sites
+
+***
+
+:flag\_it: **Location**: Italy
+
+📡 **ISP Provider**: Sparkle&#x20;
+
+🪬 **Available Products**:
+
+1️⃣ SPARKLE - ISPs that support all sites
+
+***
+
+:flag\_fr: **Location**: France
+
+📡 **ISP Provider**: Orange
+
+🪬 **Available Products**:
+
+1️⃣ ORANGE - ISPs that support all sites
