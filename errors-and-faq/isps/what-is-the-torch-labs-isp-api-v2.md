@@ -25,6 +25,10 @@ Each ISP pool is assigned to a specific geographic region, ISP carrier and targe
 | SN\_US\_TICKETS    | Ashburn, USA       | AT\&T, Windstream, RCN, Wave, Spectrum/Charter, Frontier _(coming soon)_         | High-demand ticketing platforms (TM, AXS, SG)                  |
 | SN\_US\_RETAILPLUS | Ashburn, USA       | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum/Charter, Frontier _(coming soon)_ | Retail sites such as Pokemon Centre, Popmart, Target           |
 
+{% hint style="info" %}
+**Please note the following: any product name that starts with '**<mark style="color:red;">**ISP\_**</mark>**' refers to a single IP order, while those starting with '**<mark style="color:red;">**SN\_**</mark>**' refer to subnets containing 256 IPs.**
+{% endhint %}
+
 
 
 #### **Speed Benchmarks** <a href="#speed-benchmarks" id="speed-benchmarks"></a>
