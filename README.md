@@ -14,7 +14,7 @@ This guide will have answers to 99% of your questions!
 1. General Settings
 2. Product Settings
 3. Residential Products
-4. Datacenter and Account
+4. Datacenter, ISP and Account
 5. More Settings
 6. Onboarding Guide
 7. Proxy Masking
