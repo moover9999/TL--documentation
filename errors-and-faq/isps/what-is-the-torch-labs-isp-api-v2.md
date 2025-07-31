@@ -15,11 +15,14 @@ Each ISP pool is assigned to a specific geographic region, ISP carrier and targe
 | **Product Name**   | **Location**       | **ISPs/Carriers**                                                                | **Target Use Case**                                            |
 | ------------------ | ------------------ | -------------------------------------------------------------------------------- | -------------------------------------------------------------- |
 | ISP\_CA\_SNEAKERS  | Toronto, Canada    | Rogers                                                                           | Low-security sneaker and retail sites (excl. Tickets, Popmart) |
-| ISP\_DE\_SNEAKERS  | Frankfurt, Germany | Dtag                                                                             | Low-security sneaker and retail sites (excl. Tickets, Popmart) |
+| ISP\_DE\_SNEAKERS  | Frankfurt, Germany | DTAG                                                                             | Low-security sneaker and retail sites (excl. Tickets, Popmart) |
 | ISP\_UK\_SNEAKERS  | London, UK         | Virgin Media, British Telecom, Dtag, Orange _(moving to just BT and Virgin)_     | Low-security sneaker and retail sites (excl. Tickets, Popmart) |
 | ISP\_US\_SNEAKERS  | Ashburn, USA       | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum/Charter, Frontier _(coming soon)_ | Low-security sneaker and retail sites (excl. Tickets, Popmart) |
 | SN\_US\_SNEAKERS   | Ashburn, USA       | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum/Charter, Frontier _(coming soon)_ | Low-security sneaker and retail sites (excl. Tickets, Popmart) |
 | ISP\_US\_TICKETS   | Ashburn, USA       | AT\&T, Windstream, RCN, Wave, Spectrum/Charter, Frontier _(coming soon)_         | High-demand ticketing platforms (TM, AXS, SG)                  |
+| ISP\_DE\_TICKETS   | Frankfurt, Germany | DTAG                                                                             | High-demand ticketing platforms (TM, AXS, SG)                  |
+| ISP\_CA\_TICKETS   | Toronto, Canada    | Rogers                                                                           | High-demand ticketing platforms (TM, AXS, SG)                  |
+| ISP\_UK\_TICKETS   | London, UK         | British Telecom                                                                  | High-demand ticketing platforms (TM, AXS, SG)                  |
 | SN\_NY\_TICKETS    | New York, USA      | AT\&T, Windstream, RCN, Wave, Spectrum/Charter, Frontier _(coming soon)_         | High-demand ticketing platforms (TM, AXS, SG)                  |
 | SN\_UK\_TICKETS    | London, UK         | Virgin Media, British Telecom, Dtag, Orange _(moving to just BT and Virgin)_     | High-demand ticketing platforms (TM, AXS, SG)                  |
 | SN\_US\_TICKETS    | Ashburn, USA       | AT\&T, Windstream, RCN, Wave, Spectrum/Charter, Frontier _(coming soon)_         | High-demand ticketing platforms (TM, AXS, SG)                  |
