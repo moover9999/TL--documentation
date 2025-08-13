@@ -30,7 +30,7 @@ Following are the other settings and click on the link to be directed to the rel
 
 * Whitelist the User's IPs
 
-{% content-ref url="whitelist-your-ips.md" %}
-[whitelist-your-ips.md](whitelist-your-ips.md)
+{% content-ref url="whitelist-your-ips/" %}
+[whitelist-your-ips](whitelist-your-ips/)
 {% endcontent-ref %}
 

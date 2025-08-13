@@ -1,4 +1,4 @@
-# ♣ Sub Admin Users
+# ♣️ Sub Admin Users
 
 {% hint style="info" %}
 This section will guide you to create sub-admin users by assigning different role permissions. Therefore, this function would allow delegating authority in administrating the dashboard. Furthermore, this will provide restricted access to the sub-users as you have the ability to define the roles. Also, multiple roles could be assigned to an individual role.
@@ -12,7 +12,7 @@ Please be noted that you have to share newly created credentials with new sub-us
 
 1. Go to Admin Dashboard, click on the Sub Admin Users tab, and then click on Create Role
 
-<figure><img src="../../.gitbook/assets/1 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 2\. Enter a role name and a description, Then select the permission field.
 

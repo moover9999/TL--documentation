@@ -28,7 +28,7 @@ Or else you can keep this space empty to have your current logo with the default
 
 _The logo will appear as follows (i.e. Google)_
 
-<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (3).png" alt=""><figcaption></figcaption></figure>
 
 
 
