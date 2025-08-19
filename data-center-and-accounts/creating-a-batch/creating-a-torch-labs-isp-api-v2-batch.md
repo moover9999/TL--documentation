@@ -13,13 +13,30 @@ Please ensure that the price you set includes a custom recurring period of 28 da
 {% hint style="warning" %}
 Depending on the product you can add any **Quantity between 1 to 200.**
 
-* Sneaker Pools: ISP\_US\_SNEAKERS, SN\_US\_SNEAKERS, ISP\_CA\_SNEAKERS, ISP\_DE\_SNEAKERS, ISP\_UK\_SNEAKERS
-* Ticket Pools: ISP\_US\_TICKETS, SN\_US\_TICKETS, SN\_NY\_TICKETS, SN\_UK\_TICKETS
-* Retail+ Pool: SN\_US\_RETAILPLUS
+* Sneaker Pools: ISP\_US\_SNEAKERS, ISP\_CA\_SNEAKERS, ISP\_DE\_SNEAKERS, ISP\_UK\_SNEAKERS
+* Ticket Pools: ISP\_US\_TICKETS, ISP\_CA\_TICKETS, ISP\_DE\_TICKETS, ISP\_UK\_TICKETS
 {% endhint %}
 
 {% hint style="warning" %}
 Please remember this when adding the `amount` metadata field inside the Stripe price. [product-metadata.md](../../product-settings/product-metadata.md "mention")
+{% endhint %}
+
+{% hint style="info" %}
+For subnet plans plase remember the below when adding the **metadata** field inside Stripe.\
+
+
+Key - `amount`
+
+Value - `256`
+
+
+
+Available subnet plans:\
+
+
+* Sneaker Pools: SN\_US\_SNEAKERS
+* Ticket Pools: SN\_US\_TICKETS, SN\_NY\_TICKETS, SN\_UK\_TICKETS
+* Retail+ Pool: SN\_US\_RETAILPLUS
 {% endhint %}
 
 
@@ -51,6 +68,12 @@ Just a quick reminder: You'll need to request TL API V2 activation through the s
 Next, select the product.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2025-07-24 150055.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+**ISP\_** is 1 IP
+
+**SN\_** is a subnet that has 256 IPs
+{% endhint %}
 
 
 
