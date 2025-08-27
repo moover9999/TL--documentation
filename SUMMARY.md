@@ -26,3 +26,4 @@
   * [How to Join with Torch Labs Affiliate Programme?](affiliate-programme/how-to-join-with-torch-labs-affiliate-programme.md)
   * [Affiliate Dashboard](affiliate-programme/affiliate-dashboard.md)
   * [Test Page 1221232](affiliate-programme/test-page-1221232.md)
+* [test 2](test-2.md)
