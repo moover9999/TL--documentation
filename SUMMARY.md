@@ -31,3 +31,4 @@
   * [Why are my proxies not working or failing to connect?](faqs/why-are-my-proxies-not-working-or-failing-to-connect.md)
   * [Why is my proxy speed slow or inconsistent?](faqs/why-is-my-proxy-speed-slow-or-inconsistent.md)
   * [What is the difference between residential, isp, datacenter and mobile proxies?](faqs/what-is-the-difference-between-residential-isp-datacenter-and-mobile-proxies.md)
+  * [I was charged even after I cancelled the subsciption. How can I get a refund?](faqs/i-was-charged-even-after-i-cancelled-the-subsciption.-how-can-i-get-a-refund.md)
