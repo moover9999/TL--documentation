@@ -30,3 +30,4 @@
   * [What is the difference between username/password authentication and IP whitelist authentication?](faqs/what-is-the-difference-between-username-password-authentication-and-ip-whitelist-authentication.md)
   * [Why are my proxies not working or failing to connect?](faqs/why-are-my-proxies-not-working-or-failing-to-connect.md)
   * [Why is my proxy speed slow or inconsistent?](faqs/why-is-my-proxy-speed-slow-or-inconsistent.md)
+  * [What is the difference between residential, isp, datacenter and mobile proxies?](faqs/what-is-the-difference-between-residential-isp-datacenter-and-mobile-proxies.md)
