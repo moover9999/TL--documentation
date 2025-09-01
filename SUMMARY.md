@@ -32,3 +32,4 @@
   * [Why is my proxy speed slow or inconsistent?](faqs/why-is-my-proxy-speed-slow-or-inconsistent.md)
   * [What is the difference between residential, isp, datacenter and mobile proxies?](faqs/what-is-the-difference-between-residential-isp-datacenter-and-mobile-proxies.md)
   * [I was charged even after I cancelled the subsciption. How can I get a refund?](faqs/i-was-charged-even-after-i-cancelled-the-subsciption.-how-can-i-get-a-refund.md)
+  * [What happens if my proxy expires? Can I recover it?](faqs/what-happens-if-my-proxy-expires-can-i-recover-it.md)
