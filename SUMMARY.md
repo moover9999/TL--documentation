@@ -27,3 +27,4 @@
   * [How to Unblock your Account](faqs/how-to-unblock-your-account.md)
   * [What Is The Common Proxy Error List?](faqs/what-is-the-common-proxy-error-list.md)
   * [How to Check Your Proxies Using IPinfo](faqs/how-to-check-your-proxies-using-ipinfo.md)
+* [Test](test.md)
