@@ -28,3 +28,5 @@
   * [What Is The Common Proxy Error List?](faqs/what-is-the-common-proxy-error-list.md)
   * [How to Check Your Proxies Using IPinfo](faqs/how-to-check-your-proxies-using-ipinfo.md)
   * [What is the difference between username/password authentication and IP whitelist authentication?](faqs/what-is-the-difference-between-username-password-authentication-and-ip-whitelist-authentication.md)
+  * [Why are my proxies not working or failing to connect?](faqs/why-are-my-proxies-not-working-or-failing-to-connect.md)
+  * [Why is my proxy speed slow or inconsistent?](faqs/why-is-my-proxy-speed-slow-or-inconsistent.md)
