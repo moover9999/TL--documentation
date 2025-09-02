@@ -7,7 +7,6 @@
   * [Subscribe to Residential plan](purchase/subscribe-to-residential-plan.md)
   * [Subscribe to ISPs](purchase/subscribe-to-isps.md)
   * [Whitelist your IPs](purchase/whitelist-your-ips.md)
-  * [Remove your whitelisted IPs](purchase/remove-your-whitelisted-ips.md)
 * [Sub-Users](sub-users/README.md)
   * [Create Sub-users](sub-users/create-sub-users.md)
   * [View existing sub-users](sub-users/view-existing-sub-users.md)
@@ -33,5 +32,4 @@
   * [Why are my proxies not working or failing to connect?](faqs/why-are-my-proxies-not-working-or-failing-to-connect.md)
   * [Why is my proxy speed slow or inconsistent?](faqs/why-is-my-proxy-speed-slow-or-inconsistent.md)
   * [What is the difference between residential, isp, datacenter and mobile proxies?](faqs/what-is-the-difference-between-residential-isp-datacenter-and-mobile-proxies.md)
-  * [I was charged even after I cancelled the subsciption. How can I get a refund?](faqs/i-was-charged-even-after-i-cancelled-the-subsciption.-how-can-i-get-a-refund.md)
   * [What happens if my proxy expires? Can I recover it?](faqs/what-happens-if-my-proxy-expires-can-i-recover-it.md)
