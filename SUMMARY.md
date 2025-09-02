@@ -21,6 +21,8 @@
 * [Affiliate Programme](affiliate-programme/README.md)
   * [How to Join with Torch Labs Affiliate Programme?](affiliate-programme/how-to-join-with-torch-labs-affiliate-programme.md)
   * [Affiliate Dashboard](affiliate-programme/affiliate-dashboard.md)
+* [Residential Proxies](residential-proxies/README.md)
+  * [Residential Product Overview](residential-proxies/residential-product-overview.md)
 * [FAQs](faqs/README.md)
   * [How Usage Overview Graph looks like?](faqs/how-usage-overview-graph-looks-like.md)
   * [How to Test Proxies using BPProxy](faqs/how-to-test-proxies-using-bpproxy.md)
