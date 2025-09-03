@@ -33,3 +33,5 @@
   * [Why is my proxy speed slow or inconsistent?](faqs/why-is-my-proxy-speed-slow-or-inconsistent.md)
   * [What is the difference between residential, isp, datacenter and mobile proxies?](faqs/what-is-the-difference-between-residential-isp-datacenter-and-mobile-proxies.md)
   * [What happens if my proxy expires? Can I recover it?](faqs/what-happens-if-my-proxy-expires-can-i-recover-it.md)
+  * [Can I get a trial proxy or a free trial before purchasing?](faqs/can-i-get-a-trial-proxy-or-a-free-trial-before-purchasing.md)
+  * [Do your proxies work with UDP connections?](faqs/do-your-proxies-work-with-udp-connections.md)
