@@ -15,6 +15,6 @@ Proxy speed can vary due to several factors that influence performance:
 6. **Local Network Issues**
    * Slow or unstable internet from your ISP, firewall restrictions, or VPN interference can also contribute to inconsistent speeds.
 
-***
-
+{% hint style="info" %}
 ✅ **Tip:** For the most stable and faster results, choose proxy servers closer to your target location, avoid overloading a single connection and ensure your own internet connection is stable.
+{% endhint %}
