@@ -4,4 +4,6 @@ Once a proxy or plan expires, access to the IPs is automatically revoked and the
 
 To avoid losing access, it’s recommended to **renew your subscription before the expiration date**. If your plan has already expired, you’ll need to purchase a new one to continue usage, but the same IPs may not be available.
 
-✅ **Tip:** We recommend renewing 24-48 hours before the expiry date.
+{% hint style="info" %}
+✅ **Tip:** We recommend renewing 24-48 hours before the expiry date to avoid losing the IPs.
+{% endhint %}
