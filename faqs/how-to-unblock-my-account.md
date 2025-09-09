@@ -1,6 +1,6 @@
-# How to Unblock the Account
+# How to Unblock My Account
 
-### Why the Account getting Block?
+### Why is the Account getting Block?
 
 This account blocking occurs when you are trying to click login button multiple times rapidly or try to login with incorrect credentials.
 
