@@ -7,6 +7,7 @@
   * [Subscribe to Residential plan](purchase/subscribe-to-residential-plan.md)
   * [Subscribe to ISPs](purchase/subscribe-to-isps.md)
   * [Whitelist your IPs](purchase/whitelist-your-ips.md)
+  * [Remove your Whitelisted IPs](purchase/remove-your-whitelisted-ips.md)
 * [Sub-Users](sub-users/README.md)
   * [Create Sub-users](sub-users/create-sub-users.md)
   * [View existing sub-users](sub-users/view-existing-sub-users.md)
