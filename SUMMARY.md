@@ -29,6 +29,7 @@
   * [How to Check Your Proxies Using IPinfo](faqs/how-to-check-your-proxies-using-ipinfo.md)
   * [How to Unblock My Account](faqs/how-to-unblock-my-account.md)
   * [How do I cancel my proxy subscription?](faqs/how-do-i-cancel-my-proxy-subscription.md)
+  * [How can I get a refund if I don’t like the proxies or they don’t work for my use case?](faqs/how-can-i-get-a-refund-if-i-dont-like-the-proxies-or-they-dont-work-for-my-use-case.md)
   * [What Is The Common Proxy Error List?](faqs/what-is-the-common-proxy-error-list.md)
   * [What is the difference between username/password authentication and IP whitelist authentication?](faqs/what-is-the-difference-between-username-password-authentication-and-ip-whitelist-authentication.md)
   * [What happens if my proxy expires? Can I recover it?](faqs/what-happens-if-my-proxy-expires-can-i-recover-it.md)
