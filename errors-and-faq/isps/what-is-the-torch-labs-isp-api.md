@@ -7,15 +7,15 @@ You can also provide multiple countries within seconds! We have plenty of stock 
 All plans come with the following features:
 
 * No minimum quantity
-* 30 Day Expiration
+* 30-Day Expiration
 * Customers can subscribe to keep the same proxies
 * Already integrated into the Torch Labs Dashboard
 * No contracts/no long-term commitments
-* Billed end of each month
-* Hosted on 100GBPS lines
+* Billed at the end of each month
+* Hosted on 100 Gbps lines
 * Dedicated bare-metal servers
 * Each proxy is private and never resold
-* From the best provider in the market that 99% of sneaker proxy companies buy. However, we have cut out the middle man so now you can get it without a contract or paying huge fees!
+* From the best provider in the market that 99% of sneaker proxy companies buy from. However, we have cut out the middleman, so now you can get it without a contract or paying huge fees!
 
 To set up this product on your dashboard, please let us know in your ticket.
 
