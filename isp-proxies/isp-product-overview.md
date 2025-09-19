@@ -30,7 +30,7 @@
 
 1️⃣ Premium Germany Deutsche Telekom
 
-2️⃣ Premium Germany Subnet (Deutsche Telekom)
+2️⃣ Premium Germany **Subnet** (Deutsche Telekom)
 
 ***
 
@@ -40,9 +40,11 @@
 
 🪬 **Available Products**:
 
-1️⃣ VIRM - ISPs that support all sites
+1️⃣ Premium UK Virgin Media
 
-2️⃣ COLT - ISPs that support all sites
+2️⃣ Premium UK Colt
+
+3️⃣ Premium UK **Subnet** (Virgin Media)
 
 ***
 
@@ -52,7 +54,9 @@
 
 🪬 **Available Products**:
 
-1️⃣ VOCU - ISPs that support all sites
+1️⃣ Premium Australia Vocus
+
+2️⃣ Premium Australia Vocus **Subnet**
 
 ***
 
@@ -62,9 +66,9 @@
 
 🪬 **Available Products:**
 
-1️⃣ VODA\_NL - ISPs that support all sites&#x20;
+1️⃣ Premium Netherlands Vodafone
 
-2️⃣ DTAG\_NL - ISPs that support all sites
+2️⃣ Premium Netherlands Deutsche Telekom&#x20;
 
 ***
 
@@ -74,7 +78,7 @@
 
 🪬 **Available Products**:
 
-1️⃣ TEL - ISPs that support all sites
+1️⃣ Premium Hong Kong
 
 ***
 
@@ -84,7 +88,7 @@
 
 🪬 **Available Products**:
 
-1️⃣ SPARKLE - ISPs that support all sites
+1️⃣ Premium Italy Sparkle
 
 ***
 
@@ -94,4 +98,4 @@
 
 🪬 **Available Products**:
 
-1️⃣ ORANGE - ISPs that support all sites
+1️⃣ Premium France Orange&#x20;
