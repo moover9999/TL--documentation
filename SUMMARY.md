@@ -23,6 +23,7 @@
   * [Affiliate Dashboard](affiliate-programme/affiliate-dashboard.md)
 * [Residential Proxies](residential-proxies/README.md)
   * [Residential Product Overview](residential-proxies/residential-product-overview.md)
+* [ISP Proxies](isp-proxies.md)
 * [FAQs](faqs/README.md)
   * [How Usage Overview Graph looks like?](faqs/how-usage-overview-graph-looks-like.md)
   * [How to Test Your Proxies using BPProxy](faqs/how-to-test-your-proxies-using-bpproxy.md)
