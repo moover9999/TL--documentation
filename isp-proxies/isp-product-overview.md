@@ -1,7 +1,5 @@
 # ISP Product Overview
 
-**Pay As You Go ISPs!**&#x20;
-
 ***
 
 :flag\_us: **Location**: USA&#x20;
