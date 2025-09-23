@@ -1,32 +1,42 @@
 # Support Channels
 
-If you have anything to clarify or required further assistance, you can contact us using our supporting channels.
+If you need any clarification or further assistance, you can contact us through our support channels.
 
-1. Click on the **Supprot**
+
+
+1. Click on the **Support**
 
 <figure><img src=".gitbook/assets/CleanShot 2024-12-07 at 9 .05.41.jpg" alt=""><figcaption></figcaption></figure>
 
-Navigate your preferred contact method.
+Navigate to your preferred contact method.
+
+
 
 * **Support Center**
 
-Just click on the **Chat** icon available in the bottom-right corner to start chat with us.
+Just click on the **Chat** icon available in the bottom-right corner to start a chat with us.
 
 <figure><img src=".gitbook/assets/CleanShot 2024-12-07 at 9 .07.53.jpg" alt=""><figcaption></figcaption></figure>
 
-* **Discord**
 
-You can open a ticket on our Discord Channel to clarify your queries. For that, you can go to our Discord Server using the **Join Discord** Button.
+
+* **Discord (**[**https://discord.gg/JSxDs3fDgV**](https://discord.gg/JSxDs3fDgV)**)**
+
+You can open a ticket on our Discord server to have your queries clarified. To do this, click the '**Join Discord**' button to access our server.
 
 <figure><img src=".gitbook/assets/CleanShot 2024-12-07 at 9 .09.45.jpg" alt=""><figcaption></figcaption></figure>
 
-* **Email**
 
-You can contact us via email too. Just click on **Email Us** button to send an email using your email client installed in the device.
+
+* **Email (hello@torchlabs.xyz)**
+
+You can also contact us via email. Simply click the '**Email Us**' button to send a message using the email client installed on your device.
 
 <figure><img src=".gitbook/assets/CleanShot 2024-12-07 at 9 .11.09.jpg" alt=""><figcaption></figcaption></figure>
 
-2. Also, you can resolve your queries by using our Resources section. It provide detailed guides to setup the Dashboard.
+
+
+2. You can also resolve your queries by using our **Resources** section, which provides detailed guides for setting up the Dashboard.
 
 <figure><img src=".gitbook/assets/CleanShot 2024-12-07 at 9 .11.47.jpg" alt=""><figcaption></figcaption></figure>
 
