@@ -20,6 +20,8 @@
 * [Support Channels](support-channels.md)
 * [Residential Proxies](residential-proxies/README.md)
   * [Residential Product Overview](residential-proxies/residential-product-overview.md)
+  * [What's the difference between the Basic and Premium Residential plans?](residential-proxies/whats-the-difference-between-the-basic-and-premium-residential-plans.md)
+  * [How long can sticky sessions last on residential proxy plans?](residential-proxies/how-long-can-sticky-sessions-last-on-residential-proxy-plans.md)
 * [ISP Proxies](isp-proxies/README.md)
   * [ISP Product Overview](isp-proxies/isp-product-overview.md)
 * [Affiliate Programme](affiliate-programme/README.md)
