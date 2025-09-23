@@ -39,6 +39,7 @@
   * [What’s the difference between a subscription plan and a pay-as-you-go plan?](faqs/whats-the-difference-between-a-subscription-plan-and-a-pay-as-you-go-plan.md)
   * [Why are my proxies not working or failing to connect?](faqs/why-are-my-proxies-not-working-or-failing-to-connect.md)
   * [Why is my proxy speed slow or inconsistent?](faqs/why-is-my-proxy-speed-slow-or-inconsistent.md)
+  * [Why do my proxies look the same format after purchasing XX GB?](faqs/why-do-my-proxies-look-the-same-format-after-purchasing-xx-gb.md)
   * [Can I get a trial proxy or a free trial before purchasing?](faqs/can-i-get-a-trial-proxy-or-a-free-trial-before-purchasing.md)
   * [Do your proxies work with UDP connections?](faqs/do-your-proxies-work-with-udp-connections.md)
   * [Do you offer discounts on proxy plans?](faqs/do-you-offer-discounts-on-proxy-plans.md)
