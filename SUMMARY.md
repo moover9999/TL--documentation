@@ -36,6 +36,7 @@
   * [What is the difference between username/password authentication and IP whitelist authentication?](faqs/what-is-the-difference-between-username-password-authentication-and-ip-whitelist-authentication.md)
   * [What happens if my proxy expires? Can I recover it?](faqs/what-happens-if-my-proxy-expires-can-i-recover-it.md)
   * [What is the difference between residential, isp, datacenter and mobile proxies?](faqs/what-is-the-difference-between-residential-isp-datacenter-and-mobile-proxies.md)
+  * [What’s the difference between a subscription plan and a pay-as-you-go plan?](faqs/whats-the-difference-between-a-subscription-plan-and-a-pay-as-you-go-plan.md)
   * [Why are my proxies not working or failing to connect?](faqs/why-are-my-proxies-not-working-or-failing-to-connect.md)
   * [Why is my proxy speed slow or inconsistent?](faqs/why-is-my-proxy-speed-slow-or-inconsistent.md)
   * [Can I get a trial proxy or a free trial before purchasing?](faqs/can-i-get-a-trial-proxy-or-a-free-trial-before-purchasing.md)
