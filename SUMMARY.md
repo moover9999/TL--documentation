@@ -24,6 +24,7 @@
   * [How long can sticky sessions last on residential proxy plans?](residential-proxies/how-long-can-sticky-sessions-last-on-residential-proxy-plans.md)
 * [ISP Proxies](isp-proxies/README.md)
   * [ISP Product Overview](isp-proxies/isp-product-overview.md)
+  * [Why did the minimum IP allocation change from 1 IP to 5 IPs?](isp-proxies/why-did-the-minimum-ip-allocation-change-from-1-ip-to-5-ips.md)
 * [Affiliate Programme](affiliate-programme/README.md)
   * [How to Join with Torch Labs Affiliate Programme?](affiliate-programme/how-to-join-with-torch-labs-affiliate-programme.md)
   * [Affiliate Dashboard](affiliate-programme/affiliate-dashboard.md)
