@@ -88,7 +88,7 @@ Just a quick reminder: You'll also need to request the **TL API V2** to be activ
 
 <figure><img src="../../.gitbook/assets/3 (18).png" alt=""><figcaption></figcaption></figure>
 
-6. Now you can add a stock limit, tick confirm, and select launch.
+6. Now you can add a stock limit, tick confirm and select launch.
 
 {% hint style="info" %}
 Please note that the expiration is hardcoded for 30 days by default and this cannot be changed. This means your customers will be able to use their proxies for 30 days.
@@ -96,4 +96,18 @@ Please note that the expiration is hardcoded for 30 days by default and this can
 
 <figure><img src="../../.gitbook/assets/4 (12).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/6 (11).png" alt=""><figcaption></figcaption></figure>
+{% hint style="info" %}
+Click on **Enable Stock** _Limit_ to set the available stock quantity.
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/5 (12).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+When setting the stock limit, please enter values in multiples of 256 (e.g., 256, 512, 768, 1024, and so on).
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/6 (12).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Finally, check the '**Confirm**' box and click the **Launch** button.
+{% endhint %}
