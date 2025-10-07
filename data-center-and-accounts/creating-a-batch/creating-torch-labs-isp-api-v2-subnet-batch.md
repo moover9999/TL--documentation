@@ -54,7 +54,7 @@ Available subnet plans:
 
 </details>
 
-2. Go to the _Datacenter_ tab on the Admin Dashboard.
+2. Go to the **Datacenter** tab on the Admin Dashboard.
 
 <figure><img src="../../.gitbook/assets/1 (25).png" alt=""><figcaption></figcaption></figure>
 
@@ -97,13 +97,17 @@ Please note that the expiration is hardcoded for 30 days by default and this can
 <figure><img src="../../.gitbook/assets/4 (12).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Click on **Enable Stock** _Limit_ to set the available stock quantity.
+Click on **Enable Stock** **Limit** to set the available stock quantity.
+{% endhint %}
+
+{% hint style="info" %}
+You may also leave the stock limit D**isabled** and continue with the process.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/5 (12).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-When setting the stock limit, please enter values in multiples of 256 (e.g., 256, 512, 768, 1024, and so on).
+When setting the stock limit, please enter values in multiples of **256** (e.g., 256, 512, 768, 1024, and so on).
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/6 (12).png" alt=""><figcaption></figcaption></figure>
