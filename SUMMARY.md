@@ -15,7 +15,7 @@
   * [Update data for existing sub-users](sub-users/update-data-for-existing-sub-users.md)
 * [Billing](billing/README.md)
   * [Billing Analytics](billing/billing-analytics.md)
-  * [Data Allocation](billing/data-allocation.md)
+  * [Credit Allocation](billing/credit-allocation.md)
   * [Manage Subscription](billing/manage-subscription.md)
 * [API Access](api-access.md)
 * [Support Channels](support-channels.md)
