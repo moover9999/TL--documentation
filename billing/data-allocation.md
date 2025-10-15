@@ -1,4 +1,4 @@
-# Data Allocation
+# Credit Allocation
 
 1. Navigate to **Purchase -> Residential Proxies -> Billing and History**
 
