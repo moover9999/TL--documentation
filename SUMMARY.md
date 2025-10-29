@@ -50,5 +50,6 @@
   * [Can I get a trial proxy or a free trial before purchasing?](faqs/can-i-get-a-trial-proxy-or-a-free-trial-before-purchasing.md)
   * [Can I get 0 fraud score and fresh IPs](faqs/can-i-get-0-fraud-score-and-fresh-ips.md)
   * [Can I pay for proxies with cryptocurrency?](faqs/can-i-pay-for-proxies-with-cryptocurrency.md)
+  * [Can I get the discount code available for Residential and ISP Proxies?](faqs/can-i-get-the-discount-code-available-for-residential-and-isp-proxies.md)
   * [Do your proxies work with UDP connections?](faqs/do-your-proxies-work-with-udp-connections.md)
   * [Do you offer discounts on proxy plans?](faqs/do-you-offer-discounts-on-proxy-plans.md)
