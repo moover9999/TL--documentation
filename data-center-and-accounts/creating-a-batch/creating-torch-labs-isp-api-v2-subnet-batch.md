@@ -38,8 +38,8 @@ Value - `256`&#x20;
 Available subnet plans:
 
 * Sneaker Pools: **SN\_US\_SNEAKERS**
-* Ticket Pools: **SN\_US\_TICKETS**, **SN\_NY\_TICKETS**, **SN\_UK\_TICKETS**
-* Retail+ Pool: **SN\_US\_RETAILPLUS**
+* Ticket Pools: **SN\_NY\_TICKETS**, **SN\_LA\_TICKETS**, **SN\_UK\_TICKETS, SN\_CA\_TICKETS, SN\_US\_TICKETS**
+* Retail+ Pool: **SN\_US\_RETAILPLUS, SN\_UK\_RETAILPLUS**
 {% endhint %}
 
 ### Step 2: Sync to Admin Dashboard
@@ -72,8 +72,8 @@ Just a quick reminder: You'll also need to request the **TL API V2** to be activ
 **Quantity - 256** (Subnets)
 
 * Sneaker Pools: **SN\_US\_SNEAKERS**
-* Ticket Pools: **SN\_US\_TICKETS**, **SN\_NY\_TICKETS**, **SN\_UK\_TICKETS**
-* Retail+ Pool: **SN\_US\_RETAILPLUS**
+* Ticket Pools: **SN\_NY\_TICKETS**, **SN\_LA\_TICKETS**, **SN\_UK\_TICKETS, SN\_CA\_TICKETS, SN\_US\_TICKETS**
+* Retail+ Pool: **SN\_US\_RETAILPLUS, SN\_UK\_RETAILPLUS**
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/2 (20).png" alt=""><figcaption></figcaption></figure>
