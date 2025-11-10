@@ -2,21 +2,7 @@
 
 ***
 
-:flag\_us: **Location**: USA&#x20;
 
-📡 **ISP Provider**: Mix of Sprint, Windstream, Comcast, ATT, Century Link and Verizon (**Randomly allocated based on availability**)
-
-🪬 **Available Products**:
-
-1️⃣ Premium USA East Coast
-
-2️⃣ Elite USA Ticket Proxies (East Coast)
-
-3️⃣ Premium USA West Coast
-
-4️⃣ Elite USA Ticket Proxies **Subnet** (East Coast)
-
-5️⃣ Premium USA East Coast **Subnet**&#x20;
 
 ***
 
