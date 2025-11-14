@@ -1,8 +1,6 @@
 # 📎 Product metadata
 
 {% hint style="warning" %}
-
-
 Please ensure you copy and paste the metadata tags exactly as shown in our guides to avoid any mistakes.
 {% endhint %}
 
@@ -16,18 +14,17 @@ The _**amount**_ metadata/parameter in the data center and accounts tab is what 
 [onboarding-a-residential-product.md](../onboarding-guide/onboarding-a-residential-product.md)
 {% endcontent-ref %}
 
-| API           | First metadata field | Second metadata field | Quantity metadata |
-| ------------- | -------------------- | --------------------- | ----------------- |
-| Oxylabs       | torchlabs\_product   | torchlabs\_elite      | data\_gb          |
-| Private       | torchlabs\_product   | torchlabs\_premium    | data\_gb          |
-| Packet Stream | torchlabs\_product   | torchlabs\_basic      | data\_gb          |
-| Smart Proxies | torchlabs\_product   | torchlabs\_smart      | data\_gb          |
-| IP Royal      | torchlabs\_product   | torchlabs\_iproyal    | data\_gb          |
-| Brightdata    | torchlabs\_product   | torchlabs\_brightdata | data\_gb          |
-| Geonode       | torchlabs\_product   | torchlabs\_geonode    | data\_gb          |
-| X Residential | torchlabs\_product   | torchlabs\_planx      | data\_gb          |
-| Netnut        | torchlabs\_product   | torchlabs\_netnut     | data\_gb          |
-| More soon..   |                      |                       |                   |
+| API                          | First metadata field | Second metadata field | Quantity metadata |
+| ---------------------------- | -------------------- | --------------------- | ----------------- |
+| Oxylabs                      | torchlabs\_product   | torchlabs\_elite      | data\_gb          |
+| Smart Proxies                | torchlabs\_product   | torchlabs\_smart      | data\_gb          |
+| Bright Data                  | torchlabs\_product   | torchlabs\_brightdata | data\_gb          |
+| IPRoyal                      | torchlabs\_product   | torchlabs\_iproyal    | data\_gb          |
+| Plan X (Private Hybrid Pool) | torchlabs\_product   | torchlabs\_planx      | data\_gb          |
+| Packet Stream                | torchlabs\_product   | torchlabs\_basic      | data\_gb          |
+| Geonode                      | torchlabs\_product   | torchlabs\_geonode    | data\_gb          |
+| Netnut                       | torchlabs\_product   | torchlabs\_netnut     | data\_gb          |
+| More soon..                  |                      |                       |                   |
 
 **Example:**
 
