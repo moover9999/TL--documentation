@@ -21,7 +21,7 @@ Each ISP pool is assigned to a specific geographic region, ISP carrier and targe
 | SN\_US\_SNEAKERS (**Subnets**)                        | Ashburn, USA       | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum/Charter, Frontier  | Low-security sneaker and retail sites (excl. Tickets, Popmart)                       |
 | ISP\_CA\_TICKETS                                      | Toronto, Canada    | Rogers                                                            | High-demand ticketing platforms (TM, AXS, SG)                                        |
 | ISP\_DE\_TICKETS                                      | Frankfurt, Germany | DTAG                                                              | High-demand ticketing platforms (TM, AXS, SG)                                        |
-| ISP\_UK\_TICKETS                                      | London, UK         | British Telecom                                                   | High-demand ticketing platforms (TM, AXS, SG)                                        |
+| ISP\_UK\_TICKETS                                      | London, UK         | Virgin Media, British Telecom                                     | High-demand ticketing platforms (TM, AXS, SG)                                        |
 | ISP\_US\_TICKETS                                      | Ashburn, USA       | AT\&T, Windstream, RCN, Wave, Spectrum/Charter, Frontier          | High-demand ticketing platforms (TM, AXS, SG)                                        |
 | SN\_NY\_TICKETS (**Subnets**)                         | New York, USA      | AT\&T, Windstream, RCN, Wave, Spectrum/Charter, Frontier          | High-demand ticketing platforms (TM, AXS, SG)                                        |
 | SN\_LA\_TICKETS (**Subnets**)                         | Los Angeles, USA   | AT\&T, Windstream, RCN, Wave, Spectrum/Charter, Frontier          | High-demand ticketing platforms (TM, AXS, SG)                                        |
@@ -33,7 +33,7 @@ Each ISP pool is assigned to a specific geographic region, ISP carrier and targe
 | ISP\_DE\_RETAILPLUS                                   | Frankfurt, Germany | DTAG                                                              | Pokemon Centre, Popmart, Target and retail sites (**DOES NOT WORK FOR EVENT SITES**) |
 | SN\_US\_RETAILPLUS (**Subnets**)                      | Ashburn, USA       | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum/Charter, Frontier  | Retail sites such as Pokemon Centre, Popmart, Target                                 |
 | <p>SN_UK_RETAILPLUS<br>(<strong>Subnets</strong>)</p> | London, UK         | Virgin Media, British Telecom, Dtag, Orange                       | Retail sites such as Pokemon Centre, Popmart, Target                                 |
-| ISP\_US\_SOCIAL                                       | Ashburn, USA       | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum/Charter, Frontier  | **Zero Fraud Score on Scamalytics**                                                  |
+| ISP\_US\_SOCIAL                                       | Ashburn, USA       | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum/Charter, Frontier  | **Zero Fraud Score on Scamalytics.** Ideal for social media account creation.        |
 
 {% hint style="info" %}
 **Please note the following: any product name that starts with '**<mark style="color:red;">**ISP\_**</mark>**' refers to a single IP order, while those starting with '**<mark style="color:red;">**SN\_**</mark>**' refer to subnets containing 256 IPs.**
