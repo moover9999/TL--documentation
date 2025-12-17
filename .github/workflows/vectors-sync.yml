@@ -3,7 +3,7 @@ name: Sync Embeddings to Vector DB
 on:
   push:
     branches:
-      - main
+      - new
     paths:
       - '**.md'
       - 'scripts/sync-embeddings.js'
