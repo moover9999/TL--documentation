@@ -1,6 +1,5 @@
 
 const { QdrantClient } = require('@qdrant/js-client-rest');
-const { VertexAI } = require('@google-cloud/vertexai');
 const glob = require('glob');
 const fs = require('fs');
 const path = require('path');
@@ -8,12 +7,16 @@ require('dotenv').config();
 
 const QDRANT_URL = process.env.QDRANT_URL;
 const QDRANT_API_KEY = process.env.QDRANT_API_KEY;
-const GCP_PROJECT_ID = process.env.GCP_PROJECT_ID;
+const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
+const GCP_PROJECT_ID = process.env.GCP_PROJECT_ID || 'proxy-site-461005';
 const GCP_LOCATION = process.env.GCP_LOCATION || 'us-central1';
 const COLLECTION_NAME = process.env.QDRANT_COLLECTION_NAME || 'documentation';
 
-if (!QDRANT_URL || !QDRANT_API_KEY || !GCP_PROJECT_ID) {
-    console.error('Missing required environment variables: QDRANT_URL, QDRANT_API_KEY, GCP_PROJECT_ID');
+// Embedding model for Vertex AI
+const EMBEDDING_MODEL = 'text-embedding-005';
+
+if (!QDRANT_URL || !QDRANT_API_KEY || !GEMINI_API_KEY) {
+    console.error('Missing required environment variables: QDRANT_URL, QDRANT_API_KEY, GEMINI_API_KEY');
     process.exit(1);
 }
 
@@ -22,18 +25,35 @@ const qdrant = new QdrantClient({
     apiKey: QDRANT_API_KEY,
 });
 
-// Initialize Vertex AI
-const vertexAI = new VertexAI({ project: GCP_PROJECT_ID, location: GCP_LOCATION });
-const model = vertexAI.getGenerativeModel({ model: 'text-embedding-004' });
-
 async function getEmbeddings(text) {
+    // Use Vertex AI REST API with API key
+    const url = `https://${GCP_LOCATION}-aiplatform.googleapis.com/v1/projects/${GCP_PROJECT_ID}/locations/${GCP_LOCATION}/publishers/google/models/${EMBEDDING_MODEL}:predict?key=${GEMINI_API_KEY}`;
+
     try {
-        // Vertex AI Node SDK 'embedContent' returns a different structure
-        const result = await model.embedContent(text);
-        if (result.response && result.response.embeddings && result.response.embeddings[0]) {
-            return result.response.embeddings[0].values;
+        const response = await fetch(url, {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+                instances: [
+                    { content: text }
+                ]
+            })
+        });
+
+        if (!response.ok) {
+            const errorText = await response.text();
+            throw new Error(`Vertex AI API error (${response.status}): ${errorText}`);
         }
-        throw new Error('Unexpected embedding response structure');
+
+        const result = await response.json();
+
+        if (result.predictions && result.predictions[0] && result.predictions[0].embeddings) {
+            return result.predictions[0].embeddings.values;
+        }
+
+        throw new Error('Unexpected embedding response structure: ' + JSON.stringify(result));
     } catch (error) {
         console.error('Error generating embedding:', error);
         throw error;
@@ -76,12 +96,7 @@ async function processFile(filePath) {
         try {
             const vector = await getEmbeddings(chunk);
 
-            // Create a deterministic ID based on file path and chunk index (simplified for demo)
-            // Ideally use a hash, but for now we'll rely on Qdrant's UUID generation or let it be random 
-            // if we don't care about overwriting exact chunks by ID.
-            // For upserting to work well for updates, we should probably generate an ID.
-            // Here we will just upsert. If we want to replace old file content, we might delete by filter first.
-
+            // Create a deterministic ID based on file path and chunk index
             const point = {
                 id: require('crypto').createHash('md5').update(`${relativePath}-${i}`).digest('hex'),
                 vector: vector,
@@ -133,13 +148,8 @@ async function main() {
 
     // Cleanup deleted files
     try {
-        // Scroll through all points to find unique sources
-        // Note: For very large collections, this might be slow. 
-        // A better approach for production would be to search/scroll or use a separate collection for file tracking.
-        // But for documentation, scroll is usually fine.
-
         const scrollResult = await qdrant.scroll(COLLECTION_NAME, {
-            limit: 10000, // Adjust based on your needs
+            limit: 10000,
             with_payload: true,
             with_vector: false
         });
