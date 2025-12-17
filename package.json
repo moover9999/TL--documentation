@@ -1,0 +1,27 @@
+{
+  "name": "tl--documentation",
+  "version": "1.0.0",
+  "description": "{% hint style=\"info\" %} The Overview page of the TorchProxies Dashboard is your starting point for managing proxy services and monitoring account activity. It provides a comprehensive snapshot of available products, including Residential and ISP proxy plans, with detailed pricing and feature descriptions for each service. {% endhint %}",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moover9999/TL--documentation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/moover9999/TL--documentation/issues"
+  },
+  "homepage": "https://github.com/moover9999/TL--documentation#readme",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@qdrant/js-client-rest": "^1.16.2",
+    "dotenv": "^17.2.3",
+    "glob": "^13.0.0"
+  }
+}
