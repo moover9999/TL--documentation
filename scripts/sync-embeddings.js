@@ -1,6 +1,6 @@
 
 const { QdrantClient } = require('@qdrant/js-client-rest');
-const { GoogleGenerativeAI } = require('@google/generative-ai');
+const { VertexAI } = require('@google-cloud/vertexai');
 const glob = require('glob');
 const fs = require('fs');
 const path = require('path');
@@ -8,11 +8,12 @@ require('dotenv').config();
 
 const QDRANT_URL = process.env.QDRANT_URL;
 const QDRANT_API_KEY = process.env.QDRANT_API_KEY;
-const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
+const GCP_PROJECT_ID = process.env.GCP_PROJECT_ID;
+const GCP_LOCATION = process.env.GCP_LOCATION || 'us-central1';
 const COLLECTION_NAME = process.env.QDRANT_COLLECTION_NAME || 'documentation';
 
-if (!QDRANT_URL || !QDRANT_API_KEY || !GEMINI_API_KEY) {
-    console.error('Missing required environment variables: QDRANT_URL, QDRANT_API_KEY, GEMINI_API_KEY');
+if (!QDRANT_URL || !QDRANT_API_KEY || !GCP_PROJECT_ID) {
+    console.error('Missing required environment variables: QDRANT_URL, QDRANT_API_KEY, GCP_PROJECT_ID');
     process.exit(1);
 }
 
@@ -21,13 +22,18 @@ const qdrant = new QdrantClient({
     apiKey: QDRANT_API_KEY,
 });
 
-const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
-const model = genAI.getGenerativeModel({ model: "gemini-embedding-001" });
+// Initialize Vertex AI
+const vertexAI = new VertexAI({ project: GCP_PROJECT_ID, location: GCP_LOCATION });
+const model = vertexAI.getGenerativeModel({ model: 'text-embedding-004' });
 
 async function getEmbeddings(text) {
     try {
+        // Vertex AI Node SDK 'embedContent' returns a different structure
         const result = await model.embedContent(text);
-        return result.embedding.values;
+        if (result.response && result.response.embeddings && result.response.embeddings[0]) {
+            return result.response.embeddings[0].values;
+        }
+        throw new Error('Unexpected embedding response structure');
     } catch (error) {
         console.error('Error generating embedding:', error);
         throw error;
@@ -103,7 +109,7 @@ async function main() {
         await qdrant.getCollection(COLLECTION_NAME);
     } catch (e) {
         console.log(`Collection ${COLLECTION_NAME} not found. Creating...`);
-        // Dimension for gemini-embedding-001 is 768
+        // Dimension for text-embedding-004 is 768
         await qdrant.createCollection(COLLECTION_NAME, {
             vectors: {
                 size: 768,
