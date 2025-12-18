@@ -21,7 +21,7 @@ After drafting the invoice, Stripe will check whether the user has sufficient wa
 * **Sufficient Balance**: If the user has enough wallet balance, the renewal process will be completed successfully, and the invoice status will be updated to "Paid."&#x20;
 * **Insufficient Balance**: If the wallet balance is insufficient, the renewal process will be temporarily paused. During this pause, Stripe's retry mechanism will initiate attempts to process the payment again.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ### Stage 02: First Attempt for Payment
 
@@ -32,7 +32,7 @@ In this stage, if Stripe is unable to process the payment within one hour of dra
 
 Stripe will follow the retry policy pre-configured by the administrator, systematically attempting to charge the wallet at specified intervals. This approach ensures that users have multiple opportunities to complete the payment while minimizing disruption to their subscription services.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ### Stage 03: Second Attempt for Payment
 
@@ -43,7 +43,7 @@ In this stage, if Stripe is unable to process the payment within one day after t
 
 Stripe will follow the retry policy pre-configured by the administrator, systematically attempting to charge the wallet at specified intervals.&#x20;
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ### Stage 04: Manual Retry for Subscription Renewal
 
@@ -55,13 +55,13 @@ If Stripe exhausts all the predefined retry attempts without successfully proces
 
 Once the subscription is renewed successfully, Stripe Invoice's status will be changed to "Paid"
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Monosnap TorchLabs • Login 2024-10-23 3 PM-21-33.jpg" alt=""><figcaption></figcaption></figure>
 
 Additionally, please note that some older subscriptions may still have the default billing method set to "Charge default payment method." In these cases, you will need to manually update the billing method to "Send Invoice" to ensure proper handling of future renewals.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 

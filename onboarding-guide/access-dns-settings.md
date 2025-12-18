@@ -12,7 +12,7 @@ There are many reasons you might want to use a third-party DNS server, from pare
 
 2\. From the list of your current domains, click on the domain you own.
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (1).png>)
 
 3\. Next, scroll all the way to the end of the page and you should see a _**Manage DNS**_ option
 

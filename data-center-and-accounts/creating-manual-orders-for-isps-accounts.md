@@ -26,7 +26,7 @@ Internal notes are only visible to admins and not the users
 
 4\. Select the product that needs to be added
 
-<figure><img src="../.gitbook/assets/b (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/b (3).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 If you are using TL ISP API ([what-is-the-torch-labs-isp-api.md](../errors-and-faq/isps/what-is-the-torch-labs-isp-api.md "mention")), the proxy list will automatically populate.
@@ -34,11 +34,7 @@ If you are using TL ISP API ([what-is-the-torch-labs-isp-api.md](../errors-and-f
 
 5. If the product you select has an [active batch](creating-a-batch/creating-a-torch-labs-isp-api-batch.md) then it will automatically fulfill the proxies for you. All you have to do is select the order type as `one time` or `Subscription` and set the desired quantity of proxies you want to deliver to the user (Please note that you can only offer quantities that match the predefined levels set for the product.)
 
-<div data-full-width="false">
-
-<figure><img src="../.gitbook/assets/Screenshot 2024-07-19 at 10.55.20 AM.png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="false"><figure><img src="../.gitbook/assets/Screenshot 2024-07-19 at 10.55.20 AM.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 If you are not using TL ISP API then proceed with the below steps
@@ -46,7 +42,7 @@ If you are not using TL ISP API then proceed with the below steps
 
 Paste the ISPs / Account list here
 
-<figure><img src="../.gitbook/assets/c (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/c (4).png" alt=""><figcaption></figcaption></figure>
 
 6\. Set the expiration date or the number of days from creation date to expiration date for the pasted list.
 

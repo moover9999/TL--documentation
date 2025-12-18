@@ -10,7 +10,7 @@ This guide will help you to view the total usage of different products on the us
 
 2\. Click _**View Data Usage**_
 
-<figure><img src="../.gitbook/assets/1 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (2).png" alt=""><figcaption></figcaption></figure>
 
 _The data usage will be indicated as follows_
 

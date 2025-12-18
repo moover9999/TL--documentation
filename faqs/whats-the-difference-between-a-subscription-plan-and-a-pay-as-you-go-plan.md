@@ -1,4 +1,0 @@
-# What’s the difference between a subscription plan and a pay-as-you-go plan?
-
-* **Subscription Plan:** A recurring option that automatically renews each month. With this plan, you get a fixed bandwidth or IP allocation that resets every billing cycle. It’s ideal if you have ongoing proxy needs and prefer predictable monthly usage. Subscription plans are available for both **Residential** and **ISP proxies**.
-* **Pay-As-You-Go Plan:** A flexible, one-time purchase where you only pay for the bandwidth you need, upfront. There’s no auto-renewal, and your credits remain valid until fully used — they do not expire. This option is perfect if your usage is occasional, project-based, or if you prefer not to commit to a recurring plan. At the moment, pay-as-you-go is available only for **Residential proxies**.&#x20;

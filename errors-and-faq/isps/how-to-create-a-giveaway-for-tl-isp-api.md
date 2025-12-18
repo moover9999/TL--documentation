@@ -29,4 +29,4 @@ You will be charged even if this is given for free. Hence regardless of the pric
 
 6. Enter the relevant code and you can tick the options as appropriate. Then click _Create Coupon_.
 
-<figure><img src="../../.gitbook/assets/c (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/c (2).png" alt=""><figcaption></figcaption></figure>

@@ -38,6 +38,6 @@ The manual batch method is good if you are not sure about the demand for your pr
 
 7. If you want to stop a batch, please follow the below guide
 
-{% content-ref url="../stopping-a-release.md" %}
-[stopping-a-release.md](../stopping-a-release.md)
+{% content-ref url="../stopping-a-batch.md" %}
+[stopping-a-batch.md](../stopping-a-batch.md)
 {% endcontent-ref %}

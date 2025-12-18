@@ -8,7 +8,7 @@ We have introduced a new feature that adds an "Order ID" to transactions on the 
 
 1. First, log in to the User Dashboard. Then, click on the "**ISPs**" tab. Once logged in, navigate to the "ISPs" tab, which may have a different name depending on your service provider. In such cases, look for a tab related to ISP Proxies.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 2. In the top-left corner of the window, you’ll find a section labelled "**Recent Orders**". This area provides a summary of your recent transactions. Within this section, there is a column titled "**ID**," where you can view the **Transaction IDs** for each order. These IDs are unique to each transaction, allowing you to easily track and manage your ISP orders.
 

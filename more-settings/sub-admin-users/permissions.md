@@ -12,13 +12,13 @@ These permissions allow users to view, edit, delete, and sync residential, datac
 
 <figure><img src="../../.gitbook/assets/1 (9).png" alt=""><figcaption><p>Sync Products</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/3 (2).png" alt=""><figcaption><p>Create Batches</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (1).png" alt=""><figcaption><p>Create Batches</p></figcaption></figure>
 
 * `view_residential` , `view_datacenter`, `view_accounts`
 
 These permissions allow users to view only residential, datacenter, and accounts products.
 
-<figure><img src="../../.gitbook/assets/4 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
 

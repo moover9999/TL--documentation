@@ -12,7 +12,7 @@ description: >-
 
 2. Next, you can cancel the subscription. Here you have a few options to select such as when to cancel the subscription (i.e. : immediately, end of the current period, or on a custom date). Make sure to choose No refund here.
 
-<figure><img src="../../.gitbook/assets/b (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/b (4).png" alt=""><figcaption></figcaption></figure>
 
 If a user wants to cancel the subscription by themselves then they need to follow the steps in the following guide.
 

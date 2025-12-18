@@ -6,4 +6,4 @@ Depending on what account to choose either personal or business, you will have t
 [setting-up-a-stripe-account.md](../../onboarding-guide/setting-up-a-stripe-account.md)
 {% endcontent-ref %}
 
-\
+<br>

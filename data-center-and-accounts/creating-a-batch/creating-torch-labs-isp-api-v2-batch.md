@@ -23,8 +23,7 @@ Please remember this when adding the `amount` metadata field inside the Stripe p
 {% endhint %}
 
 {% hint style="info" %}
-For subnet plans plase remember the below when adding the **metadata** field inside Stripe.\
-
+For subnet plans plase remember the below when adding the **metadata** field inside Stripe.<br>
 
 Key - `amount`
 
