@@ -10,31 +10,48 @@
 * [Subscribe to Residential plan](purchase/subscribe-to-residential-plan.md)
 * [Subscribe to ISP Plan](purchase/subscribe-to-isp-plan.md)
 
+## Residential Proxies
+
+* [Residential Product Overview](residential-proxies/residential-product-overview.md)
+* [FAQs](residential-proxies/faqs/README.md)
+  * [What's the difference between the Basic and Premium Residential plans?](residential-proxies/faqs/whats-the-difference-between-the-basic-and-premium-residential-plans.md)
+  * [How long can sticky sessions last on residential proxy plans?](residential-proxies/faqs/how-long-can-sticky-sessions-last-on-residential-proxy-plans.md)
+  * [Are your residential proxies real or are they ISP proxies disguised as residential?](residential-proxies/faqs/are-your-residential-proxies-real-or-are-they-isp-proxies-disguised-as-residential.md)
+
+## ISP Proxies
+
+* [ISP Product Overview](isp-proxies/isp-product-overview.md)
+* [FAQs](isp-proxies/faqs/README.md)
+  * [Why did the minimum IP allocation change from 1 IP to 5 IPs?](isp-proxies/faqs/why-did-the-minimum-ip-allocation-change-from-1-ip-to-5-ips.md)
+
+## Whitelist
+
+* [Whitelist your IPs](whitelist/whitelist-your-ips.md)
+* [Remove your Whitelisted IPs](whitelist/remove-your-whitelisted-ips.md)
+
+## Sub-Users
+
+* [Create Sub-users](sub-users/create-sub-users.md)
+* [View existing sub-users](sub-users/view-existing-sub-users.md)
+* [Update data for existing sub-users](sub-users/update-data-for-existing-sub-users.md)
+
+## Billing
+
+* [Manage Subscription](billing/manage-subscription.md)
+* [Billing Analytics](billing/billing-analytics.md)
+
 ***
 
-* [Whitelist](whitelist/README.md)
-  * [Whitelist your IPs](whitelist/whitelist-your-ips.md)
-  * [Remove your Whitelisted IPs](whitelist/remove-your-whitelisted-ips.md)
-* [Sub-Users](sub-users/README.md)
-  * [Create Sub-users](sub-users/create-sub-users.md)
-  * [View existing sub-users](sub-users/view-existing-sub-users.md)
-  * [Update data for existing sub-users](sub-users/update-data-for-existing-sub-users.md)
-* [Billing](billing/README.md)
-  * [Billing Analytics](billing/billing-analytics.md)
-  * [Manage Subscription](billing/manage-subscription.md)
 * [API Access](api-access.md)
 * [Support Channels](support-channels.md)
-* [Residential Proxies](residential-proxies/README.md)
-  * [Residential Product Overview](residential-proxies/residential-product-overview.md)
-  * [What's the difference between the Basic and Premium Residential plans?](residential-proxies/whats-the-difference-between-the-basic-and-premium-residential-plans.md)
-  * [How long can sticky sessions last on residential proxy plans?](residential-proxies/how-long-can-sticky-sessions-last-on-residential-proxy-plans.md)
-  * [Are your residential proxies real or are they ISP proxies disguised as residential?](residential-proxies/are-your-residential-proxies-real-or-are-they-isp-proxies-disguised-as-residential.md)
-* [ISP Proxies](isp-proxies/README.md)
-  * [ISP Product Overview](isp-proxies/isp-product-overview.md)
-  * [Why did the minimum IP allocation change from 1 IP to 5 IPs?](isp-proxies/why-did-the-minimum-ip-allocation-change-from-1-ip-to-5-ips.md)
-* [Affiliate Programme](affiliate-programme/README.md)
-  * [How to Join with Torch Labs Affiliate Programme?](affiliate-programme/how-to-join-with-torch-labs-affiliate-programme.md)
-  * [Affiliate Dashboard](affiliate-programme/affiliate-dashboard.md)
+
+## Affiliate Programme
+
+* [How to Join with Torch Labs Affiliate Programme?](affiliate-programme/how-to-join-with-torch-labs-affiliate-programme.md)
+* [Affiliate Dashboard](affiliate-programme/affiliate-dashboard.md)
+
+***
+
 * [FAQs](faqs/README.md)
   * [How Usage Overview Graph looks like?](faqs/how-usage-overview-graph-looks-like.md)
   * [How to Test Your Proxies using BPProxy](faqs/how-to-test-your-proxies-using-bpproxy.md)
