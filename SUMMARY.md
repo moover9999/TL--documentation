@@ -1,7 +1,11 @@
 # Table of contents
 
-* [Account Overview](README.md)
-* [Proxy Generation](proxy-generation.md)
+* [Welcome!](README.md)
+
+## Let’s Get You Started
+
+* [Account Overview](lets-get-you-started/account-overview.md)
+* [Proxy Generation](lets-get-you-started/proxy-generation.md)
 
 ## Purchase
 
