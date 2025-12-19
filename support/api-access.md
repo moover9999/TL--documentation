@@ -8,7 +8,7 @@ Once you've created your account, you'll have access to all available providers.
 
 1. Click on the **API Access** tab.
 
-<figure><img src=".gitbook/assets/CleanShot 2024-12-06 at 10 .54.39.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2024-12-06 at 10 .54.39.jpg" alt=""><figcaption></figcaption></figure>
 
 2. Click on the **Copy** button to copy the API Key.
 
@@ -16,4 +16,4 @@ Once you've created your account, you'll have access to all available providers.
 Each provider has a different API key
 {% endhint %}
 
-<figure><img src=".gitbook/assets/CleanShot 2024-12-06 at 10 .55.43.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CleanShot 2024-12-06 at 10 .55.43.jpg" alt=""><figcaption></figcaption></figure>

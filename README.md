@@ -1,6 +1,6 @@
 # Welcome!
 
-Welcome to the **Torch Proxies Guide Collection**.
+Welcome to the **Torch Proxies Guides Collection**.
 
 <figure><img src=".gitbook/assets/Torch Proxies.png" alt=""><figcaption></figcaption></figure>
 

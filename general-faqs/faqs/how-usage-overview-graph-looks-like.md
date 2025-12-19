@@ -6,4 +6,4 @@ Once you start using the data, the bottom of the overview page will display a gr
 * **Time Period Selection**: Toggle between weekly, monthly, and yearly views for a detailed or broad understanding.
 * **At-a-Glance Summary**: Quickly identify usage spikes, patterns, or periods of low activity.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
