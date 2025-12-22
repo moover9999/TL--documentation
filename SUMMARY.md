@@ -7,13 +7,6 @@
 * [Account Overview](lets-get-you-started/account-overview.md)
 * [Proxy Generation](lets-get-you-started/proxy-generation.md)
 
-## Purchase
-
-* [Purchase Reseller Credits](purchase/purchase-reseller-credits.md)
-* [Credit Allocation](purchase/credit-allocation.md)
-* [Subscribe to Residential plan](purchase/subscribe-to-residential-plan.md)
-* [Subscribe to ISP Plan](purchase/subscribe-to-isp-plan.md)
-
 ## Residential Proxies
 
 * [Residential Product Overview](residential-proxies/residential-product-overview.md)
@@ -28,10 +21,17 @@
 * [FAQs](isp-proxies/faqs/README.md)
   * [Why did the minimum IP allocation change from 1 IP to 5 IPs?](isp-proxies/faqs/why-did-the-minimum-ip-allocation-change-from-1-ip-to-5-ips.md)
 
-## Whitelist
+## Purchase
 
-* [Whitelist your IPs](whitelist/whitelist-your-ips.md)
-* [Remove your Whitelisted IPs](whitelist/remove-your-whitelisted-ips.md)
+* [Purchase Reseller Credits](purchase/purchase-reseller-credits.md)
+* [Credit Allocation](purchase/credit-allocation.md)
+* [Subscribe to Residential plan](purchase/subscribe-to-residential-plan.md)
+* [Subscribe to ISP Plan](purchase/subscribe-to-isp-plan.md)
+
+## Billing
+
+* [Manage Subscription](billing/manage-subscription.md)
+* [Billing Analytics](billing/billing-analytics.md)
 
 ## Sub-Users
 
@@ -39,10 +39,10 @@
 * [View existing sub-users](sub-users/view-existing-sub-users.md)
 * [Update data for existing sub-users](sub-users/update-data-for-existing-sub-users.md)
 
-## Billing
+## Whitelist
 
-* [Manage Subscription](billing/manage-subscription.md)
-* [Billing Analytics](billing/billing-analytics.md)
+* [Whitelist your IPs](whitelist/whitelist-your-ips.md)
+* [Remove your Whitelisted IPs](whitelist/remove-your-whitelisted-ips.md)
 
 ## Support
 
