@@ -77,7 +77,7 @@ Each ISP pool is assigned to a specific geographic region, ISP carrier and targe
 
 | Product Name        | Location | ISP Carrier(s) | Use Case                                                  |
 | ------------------- | -------- | -------------- | --------------------------------------------------------- |
-| ISP\_JP\_RETAILPLUS |          |                | Low-security sneaker & retail sites, eBay, Coupang, Naver |
+| ISP\_JP\_RETAILPLUS | Tokyo    | Jelly Tel      | Low-security sneaker & retail sites, eBay, Coupang, Naver |
 
 {% hint style="info" %}
 **Please note the following: any product name that starts with '**<mark style="color:red;">**ISP\_**</mark>**' refers to a single IP order, while those starting with '**<mark style="color:red;">**SN\_**</mark>**' refer to subnets containing 256 IPs.**
