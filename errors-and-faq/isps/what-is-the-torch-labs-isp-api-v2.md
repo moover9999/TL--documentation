@@ -12,54 +12,72 @@ Our ISP (Static Residential) products in TL ISP API V2 are optimized for high-de
 
 Each ISP pool is assigned to a specific geographic region, ISP carrier and target use case:
 
-| **Product Name**                                      | **Location**       | **ISPs/Carriers**                                                 | **Target Use Case**                                                                  |
-| ----------------------------------------------------- | ------------------ | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| ISP\_CA\_SNEAKERS                                     | Toronto, Canada    | Rogers                                                            | Low-security sneaker and retail sites (excl. Tickets, Popmart)                       |
-| ISP\_DE\_SNEAKERS                                     | Frankfurt, Germany | DTAG                                                              | Low-security sneaker and retail sites (excl. Tickets, Popmart)                       |
-| ISP\_UK\_SNEAKERS                                     | London, UK         | Virgin Media, British Telecom, Dtag, Orange                       | Low-security sneaker and retail sites (excl. Tickets, Popmart)                       |
-| ISP\_US\_SNEAKERS                                     | Ashburn, USA       | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum/Charter, Frontier  | Low-security sneaker and retail sites (excl. Tickets, Popmart)                       |
-| SN\_US\_SNEAKERS (**Subnets**)                        | Ashburn, USA       | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum/Charter, Frontier  | Low-security sneaker and retail sites (excl. Tickets, Popmart)                       |
-| ISP\_CA\_TICKETS                                      | Toronto, Canada    | Rogers                                                            | High-demand ticketing platforms (TM, AXS, SG)                                        |
-| ISP\_DE\_TICKETS                                      | Frankfurt, Germany | DTAG                                                              | High-demand ticketing platforms (TM, AXS, SG)                                        |
-| ISP\_UK\_TICKETS                                      | London, UK         | Virgin Media, British Telecom                                     | High-demand ticketing platforms (TM, AXS, SG)                                        |
-| ISP\_US\_TICKETS                                      | Ashburn, USA       | AT\&T, Windstream, RCN, Wave, Spectrum/Charter, Frontier          | High-demand ticketing platforms (TM, AXS, SG)                                        |
-| SN\_NY\_TICKETS (**Subnets**)                         | New York, USA      | AT\&T, Windstream, RCN, Wave, Spectrum/Charter, Frontier          | High-demand ticketing platforms (TM, AXS, SG)                                        |
-| SN\_LA\_TICKETS (**Subnets**)                         | Los Angeles, USA   | AT\&T, Windstream, RCN, Wave, Spectrum/Charter, Frontier          | High-demand ticketing platforms (TM, AXS, SG)                                        |
-| SN\_UK\_TICKETS (**Subnets**)                         | London, UK         | Virgin Media, British Telecom, Dtag, Orange                       | High-demand ticketing platforms (TM, AXS, SG)                                        |
-| <p>SN_CA_TICKETS<br>(<strong>Subnets</strong>)</p>    | Toronto, Canada    | Rogers                                                            | High-demand ticketing platforms (TM, AXS, SG)                                        |
-| SN\_US\_TICKETS (**Subnets**)                         | Ashburn, USA       | AT\&T, Windstream, RCN, Wave, Spectrum/Charter, Frontier          | High-demand ticketing platforms (TM, AXS, SG)                                        |
-| ISP\_US\_RETAILADVANCED                               | Ashburn, USA       | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum/Charter, Frontier  | Pokemon Centre, Popmart, Target and retail sites (**DOES NOT WORK FOR EVENT SITES**) |
-| ISP\_UK\_RETAILPLUS                                   | London, UK         | Virgin Media, British Telecom, Dtag, Orange                       | Pokemon Centre, Popmart, Target and retail sites (**DOES NOT WORK FOR EVENT SITES**) |
-| ISP\_DE\_RETAILPLUS                                   | Frankfurt, Germany | DTAG                                                              | Pokemon Centre, Popmart, Target and retail sites (**DOES NOT WORK FOR EVENT SITES**) |
-| SN\_US\_RETAILPLUS (**Subnets**)                      | Ashburn, USA       | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum/Charter, Frontier  | Retail sites such as Pokemon Centre, Popmart, Target                                 |
-| <p>SN_UK_RETAILPLUS<br>(<strong>Subnets</strong>)</p> | London, UK         | Virgin Media, British Telecom, Dtag, Orange                       | Retail sites such as Pokemon Centre, Popmart, Target                                 |
-| ISP\_US\_SOCIAL                                       | Ashburn, USA       | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum/Charter, Frontier  | **Zero Fraud Score on Scamalytics.** Ideal for social media account creation.        |
-
 **USA**
 
-| Product Name                       | Location    | ISP Carrier(s)                                           | Use Case                                                  |
-| ---------------------------------- | ----------- | -------------------------------------------------------- | --------------------------------------------------------- |
-| ISP\_US\_SNEAKERS                  | Ashburn     | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum, Frontier | Low-security sneaker & retail sites, general web scraping |
-| ISP\_US\_TICKETS                   | Ashburn     | AT\&T, Windstream, RCN, Wave, Spectrum, Frontier         | Ticketmaster, AXS                                         |
-| ISP\_US\_RETAILPLUS                | Ashburn     | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum, Frontier | PKC, Popmart (+ sneaker sites)                            |
-| ISP\_US\_SOCIAL                    | Ashburn     | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum, Frontier | Zero fraud score on Scamalytics                           |
-| SN\_US\_SNEAKERS _(Subnet Plan)_   | Ashburn     | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum, Frontier | Low-security sneaker & retail sites, web scraping         |
-| SN\_NY\_TICKETS _(Subnet Plan)_    | New York    | AT\&T, Windstream, RCN, Wave, Spectrum, Frontier         | Ticketmaster, AXS                                         |
-| SN\_LA\_TICKETS _(Subnet Plan)_    | Los Angeles | AT\&T, Windstream, RCN, Wave, Spectrum, Frontier         | Ticketmaster, AXS                                         |
-| SN\_US\_TICKETS _(Subnet Plan)_    | Ashburn     | AT\&T, Windstream, RCN, Wave, Spectrum, Frontier         | Ticketmaster, AXS                                         |
-| SN\_US\_RETAILPLUS _(Subnet Plan)_ | Ashburn     | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum, Frontier | PKC, Popmart (+ sneaker sites)                            |
+| Product Name                                                           | Location    | ISP Carrier(s)                                           | Use Case                                                  |
+| ---------------------------------------------------------------------- | ----------- | -------------------------------------------------------- | --------------------------------------------------------- |
+| ISP\_US\_SNEAKERS                                                      | Ashburn     | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum, Frontier | Low-security sneaker & retail sites, general web scraping |
+| ISP\_US\_TICKETS                                                       | Ashburn     | AT\&T, Windstream, RCN, Wave, Spectrum, Frontier         | Ticketmaster, AXS                                         |
+| ISP\_US\_RETAILPLUS                                                    | Ashburn     | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum, Frontier | PKC, Popmart (+ sneaker sites)                            |
+| ISP\_US\_SOCIAL                                                        | Ashburn     | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum, Frontier | Zero fraud score on Scamalytics                           |
+| <p>SN_US_SNEAKERS </p><p><em>(<strong>Subnet Plan</strong>)</em></p>   | Ashburn     | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum, Frontier | Low-security sneaker & retail sites, web scraping         |
+| <p>SN_NY_TICKETS </p><p><em>(<strong>Subnet Plan</strong>)</em></p>    | New York    | AT\&T, Windstream, RCN, Wave, Spectrum, Frontier         | Ticketmaster, AXS                                         |
+| <p>SN_LA_TICKETS </p><p><em>(<strong>Subnet Plan</strong>)</em></p>    | Los Angeles | AT\&T, Windstream, RCN, Wave, Spectrum, Frontier         | Ticketmaster, AXS                                         |
+| <p>SN_US_TICKETS </p><p><em>(<strong>Subnet Plan</strong>)</em></p>    | Ashburn     | AT\&T, Windstream, RCN, Wave, Spectrum, Frontier         | Ticketmaster, AXS                                         |
+| <p>SN_US_RETAILPLUS </p><p><em>(<strong>Subnet Plan</strong>)</em></p> | Ashburn     | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum, Frontier | PKC, Popmart (+ sneaker sites)                            |
 
 **UK**
 
-| Product Name                       | Location | ISP Carrier(s)                 | Use Case                                                  |
-| ---------------------------------- | -------- | ------------------------------ | --------------------------------------------------------- |
-| ISP\_UK\_SNEAKERS                  | London   | Virgin Media, British Telecom  | Low-security sneaker & retail sites, general web scraping |
-| ISP\_UK\_TICKETS                   | London   | Virgin Media, British Telecom  | Ticketmaster, AXS                                         |
-| ISP\_UK\_RETAILPLUS                | London   | Virgin Media, British Telecom  | PKC (+ sneaker sites)                                     |
-| SN\_UK\_TICKETS _(Subnet Plan)_    | London   | Virgin Media, BT, Dtag, Orange | Ticketmaster, AXS                                         |
-| SN\_UK\_RETAILPLUS _(Subnet Plan)_ | London   | Virgin Media, British Telecom  | PKC, Popmart (+ sneaker sites)                            |
+| Product Name                                                           | Location | ISP Carrier(s)                 | Use Case                                                  |
+| ---------------------------------------------------------------------- | -------- | ------------------------------ | --------------------------------------------------------- |
+| ISP\_UK\_SNEAKERS                                                      | London   | Virgin Media, British Telecom  | Low-security sneaker & retail sites, general web scraping |
+| ISP\_UK\_TICKETS                                                       | London   | Virgin Media, British Telecom  | Ticketmaster, AXS                                         |
+| ISP\_UK\_RETAILPLUS                                                    | London   | Virgin Media, British Telecom  | PKC (+ sneaker sites)                                     |
+| <p>SN_UK_TICKETS </p><p><em>(<strong>Subnet Plan</strong>)</em></p>    | London   | Virgin Media, BT, Dtag, Orange | Ticketmaster, AXS                                         |
+| <p>SN_UK_RETAILPLUS </p><p><em>(<strong>Subnet Plan</strong>)</em></p> | London   | Virgin Media, British Telecom  | PKC, Popmart (+ sneaker sites)                            |
 
+**Germany**
 
+| Product Name        | Location  | ISP Carrier(s) | Use Case                                                  |
+| ------------------- | --------- | -------------- | --------------------------------------------------------- |
+| ISP\_DE\_SNEAKERS   | Frankfurt | Dtag           | Low-security sneaker & retail sites, general web scraping |
+| ISP\_DE\_TICKETS    | Frankfurt | Dtag           | Ticketmaster, AXS                                         |
+| ISP\_DE\_RETAILPLUS | Frankfurt | Dtag           | PKC, Popmart (+ sneaker sites)                            |
+
+**Canada**
+
+| Product Name                                                        | Location | ISP Carrier(s) | Use Case                                                  |
+| ------------------------------------------------------------------- | -------- | -------------- | --------------------------------------------------------- |
+| ISP\_CA\_SNEAKERS                                                   | Toronto  | Rogers         | Low-security sneaker & retail sites, general web scraping |
+| ISP\_CA\_TICKETS                                                    | Toronto  | Rogers         | Ticketmaster, AXS                                         |
+| <p>SN_CA_TICKETS </p><p><em>(<strong>Subnet Plan</strong>)</em></p> | Toronto  | Rogers         | Ticketmaster, AXS                                         |
+
+**Australia**
+
+| Product Name        | Location | ISP Carrier(s) | Use Case                                |
+| ------------------- | -------- | -------------- | --------------------------------------- |
+| ISP\_AU\_TICKETS    | Sydney   | Vocus          | Ticketmaster, Tiketek                   |
+| ISP\_AU\_RETAILPLUS | Sydney   | Vocus          | PKC, Popmart (+ sneaker & retail sites) |
+
+**Hong Kong**
+
+| Product Name        | Location  | ISP Carrier(s) | Use Case                                |
+| ------------------- | --------- | -------------- | --------------------------------------- |
+| ISP\_HK\_RETAILPLUS | Hong Kong | HGC            | PKC, Popmart (+ sneaker & retail sites) |
+| ISP\_HK\_TICKETS    | Hong Kong | HGC            | HKC (Cityline not confirmed)            |
+
+**Korea**
+
+| Product Name                                                     | Location | ISP Carrier(s) | Use Case                                                  |
+| ---------------------------------------------------------------- | -------- | -------------- | --------------------------------------------------------- |
+| ISP\_KR\_SNEAKERS                                                | Seoul    | Korea Telecom  | Low-security sneaker & retail sites, eBay, Coupang, Naver |
+| <p>SN_KR_SNEAKERS<br>(<em><strong>Subnet Plan</strong></em>)</p> | Seoul    | Korea Telecom  | Low-security sneaker & retail sites, eBay, Coupang, Naver |
+
+**Japan**
+
+| Product Name        | Location | ISP Carrier(s) | Use Case                                                  |
+| ------------------- | -------- | -------------- | --------------------------------------------------------- |
+| ISP\_JP\_RETAILPLUS |          |                | Low-security sneaker & retail sites, eBay, Coupang, Naver |
 
 {% hint style="info" %}
 **Please note the following: any product name that starts with '**<mark style="color:red;">**ISP\_**</mark>**' refers to a single IP order, while those starting with '**<mark style="color:red;">**SN\_**</mark>**' refer to subnets containing 256 IPs.**
