@@ -1,22 +1,15 @@
----
-cover: .gitbook/assets/Screen-Shot-2021-12-28-at-10-45-33-PM.png
-coverY: 0
----
+# Welcome!
 
-# 👋 Welcome!
+Welcome to the **Torch Proxies Guides Collection**.
 
-## Welcome aboard!
+<figure><img src=".gitbook/assets/Torch Proxies.png" alt=""><figcaption></figcaption></figure>
 
-Welcome to the TL Dashboard help center!
+To get started, please create your account at [**Torch Proxies**](https://dashboard.torchproxies.com/). This will give you access to our full suite of proxy solutions, detailed guides and account-level features.
 
-This guide will have answers to 99% of your questions!
+We also highly recommend joining our **Discord community** at [**Torch Proxies Discord**](https://discord.gg/JSxDs3fDgV). This is where you can:
 
-1. General Settings
-2. Product Settings
-3. Residential Products
-4. Datacenter, ISP and Account
-5. More Settings
-6. Onboarding Guide
-7. Proxy Masking
-8. Customer Dashboard
-9. Errors & FAQs
+* Get real-time support from our team
+* Receive important updates and announcements
+* Connect with other users and share best practices
+
+If you need assistance at any point, our team is available to help you get up and running quickly.

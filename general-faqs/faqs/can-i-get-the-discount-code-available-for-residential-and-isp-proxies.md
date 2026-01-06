@@ -2,5 +2,5 @@
 
 Please use the following code at the checkout:
 
-* **BHWRESI -** For Residential
-* **BHWISP20 -** For ISPs&#x20;
+* **TORCH50 -** For Residential
+* **TORCH20 -** For ISPs&#x20;
