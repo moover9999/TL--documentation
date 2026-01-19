@@ -76,7 +76,7 @@
   * [Why do I get SSL/connection errors when using proxies with certain sites (e.g., api.axs.com)?](general-faqs/faqs/why-do-i-get-ssl-connection-errors-when-using-proxies-with-certain-sites-e.g.-api.axs.com.md)
   * [Can I get a trial or a free proxy before purchasing?](general-faqs/faqs/can-i-get-a-trial-or-a-free-proxy-before-purchasing.md)
   * [Can I pay for proxies with cryptocurrency?](general-faqs/faqs/can-i-pay-for-proxies-with-cryptocurrency.md)
-  * [Can I get the discount code available for Residential and ISP Proxies?](general-faqs/faqs/can-i-get-the-discount-code-available-for-residential-and-isp-proxies.md)
+  * [Can I get the discount code available for Residential and ISP proxies?](general-faqs/faqs/can-i-get-the-discount-code-available-for-residential-and-isp-proxies.md)
   * [Can you provide a trial and what is your Discord invite link?](general-faqs/faqs/can-you-provide-a-trial-and-what-is-your-discord-invite-link.md)
   * [Do your proxies work with UDP connections?](general-faqs/faqs/do-your-proxies-work-with-udp-connections.md)
   * [Do you offer discounts on proxy plans?](general-faqs/faqs/do-you-offer-discounts-on-proxy-plans.md)

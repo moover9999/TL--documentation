@@ -1,6 +1,6 @@
-# Can I get the discount code available for Residential and ISP Proxies?
+# Can I get the discount code available for Residential and ISP proxies?
 
-Please use the following code at the checkout:
+Please use the following codes at the checkout:
 
-* **TORCH50 -** For Residential
-* **TORCH20 -** For ISPs&#x20;
+* Residential Proxies (**50% off**): BHWRESI50
+* ISP Proxies (**20% off**): BHWISP20
