@@ -10,20 +10,22 @@ Each ISP pool is assigned to a specific geographic region, ISP carrier, and targ
 
 #### USA
 
-| Product Name               | Location | ISP Carrier(s)                                                   | Use Case                                           |
-| -------------------------- | -------- | ---------------------------------------------------------------- | -------------------------------------------------- |
-| Premium USA Ticket Proxies | Ashburn  | AT\&T, Windstream, RCN, Wave, Spectrum/Charter, Frontier         | Ticketmaster, AXS, SG                              |
-| Premium USA Retail Proxies | Ashburn  | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum/Charter, Frontier | PKC, Popmart, Target, retail sites (not ticketing) |
-| Premium USA Social Proxies | Ashburn  | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum/Charter, Frontier | Social media, Zero Fraud Score (Scamalytics)       |
+| Product Name                | Location | ISP Carrier(s)                                                   | Use Case                                                                                                 |
+| --------------------------- | -------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| Premium USA Ticket Proxies  | Ashburn  | AT\&T, Windstream, RCN, Wave, Spectrum/Charter, Frontier         | Ideal for high-demand ticketing platforms (TM, AXS, SG)                                                  |
+| Premium USA Sneaker Proxies | Ashburn  | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum/Charter, Frontier | Ideal for Low-security sneaker and retail sites, General web scraping (Excluding Tickets, Popmart, etc.) |
+| Premium USA Retail Proxies  | Ashburn  | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum/Charter, Frontier | Ideal for Pokémon Centre, Popmart, Target and retail sites (DOES NOT WORK FOR EVENT SITES)               |
+| Premium USA Social Proxies  | Ashburn  | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum/Charter, Frontier | Ideal for making accounts on social media sites like TikTok, Instagram, etc.,                            |
 
 **Subnet Plans**
 
-| Product Name                       | Location    | ISP Carrier(s)                                                   | Use Case                                           |
-| ---------------------------------- | ----------- | ---------------------------------------------------------------- | -------------------------------------------------- |
-| Premium USA Ticket Subnets         | Ashburn     | AT\&T, Windstream, RCN, Wave, Spectrum/Charter, Frontier         | Ticketmaster, AXS, SG                              |
-| Premium New York Ticket Subnets    | New York    | AT\&T, Windstream, RCN, Wave, Spectrum/Charter, Frontier         | Ticketmaster, AXS, SG                              |
-| Premium Los Angeles Ticket Subnets | Los Angeles | AT\&T, Windstream, RCN, Wave, Spectrum/Charter, Frontier         | Ticketmaster, AXS, SG                              |
-| Premium USA Retail Subnets         | Ashburn     | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum/Charter, Frontier | PKC, Popmart, Target, retail sites (not ticketing) |
+| Product Name                       | Location    | ISP Carrier(s)                                                   | Use Case                                                                                                 |
+| ---------------------------------- | ----------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| Premium USA Ticket Subnets         | Ashburn     | AT\&T, Windstream, RCN, Wave, Spectrum/Charter, Frontier         | Ideal for high-demand ticketing platforms (TM, AXS, SG)                                                  |
+| Premium USA Sneaker Subnets        | Ashburn     | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum/Charter, Frontier | Ideal for Low-security sneaker and retail sites, General web scraping (Excluding Tickets, Popmart, etc.) |
+| Premium USA Retail Subnets         | Ashburn     | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum/Charter, Frontier | Ideal for Pokémon Centre, Popmart, Target and retail sites (DOES NOT WORK FOR EVENT SITES)               |
+| Premium New York Ticket Subnets    | New York    | AT\&T, Windstream, RCN, Wave, Spectrum/Charter, Frontier         | Ideal for high-demand ticketing platforms (TM, AXS, SG)                                                  |
+| Premium Los Angeles Ticket Subnets | Los Angeles | AT\&T, Windstream, RCN, Wave, Spectrum/Charter, Frontier         | Ideal for high-demand ticketing platforms (TM, AXS, SG)                                                  |
 
 ***
 
