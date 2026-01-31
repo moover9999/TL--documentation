@@ -20,8 +20,8 @@ Please make sure to have two different names for the default and EU products (i.
 
 This guide outlines the white labeling process for **X Residential**.
 
-{% content-ref url="white-labeling-the-x-residential.md" %}
-[white-labeling-the-x-residential.md](white-labeling-the-x-residential.md)
+{% content-ref url="white-labeling-the-residential-plan-x.md" %}
+[white-labeling-the-residential-plan-x.md](white-labeling-the-residential-plan-x.md)
 {% endcontent-ref %}
 
 #### PacketStream

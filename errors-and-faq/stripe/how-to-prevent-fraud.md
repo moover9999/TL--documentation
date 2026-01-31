@@ -1,4 +1,4 @@
-# ❔ How to prevent fraud
+# ❔ How to prevent fraud ?
 
 Sadly there seems to be a fraudulent person in the sneaker community running through proxy companies using **STOLEN credit cards**. They have purchased data from a lot of proxy companies in the sneaker space and they use all the data and actual customers end up charging back the transaction.
 
@@ -20,7 +20,7 @@ They mainly want Oxylabs, Private, Packet, IProyal
 You must create a PDF detailing all the sufficient evidence and mapping the customer to the actual chargeback. Look at the below PDF to see an example of what we have done in the past. This example PDF has won 99% of all chargeback claims.
 {% endhint %}
 
-{% file src="../.gitbook/assets/Chargeback Example Evidence.pdf" %}
+{% file src="../../.gitbook/assets/Chargeback Example Evidence.pdf" %}
 
 **TO PREVENT FUTURE INCIDENTS:**
 
