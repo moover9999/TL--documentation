@@ -22,7 +22,7 @@
 * **Advanced IP Rotation** – Rotate proxies intelligently for reliable and efficient sessions.
 * **Supports All Major Sites** – Works seamlessly across major platforms and websites (excluding a small number of blacklisted sites).
 
-## Plan X Residential Plan
+## X Residential Plan
 
 * **120M+ IP Pool** – Access a massive network of proxies designed for unrestricted and reliable crawling.
 * **Hybrid Proxy Offering** – Benefit from the combined strength of Residential and ISP proxies.
