@@ -18,7 +18,7 @@ Each ISP pool is assigned to a specific geographic region, ISP carrier and targe
 | ---------------------------------------------------------------------- | ----------- | -------------------------------------------------------- | --------------------------------------------------------- |
 | ISP\_US\_SNEAKERS                                                      | Ashburn     | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum, Frontier | Low-security sneaker & retail sites, general web scraping |
 | ISP\_US\_TICKETS                                                       | Ashburn     | AT\&T, Windstream, RCN, Wave, Spectrum, Frontier         | Ticketmaster, AXS                                         |
-| ISP\_US\_RETAILPLUS                                                    | Ashburn     | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum, Frontier | PKC, Popmart (+ sneaker sites)                            |
+| ISP\_US\_RETAILADVANCED                                                | Ashburn     | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum, Frontier | PKC, Popmart (+ sneaker sites)                            |
 | ISP\_LA\_TICKETS                                                       | Los Angeles | AT\&T, Windstream, RCN, Wave, Spectrum, Frontier         | Ticketmaster, AXS                                         |
 | ISP\_US\_SOCIAL                                                        | Ashburn     | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum, Frontier | Zero fraud score on Scamalytics                           |
 | <p>SN_US_SNEAKERS </p><p><em>(<strong>Subnet Plan</strong>)</em></p>   | Ashburn     | AT\&T, Windstream, RCN, Wave, Cogent, Spectrum, Frontier | Low-security sneaker & retail sites, web scraping         |
@@ -50,18 +50,21 @@ Each ISP pool is assigned to a specific geographic region, ISP carrier and targe
 
 **Canada**
 
-| Product Name                                                        | Location | ISP Carrier(s) | Use Case                                                  |
-| ------------------------------------------------------------------- | -------- | -------------- | --------------------------------------------------------- |
-| ISP\_CA\_SNEAKERS                                                   | Toronto  | Rogers         | Low-security sneaker & retail sites, general web scraping |
-| ISP\_CA\_TICKETS                                                    | Toronto  | Rogers         | Ticketmaster, AXS                                         |
-| <p>SN_CA_TICKETS </p><p><em>(<strong>Subnet Plan</strong>)</em></p> | Toronto  | Rogers         | Ticketmaster, AXS                                         |
+| Product Name                                                           | Location | ISP Carrier(s) | Use Case                                                  |
+| ---------------------------------------------------------------------- | -------- | -------------- | --------------------------------------------------------- |
+| ISP\_CA\_SNEAKERS                                                      | Toronto  | Rogers         | Low-security sneaker & retail sites, general web scraping |
+| ISP\_CA\_TICKETS                                                       | Toronto  | Rogers         | Ticketmaster, AXS                                         |
+| ISP\_CA\_RETAILPLUS                                                    | Toronto  | Rogers         | PKC, Popmart (+ sneaker sites)                            |
+| <p>SN_CA_TICKETS </p><p><em>(<strong>Subnet Plan</strong>)</em></p>    | Toronto  | Rogers         | Ticketmaster, AXS                                         |
+| <p>SN_CA_RETAILPLUS </p><p><em>(<strong>Subnet Plan</strong>)</em></p> | Toronto  | Rogers         | PKC, Popmart (+ sneaker sites)                            |
 
 **Australia**
 
-| Product Name        | Location | ISP Carrier(s) | Use Case                                |
-| ------------------- | -------- | -------------- | --------------------------------------- |
-| ISP\_AU\_TICKETS    | Sydney   | Vocus          | Ticketmaster, Tiketek                   |
-| ISP\_AU\_RETAILPLUS | Sydney   | Vocus          | PKC, Popmart (+ sneaker & retail sites) |
+| Product Name                                                       | Location | ISP Carrier(s) | Use Case                                |
+| ------------------------------------------------------------------ | -------- | -------------- | --------------------------------------- |
+| ISP\_AU\_TICKETS                                                   | Sydney   | Vocus          | Ticketmaster, Tiketek                   |
+| ISP\_AU\_RETAILPLUS                                                | Sydney   | Vocus          | PKC, Popmart (+ sneaker & retail sites) |
+| <p>SN_AU_RETAILPLUS<br>(<em><strong>Subnet Plan</strong>)</em></p> | Sydney   | Vocus          | PKC, Popmart (+ sneaker & retail sites) |
 
 **Hong Kong**
 
@@ -69,6 +72,7 @@ Each ISP pool is assigned to a specific geographic region, ISP carrier and targe
 | ------------------- | --------- | -------------- | --------------------------------------- |
 | ISP\_HK\_RETAILPLUS | Hong Kong | HGC            | PKC, Popmart (+ sneaker & retail sites) |
 | ISP\_HK\_TICKETS    | Hong Kong | HGC            | HKC (Cityline not confirmed)            |
+| SN\_HK\_TICKETS     | Hong Kong | HGC            | HKC (Cityline not confirmed)            |
 
 **Korea**
 
@@ -79,9 +83,10 @@ Each ISP pool is assigned to a specific geographic region, ISP carrier and targe
 
 **Japan**
 
-| Product Name        | Location | ISP Carrier(s) | Use Case                                                  |
-| ------------------- | -------- | -------------- | --------------------------------------------------------- |
-| ISP\_JP\_RETAILPLUS | Tokyo    | Jelly Tel      | Low-security sneaker & retail sites, eBay, Coupang, Naver |
+| Product Name                                                       | Location | ISP Carrier(s) | Use Case                                                  |
+| ------------------------------------------------------------------ | -------- | -------------- | --------------------------------------------------------- |
+| ISP\_JP\_RETAILPLUS                                                | Tokyo    | Jelly Tel      | Low-security sneaker & retail sites, eBay, Coupang, Naver |
+| <p>SN_JP_RETAILPLUS<br>(<em><strong>Subnet Plan</strong></em>)</p> | Tokyo    | Jelly Tel      | Low-security sneaker & retail sites, eBay, Coupang, Naver |
 
 {% hint style="info" %}
 **Please note the following: any product name that starts with '**<mark style="color:red;">**ISP\_**</mark>**' refers to a single IP order, while those starting with '**<mark style="color:red;">**SN\_**</mark>**' refer to subnets containing 256 IPs.**
