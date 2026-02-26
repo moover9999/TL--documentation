@@ -38,7 +38,7 @@ To create coupons for clients for any promotional activities please follow this 
 
 6\. The time and date created this Coupon will appear here.
 
-![](<../../.gitbook/assets/Untitled design (5) (1).png>)
+![](<../../.gitbook/assets/Untitled design (5) (1) (1).png>)
 
 7\. Now the Coupon can be created by clicking here.
 
@@ -50,5 +50,5 @@ To create coupons for clients for any promotional activities please follow this 
 
 9\. Now to create a <mark style="color:orange;">**Non-Limited Coupon**</mark>, Click the top of **Non-Limited** then type your **Coupon Name** also enter the expiry date in the **Coupon Expiry** space. Now the discount percentage should be given at **Percent Discount** and choose your Plans from the Dropdown of **Plans**.
 
-![](<../../.gitbook/assets/Untitled design (8).png>)
+![](<../../.gitbook/assets/Untitled design (8) (1).png>)
 

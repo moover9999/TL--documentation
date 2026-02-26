@@ -4,7 +4,7 @@
 
 1. To set up discord authenticator, Follow the discord developer link mentioned here.  [https://discord.com/developers](https://discord.com/developers)
 
-![](<../.gitbook/assets/Untitled design (7).png>)
+![](<../.gitbook/assets/Untitled design (7) (1).png>)
 
 2\. Click the new "Application"
 
@@ -20,7 +20,7 @@
 
 5\. Left side of the Dashboard click the OAuth2.
 
-![](<../.gitbook/assets/Untitled design (6) (1).png>)
+![](<../.gitbook/assets/Untitled design (6) (1) (1).png>)
 
 6\. Here copy the Client ID.
 
@@ -28,7 +28,7 @@
 
 7\. Here paste your Client ID.
 
-![](<../.gitbook/assets/Untitled design (6).png>)
+![](<../.gitbook/assets/Untitled design (6) (1).png>)
 
 
 

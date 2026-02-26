@@ -130,6 +130,7 @@
 * [Whitelist your IPs](customer-dashboard/whitelist-your-ips/README.md)
   * [How to remove whitelisted IPs](customer-dashboard/whitelist-your-ips/how-to-remove-whitelisted-ips.md)
 * [🫐 Referral System](customer-dashboard/referral-system.md)
+* [🫐 Affiliate System](customer-dashboard/affiliate-system.md)
 * [‼️ Dashboard Animation](customer-dashboard/dashboard-animation.md)
 * [⚱️ ISP Proxy Generation](customer-dashboard/isp-proxy-generation.md)
 * [🖼️ Adding images to the product description](customer-dashboard/adding-images-to-the-product-description.md)

@@ -6,7 +6,7 @@ This guide will show you how to update data manually to your user's account.
 
 1. Torch Lab users have a choice of **Seven data** plans from which to pick.
 
-![](<../.gitbook/assets/Untitled design.png>)
+![](<../.gitbook/assets/Untitled design (8).png>)
 
 2\. The data can be purchased in the marked area just by increasing and decreasing through the line. The price per GB and Total price for the purchase will appear in two boxes below. Simply click **BUY.**
 
@@ -18,4 +18,4 @@ This guide will show you how to update data manually to your user's account.
 
 4\. The balance GB will be always displayed here.
 
-![](<../.gitbook/assets/Untitled design (9).png>)
+![](<../.gitbook/assets/Untitled design (9) (1).png>)

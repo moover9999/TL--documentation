@@ -18,7 +18,7 @@ The dashboard theme is 100% customizable, Follow the below steps to customer you
 
 3\. Then choose your Dashboard background colour.
 
-![](<../.gitbook/assets/Untitled design (2).png>)
+![](<../.gitbook/assets/Untitled design (2) (5).png>)
 
 4\. Set your required saturation of the Dashboard.
 

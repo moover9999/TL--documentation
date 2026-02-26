@@ -18,11 +18,11 @@ Sometimes stripe will not allow you to edit a price if the price has already bee
 
 3\. Then go to the "Overview" page.&#x20;
 
-![](<../.gitbook/assets/Untitled design (1).png>)
+![](<../.gitbook/assets/Untitled design (1) (1).png>)
 
 4\. Choose the correct plan as shown below "Killer Basic".
 
-![](<../.gitbook/assets/Untitled design (3) (6).png>)
+![](<../.gitbook/assets/Untitled design (3) (6) (1).png>)
 
 5\. Once choose the correct product, Then choose the correct price.&#x20;
 

@@ -1,4 +1,4 @@
-# 👮♀ User management
+# 👮‍♀️ User management
 
 {% hint style="info" %}
 This guide will help you to keep track of your dashboard logged ins.&#x20;
@@ -20,5 +20,5 @@ How to get Discord ID: [https://youtu.be/VTgVsQ0gwKM](https://youtu.be/VTgVsQ0gw
 
 Click on the user to view user data.
 
-![](<../.gitbook/assets/Untitled design (5).png>)
+![](<../.gitbook/assets/Untitled design (5) (1).png>)
 
