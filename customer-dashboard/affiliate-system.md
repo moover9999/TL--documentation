@@ -51,7 +51,9 @@ When you select the Affiliate Provider from the Dropdown, <mark style="backgroun
 
 <figure><img src="../.gitbook/assets/Untitled design (3).png" alt=""><figcaption></figcaption></figure>
 
+4. customers can visit the Affiliate Portal from their Navbar ion the customers dashboard
 
+<figure><img src="../.gitbook/assets/Untitled design (11).png" alt=""><figcaption></figcaption></figure>
 
 ### Setting Up Affiliate Campaign on [Referly](https://www.referly.so/) (formally known as Pushlap Growth)
 
