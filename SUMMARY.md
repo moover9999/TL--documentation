@@ -120,6 +120,7 @@
 
 ## Customer Dashboard
 
+* [💰 Affiliate System](customer-dashboard/affiliate-system.md)
 * [🛃 Custom Pools](customer-dashboard/custom-pools.md)
 * [♐ View Data Usage](customer-dashboard/view-data-usage.md)
 * [🖱️ Access user settings](customer-dashboard/access-user-settings.md)
@@ -127,13 +128,12 @@
 * [🏧 Customer subscription portal](customer-dashboard/customer-subscription-portal.md)
 * [🎓 Residential Proxy Generation](customer-dashboard/residential-proxy-generation.md)
 * [🎛️ Setting up the Default Country](customer-dashboard/setting-up-the-default-country.md)
-* [Whitelist your IPs](customer-dashboard/whitelist-your-ips/README.md)
-  * [How to remove whitelisted IPs](customer-dashboard/whitelist-your-ips/how-to-remove-whitelisted-ips.md)
 * [🫐 Referral System](customer-dashboard/referral-system.md)
-* [🫐 Affiliate System](customer-dashboard/affiliate-system.md)
 * [‼️ Dashboard Animation](customer-dashboard/dashboard-animation.md)
 * [⚱️ ISP Proxy Generation](customer-dashboard/isp-proxy-generation.md)
 * [🖼️ Adding images to the product description](customer-dashboard/adding-images-to-the-product-description.md)
+* [Whitelist your IPs](customer-dashboard/whitelist-your-ips/README.md)
+  * [How to remove whitelisted IPs](customer-dashboard/whitelist-your-ips/how-to-remove-whitelisted-ips.md)
 * [How to use Wallet Credit to purchase](customer-dashboard/how-to-use-wallet-credit-to-purchase.md)
 * [How to check Wallet Transactions](customer-dashboard/how-to-check-wallet-transactions.md)
 * [♻️ How Wallet Payment Subscription Renewal Processed](customer-dashboard/how-wallet-payment-subscription-renewal-processed.md)
