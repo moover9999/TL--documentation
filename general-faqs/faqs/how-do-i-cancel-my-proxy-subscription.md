@@ -14,22 +14,22 @@ You can easily manage or cancel your subscription directly through the Stripe bi
 <mark style="color:red;">If nothing is shown in the subscription history section please select "All time" for the period.</mark>&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 2. **View your active subscriptions:**\
    Once in the correct section, you’ll see all your current subscriptions listed.
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 3. **Click “Manage Subscriptions.”**\
    This will open the customer portal powered by Stripe.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 4. **Cancel your subscription:**\
    Within the customer portal, you can easily select the active plan you wish to cancel and confirm the subscription cancellation.
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 
 

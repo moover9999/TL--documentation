@@ -14,7 +14,7 @@ In this guide, we will walk you through the process of removing whitelisted IP a
 Always make sure to select on "**All time**" for the period.&#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 **Step 2: Select a Relevant User**
 

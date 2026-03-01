@@ -1,4 +1,4 @@
-# Subscribe to ISPs
+# Subscribe to ISP Plan
 
 {% hint style="info" %}
 We provide you with a wide range of ISPs, and you can select based on your specific use case. This section will guide you on how to subscribe to a recurring ISP product.
@@ -28,4 +28,4 @@ These ISP products are renewing monthly by default hence it is mentioned as 1 mo
 
 <figure><img src="../.gitbook/assets/CleanShot 2024-12-06 at 10 .29.44.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>

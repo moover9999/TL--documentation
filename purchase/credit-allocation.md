@@ -2,7 +2,7 @@
 
 1. Navigate to **Purchase -> Residential Proxies -> Billing and History**
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 You can allocate the credits to each product using this.
 
@@ -16,6 +16,6 @@ You can allocate the credits to each product using this.
 
 4. You can see the Credit Allocation History in the same page and it can be filter with multiple periods.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
