@@ -1,7 +1,7 @@
 # 💰 Affiliate System
 
 {% hint style="info" %}
-#### Affiliate Programme Overview
+#### Affiliate Program Overview
 
 The Torch Labs platform includes a built-in **Affiliate Program** that allows customers to earn commissions by referring new users.
 
