@@ -63,9 +63,13 @@ Please double-check all entries before saving your settings to ensure the affili
 
 ### Setting Up Affiliate Campaign on [Referly](https://www.referly.so/) (formally known as Pushlap Growth)
 
-Create an account and sign in.
+{% hint style="info" %}
+### For the First Batch Of Users We'll Provide Affiliate Campaign Projects on [Referly](https://www.referly.so/) for absolutely Free. Please Reach out through our Support Tickets get more information on to see your availibility on this offer
 
-Once logged in, follow the steps below to set up your affiliate campaign in the Referly Dashboard.
+If you Got Selected for the above offer Our Support Staff will share the Required credentials to activate the Affiliate system on your dashboard
+{% endhint %}
+
+Once logged in, follow the steps below to set up your affiliate campaign in the [**Referly**](https://www.referly.so/) Dashboard.
 
 
 
