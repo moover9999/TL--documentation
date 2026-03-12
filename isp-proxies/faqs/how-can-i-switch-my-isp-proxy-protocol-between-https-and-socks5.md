@@ -24,15 +24,15 @@ TorchProxies ISP plans support multiple proxy protocols. This guide explains how
 
 Access the [TorchProxies Dashboard](https://dashboard.torchproxies.com/) and sign in with your credentials.
 
-\<!-- SCREENSHOT: Dashboard login page or homepage after login -->
+<figure><img src="../../.gitbook/assets/0 (2).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 #### Step 2 - Navigate to My Products → ISP Proxies
 
-From the top navigation, click **My Products**, then select **ISP Proxies**.
+From the top left navigation, click **My Products**, then select **ISP Proxies**.
 
-\<!-- SCREENSHOT: Admin menu with "Subscriptions" highlighted -->
+<figure><img src="../../.gitbook/assets/1 (7).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -43,7 +43,7 @@ Once **ISP Proxies** is selected, you will see the management page for your ISP 
 * Go to **My Proxies**
 * Set the filters to **All Time** to display all your orders.
 
-\<!-- SCREENSHOT: Subscription list showing "ISP API V2" label -->
+<figure><img src="../../.gitbook/assets/3 (4).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -51,9 +51,7 @@ Once **ISP Proxies** is selected, you will see the management page for your ISP 
 
 Locate the **Order ID** or **Plan Name** for the proxy package where you want to switch the protocol.
 
-Click **View** next to that order.
-
-\<!-- SCREENSHOT: Search bar with a Subscription ID entered, and the View button visible -->
+<figure><img src="../../.gitbook/assets/4 (3).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -67,7 +65,7 @@ You will see several available actions, such as:
 
 Click **View** to proceed.
 
-\<!-- SCREENSHOT: Pop-up window with the protocol dropdown open, showing the three options -->
+<figure><img src="../../.gitbook/assets/5 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -81,7 +79,7 @@ Once the proxy list loads after clicking **View**, scroll below the proxies and 
 
 Select the protocol you want to use.
 
-\<!-- SCREENSHOT: Updated proxy details after protocol selection -->
+<div><figure><img src="../../.gitbook/assets/6 (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/7 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ***
 
@@ -93,7 +91,7 @@ After selecting the protocol:
 * Copy the updated proxy details.
 * Use them according to your required use case.
 
-\<!-- SCREENSHOT: Updated proxy details after protocol selection -->
+<figure><img src="../../.gitbook/assets/8 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -105,8 +103,8 @@ After selecting the protocol:
 
 |                         | Details                               |
 | ----------------------- | ------------------------------------- |
-| **Access via**          | Admin → Subscriptions                 |
-| **Supported protocols** | HTTP/HTTPS, SOCKS5, UDP               |
+| **Access via**          | My Products → ISP Proxies             |
+| **Supported protocols** | HTTP/HTTPS, SOCKS5 and UDP            |
 | **Port updates**        | Automatically upon protocol selection |
 
 ***
