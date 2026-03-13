@@ -20,7 +20,7 @@ Please be noted that you have to share newly created credentials with new sub-us
 
 3\. Select the permission to be assigned to the particular role. Multiple permissions could be selected here.
 
-<figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (1).png" alt=""><figcaption></figcaption></figure>
 
 _Please refer to the following link with the list of permissions you can assign to a role._
 

@@ -9,19 +9,18 @@ icon: dollar-sign
 
 ### Introduction
 
-This guide walks new users through the complete process of setting up and launching an affiliate campaign on Referly (also known as Push Lap Growth). By the end of this guide, users will have a fully configured, active affiliate campaign with tracking, commission rules, and a live affiliate portal.
+This guide walks you through the complete process of setting up and launching an affiliate campaign on Referly (also known as Push Lap Growth). By the end of this guide, you will have a fully configured, active affiliate campaign with tracking, commission rules and a live affiliate portal.
 
 **Before you begin**, ensure:
 
 * A Referly account has been created at referly.so
 * Email verification is complete
-* A subscription plan or free trial is active
 
 ***
 
 ### Step 1: Access the Campaign Dashboard
 
-After signing in, the user lands on the main Referly dashboard. The central hub for managing affiliate programs, affiliates, referrals, and payouts.
+After signing in, you will land on the main Referly dashboard. The central hub for managing affiliate programs, affiliates, referrals and payouts.
 
 **To navigate to the Campaign Dashboard:**
 
@@ -31,17 +30,13 @@ After signing in, the user lands on the main Referly dashboard. The central hub 
 
 The dashboard displays an overview of key metrics including active affiliates, total clicks, referrals and conversions, and revenue generated.
 
-> **Note:** Each Referly account can manage multiple campaigns. This guide covers setting up a single campaign from start to finish.
-
-```
-Screenshot: Referly main dashboard showing the left-hand navigation menu with the Campaigns section visible, and key metrics (active affiliates, clicks, referrals, revenue) displayed in the center panel.
-```
+<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
 ### Step 2: Open Campaign Settings
 
-The **Campaign Settings** panel is where all core configuration lives - including commission rules, affiliate portal settings, tracking options, and branding.
+The **Campaign Settings** panel is where all core configuration lives - including commission rules, affiliate portal settings, tracking options and branding.
 
 **To access Campaign Settings:**
 
@@ -54,9 +49,7 @@ The **Campaign Settings** panel is where all core configuration lives - includin
    * **Tracking** — Link and cookie settings
    * **Integrations** — Payment and platform connections
 
-```
-Screenshot: Referly Campaign Settings panel open, showing the tab navigation bar across the top with General, Commission Plans, Affiliate Portal, Tracking, and Integrations tabs visible.
-```
+<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -66,21 +59,17 @@ The **General** tab contains the foundational details of the affiliate program.
 
 **Required fields to complete:**
 
-1. **Campaign Name** — Enter a clear, descriptive name (e.g., "Spring 2025 Affiliate Program")
-2. **Campaign Description** — Write a short description affiliates will see when they join
-3. **Website URL** — Enter the business website URL where affiliates will send traffic
-4. **Cookie Duration** — Set how long a referral cookie remains active
+1. **Campaign Name** - Enter a clear, descriptive name (e.g., "Spring 2025 Affiliate Program")
+2. **Campaign Description** - Write a short description affiliates will see when they join
+3. **Website URL** - Enter the business website URL where affiliates will send traffic
 
 **Recommended settings:**
 
-* Cookie Duration: **30 days**
 * Affiliate Approval: **Manual approval** (recommended for program quality control)
 
 5. Click **Save** to confirm the general settings
 
-```
-Screenshot: Referly Campaign Settings — General tab, showing the Campaign Name field, Description text area, Website URL input, and Cookie Duration selector with 30 days selected. The Save button is visible at the bottom.
-```
+<figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -91,25 +80,25 @@ The **Commission Plans** tab determines how affiliates earn money for successful
 **To configure the commission plan:**
 
 1. Navigate to **Campaign Settings → Commission Plans**
-2. The **Base Commission Plan** is displayed at the top — this is the default plan all new affiliates are assigned to automatically
-3. Click **Edit** next to the Base Commission Plan
+2. The **Base Commission Plan** is displayed at the top - this is the default plan all new affiliates are assigned to automatically
+3. Click **"Edit"** next to the Base Commission Plan
 
 **Configure the following fields:**
 
-* **Commission Type** — Select **Percentage-Based** (recommended): Affiliates earn a percentage of each sale they refer (e.g., 20% per sale)
-* **Commission Trigger** — Select **When a customer makes a purchase**
-* **Products** — Select **All Products** to apply commissions to everything
+* **Commission Type** - Select **Percentage-Based** (recommended): Affiliates earn a percentage of each sale they refer (e.g., 20% per sale)
+* **Commission Trigger** - Select **When a customer makes a purchase**
+* **Products** - Select **All Products** to apply commissions to everything
 * **Payment Duration:**
-  * For one-time purchases: select **One-time payout**
+  * For one-time purchases: select **"One-time payout."**
   * For subscriptions: select **Recurring** and specify the number of months (e.g., 12 months)
 
-4. Click **Save Commission Plan**
+4. Click "**Save Commission Plan."**
 
-> **Note:** The Base Commission Plan cannot be deleted — it is the default for all new affiliates. Additional custom plans can be created for specific affiliates later.
+> **Note:** The Base Commission Plan cannot be deleted - it is the default for all new affiliates. Additional custom plans can be created for specific affiliates later.
 
-```
-Screenshot: Referly Campaign Settings — Commission Plans tab, showing the Base Commission Plan card with the Edit button highlighted, and the configuration form open below displaying Commission Type set to Percentage-Based, Commission Trigger set to Purchase, and a percentage input field.
-```
+<figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -124,7 +113,7 @@ The **Affiliate Portal** is the branded interface where affiliates log in to vie
    * **Portal Name** — The name affiliates will see (e.g., "Acme Co. Partner Portal")
    * **Logo** — Upload the company logo (recommended: 200×60px, PNG format)
    * **Brand Color** — Set the primary color using a hex code (e.g., `#4F46E5`)
-3. The **Affiliate Signup Link** is automatically generated on this page — copy and save it for Step 7
+3. The **Affiliate Signup Link** is automatically generated on this page - copy and save it for Step 7
 4. Click **Save** to apply the customization
 
 > **Tip:** A well-branded affiliate portal improves affiliate trust and signup conversion rates.

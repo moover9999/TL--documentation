@@ -22,7 +22,7 @@ Once you update the IPs then you can select the expiry date of the IPs along wit
 
 Here you have the option of setting the expiry date along with the time depending on the product.
 
-<figure><img src="../.gitbook/assets/2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 _The expiry date of the orders is displayed on the User Dashboard as follows_
 
