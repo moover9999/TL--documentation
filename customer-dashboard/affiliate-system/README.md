@@ -101,19 +101,19 @@ Leaving any required field empty may cause the Affiliate Programme to malfunctio
 Please double-check all entries before saving your settings to ensure the affiliate system functions as expected.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/Untitled design (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled design (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Go to the **Customer Dashboard** and click on _the **Gift Icon** available_ at the bottom-right corner of the screen on the dashboard.
 
-<figure><img src="../.gitbook/assets/12 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/12 (1).png" alt=""><figcaption></figcaption></figure>
 
 3. You can obtain your **Affiliate Link** from the popup window located at the bottom-right corner of the screen.
 
-<figure><img src="../.gitbook/assets/Untitled design (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled design (3).png" alt=""><figcaption></figcaption></figure>
 
 4. Customers can access the **Affiliate Portal** directly from the navigation bar in their dashboard.
 
-<figure><img src="../.gitbook/assets/Untitled design (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled design (11).png" alt=""><figcaption></figcaption></figure>
 
 ### Creating an Affiliate Campaign on [Referly](https://www.referly.so/) (formally known as Pushlap Growth)
 
@@ -131,7 +131,7 @@ After logging into the Referly dashboard:
 
 This will begin the campaign setup process.
 
-<figure><img src="../.gitbook/assets/Untitled design (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled design (5).png" alt=""><figcaption></figcaption></figure>
 
 ### Step 2: Enter Campaign Details
 
@@ -142,7 +142,7 @@ Provide the following information:
 
 Choose a title that clearly represents your affiliate program and a subdomain aligned with your brand.
 
-<figure><img src="../.gitbook/assets/Untitled design (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled design (6).png" alt=""><figcaption></figcaption></figure>
 
 ### Step 3: Configure Tracking Method
 
@@ -166,7 +166,7 @@ Enter your **Dashboard URL** as the **Landing Page URL**.
 
 This ensures that users who click an affiliate link are properly redirected and tracked.
 
-<figure><img src="../.gitbook/assets/Untitled design (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled design (7).png" alt=""><figcaption></figcaption></figure>
 
 ### Step 5: Configure Commission Settings
 
@@ -178,7 +178,7 @@ Inside the Referly dashboard, configure:
 
 These settings control how affiliate rewards are calculated.
 
-<figure><img src="../.gitbook/assets/FireShot Capture 186 -  - [www.referly.so].png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/FireShot Capture 186 -  - [www.referly.so].png" alt=""><figcaption></figcaption></figure>
 
 ## **Important**
 
@@ -192,7 +192,7 @@ Navigate to:
 
 The API Key is required to connect the affiliate system with your platform.
 
-<figure><img src="../.gitbook/assets/Untitled design (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled design (9).png" alt=""><figcaption></figcaption></figure>
 
 #### Obtaining the Campaign Program ID
 
@@ -208,7 +208,7 @@ The value shown in place of `<campaign-program-id>` is your **Campaign Program I
 
 This ID must be entered in the system configuration to complete the integration.
 
-<figure><img src="../.gitbook/assets/Untitled design (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled design (10).png" alt=""><figcaption></figcaption></figure>
 
 ## Need Help?
 
