@@ -1,8 +1,4 @@
----
-icon: dollar-sign
----
-
-# Referly Campaign Setup Guide
+# 💲 Referly Campaign Setup Guide
 
 ***
 
@@ -29,7 +25,7 @@ After signing in, you will land on the main Referly dashboard. The central hub f
 
 The dashboard displays an overview of key metrics including active affiliates, total clicks, referrals and conversions, and revenue generated.
 
-<figure><img src="../../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -48,7 +44,7 @@ The **Campaign Settings** panel is where all core configuration lives - includin
    * **Affiliate Portal** - Branding and portal customization
    * **Tracking** - Link and cookie settings
 
-<figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -68,7 +64,7 @@ The **General** tab contains the foundational details of the affiliate program.
 
 4. Click **Save** to confirm the general settings
 
-<figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -95,9 +91,9 @@ The **Commission Plans** tab determines how affiliates earn money for successful
 
 > **Note:** The Base Commission Plan cannot be deleted - it is the default for all new affiliates. Additional custom plans can be created for specific affiliates later.
 
-<figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -109,33 +105,33 @@ To fetch your products automatically and set up referral tracking, please connec
 
 1. In the orange warning banner that reads _"No product integration connected,"_ click the **Connect Integration** button on the right side.&#x20;
 
-<figure><img src="../../.gitbook/assets/9 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/9 (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Select Stripe as the integration
 
 2. From the list of available integrations, choose **Stripe**. You may be prompted to log in to your Stripe account or enter an API key to authorize the connection.
 
-<figure><img src="../../.gitbook/assets/10 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/10 (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Authorise the Stripe connection
 
 3. Complete the OAuth flow or paste your Stripe Restricted API key (with read access to Products and Prices). Confirm the connection - the orange banner should disappear once successful.
 
-<figure><img src="../../.gitbook/assets/11 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/11 (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-03-16 142626.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-16 142626.png" alt=""><figcaption></figcaption></figure>
 
 #### Search and assign products/plans
 
 4. Use the **"Customer buys any of these products/plans"** search field to find your Stripe products. Leave it blank to apply the commission to all products, or select specific ones to target.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-03-16 142741.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-16 142741.png" alt=""><figcaption></figcaption></figure>
 
 #### Confirm commission settings and save
 
 5. Verify your **Commission Frequency** (Recurring Basis is selected) and **Commission Type** (Percentage is selected) match your program requirements, then save the plan.
 
-<figure><img src="../../.gitbook/assets/Screenshot 2026-03-16 142950.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2026-03-16 142950.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -153,9 +149,9 @@ The **Affiliate Portal** is the branded interface where affiliates log in to vie
 
 > **Tip:** A well-branded affiliate portal improves affiliate trust and signup conversion rates.
 
-<figure><img src="../../.gitbook/assets/6 (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/6 (13).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/7 (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/7 (6).png" alt=""><figcaption></figcaption></figure>
 
 Complete the following fields:
 
@@ -164,7 +160,7 @@ Complete the following fields:
 
 Click **Save** to apply the changes.
 
-<figure><img src="../../.gitbook/assets/12 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/12 (2).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -184,7 +180,7 @@ This is extremely important. Using any other keyword may prevent referral tracki
 >
 > Choosing any other keyword may prevent the Affiliate Program from functioning correctly on your dashboard, as referral tracking depends on this exact setting.
 
-<figure><img src="../../.gitbook/assets/8 (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/8 (5).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -225,7 +221,7 @@ This is extremely important. Using any other keyword may prevent referral tracki
 * Click "Save" or "Activate" to enable the cash payout method.
 * A confirmation message should appear indicating the method is now active.
 
-<figure><img src="../../.gitbook/assets/13 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/13 (1).png" alt=""><figcaption></figcaption></figure>
 
 6. **Test the Payout Setup**
 
@@ -248,7 +244,7 @@ With tracking live and the campaign configured, the next step is bringing affili
 1. From the main dashboard, navigate to the **Affiliates** section in the left sidebar
 2.  Click **Invite Affiliates** or **Add Affiliate**<br>
 
-    <figure><img src="../../.gitbook/assets/15 (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/15 (1).png" alt=""><figcaption></figcaption></figure>
 3.  Choose one of the following methods: \
     **Option A - Share the Signup Link:**
 
@@ -269,7 +265,7 @@ After approval, the affiliate automatically receives:
 * Access to the branded affiliate portal
 * A personal dashboard showing clicks, referrals, and earnings
 
-<figure><img src="../../.gitbook/assets/14 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/14 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -295,7 +291,7 @@ Before promoting the program publicly, verify that all components are working co
 
 > **If tracking is not recording:** Return to **Campaign Settings → Tracking** and use the **Test Tracking** tool to diagnose the issue. Confirm the tracking script is installed correctly on the website.
 
-<figure><img src="../../.gitbook/assets/16 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/16 (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 

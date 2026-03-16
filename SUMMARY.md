@@ -120,8 +120,8 @@
 
 ## Customer Dashboard
 
-* [💰 Affiliate System](customer-dashboard/affiliate-system/README.md)
-  * [Referly Campaign Setup Guide](customer-dashboard/affiliate-system/referly-campaign-setup-guide.md)
+* [💰 Affiliate System](customer-dashboard/affiliate-system.md)
+* [💲 Referly Campaign Setup Guide](customer-dashboard/referly-campaign-setup-guide.md)
 * [🛃 Custom Pools](customer-dashboard/custom-pools.md)
 * [♐ View Data Usage](customer-dashboard/view-data-usage.md)
 * [🖱️ Access user settings](customer-dashboard/access-user-settings.md)
