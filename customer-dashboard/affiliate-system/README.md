@@ -1,7 +1,7 @@
 # 💰 Affiliate System
 
 {% hint style="info" %}
-#### Affiliate Program Overview
+## Affiliate Program Overview
 
 The Torch Labs platform includes a built-in **Affiliate Program** that allows customers to earn commissions by referring new users.
 
@@ -51,12 +51,12 @@ Torch Labs currently has a limited number of **Pushlap Growth (Referly) campaign
 
 These tokens allow users to activate the affiliate system **without needing to create their own Referly account**.
 
-#### Availability
+### Availability
 
 * Tokens will be provided **free of charge to the first 10 users**.
 * Availability is limited and provided **on a first-come, first-served basis**.
 
-#### How to Request a Token
+### How to Request a Token
 
 To request a Pushlap Growth token:
 
@@ -64,7 +64,7 @@ To request a Pushlap Growth token:
 2. Request **Pushlap Growth Affiliate Token Access.**
 3. Our team will confirm availability and provide the required credentials if you are eligible.
 
-#### If You Receive a Token
+### If You Receive a Token
 
 If our team provides you with a token:
 
@@ -72,7 +72,7 @@ If our team provides you with a token:
 * You can **skip the Referly campaign creation steps**
 * Simply use the **credentials provided by Torch Labs** to activate the affiliate system.
 
-#### If You Do Not Receive a Token
+### If You Do Not Receive a Token
 
 If tokens are no longer available, you will need to:
 
@@ -80,6 +80,101 @@ If tokens are no longer available, you will need to:
 * Set up a **new affiliate campaign**
 
 The setup process for this is explained in the section below.
+
+## Creating an Affiliate Campaign on [Referly](https://www.referly.so/) (formally known as Pushlap Growth)
+
+{% hint style="info" %}
+**Only follow this section if you are creating your own Referly account.**
+
+If Torch Labs has already provided you with a **Pushlap token**, you can **skip this section**.
+{% endhint %}
+
+### Step 1: Create a Campaign
+
+After logging into the Referly dashboard:
+
+1. Click **"Create New Program."**
+
+This will begin the campaign setup process.
+
+<figure><img src="../../.gitbook/assets/Untitled design (5).png" alt=""><figcaption></figcaption></figure>
+
+### Step 2: Enter Campaign Details
+
+Provide the following information:
+
+* **Campaign Program Title**
+* **Subdomain** (Your preference)
+
+Choose a title that clearly represents your affiliate program and a subdomain aligned with your brand.
+
+<figure><img src="../../.gitbook/assets/Untitled design (6).png" alt=""><figcaption></figcaption></figure>
+
+### Step 3: Configure Tracking Method
+
+Set the **Affiliate URL Tracking Method** to:
+
+**`aff`**
+
+This is extremely important.
+
+Using any other keyword may prevent referral tracking from functioning correctly on your dashboard.
+
+{% hint style="info" %}
+You must select **“aff”** from the available keyword options.
+
+Choosing any other keyword may prevent the Affiliate Program from functioning correctly on your dashboard, as referral tracking depends on this exact setting.
+{% endhint %}
+
+### Step 4: Configure Landing Page URL
+
+Enter your **Dashboard URL** as the **Landing Page URL**.
+
+This ensures that users who click an affiliate link are properly redirected and tracked.
+
+<figure><img src="../../.gitbook/assets/Untitled design (7).png" alt=""><figcaption></figcaption></figure>
+
+### Step 5: Configure Commission Settings
+
+Inside the Referly dashboard, configure:
+
+* Commission rate
+* Program settings
+* Other campaign options
+
+These settings control how affiliate rewards are calculated.
+
+<figure><img src="../../.gitbook/assets/FireShot Capture 186 -  - [www.referly.so].png" alt=""><figcaption></figcaption></figure>
+
+## **Important**
+
+### Obtaining Your API Key
+
+Once the campaign has been created, generate your **API Key**.
+
+Navigate to:
+
+**Referly Dashboard → Settings → Advanced**
+
+The API Key is required to connect the affiliate system with your platform.
+
+<figure><img src="../../.gitbook/assets/Untitled design (9).png" alt=""><figcaption></figcaption></figure>
+
+### Obtaining the Campaign Program ID
+
+You can find the **Campaign Program ID** directly in the Referly dashboard URL.
+
+After opening your campaign, check the page address in your browser:
+
+```
+referly.so/dashboard/campaign/<campaign-program-id>
+```
+
+The value shown in place of `<campaign-program-id>` is your **Campaign Program ID**.
+
+This ID must be entered in the system configuration to complete the integration.
+
+<figure><img src="../../.gitbook/assets/Untitled design (10).png" alt=""><figcaption></figcaption></figure>
 
 ## Accessing Your Affiliate Link
 
@@ -114,101 +209,6 @@ Please double-check all entries before saving your settings to ensure the affili
 4. Customers can access the **Affiliate Portal** directly from the navigation bar in their dashboard.
 
 <figure><img src="../../.gitbook/assets/Untitled design (11).png" alt=""><figcaption></figcaption></figure>
-
-### Creating an Affiliate Campaign on [Referly](https://www.referly.so/) (formally known as Pushlap Growth)
-
-{% hint style="info" %}
-**Only follow this section if you are creating your own Referly account.**
-
-If Torch Labs has already provided you with a **Pushlap token**, you can **skip this section**.
-{% endhint %}
-
-### Step 1: Create a Campaign
-
-After logging into the Referly dashboard:
-
-1. Click **"Create New Program."**
-
-This will begin the campaign setup process.
-
-<figure><img src="../../.gitbook/assets/Untitled design (5).png" alt=""><figcaption></figcaption></figure>
-
-### Step 2: Enter Campaign Details
-
-Provide the following information:
-
-* **Campaign Program Title**
-* **Subdomain** (Your preference)
-
-Choose a title that clearly represents your affiliate program and a subdomain aligned with your brand.
-
-<figure><img src="../../.gitbook/assets/Untitled design (6).png" alt=""><figcaption></figcaption></figure>
-
-### Step 3: Configure Tracking Method
-
-Set the **Affiliate URL Tracking Method** to:
-
-**aff**
-
-This is extremely important.
-
-Using any other keyword may prevent referral tracking from functioning correctly on your dashboard.
-
-{% hint style="info" %}
-You must select **“aff”** from the available keyword options.
-
-Choosing any other keyword may prevent the Affiliate Program from functioning correctly on your dashboard, as referral tracking depends on this exact setting.
-{% endhint %}
-
-### Step 4: Configure Landing Page URL
-
-Enter your **Dashboard URL** as the **Landing Page URL**.
-
-This ensures that users who click an affiliate link are properly redirected and tracked.
-
-<figure><img src="../../.gitbook/assets/Untitled design (7).png" alt=""><figcaption></figcaption></figure>
-
-### Step 5: Configure Commission Settings
-
-Inside the Referly dashboard, configure:
-
-* Commission rate
-* Program settings
-* Other campaign options
-
-These settings control how affiliate rewards are calculated.
-
-<figure><img src="../../.gitbook/assets/FireShot Capture 186 -  - [www.referly.so].png" alt=""><figcaption></figcaption></figure>
-
-## **Important**
-
-#### Obtaining Your API Key
-
-Once the campaign has been created, generate your **API Key**.
-
-Navigate to:
-
-**Referly Dashboard → Settings → Advanced**
-
-The API Key is required to connect the affiliate system with your platform.
-
-<figure><img src="../../.gitbook/assets/Untitled design (9).png" alt=""><figcaption></figcaption></figure>
-
-#### Obtaining the Campaign Program ID
-
-You can find the **Campaign Program ID** directly in the Referly dashboard URL.
-
-After opening your campaign, check the page address in your browser:
-
-```
-referly.so/dashboard/campaign/<campaign-program-id>
-```
-
-The value shown in place of `<campaign-program-id>` is your **Campaign Program ID**.
-
-This ID must be entered in the system configuration to complete the integration.
-
-<figure><img src="../../.gitbook/assets/Untitled design (10).png" alt=""><figcaption></figcaption></figure>
 
 ## Need Help?
 
