@@ -43,11 +43,11 @@ The **Campaign Settings** panel is where all core configuration lives - includin
 1. From the dashboard, click the campaign name in the left sidebar
 2. Select **"Campaign Settings"** from the dropdown or submenu
 3. The Campaign Settings panel opens, displaying multiple configuration tabs:
-   * **General** — Campaign name, description, and basic settings
-   * **Commission Plans** — How affiliates are rewarded
-   * **Affiliate Portal** — Branding and portal customization
-   * **Tracking** — Link and cookie settings
-   * **Integrations** — Payment and platform connections
+   * **General** - Campaign name, description, and basic settings
+   * **Commission Plans** - How affiliates are rewarded
+   * **Affiliate Portal** - Branding and portal customization
+   * **Tracking** - Link and cookie settings
+   * **Integrations** - Payment and platform connections
 
 <figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
@@ -110,17 +110,17 @@ The **Affiliate Portal** is the branded interface where affiliates log in to vie
 
 1. Navigate to **Campaign Settings → Affiliate Portal**
 2. Complete the following fields:
-   * **Portal Name** — The name affiliates will see (e.g., "Acme Co. Partner Portal")
-   * **Logo** — Upload the company logo (recommended: 200×60px, PNG format)
-   * **Brand Color** — Set the primary color using a hex code (e.g., `#4F46E5`)
+   * **Portal Name** - The name affiliates will see (e.g., "Acme Co. Partner Portal")
+   * **Logo** - Upload the company logo (recommended: 200×60px, PNG format)
+   * **Brand Color** - Set the primary color using a hex code (e.g., `#4F46E5`)
 3. The **Affiliate Signup Link** is automatically generated on this page - copy and save it for Step 7
 4. Click **Save** to apply the customization
 
 > **Tip:** A well-branded affiliate portal improves affiliate trust and signup conversion rates.
 
-```
-Screenshot: Referly Campaign Settings — Affiliate Portal tab, showing the Portal Name field, Logo upload area, Brand Color picker, and the auto-generated Affiliate Signup Link in a copyable text field. The Save button is visible at the bottom.
-```
+<figure><img src="../../.gitbook/assets/6 (13).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/7 (6).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -130,19 +130,19 @@ Proper tracking setup ensures referral clicks and conversions are accurately att
 
 **To configure tracking:**
 
-1. Navigate to **Campaign Settings → Tracking**
-2. Locate the **Tracking Script** section
-3. Copy the provided JavaScript tracking snippet
-4. Paste the snippet into the `<head>` section of every page on the business website (or install via a tag manager such as Google Tag Manager)
-5. On the **purchase confirmation or thank-you page**, also add the conversion event code provided by Referly
-6. Click **Test Tracking** to verify the script is detecting events correctly
-7. Confirm a green status indicator confirms tracking is active
+Set the **Affiliate URL Tracking Method** to:
 
-> **Important:** Do not launch the campaign until tracking is confirmed. Without it, referrals and commissions cannot be attributed.
+**`aff`**
 
-```
-Screenshot: Referly Campaign Settings — Tracking tab, showing the JavaScript tracking snippet in a code block with a Copy button, the conversion event code below it, the Test Tracking button, and a green "Tracking Active" status indicator.
-```
+This is extremely important. Using any other keyword may prevent referral tracking from functioning correctly on your dashboard.
+
+> **Important:** You must select **“aff”** from the available keyword options.
+>
+> Choosing any other keyword may prevent the Affiliate Program from functioning correctly on your dashboard, as referral tracking depends on this exact setting.
+
+<figure><img src="../../.gitbook/assets/8 (5).png" alt=""><figcaption></figcaption></figure>
+
+
 
 ***
 
@@ -174,9 +174,7 @@ After approval, the affiliate automatically receives:
 * Access to the branded affiliate portal
 * A personal dashboard showing clicks, referrals, and earnings
 
-```
-Screenshot: Referly Affiliates section showing the Affiliates list with one pending affiliate highlighted, the Approve button visible on the right side of the row, and the Invite Affiliates button in the top right corner.
-```
+
 
 ***
 
@@ -202,9 +200,7 @@ Before promoting the program publicly, verify that all components are working co
 
 > **If tracking is not recording:** Return to **Campaign Settings → Tracking** and use the **Test Tracking** tool to diagnose the issue. Confirm the tracking script is installed correctly on the website.
 
-```
-Screenshot: Referly main dashboard with the Campaign status showing "Active" in Campaign Settings, and the Tracking & Sales section showing a recorded test referral with the commission amount displayed.
-```
+
 
 ***
 
