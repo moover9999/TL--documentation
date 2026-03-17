@@ -2,7 +2,7 @@
 
 You may get an error message as follows or any similar error indication when there is an auth error.
 
-<figure><img src="../../.gitbook/assets/a (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/a (4).png" alt=""><figcaption></figcaption></figure>
 
 Invalid OAuth error occurs when you missed one step while completing the onboarding process. Please refer to the following guide.
 

@@ -94,15 +94,15 @@ After informing Torch Labs admins you can start registering the API and refer to
 
 1. Go to _Datacenter_ tab on Admin Dashboard.
 
-<figure><img src="../../.gitbook/assets/5 (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (7).png" alt=""><figcaption></figcaption></figure>
 
 2\. Click on the dropdown list before the new batch and select MPM ISPs from the list.
 
-<figure><img src="../../.gitbook/assets/a (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/a (9).png" alt=""><figcaption></figcaption></figure>
 
 3\. Then select the relevant server from the dropdown list.
 
-<figure><img src="../../.gitbook/assets/c (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/c (2).png" alt=""><figcaption></figcaption></figure>
 
 If you precisely registered, all the APIs would appear under the dropdown list including _MPM Proxies_. ISP API batch types for all the customers are now shown as MPM Proxies. Accordingly, choose the relevant option when creating the new batch.
 

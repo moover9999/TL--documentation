@@ -70,7 +70,7 @@ To brand the proxies under your domain follow these steps:
 6. Your custom domain will now be accessible via the URL: `example.mydomain.com`
 7. An example on Godaddy is linked below:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 8. Here are the white labeling data summary for HTTP/HTTPS and SOCKS5:
 
@@ -104,7 +104,7 @@ To brand the proxies under your domain follow these steps:
 4. Thus if your domain is [API.com](http://api.com/) and you enter the host premium or whatever you want to call it pointing to the PacketStream domain, your proxies will be formatted [premium.yourdomain.com](http://premium.yourdomain.com/):port:user:pass
 5. An example on Godaddy is linked below:
 
-<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
 6. Here are the white labeling data summary for HTTP/HTTPS and SOCKS5:
 

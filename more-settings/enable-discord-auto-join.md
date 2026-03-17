@@ -1,4 +1,4 @@
-# 🎟 Enable discord auto join
+# 🎟️ Enable discord auto join
 
 {% hint style="info" %}
 This section would provide you with a guide on how to enable Discord auto-join. If you enable this anyone who visits the website would be auto-joined to the discord server as well.
@@ -10,23 +10,23 @@ If someone is already in the server this can't have experimented.
 
 1. Click on the APP you made for the Authentication during the initial onboarding.&#x20;
 
-![](<../.gitbook/assets/1 (63) (4).png>)
+![](<../.gitbook/assets/1 (63) (8).png>)
 
 2\. Go to bot and click Add bot as shown here.
 
-![](<../.gitbook/assets/1 (65) (2).png>)
+![](<../.gitbook/assets/1 (65) (3).png>)
 
 3\. Then click Yes.
 
-![](<../.gitbook/assets/1 (66) (3).png>)
+![](<../.gitbook/assets/1 (66) (4).png>)
 
 4\. Give the Bot Administrator permission.
 
-![](<../.gitbook/assets/1 (67) (3).png>)
+![](<../.gitbook/assets/1 (67) (2).png>)
 
 5\. Click reset token.
 
-![](<../.gitbook/assets/1 (68) (3).png>)
+![](<../.gitbook/assets/1 (68) (2).png>)
 
 6\. Then click yes.
 
@@ -34,12 +34,12 @@ If someone is already in the server this can't have experimented.
 
 7\. Next copy the token.&#x20;
 
-![](<../.gitbook/assets/1 (72) (5).png>)
+![](<../.gitbook/assets/1 (72) (1).png>)
 
 8\. Then go to the admin dashboard and more settings, also click enable auto-join.
 
-![](<../.gitbook/assets/1 (73) (1).png>)
+![](<../.gitbook/assets/1 (73).png>)
 
 9\. Paste the token that was copied and save it.
 
-![](<../.gitbook/assets/1 (74) (2).png>)
+![](<../.gitbook/assets/1 (74) (1).png>)

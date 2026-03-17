@@ -14,19 +14,19 @@ Internal notes are only visible to admins and not the users
 
 1. Go to Datacenter / Account tab on the admin dashboard
 
-<figure><img src="../.gitbook/assets/1 (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (16).png" alt=""><figcaption></figcaption></figure>
 
 2\. Select _Create Order_
 
-<figure><img src="../.gitbook/assets/2 (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (15).png" alt=""><figcaption></figcaption></figure>
 
 3\. Select the user that the accounts / ISPs to be added for
 
-<figure><img src="../.gitbook/assets/a (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/a (6).png" alt=""><figcaption></figcaption></figure>
 
 4\. Select the product that needs to be added
 
-<figure><img src="../.gitbook/assets/b (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/b (4).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 If you are using TL ISP API ([what-is-the-torch-labs-isp-api.md](../errors-and-faq/isps/what-is-the-torch-labs-isp-api.md "mention")), the proxy list will automatically populate.
@@ -42,7 +42,7 @@ If you are not using TL ISP API then proceed with the below steps
 
 Paste the ISPs / Account list here
 
-<figure><img src="../.gitbook/assets/c (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/c (5).png" alt=""><figcaption></figcaption></figure>
 
 6\. Set the expiration date or the number of days from creation date to expiration date for the pasted list.
 
@@ -50,15 +50,15 @@ Paste the ISPs / Account list here
 If you are using TL ISP API, you do not need to set expiration date as it is automated.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/d (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/d (2).png" alt=""><figcaption></figcaption></figure>
 
 7\. Admin can add an internal note here as required
 
-<figure><img src="../.gitbook/assets/e (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/e.png" alt=""><figcaption></figcaption></figure>
 
 7.1 That internal note would be displayed in Transactions tab under payment sub-tab
 
-<figure><img src="../.gitbook/assets/3 (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3 (12).png" alt=""><figcaption></figcaption></figure>
 
 8. Tick confirm and then select add.
 

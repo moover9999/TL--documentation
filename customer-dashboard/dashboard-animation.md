@@ -1,4 +1,4 @@
-# ‼ Dashboard Animation
+# ‼️ Dashboard Animation
 
 
 
@@ -8,11 +8,11 @@ When this option is enabled, animations on the customer dashboard will be disabl
 
 1. Go to _Other Settings_ on the admin dashboard
 
-<figure><img src="../.gitbook/assets/1 (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (25).png" alt=""><figcaption></figcaption></figure>
 
 2. By default, the animation is enabled on the customer dashboard. Hence only if you want to disable it you can click on disable dashboard animation.
 
-<figure><img src="../.gitbook/assets/2 (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (20).png" alt=""><figcaption></figcaption></figure>
 
 3. This is how to animation looks like when you hover around the product section
 

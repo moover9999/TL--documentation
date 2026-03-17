@@ -10,5 +10,5 @@ If you want to leave a Thank you note or similar note to your delivered order, P
 
 2\. Edit the list or note then click confirm and save.
 
-![](<../.gitbook/assets/1 (62) (5).png>)
+![](<../.gitbook/assets/1 (62) (4).png>)
 

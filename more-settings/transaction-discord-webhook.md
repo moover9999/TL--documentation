@@ -7,17 +7,17 @@ Enable this feature to get transactions such as purchases, renewals, etc. direct
 1. Select _**server settings**_ on discord
 2. Select _**integration**_ & Click _**create webhook**_
 
-![](<../.gitbook/assets/5 (3).jpg>)
+![](<../.gitbook/assets/5 (2).jpg>)
 
 3\. Then give a name and a channel to record the notification
 
-![](<../.gitbook/assets/6 (1).jpg>)
+![](../.gitbook/assets/6.jpg)
 
 4\. Click _**Save Changes**_
 
 5\. Click _**copy webhook URL**_ and paste on the dashboard, enable _**disable webhook**_ and click _**Save.**_
 
-![](<../.gitbook/assets/7 (1).jpg>)
+![](../.gitbook/assets/7.jpg)
 
 6\. Webhook Embed Color Codes by Transaction Type
 

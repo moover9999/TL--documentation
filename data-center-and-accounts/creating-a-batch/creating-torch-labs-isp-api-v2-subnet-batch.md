@@ -56,7 +56,7 @@ Available subnet plans:
 
 2. Go to the **Datacenter** tab on the Admin Dashboard.
 
-<figure><img src="../../.gitbook/assets/1 (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (27).png" alt=""><figcaption></figcaption></figure>
 
 3. Click on the dropdown list before the Batch Type and select TL API V2.
 
@@ -64,7 +64,7 @@ Available subnet plans:
 Just a quick reminder: You'll also need to request the **TL API V2** to be activated on the ticket before you can see it on the drop-down list.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/1 (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (28).png" alt=""><figcaption></figcaption></figure>
 
 4. Select the product
 
@@ -76,7 +76,7 @@ Just a quick reminder: You'll also need to request the **TL API V2** to be activ
 * Retail+ Pool: **SN\_US\_RETAILPLUS, SN\_UK\_RETAILPLUS**
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/2 (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (22).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **ISP\_** is 1 IP
@@ -86,7 +86,7 @@ Just a quick reminder: You'll also need to request the **TL API V2** to be activ
 
 5. After selecting the Batch Type and Product, click on the '**New Batch**' icon button.
 
-<figure><img src="../../.gitbook/assets/3 (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (19).png" alt=""><figcaption></figcaption></figure>
 
 6. Now you can add a stock limit, tick confirm and select launch.
 
@@ -94,7 +94,7 @@ Just a quick reminder: You'll also need to request the **TL API V2** to be activ
 Please note that the expiration is hardcoded for 30 days by default and this cannot be changed. This means your customers will be able to use their proxies for 30 days.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/4 (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (13).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Click on **Enable Stock** **Limit** to set the available stock quantity.
@@ -104,7 +104,7 @@ Click on **Enable Stock** **Limit** to set the available stock quantity.
 You may also leave the stock limit D**isabled** and continue with the process.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/5 (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (13).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 When setting the stock limit, please enter values in multiples of **256** (e.g., 256, 512, 768, 1024, and so on).

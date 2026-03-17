@@ -8,5 +8,5 @@ This additional service would cost $40 per month.
 
 _It is indicated as follows before and after white-labeling the developer's identity_
 
-<figure><img src="../../.gitbook/assets/a (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/a (17).png" alt=""><figcaption></figcaption></figure>
 

@@ -8,32 +8,32 @@ There are many reasons you might want to use a third-party DNS server, from pare
 
 1. Click on Domains and then click on _**All Domains**_
 
-![](<../.gitbook/assets/image (6) (1) (1).png>)
+![](<../.gitbook/assets/image (50).png>)
 
 2\. From the list of your current domains, click on the domain you own.
 
-![](<../.gitbook/assets/image (11) (1).png>)
+![](<../.gitbook/assets/image (41).png>)
 
 3\. Next, scroll all the way to the end of the page and you should see a _**Manage DNS**_ option
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (46).png>)
 
 4\. Here you can add your new DNS records
 
-![](<../.gitbook/assets/image (3) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (33).png>)
 
 ## Namecheap DNS settings
 
 1. Click on your _**Account**_ and then choose _**Domain List.**_
 
-![](<../.gitbook/assets/image (18).png>)
+![](<../.gitbook/assets/image (44).png>)
 
 2\. Find your domain and click _**Manage.**_
 
-![](<../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (52).png>)
 
 3\. Next, go to the _**Advanced DNS**_ tab.
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (42).png>)
 
 4\. Now you can create any DNS record you want

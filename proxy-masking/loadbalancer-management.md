@@ -10,7 +10,7 @@ DO NOT CHANGE ANYTHING IN THE SERVER/DROPLET SECTION. Changing anything here wil
 
 Based on your setup, your DO account should look something like the below image:
 
-![](../.gitbook/assets/Screen\_Shot\_2022-02-23\_at\_10.22.07\_AM.png)
+![](../.gitbook/assets/Screen_Shot_2022-02-23_at_10.22.07_AM.png)
 
 The **LOAD BALANCERS** is where all your load balancers exist
 
@@ -30,7 +30,7 @@ In computing, a server is a piece of computer hardware or software that provides
 
 Our special masking script is installed on your servers. This script routes the traffic to the proxy domain via the server acting as a middleman. However, all the initial traffic comes to one main point which is the load balancers. Then the load balancer distributes this traffic to one or more connected servers.
 
-![](<../.gitbook/assets/image (10) (1).png>)
+![](<../.gitbook/assets/image (38).png>)
 
 A load balancer on DO can handle 10,000 simultaneous connections and 10,000 connections per second. What this means is that each connection is one proxy connection coming from a user. So based on how many users you have and how much demand you anticipate for a drop you need to increase the number of load balancer nodes. Each extra node gives you an additional 10,000 simultaneous connections.&#x20;
 

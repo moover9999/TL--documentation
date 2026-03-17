@@ -10,7 +10,7 @@ This section will guide you to update your company name to appear as the title a
 
 2\. Enter the company name under the Dashboard UI section and click Update.
 
-<figure><img src="../../.gitbook/assets/3 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (15).png" alt=""><figcaption></figcaption></figure>
 
 _The name will be updated in 02 places such as the Title name and the footer name._
 
@@ -20,4 +20,4 @@ _The name will be updated in 02 places such as the Title name and the footer nam
 
 **Footer Name**
 
-<figure><img src="../../.gitbook/assets/5 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (5).png" alt=""><figcaption></figcaption></figure>

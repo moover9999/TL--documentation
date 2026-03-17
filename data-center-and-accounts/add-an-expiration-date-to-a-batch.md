@@ -16,25 +16,25 @@ This guide will help you to add an expiring date for the automatically and manua
 
 Once you update the IPs then you can select the expiry date of the IPs along with the time depending on the product.
 
-<figure><img src="../.gitbook/assets/1 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (10).png" alt=""><figcaption></figcaption></figure>
 
 #### Manual Release
 
 Here you have the option of setting the expiry date along with the time depending on the product.
 
-<figure><img src="../.gitbook/assets/2 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (5).png" alt=""><figcaption></figcaption></figure>
 
 _The expiry date of the orders is displayed on the User Dashboard as follows_
 
-<figure><img src="../.gitbook/assets/3 (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3 (4).png" alt=""><figcaption></figcaption></figure>
 
 If the user chooses to use a specific date instead of the number of days once the expiration date has passed, a warning message will be displayed beneath the specific order on the admin dashboard as follows.
 
-<figure><img src="../.gitbook/assets/a (2) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/a (5).png" alt=""><figcaption></figcaption></figure>
 
 When a user attempts to purchase an expired product, a message will be displayed on the customer dashboard as follows.
 
-<figure><img src="../.gitbook/assets/b (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/b (8).png" alt=""><figcaption></figcaption></figure>
 
 If you want to edit the expiration date please follow the following guide.
 

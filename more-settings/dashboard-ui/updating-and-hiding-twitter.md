@@ -16,7 +16,7 @@ This section will guide you on how to update your Twitter link to appear on the 
 
 _Twitter will be appeared on the user dashboard as follows_
 
-<figure><img src="../../.gitbook/assets/3 (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (13).png" alt=""><figcaption></figcaption></figure>
 
 #### Removing Twitter Icon
 

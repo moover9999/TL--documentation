@@ -8,11 +8,11 @@ Our dashboard provides customers with a range of options for generating differen
 
 1. Go to User Dashboard
 
-<figure><img src="../.gitbook/assets/1 (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (13).png" alt=""><figcaption></figcaption></figure>
 
 2\. Click on the drop-down of Proxy Pool and select the required provider.
 
-<figure><img src="../.gitbook/assets/3 (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3 (8).png" alt=""><figcaption></figcaption></figure>
 
 3\. Select the Proxy type (i.e. Sticky or Rotating)
 
@@ -40,11 +40,11 @@ Our dashboard provides customers with a range of options for generating differen
 It is a special pool of proxies generated that are of higher quality than the regular pool of proxies.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/a (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/a (13).png" alt=""><figcaption></figcaption></figure>
 
 6\. Select the country. Now you have the ability to choose multiple countries and generate custom pools.
 
-<figure><img src="../.gitbook/assets/7 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/7 (1).png" alt=""><figcaption></figcaption></figure>
 
 6.1 If you select the country as USA (United States of America) then you get the option of clicking on _Advance Settings_ only for Oxylabs , Smart , Geonode and IPRoyal.&#x20;
 
@@ -64,7 +64,7 @@ If you select a country other than the USA (United States of America), you can o
 
 8\. Once all the selections are done, click _Generate._
 
-<figure><img src="../.gitbook/assets/11 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/11.png" alt=""><figcaption></figcaption></figure>
 
 9. You can copy the proxies to paste them onto another clipboard, or you can choose to download them all at once.
 

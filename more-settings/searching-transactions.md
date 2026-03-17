@@ -14,7 +14,7 @@ This section will guide you to filter the transactions in the admin dashboard by
 
 1. Go to Admin Dashboard and click on the _Transactions_ tab
 
-<figure><img src="../.gitbook/assets/4 (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4 (6).png" alt=""><figcaption></figcaption></figure>
 
 2\. Filtering Section 01 - Select the drop-down arrow next to the search bar and select the filter you require (i.e. - discord id, discord tag, email, transaction ID & ISP)
 
@@ -22,13 +22,13 @@ This section will guide you to filter the transactions in the admin dashboard by
 
 2.1. Then enter the relevant data (i.e. discord id, discord tag, email, transaction ID, ISP ) associated with the filter you selected. Then click on the _search_ button.
 
-<figure><img src="../.gitbook/assets/6 (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/6 (3).png" alt=""><figcaption></figcaption></figure>
 
 3\. Filtering Section 02 - Select the first drop-down with _All_ on the top. Then you can filter the transactions based on the transaction type. (i.e. Customer order, Data update and customer subscription)
 
-<figure><img src="../.gitbook/assets/x (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/x (4).png" alt=""><figcaption></figcaption></figure>
 
 4\. Filtering Section 03 - Select the second drop-down with _All_ on the top. Then you can filter the transactions based on the transaction status. (i.e. Complete, Incomplete , Failed & Subscription canceled)
 
-<figure><img src="../.gitbook/assets/y (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/y (5).png" alt=""><figcaption></figcaption></figure>
 

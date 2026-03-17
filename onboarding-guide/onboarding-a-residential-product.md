@@ -14,11 +14,11 @@ Typically it would take 24 hours to complete the onboarding process.
 
 1. In order to set up the Stripe Product follow the below-mentioned steps. &#x20;
 
-![](<../.gitbook/assets/Untitled design (13).png>)
+![](<../.gitbook/assets/Untitled design (21).png>)
 
 2\. Firstly, Log in to the Stripe Account.
 
-![](<../.gitbook/assets/Untitled design (1) (2).png>)
+![](<../.gitbook/assets/Untitled design (1) (3).png>)
 
 3\. Right Side of the Stripe Dashboard find Products and click that.&#x20;
 
@@ -30,23 +30,23 @@ Typically it would take 24 hours to complete the onboarding process.
 
 5\. Then name your product
 
-![](<../.gitbook/assets/Untitled design (4) (5).png>)
+![](<../.gitbook/assets/Untitled design (4) (11).png>)
 
 6\. Also set the price for your product.
 
-![](<../.gitbook/assets/Untitled design (5) (4).png>)
+![](<../.gitbook/assets/Untitled design (5) (5).png>)
 
 7\. Click "One Time" below Price.&#x20;
 
-![](<../.gitbook/assets/Untitled design (6) (5).png>)
+![](<../.gitbook/assets/Untitled design (6) (6).png>)
 
 8\. To add another product, Repeat the process.
 
-![](<../.gitbook/assets/Untitled design (7) (4).png>)
+![](<../.gitbook/assets/Untitled design (7) (2).png>)
 
 9\. After adding the products, View Additional Options.
 
-![](<../.gitbook/assets/Untitled design (8) (7).png>)
+![](<../.gitbook/assets/Untitled design (8) (5).png>)
 
 10\. Then add Metadata Key the exact text for the MetaData section can be found below, Copy and Paste from the below to omit errors. Then save the product.
 
@@ -54,13 +54,13 @@ Typically it would take 24 hours to complete the onboarding process.
 
 11\. Here you can view all the prices created, And click on a price.
 
-![](<../.gitbook/assets/Untitled design (1) (5).png>)
+![](<../.gitbook/assets/Untitled design (1) (6).png>)
 
 
 
 12\. To add bandwidth limit Click Edit MetaData. In the first field add "data\_gb" followed but your desired No. of GB for that price and save. And repeat the same for other prices as well.
 
-![](<../.gitbook/assets/Untitled design (11) (7).png>)
+![](<../.gitbook/assets/Untitled design (11) (3).png>)
 
 13\. Now go-to products and now we are done with our first product. We do not recommend making more than 6 prices per product.
 
@@ -68,7 +68,7 @@ Typically it would take 24 hours to complete the onboarding process.
 
 14\. Then go back to the onboarding site and choose the plan we just set up.
 
-![](<../.gitbook/assets/Untitled design (13) (2).png>)
+![](<../.gitbook/assets/Untitled design (13) (4).png>)
 
 15\. And then sync with the stripe.
 

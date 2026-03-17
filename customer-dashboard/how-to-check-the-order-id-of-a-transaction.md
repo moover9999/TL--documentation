@@ -12,8 +12,8 @@ We have introduced a new feature that adds an "Order ID" to transactions on the 
 
 2. In the top-left corner of the window, you’ll find a section labelled "**Recent Orders**". This area provides a summary of your recent transactions. Within this section, there is a column titled "**ID**," where you can view the **Transaction IDs** for each order. These IDs are unique to each transaction, allowing you to easily track and manage your ISP orders.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 3. To copy a Transaction ID, simply click on it. Once copied, the ID will change to green, indicating that it has been successfully copied.
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>

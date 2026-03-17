@@ -1,4 +1,4 @@
-# ⚓ Creating a Torch Labs PAYG ISP API batch
+# ⚓ Creating a Torch Labs ISP API batch
 
 1. First, you need to [creating-a-recurring-price-for-a-product.md](../../product-settings/creating-a-recurring-price-for-a-product.md "mention")and set a custom recurring period to 28 days instead of a month
 
@@ -8,7 +8,7 @@ you need to make sure, the price you have created has a custom recurring period 
 
 <mark style="color:red;">Before getting started, make sure you have configured automatic subscription cancellation on stripe following this guide:</mark> [cancel-subscription-after-payment-retries.md](../../errors-and-faq/stripe/cancel-subscription-after-payment-retries.md "mention")
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-04-12 at 3.57.09 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-12 at 3.57.09 PM (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Depending on the product you can add any **Quantity between 1 to 200.**
@@ -44,7 +44,7 @@ Please remember this when adding the `amount` metadata field inside the Stripe p
 
 3. Go to the _Datacenter_ tab on Admin Dashboard.
 
-<figure><img src="../../.gitbook/assets/5 (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (7).png" alt=""><figcaption></figcaption></figure>
 
 4\. Click on the dropdown list before the new batch and select TL API
 

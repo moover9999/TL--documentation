@@ -10,7 +10,7 @@ If you need a more secure way to restrict the dashboard, please check :
 [restrict-dashboard-access.md](../restrict-dashboard-access.md)
 {% endcontent-ref %}
 
-![Example Password Page](<../../.gitbook/assets/Screen Shot 2022-01-23 at 8.10.17 PM (1).png>)
+![Example Password Page](<../../.gitbook/assets/Screen Shot 2022-01-23 at 8.10.17 PM.png>)
 
 1. You can find all the settings related to passwords in the _**Release**_ tab on the admin dashboard.
 

@@ -6,11 +6,11 @@ This guide will help you hide a product on the customer dashboard. If you have a
 
 1. Click on the product tab on the admin dashboard.
 
-<figure><img src="../.gitbook/assets/a (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/a (19).png" alt=""><figcaption></figcaption></figure>
 
 2. Select the Edit Icon
 
-<figure><img src="../.gitbook/assets/b (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/b (13).png" alt=""><figcaption></figcaption></figure>
 
 3. Click the Hide/Show Button
 

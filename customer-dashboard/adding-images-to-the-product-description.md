@@ -6,11 +6,11 @@ This guide will help you add an image to a product on the customer dashboard.
 
 1. Go to Stripe and Select "Product Catalog."
 
-<figure><img src="../.gitbook/assets/a (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/a (18).png" alt=""><figcaption></figcaption></figure>
 
 2. Choose the relevant product that needs an image.
 
-<figure><img src="../.gitbook/assets/b (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/b (12).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -28,7 +28,7 @@ This guide will help you add an image to a product on the customer dashboard.
 
 6. Select the edit icon to update the product.
 
-<figure><img src="../.gitbook/assets/d (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/d (6).png" alt=""><figcaption></figcaption></figure>
 
 6. Click the "Additional Features" button.
 

@@ -23,7 +23,7 @@ Any product can have two types of prices:&#x20;
 
 1\. First, Log in to the Stripe Account.
 
-![](<../.gitbook/assets/Untitled design (1) (2).png>)
+![](<../.gitbook/assets/Untitled design (1) (3).png>)
 
 2\. Click on the _**Products**_ tab found on the right navigation pane of the _Stripe Dashboa&#x72;_&#x64;.
 
@@ -47,17 +47,17 @@ The name you enter here is what the dashboard will call the product.
 This is the price that customers will be paying for your product
 {% endhint %}
 
-![](<../.gitbook/assets/Untitled design (5) (4).png>)
+![](<../.gitbook/assets/Untitled design (5) (5).png>)
 
 6\. Click _**One Time**_ or _**Recurring**_ for the pricing section.
 
 More info regarding recurring pricing can be found below:
 
-![](<../.gitbook/assets/Untitled design (6) (5).png>)
+![](<../.gitbook/assets/Untitled design (6) (6).png>)
 
 7\. Please repeat this process to add another price for the same product.
 
-![](<../.gitbook/assets/Untitled design (7) (4).png>)
+![](<../.gitbook/assets/Untitled design (7) (2).png>)
 
 8\. After adding all your prices, click _**Additional Options**_.
 
@@ -87,7 +87,7 @@ The next field is where we capture if you are making a daily/weekly/monthly prod
 In this example, there will be 10 proxies being delivered to the customer.
 {% endhint %}
 
-![](<../.gitbook/assets/1 (43) (1).png>)
+![](<../.gitbook/assets/1 (43).png>)
 
 12\. Now go-to products and now we are done with our first product.
 

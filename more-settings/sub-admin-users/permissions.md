@@ -8,19 +8,19 @@ This guide includes all the permission roles that could be assigned to a sub-adm
 
 These permissions allow users to view, edit, delete, and sync residential, datacenter, and accounts products. Also allows creating a batch for datacenter and accounts
 
-<figure><img src="../../.gitbook/assets/1 (9).png" alt=""><figcaption><p>All Products</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (8).png" alt=""><figcaption><p>All Products</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/1 (9).png" alt=""><figcaption><p>Sync Products</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (8).png" alt=""><figcaption><p>Sync Products</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/3 (1) (1).png" alt=""><figcaption><p>Create Batches</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (2).png" alt=""><figcaption><p>Create Batches</p></figcaption></figure>
 
 * `view_residential` , `view_datacenter`, `view_accounts`
 
 These permissions allow users to view only residential, datacenter, and accounts products.
 
-<figure><img src="../../.gitbook/assets/4 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/5 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (3).png" alt=""><figcaption></figcaption></figure>
 
 * `create_residential` , `create_datacenter`, `create_accounts`
 
@@ -30,7 +30,7 @@ These permissions allow users to sync residential, datacenter, and accounts prod
 
 These permissions allow users to enable and disable residential, datacenter, and accounts products, create batches for datacenter and accounts and edit the description of all products. Also, users need view permission for products to update.
 
-<figure><img src="../../.gitbook/assets/6 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6 (8).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/7.png" alt=""><figcaption></figcaption></figure>
 
@@ -38,13 +38,13 @@ These permissions allow users to enable and disable residential, datacenter, and
 
 This permission allows users to view, create, and delete coupons.
 
-<figure><img src="../../.gitbook/assets/8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/8 (4).png" alt=""><figcaption></figcaption></figure>
 
 * `view_coupons`
 
 This permission allows users to only view coupons.
 
-<figure><img src="../../.gitbook/assets/9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/9 (1).png" alt=""><figcaption></figcaption></figure>
 
 * `create_coupons`
 
@@ -56,7 +56,7 @@ This permission allows users to create coupons. also users need `view_coupons` p
 
 This permission allows users to delete coupons. Also, users need `view_coupons` permission to delete.
 
-<figure><img src="../../.gitbook/assets/11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/11 (1).png" alt=""><figcaption></figcaption></figure>
 
 * `all_transactions`
 
@@ -86,7 +86,7 @@ This permission allows users to update Transactions and fulfill orders. Also use
 
 This permission allows users to delete Transactions. also users need `view_transactions` permission to delete.
 
-<figure><img src="../../.gitbook/assets/18 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/18.png" alt=""><figcaption></figcaption></figure>
 
 * `all_users`
 

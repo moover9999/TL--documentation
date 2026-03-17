@@ -8,7 +8,7 @@ Further, this section will allow you to separately identify the profit, revenue,
 
 1. Go to the dashboard Home page to track analytics.
 
-![](<../.gitbook/assets/1 (62) (3).png>)
+![](<../.gitbook/assets/1 (62) (2).png>)
 
 2\. To configure analytics go to more settings and scroll below.
 
@@ -16,15 +16,15 @@ Further, this section will allow you to separately identify the profit, revenue,
 
 3\. Enter the cost of your products
 
-![](<../.gitbook/assets/1 (64) (6).png>)
+![](<../.gitbook/assets/1 (64) (3).png>)
 
 4\. Then save the data entered.
 
-![](<../.gitbook/assets/1 (65) (4).png>)
+![](<../.gitbook/assets/1 (65) (1).png>)
 
 5\. If you go to the home section you should be able to see your analytics page has the correct profit breakdown and revenue numbers based on the costs that you entered in analytics under the Other Settings tab.
 
-![](<../.gitbook/assets/1 (66) (5).png>)
+![](<../.gitbook/assets/1 (66) (3).png>)
 
 6\. Finally you can filter the analytics with data and other features. Based on thefilters you can generate the appropriate view you desire.
 

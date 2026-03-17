@@ -10,10 +10,10 @@ This section will guide you to update your Discord Link to appear on the user da
 
 2\. Enter the Discord Link under the Dashboard UI section and click Update.
 
-<figure><img src="../../.gitbook/assets/4 (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4 (7).png" alt=""><figcaption></figcaption></figure>
 
 
 
 _The Discord will appear on the user dashboard as follows_
 
-<figure><img src="../../.gitbook/assets/3 (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (13).png" alt=""><figcaption></figcaption></figure>

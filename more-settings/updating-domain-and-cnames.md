@@ -23,11 +23,11 @@ Once you complete updating DNS settings then you can go to the admin dashboard t
 
 4. Go to _More Settings_
 
-<figure><img src="../.gitbook/assets/a (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/a (14).png" alt=""><figcaption></figcaption></figure>
 
 5. Enter the new domain and click _Update domain_
 
-<figure><img src="../.gitbook/assets/b (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/b (9).png" alt=""><figcaption></figcaption></figure>
 
 6. If you have changed the cnames of the products, then enter the new names and click _update cnames_
 
@@ -35,4 +35,4 @@ Once you complete updating DNS settings then you can go to the admin dashboard t
 This step is necessary only if you have updated the product Cnames in your DNS settings; otherwise, no changes are required. Additionally, please note that the products listed in this section for updating CNAME are only the residential products that you have synced to the admin dashboard.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/c (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/c (7).png" alt=""><figcaption></figcaption></figure>

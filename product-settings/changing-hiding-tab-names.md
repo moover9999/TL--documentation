@@ -16,7 +16,7 @@ _For an example the tab names could be renamed as Tab 1, Tab 2 and Tab 3 as need
 
 The above changes will be displayed on the customer dashboard as follows
 
-![](<../.gitbook/assets/5 (2).jpg>)
+![](<../.gitbook/assets/5 (1).jpg>)
 
 #### Hiding Tabs
 
@@ -36,4 +36,4 @@ This feature helps you to hide unwanted products on the customer dashboard.
 Please ensure the new pathname consists only of letters, numbers, and hyphens. Special characters are not permitted. For example, 'isps' or 'tl-accounts' are valid, but 'new account' is not.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/x (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/x (6).png" alt=""><figcaption></figcaption></figure>

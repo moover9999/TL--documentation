@@ -47,7 +47,7 @@ Value - `254`&#x20;
 
 2. Go to the _Datacenter_ tab on the Admin Dashboard.
 
-<figure><img src="../../.gitbook/assets/1 (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (27).png" alt=""><figcaption></figcaption></figure>
 
 3. Click on the dropdown list before the new batch and select TL API
 
@@ -55,11 +55,11 @@ Value - `254`&#x20;
 You also need to request the TL API to be activated on the ticket before you can see it on the drop-down list.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/2 (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2 (21).png" alt=""><figcaption></figcaption></figure>
 
 4. Select the country/region
 
-<figure><img src="../../.gitbook/assets/3 (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (18).png" alt=""><figcaption></figcaption></figure>
 
 5. Select the product
 
@@ -87,7 +87,7 @@ socks: Socks5 proxies
 Further reference: [https://incogniton.com/socks-vs-http-proxy/](https://incogniton.com/socks-vs-http-proxy/)&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/5 (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (12).png" alt=""><figcaption></figcaption></figure>
 
 7. Now you can add a stock limit, tick confirm, and select launch.
 

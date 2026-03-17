@@ -25,7 +25,7 @@ Also, you can use the following command to see all the subscriptions.
 You can go up to 5 URLs here
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 3. Press Enter
 

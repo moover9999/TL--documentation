@@ -6,11 +6,11 @@ The manual batch method is good if you are not sure about the demand for your pr
 
 1. Go to the dashboard then data center and click the drop-down to choose the Manual.
 
-![](<../../.gitbook/assets/1 (71) (3).png>)
+![](<../../.gitbook/assets/1 (71).png>)
 
 2\. Click New Batch&#x20;
 
-![](<../../.gitbook/assets/1 (72) (4).png>)
+![](<../../.gitbook/assets/1 (72) (2).png>)
 
 3\. Once the pop up comes you can add a stock limit or confirm the order.&#x20;
 
@@ -22,7 +22,7 @@ The manual batch method is good if you are not sure about the demand for your pr
 
 4\. Click launch to make sure the batches are active.&#x20;
 
-![](<../../.gitbook/assets/1 (63) (6).png>)
+![](<../../.gitbook/assets/1 (63).png>)
 
 5. You have the option of adding an expiration date on ISPs and please find the following guide.
 

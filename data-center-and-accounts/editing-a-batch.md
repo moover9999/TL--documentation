@@ -10,7 +10,7 @@ You can add and remove items to both manual and automatic batches. However, you 
 
 2\. Add proxies here. Then Confirm and Launch&#x20;
 
-![](<../.gitbook/assets/1 (65) (5).png>)
+![](<../.gitbook/assets/1 (65).png>)
 
 
 

@@ -14,7 +14,7 @@ Furthermore, for datacenter and residential can only have one product under one 
 
 1. Go to Stripe and click on the Products tab. Then click on the product and edit the product.
 
-<figure><img src="../.gitbook/assets/a (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/a (8).png" alt=""><figcaption></figcaption></figure>
 
 2. Update the product names as required.
 
@@ -22,8 +22,8 @@ Furthermore, for datacenter and residential can only have one product under one 
 The character limit for the stripe product name is 225. Any product name can be displayed on the dashboard within this character limit. &#x20;
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/2 (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (2).png" alt=""><figcaption></figcaption></figure>
 
 2. Go to the Products tab on the admin dashboard > Sync the products on the admin dashboard to see the updated product names on the customer dashboard
 
-<figure><img src="../.gitbook/assets/a (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/a (2).png" alt=""><figcaption></figcaption></figure>

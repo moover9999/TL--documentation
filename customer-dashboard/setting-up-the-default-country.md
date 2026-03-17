@@ -1,4 +1,4 @@
-# 🎛 Setting up the Default Country
+# 🎛️ Setting up the Default Country
 
 {% hint style="info" %}
 This guide will help you to set up the default country of the User Dashboard.
@@ -13,4 +13,4 @@ This guide will help you to set up the default country of the User Dashboard.
 1. _Go to User Dashboard and click on the gear icon._
 2. _Select the preferred country as the default country by clicking the dropdown menu._
 
-<figure><img src="../.gitbook/assets/5 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5 (1).png" alt=""><figcaption></figcaption></figure>

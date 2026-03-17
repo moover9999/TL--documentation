@@ -10,35 +10,35 @@ Sometimes stripe will not allow you to edit a price if the price has already bee
 
 1. To change or remove the price of a product, this guide will be helpful. As mentioned below To change the price of the Plan Killer Basic data follow the guide.&#x20;
 
-![](<../.gitbook/assets/Untitled design (24).png>)
+![](<../.gitbook/assets/Untitled design (28).png>)
 
 2\. Go to your Stripe account and products.
 
-![](<../.gitbook/assets/Untitled design (2) (2).png>)
+![](<../.gitbook/assets/Untitled design (2) (4).png>)
 
 3\. Then go to the "Overview" page.&#x20;
 
-![](<../.gitbook/assets/Untitled design (1) (1).png>)
+![](<../.gitbook/assets/Untitled design (1) (9).png>)
 
 4\. Choose the correct plan as shown below "Killer Basic".
 
-![](<../.gitbook/assets/Untitled design (3) (6) (1).png>)
+![](<../.gitbook/assets/Untitled design (3) (9).png>)
 
 5\. Once choose the correct product, Then choose the correct price.&#x20;
 
-![](<../.gitbook/assets/Untitled design (4) (12).png>)
+![](<../.gitbook/assets/Untitled design (4) (7).png>)
 
 6\. Copy the metadata, And if you know the metadata then you don't have to copy it.&#x20;
 
-![](<../.gitbook/assets/Untitled design (5) (5).png>)
+![](<../.gitbook/assets/Untitled design (5) (8).png>)
 
 7\. The existing price needs to be archived before adding new, In order to do that click the three dots marked and you will get some options from that choose archive price.&#x20;
 
-![](<../.gitbook/assets/Untitled design (7) (5).png>)
+![](<../.gitbook/assets/Untitled design (7) (1).png>)
 
 8\. As shown then go to "Add Another Price"
 
-![](<../.gitbook/assets/Untitled design (6) (2).png>)
+![](<../.gitbook/assets/Untitled design (6) (4).png>)
 
 9\. Here choose one time, Give your desired price and finally "Add Price"
 
@@ -54,7 +54,7 @@ Sometimes stripe will not allow you to edit a price if the price has already bee
 [product-metadata.md](product-metadata.md)
 {% endcontent-ref %}
 
-![](<../.gitbook/assets/1 (21).png>)
+![](<../.gitbook/assets/1 (2).png>)
 
 12\. Here you will see the changes made.
 

@@ -1,4 +1,4 @@
-# 🏘 Filtering Users
+# 🏘️ Filtering Users
 
 {% hint style="info" %}
 This section will guide you to filter the users in the admin dashboard by using the filters such as discord id, discord tag and email.
@@ -6,8 +6,8 @@ This section will guide you to filter the users in the admin dashboard by using 
 
 1. Go to Admin Dashboard and click on the _Users_ tab
 
-<figure><img src="../.gitbook/assets/1 (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (4).png" alt=""><figcaption></figcaption></figure>
 
 2\. Type discord id or discord tag or email on the search bar and press enter to search for a user
 
-<figure><img src="../.gitbook/assets/2 (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2 (12).png" alt=""><figcaption></figcaption></figure>

@@ -1,4 +1,4 @@
-# 🗑 Deleting an entire product
+# 🗑️ Deleting an entire product
 
 {% hint style="warning" %}
 You should not delete any of the products instead archive the products on Stripe.
@@ -14,4 +14,4 @@ You should not delete any of the products instead archive the products on Stripe
 
 3\. Once the product is archived in Stripe, you will need to re-sync the desired product in our Admin Dashboard.
 
-![](<../.gitbook/assets/image (14).png>)
+![](<../.gitbook/assets/image (39).png>)

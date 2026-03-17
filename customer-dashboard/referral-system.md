@@ -21,7 +21,7 @@ Our referral system is a win-win, helping your users save on data needs while su
 
 1. Go to _More Settings_ and enable Referrals
 
-<figure><img src="../.gitbook/assets/3 (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3 (17).png" alt=""><figcaption></figcaption></figure>
 
 2. Go to Customer Dashboard and click on _Referrals_
 

@@ -12,7 +12,7 @@ This guide will help to set up residential products for your dashboard.
 
 1\. Firstly, Log in to the Stripe Account.
 
-![](<../.gitbook/assets/Untitled design (1) (2).png>)
+![](<../.gitbook/assets/Untitled design (1) (3).png>)
 
 {% hint style="info" %}
 Before you create a product in Stripe, make sure you select the correct account. If you connect it through the onboarding, it should look as follows.
@@ -30,23 +30,23 @@ Before you create a product in Stripe, make sure you select the correct account.
 
 4\. Then name your product
 
-![](<../.gitbook/assets/Untitled design (4) (5).png>)
+![](<../.gitbook/assets/Untitled design (4) (11).png>)
 
 5\. Also set the price for your product.
 
-![](<../.gitbook/assets/Untitled design (5) (4).png>)
+![](<../.gitbook/assets/Untitled design (5) (5).png>)
 
 6\. Click "One Time" below Price.&#x20;
 
-![](<../.gitbook/assets/Untitled design (6) (5).png>)
+![](<../.gitbook/assets/Untitled design (6) (6).png>)
 
 7\. To add another product, Repeat the process.
 
-![](<../.gitbook/assets/Untitled design (7) (4).png>)
+![](<../.gitbook/assets/Untitled design (7) (2).png>)
 
 8\. After adding the products, View Additional Options.
 
-![](<../.gitbook/assets/Untitled design (8) (7).png>)
+![](<../.gitbook/assets/Untitled design (8) (5).png>)
 
 9\. Then add Metadata for your desired residential provider using our meta data guide guide below.
 
@@ -58,7 +58,7 @@ Before you create a product in Stripe, make sure you select the correct account.
 
 10\. Here you can view all the prices created, And click on a price.
 
-![](<../.gitbook/assets/Untitled design (1) (5).png>)
+![](<../.gitbook/assets/Untitled design (1) (6).png>)
 
 
 
@@ -70,7 +70,7 @@ Before you create a product in Stripe, make sure you select the correct account.
 In this example, there will be 1 gb being delivered to the customer.
 {% endhint %}
 
-![](<../.gitbook/assets/Untitled design (11) (7).png>)
+![](<../.gitbook/assets/Untitled design (11) (3).png>)
 
 12\. Now go-to products and now we are done with our first product. We do not recommend making more than 6 prices per product.
 
@@ -82,8 +82,8 @@ In this example, there will be 1 gb being delivered to the customer.
 
 14\. Then click Sync with Stripe to sync all the prices.
 
-![](<../.gitbook/assets/1 (67) (3) (1).png>)
+![](<../.gitbook/assets/1 (67) (3).png>)
 
 15\. Once the sync is completed, you should see the number of GB next to the prices you set. Repeat this process if you are using multiple API's.
 
-![](<../.gitbook/assets/1 (68) (4).png>)
+![](<../.gitbook/assets/1 (68) (1).png>)

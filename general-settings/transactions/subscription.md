@@ -1,4 +1,4 @@
-# ⏸ Subscription
+# ⏸️ Subscription
 
 {% hint style="info" %}
 This section aims to provide comprehensive information regarding the subscription tab. The subscription tab comprises all the recurring products and presents various details pertaining to these products
@@ -25,7 +25,7 @@ Following are the columns you can find in the subscription tab
 * Product - Name of the subscription product.
 * Status - You can select a different status to filter the following subscription transaction statuses.
 
-<figure><img src="../../.gitbook/assets/1 (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (11).png" alt=""><figcaption></figcaption></figure>
 
 <table><thead><tr><th width="132">Status</th><th>Description</th><th data-hidden></th></tr></thead><tbody><tr><td>Renewing</td><td>The order has been delivered and is complete. Renewing means the customer has paid the subscription and renewing the subscription cycle.</td><td></td></tr><tr><td>Incomplete</td><td>The order has not been delivered / fulfilled and is not complete</td><td></td></tr><tr><td>Failed</td><td>We tried to bill the customer for a subscription, however, the charge failed due to a lack of funds on the customer's card</td><td></td></tr><tr><td>Cancelled</td><td>The customer has canceled their subscription and subscription validity period is over.</td><td></td></tr><tr><td>Cancelling</td><td>The customer has clicked cancelled button but subscription validity period is not over.</td><td></td></tr><tr><td>Ended</td><td>The subscription date has passed and the customer has neither canceled nor paid to renew.</td><td></td></tr></tbody></table>
 

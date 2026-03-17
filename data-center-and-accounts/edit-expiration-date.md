@@ -12,12 +12,12 @@ For Porter proxies and Tanmay's API editing, the expiration date will result in 
 
 1. Go to the admin dashboard and click on the transaction tab
 
-<figure><img src="../.gitbook/assets/y (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/y (2).png" alt=""><figcaption></figcaption></figure>
 
 2. Select the edit icon on a particular transaction that needs to renew the expiration date.
 
-<figure><img src="../.gitbook/assets/x (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/x (5).png" alt=""><figcaption></figcaption></figure>
 
 3. Edit the expiration date, tick confirm and click save,
 
-<figure><img src="../.gitbook/assets/z (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/z (5).png" alt=""><figcaption></figcaption></figure>

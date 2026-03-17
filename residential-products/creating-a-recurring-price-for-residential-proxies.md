@@ -29,15 +29,15 @@ If you want to update their delivered product, you can do so by following the be
 
 1. To implement recurring prices in the residential proxies, we can add the same to the existing products. Therefore, go to an existing product you have created within Stripe.
 
-<figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 
 2\. Click on the **Plus ( + )** sign.
 
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
 3. Next, select the **Recurring** button. Then, enter the subscription price in the **Amount** text box under the **Price** section. Next, change the **billing period** to "**Custom**" and set the period to **every 28 days**. once done, click the **Create Price** Button.
 
-<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
 4. Next, you need to add the metadata to specify the quantity you wish to deliver at the given price point.
 5. For detailed instructions refer to each product setup page and metadata can be found below
@@ -48,17 +48,17 @@ If you want to update their delivered product, you can do so by following the be
 
 6. To add the metadata, click on the recurring price. Then, click on **Edit metadata**.&#x20;
 
-<figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
 
 7. Next, update the key and value as follows: The **key** should be "**data\_gb**," and the **value** should correspond to the **amount of data** you plan to provide with the subscription in Giga Bytes (GB).
 
-<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
 7. You can now see that we have successfully created a recurring product since we have a price with billing cycle next to it.
 
-<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
 
 8. Finally, head over to the admin dashboard and sync your products following the usual process.
 

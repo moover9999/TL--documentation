@@ -8,11 +8,11 @@ This section will guide you on how to create an ISP API batch for a registered A
 
 1. Go to _Datacenter_ tab on Admin Dashboard.
 
-<figure><img src="../../.gitbook/assets/5 (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (7).png" alt=""><figcaption></figcaption></figure>
 
 2\. Click on the dropdown list before new batch.
 
-<figure><img src="../../.gitbook/assets/x (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/x (2).png" alt=""><figcaption></figcaption></figure>
 
 3\. Select the Registered ISP from the list and click on New Batch.&#x20;
 
@@ -28,4 +28,4 @@ At this stage, it is now possible to combine ISP APIs and multiple subnets, deli
 
 4\. Now you can add a stock limit and duration for expiration. Then tick confirm and select launch. At this point, the combination of the batch has to be equal to or more than the stock limit.
 
-<figure><img src="../../.gitbook/assets/z (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/z (2).png" alt=""><figcaption></figcaption></figure>

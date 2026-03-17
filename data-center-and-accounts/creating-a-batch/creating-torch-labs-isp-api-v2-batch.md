@@ -8,7 +8,7 @@ Please ensure that the price you set includes a custom recurring period of 28 da
 
 <mark style="color:orange;">Before proceeding, please ensure that automatic subscription cancellation is configured in Stripe by following this guide:</mark> [cancel-subscription-after-payment-retries.md](../../errors-and-faq/stripe/cancel-subscription-after-payment-retries.md "mention")
 
-<figure><img src="../../.gitbook/assets/Screenshot 2023-04-12 at 3.57.09 PM.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot 2023-04-12 at 3.57.09 PM (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Depending on the product you can add any **Quantity between 1 to 200.**
@@ -50,7 +50,7 @@ Next, you must go to the products section and sync your new prices.
 
 Go to the _Datacenter_ tab on the Admin Dashboard.
 
-<figure><img src="../../.gitbook/assets/5 (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5 (7).png" alt=""><figcaption></figcaption></figure>
 
 
 
