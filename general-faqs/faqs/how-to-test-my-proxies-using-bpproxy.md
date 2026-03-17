@@ -1,4 +1,4 @@
-# How to Test Your Proxies using BPProxy
+# How to test my proxies using BPProxy
 
 ### **BPProxy Chrome Extension User Guide** <a href="#x9qn3py4tet4" id="x9qn3py4tet4"></a>
 
@@ -26,7 +26,7 @@
 
 2. A dropdown window will appear for proxy configuration.
 
-![](<../../.gitbook/assets/3 (1).png>)
+![](<../../.gitbook/assets/3 (1) (1).png>)
 
 3. Click the **"Add Proxy"** or “**Edit**” button.<br>
 
